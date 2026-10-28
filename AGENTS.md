@@ -18,4 +18,4 @@ This repository owns the curated catalogue, AgentBay Skill Installer, browsing p
 - Proof needs Python 3.11+ and a clean committed revision. Keep failed, unavailable and unperformed checks distinct. An advisory allowance is not release readiness.
 - Do not execute a publisher skill merely to validate a catalogue listing. Keep model-backed first-use tests and authenticated operations separate from contributor CI.
 - Keep credentials, local catalogue snapshots, execution traces and temporary projects outside tracked source. Never expose private project or account data.
-- Public visibility, website deployment, GitHub protection changes and third-party service access require their own authorization. Keep this repository private until the owner explicitly changes that decision.
+- Public visibility, website deployment, GitHub protection changes and third-party service access require their own authorization. Preserve the current repository visibility unless the owner explicitly authorizes a change.

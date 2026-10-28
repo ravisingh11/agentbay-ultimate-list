@@ -54,7 +54,7 @@ python3 -m unittest discover -s tests -v
 
 Refresh reads AgentBay's published catalogue, enrichment, repository metadata and curation endpoints. It adds new IDs, updates existing upstream metadata, preserves accepted IDs absent from the import, then reapplies reviewed repository curation. Known duplicates resolve to their retained IDs. The manifest records source hashes and the add/update/retention counts. Review the diff before committing.
 
-Upstream absence is not an automatic removal. A maintainer reviews a dead link, archive state, rights request or other reason and records an explicit exclusion in `data/curation.json`. Likewise, an upstream metadata update cannot erase a correction recorded here. A contribution does not automatically publish to the AgentBay website; maintainers can separately adopt it there.
+Upstream absence is not an automatic removal. A maintainer reviews a dead link, archive state, rights request or other reason and records an explicit exclusion in `data/curation.json`. Likewise, an upstream metadata update cannot erase a correction recorded here. A contribution does not automatically publish to the AgentBay website; maintainers can separately adopt it there. Recommendations and curation on AgentBay.io are not synchronized back into this repository. Imports transfer supported listing facts, not website recommendation rankings, favorites, notes or personal collections. Repository curation remains the reviewed additions, corrections and exclusions in `data/curation.json`. A local refresh is not a GitHub commit or push.
 
 If live APIs are unavailable, ordinary refresh fails before writing. A maintainer can deliberately choose the deployed static snapshots:
 

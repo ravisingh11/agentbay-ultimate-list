@@ -56,7 +56,7 @@ npx --yes skills@1.7.4 add https://github.com/ravisingh11/agentbay-ultimate-list
 ```
 
 > [!NOTE]
-> Requires Node.js 22.20+, Git and internet access. While this repository is private, your GitHub account needs access. Use existing Git credentials or `gh auth login`; keep catalogue access available where your agent runs.
+> Requires Node.js 22.20+, Git and internet access. This repository is public; installation and catalogue downloads do not require a GitHub account. Your agent still needs network access to read sources.
 
 **Claude Code:** change `--agent codex` to `--agent claude-code`. **Claude desktop:** [download the skill ZIP](https://github.com/ravisingh11/agentbay-ultimate-list/raw/refs/heads/main/downloads/agentbay-skill-installer.zip) and upload it in Customize → Skills. [Steps for each app](docs/install.md) · [Optional installer script](install.sh).
 
@@ -91,7 +91,7 @@ All six exports share one schema. Skills and projects are disjoint subsets of th
 
 This list is **sourced and maintained by [AgentBay](https://agentbay.io/)**. Imports bring in new listings and supported metadata; reviewed contributions add context and corrections that survive later imports. An entry disappearing from a website import does not automatically erase it here. [How curation works](docs/maintenance.md).
 
-The website and repository serve different ways of exploring the same ecosystem. This repository publishes the broader catalogue, reusable downloads and installer skill. Website design, accounts and private collections stay on the site; relevant catalogue changes augment this list.
+The website and repository serve different ways of exploring the same ecosystem. This repository publishes the broader catalogue, reusable downloads and installer skill. **Recommendations and curation on AgentBay.io are not synchronized back into this repository.** Website rankings, favorites, notes, accounts and personal collections stay on the site. Maintainers may separately import new listings and supported factual metadata; repository corrections and exclusions go through review. The list augments the site rather than mirroring its current recommendations.
 
 Listing summaries are generated from catalogue metadata; the linked publisher instructions remain the source to read before use. Stars and status checks are dated observations. [Data details](docs/data.md) · [Source and update evidence](sync-manifest.json).
 

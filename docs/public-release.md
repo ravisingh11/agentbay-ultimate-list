@@ -49,7 +49,7 @@ The website's existing installer may intentionally be an older, separately ident
 
 ## Owner publication decision
 
-Review the candidate tree and reachable Git history for unintended data and credentials; keep raw scan output, authentication files and execution traces outside Git. Check the repository description, homepage, MIT detection, contribution/conduct/security files, enabled issues and maintainer contact. Use GitHub's available protections for the two required CI jobs; verify the active settings rather than assuming a passing workflow protects `main`.
+Review the candidate tree and reachable Git history for unintended data and credentials; keep raw scan output, authentication files and execution traces outside Git. Check the repository description, homepage, MIT detection, contribution/conduct/security files, enabled issues and maintainer contact. Verify the [active hardening settings](repository-hardening.md), all eleven required check names and owner-review rules rather than assuming a passing workflow protects `main`.
 
 Repository visibility is an explicit owner decision after review. Do not change it as a side effect of merging, running checks or preparing a release. After the owner makes the chosen revision public, immediately verify it from a signed-out browser and run:
 

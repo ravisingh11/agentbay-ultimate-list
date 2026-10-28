@@ -44,11 +44,11 @@ Ask: **Find a skill for [my task] with AgentBay.**
 
 Then: **Install and use the chosen skill for this task.** Choose AgentBay in your app's skill selector if it is not selected automatically. Ask it to report the selected source, missing prerequisites and the checked task result; cloud access requires your own account permissions.
 
-## Private testers and prerequisites
+## Prerequisites and public access
 
-While this repository is private, testers must be invited and use a GitHub account with access. A public visitor cannot install from this private repository. Coding-agent commands need Node.js 22.20+, Git, and existing Git/GitHub CLI/SSH authentication. If needed, use `gh auth login`; a Codex or Claude subscription is not GitHub authorization. Installation does not change global Git settings or copy tokens.
+The repository is public. Coding-agent installation needs Node.js 22.20+, Git and internet access; no GitHub account, invitation or full checkout is required. The command installs only the selected AgentBay skill folder. AgentBay retrieves the repository catalogue when you ask it to find a skill, then inspects the original publisher's instructions.
 
-Claude desktop uses the Claude account's runtime, not your computer's GitHub credentials. For repository-curated matching while private, supply an authorized, revision/hash-identified catalogue snapshot in an environment Claude can read, or make approved repository access available there. Otherwise AgentBay must disclose its public-finder fallback's narrower scope. Downloading the small skill ZIP does not grant private catalogue access.
+Claude desktop uses the Claude account's runtime, not your computer's terminal or GitHub sign-in. It needs code execution/file creation and access to the public catalogue and selected upstream source. The skill ZIP contains the installer instructions, not all listed skills. If network or runtime capabilities are unavailable, AgentBay must report that limitation; a public-finder fallback has a narrower scope and must be disclosed. Installation does not grant cloud or account permissions.
 
 ## Optional installer script
 

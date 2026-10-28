@@ -36,7 +36,7 @@ The map is flattened so a consumer can resolve an older ID in one lookup. A revi
 
 ## Source and limits
 
-[`sync-manifest.json`](../sync-manifest.json) records AgentBay source hashes, the last successful import mode/time, curation input hashes, counts and hashes for generated files. `live_api` means public live curation APIs were read; `packaged_snapshot` means only deployed static snapshots were used. Neither mode is a fresh audit of every linked GitHub project.
+[`sync-manifest.json`](../sync-manifest.json) records AgentBay source hashes, the last successful import mode/time, curation input hashes, counts and hashes for generated files. `live_api` means public live curation APIs were read; `packaged_snapshot` means only deployed static snapshots were used. Neither mode is a fresh audit of every linked GitHub project. Website recommendations and curation are not mirrored here: `recommended` remains false, and rankings, favorites, notes and personal collections are outside the export contract. Maintainer imports can augment listing facts; reviewed repository curation is applied separately.
 
 [`provenance/descriptions.json`](../provenance/descriptions.json) records the versioned summary method and per-record fingerprints. Publisher description and use-case prose are excluded from its inputs. A metadata summary may lack a specific capability description; that limitation is recorded rather than guessed.
 
