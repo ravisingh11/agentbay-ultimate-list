@@ -153,3 +153,7 @@ Original contributions are accepted under this repository's [MIT License](LICENS
 Share only public information you are authorized to contribute. Exclude credentials, account exports, private notes, personal contact details and private repositories. Do not execute a discovered skill or send it project data merely to verify a listing.
 
 Follow the [community conduct policy](CODE_OF_CONDUCT.md): be respectful, discuss evidence and behavior, and disclose material affiliations when proposing your own project. It explains moderation and private conduct reporting. Use [SECURITY.md](SECURITY.md) for sensitive security or privacy concerns.
+
+## Suggest an official provider
+
+Use the [provider form](https://github.com/ravisingh11/agentbay-ultimate-list/issues/new?template=add-provider.yml) with an official website, official ownership evidence, pinned skill-file links, license details and observation date. Discovery leads with missing evidence are not ready for approval. The registry in this repository is the maintained source; the website derives a checksum-identified copy after review. Weekly automation stays in the private website repository and proposes data-only PRs here. It does not promote candidates, merge changes or publish the site. See [reviewed refresh proposals](docs/maintenance.md#reviewed-refresh-proposals-and-new-providers).

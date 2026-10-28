@@ -130,3 +130,7 @@ The repository is public. The [hardening record](repository-hardening.md) docume
 The README uses the [AgentBay SVG](../assets/agentbay-repository.svg). Its [1280 × 640 PNG](../assets/agentbay-repository.png) is the upload-ready GitHub social preview; it is under 1 MB. Edit the SVG as the source and export the PNG at the same dimensions when changing the artwork. The artwork contains no changing catalogue counts or verification claims.
 
 The image is ready for the public repository. Use **Settings → General → Social preview → Edit → Upload an image**. See [GitHub's social-preview instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
+
+## Private maintenance automation
+
+Scheduled refresh and provider-discovery tooling lives in the private website repository. No App key or write-enabled scheduler is added here. Its per-repository installation token opens only data review PRs; existing checks and review gates remain authoritative. The [maintenance procedure](maintenance.md#reviewed-refresh-proposals-and-new-providers) explains source inspection, retained removals and the activation gate. App configuration and a real manual PR/update run must be verified before enabling weekly operation; an offline fixture pass is not that evidence.
