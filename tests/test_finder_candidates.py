@@ -31,6 +31,16 @@ class FinderCandidateTests(unittest.TestCase):
         a, report = self.propose(rows=[{'id': 'keep', 'website_url': url}])
         self.assertEqual(a, []); self.assertEqual(report['duplicates_or_exclusions'], 1)
 
+    def test_existing_skill_folder_is_not_duplicated_as_its_instruction_file(self):
+        rows = [{'id': 'keep', 'website_url': 'https://github.com/cloudflare/skills/tree/main/skills/worker'}]
+        self.assertEqual(self.propose(rows=rows)[0], [])
+
+    def test_explicitly_inactive_new_candidate_is_deferred_without_removals(self):
+        def unavailable(_): raise m.IneligibleSource('Archived')
+        additions, report = self.propose(verify=unavailable)
+        self.assertEqual(additions, []); self.assertEqual(report['deferred'], 1)
+        self.assertEqual(report['automatic_removals'], 0)
+
     def test_excluded_source_cannot_return_with_a_new_uuid(self):
         source = 'https://github.com/cloudflare/skills/blob/main/skills/worker/SKILL.md'
         curation = {**CURATION, 'exclusions': [{'id': 'old-id', 'evidence': [{'url': source}]}]}

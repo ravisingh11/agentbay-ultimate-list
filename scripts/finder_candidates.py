@@ -16,6 +16,10 @@ EXCLUDED = {'test','tests','testdata','test-data','test_data','fixtures','templa
 NAMESPACE = uuid.uuid5(uuid.NAMESPACE_URL, 'https://agentbay.io/verified-skill')
 
 
+class IneligibleSource(ValueError):
+    """A source explicitly no longer qualifies; defer it without deleting data."""
+
+
 def component(url):
     parsed = urlsplit(url)
     if parsed.scheme != 'https' or parsed.hostname != 'github.com' or parsed.username or parsed.password or parsed.query or parsed.fragment:
@@ -23,12 +27,21 @@ def component(url):
     parts = unquote(parsed.path).strip('/').split('/')
     if len(parts) < 5 or parts[2] not in ('blob', 'tree') or any(p in ('', '.', '..') for p in parts):
         return None
-    return '/'.join(parts[:2]).casefold(), '/'.join(parts[4:])
+    path = '/'.join(parts[4:])
+    if parts[2] == 'tree' and not (path == 'SKILL.md' or path.endswith('/SKILL.md')):
+        path += '/SKILL.md'
+    return '/'.join(parts[:2]).casefold(), path
 
 
 def api(endpoint):
     result = subprocess.run(['gh', 'api', endpoint], capture_output=True, timeout=90)
     if result.returncode:
+        try:
+            status = str(json.loads(result.stdout).get('status'))
+        except (ValueError, AttributeError):
+            status = ''
+        if status in ('404', '410'):
+            raise IneligibleSource('Source is no longer publicly available')
         raise ValueError('GitHub inspection failed; accepted data was not changed')
     return json.loads(result.stdout)
 
@@ -41,7 +54,7 @@ def inspect(skill, get=api):
         raise ValueError('Unsafe finder source path')
     metadata = get('repos/' + repo)
     if metadata.get('full_name', '').casefold() != repo.casefold() or any(metadata.get(k) is not False for k in ('private', 'archived', 'disabled')):
-        raise ValueError('Repository is unavailable, moved or inactive')
+        raise IneligibleSource('Repository is unavailable, moved or inactive')
     # Resolve the path at the recorded commit, rather than trusting an unrelated blob.
     from urllib.parse import quote
     file = get('repos/' + repo + '/contents/' + quote(path, safe='/') + '?ref=' + commit)
@@ -86,7 +99,11 @@ def propose(index, rows, curation, providers, verify=inspect, now=None, limit=MA
         if len(additions) >= limit:
             deferred += 1
             continue
-        meta = verify(skill)
+        try:
+            meta = verify(skill)
+        except IneligibleSource:
+            deferred += 1
+            continue
         official = repo.split('/')[0].casefold() in owners
         stars, forks = meta.get('stargazers_count'), meta.get('forks_count')
         if type(stars) is not int or type(forks) is not int or min(stars, forks) < 0:
