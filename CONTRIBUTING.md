@@ -20,7 +20,7 @@ Use the [issue templates](https://github.com/ravisingh11/agentbay-ultimate-list/
 
 ## Maintained inputs and generated outputs
 
-The accepted list is retained in root `catalog.json`. Future AgentBay imports add new entries and update factual metadata. Reviewed changes in [`data/curation.json`](data/curation.json) are applied afterward, so a website import cannot overwrite them. An entry missing from the next import remains available until its removal is reviewed.
+The accepted list is retained in root `catalog.json`. Future maintainer-run AgentBay imports add new entries and update factual metadata. Website recommendations and curation are not synchronized back here; rankings, favorites, notes and personal collections are not contribution inputs. Reviewed changes in [`data/curation.json`](data/curation.json) are applied afterward, so a website import cannot overwrite them. An entry missing from the next import remains available until its removal is reviewed.
 
 Edit curation inputs, then regenerate the outputs together. Do not independently edit generated descriptions, CSVs, subset JSON, browsing pages, summary/alias provenance or `sync-manifest.json`. All six downloads share one schema and one record set. See [maintenance](docs/maintenance.md) for the import policy. Keep execution traces, temporary projects and local validation output outside the checkout. Include the tested revision and observed results in your pull request; retain catalogue source provenance and stable-ID aliases.
 
@@ -110,7 +110,7 @@ The website finder has its own eligibility rules: preferred official sources hav
 
 ## Prepare a pull request
 
-1. Fork and clone the repository when forking is available, or use an authorized branch as an invited collaborator. Create a branch for one focused change. While this repo is private, access requires an invitation; these guidelines do not grant access.
+1. Fork and clone the repository when forking is available, or use an authorized branch as an invited collaborator. Create a branch for one focused change. This public repository accepts fork-based pull requests; external contributors need a maintainer to approve workflow execution.
 2. Edit the maintained input or documentation and include public supporting evidence. Use your own factual wording.
 3. Regenerate and validate with Python 3.9+; no third-party Python packages or AgentBay checkout are required:
 
@@ -138,7 +138,7 @@ Use the PR template to explain **why**, the resulting behavior, where to review,
 AI-assisted contributions are welcome. You remain responsible for the source, rights, generated output and checks. Explain material use of AI or generated content and what you independently inspected. Agents using owner credentials must not approve or merge an external contributor's PR without the owner's explicit instruction. Passing CI or a Proof decision is not merge, deployment or publication authorization.
 
 > [!IMPORTANT]
-> Owner approval is the repository's review policy. GitHub branch-rule enforcement is currently unavailable under this private repository's account plan. `CODEOWNERS` routes review after it reaches the base branch; it does not, by itself, block merges. See [the current guardrails and their limits](docs/guardrails.md).
+> GitHub's active rulesets require a pull request, eleven revision-bound checks and resolved review threads. External contributions also require a current code-owner approval; new commits dismiss old approvals. The owner has the same PR-only review bypass configured in AI Software Toolkit, while required checks and the force-push/deletion protections have no bypass. See [the exact settings and verification procedure](docs/repository-hardening.md).
 
 Keep contributor CI separate from privileged operations. The catalogue workflow uses read-only repository permissions and does not execute linked publisher skills. Credential-free installation runs in an isolated test environment. Model-backed tests, authenticated source access and website publication are maintainer operations: never send contributor code, private files or secrets to a service without an explicit, reviewed reason. Do not introduce `pull_request_target` execution of contributor-controlled code with secrets or write credentials.
 

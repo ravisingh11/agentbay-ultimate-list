@@ -79,3 +79,11 @@ For a fresh run, choose a reviewed commit in the recreated repository, record it
 4. Repeat the [per-app installation steps](install.md) for Claude Code and desktop. Record installation, native recognition, source inspection, catalogue access and task execution separately. For desktop upload, download the installed skill and compare its inner MD with the source; do not compare repackaged ZIP bytes.
 
 Model selection and upstream repositories can change. A new run may choose another suitable skill or fail a previously passing check; retain that outcome rather than claiming this dated result applies automatically. CI checks deterministic sources, bundles and credential-free installation/discovery. It does not replace authenticated model tasks or app sessions.
+
+## Public repository distribution check — October 28, 2026
+
+After the repository became public, a fresh disposable Git project installed AgentBay from the real GitHub skill-folder URL pinned to `bda94788d045af53acd2df5c1e4a4d9048a358a0`, using Skills CLI 1.7.4 with `--agent codex claude-code --yes`. Git credential helpers and interactive prompts were disabled, and GitHub token environment variables were removed. Both project paths contained the maintained MD unchanged: SHA-256 `c9795b56df4e31f0c2803f3560727a06908f5f9ce4bd804dce764c3ac66579eb`.
+
+The maintained context helper also fetched the catalogue, provider registry and manifest through anonymous HTTPS at that revision and verified both recorded input hashes. No GitHub sign-in or full repository checkout was needed. These checks establish public distribution and installed bytes; no new model task or desktop UI result is claimed. The app-specific results and deferred Claude Code execution above remain separate.
+
+Reproduce with the [real GitHub route procedure](public-release.md#verify-the-real-github-route), the README command pinned to that full commit and `scripts/catalogue_context.py --access public --revision bda94788d045af53acd2df5c1e4a4d9048a358a0 --output ../agentbay-public-context-check`. Use a new output directory. Never include credentials or raw app traces in a contribution.

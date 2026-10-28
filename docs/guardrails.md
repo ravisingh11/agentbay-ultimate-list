@@ -5,7 +5,7 @@
 **A useful catalogue needs an inspectable maintenance process.** These guardrails protect the list, its installer and the contribution workflow. They do not certify the third-party skills we link to.
 
 > [!IMPORTANT]
-> Proof's selected checks are **advisory**. Owner approval is a review policy; GitHub merge enforcement is currently unavailable under this private repository's plan. A green check, installed skill or Proof allowance does not authorize merge, deployment or publication.
+> Proof's selected policy controls remain **advisory**. GitHub separately enforces the [active repository rules](repository-hardening.md): PRs, required producer checks, resolved review threads and owner review for external contributions. A green check, installed skill or Proof allowance does not authorize merge, deployment or publication.
 
 ## Follow a change from suggestion to review
 
@@ -54,7 +54,7 @@ The selected change controls are repository validation, documentation validation
 - **Installed:** the runtime, workflow or skill exists.
 - **Configured:** its policy, input documents and command are supplied.
 - **Verified:** the producer ran and its result identifies the evaluated revision.
-- **Enforced:** GitHub blocks the protected operation. This is a separate setting; it is not enabled here.
+- **Enforced:** GitHub blocks the protected operation. The [active rulesets](repository-hardening.md) require eleven producer checks and protect `main`; the advisory Proof scorecard is not itself a required merge check.
 
 Database-migration validation is inactive because this repository has no database migration surface. Changed-code coverage is inactive until a real producer and reviewed threshold are adopted. The migration and coverage templates are manual-only until those controls are adopted. Advanced provider integrations, lifecycle tests and public scorecard hosting are not installed by this starter setup. No unavailable check is described as passing.
 
@@ -123,10 +123,10 @@ The ordinary catalogue workflow has read-only repository permissions and does no
 
 Privileged PR metadata and scorecard jobs use the trusted base-branch runtime. Do not change them to execute contributor-controlled code with write credentials or secrets. Authenticated/model-backed checks require maintainer oversight; a contributor PR does not grant permission to send private source or project data to another service.
 
-Keep this repo private until the owner explicitly authorizes publication. Before calling approval enforced, verify the active GitHub rules, code-owner approval requirement, stale-approval dismissal and required check names on a real PR. GitHub currently rejects ruleset access for this private repository with a plan-upgrade/public-visibility requirement; `CODEOWNERS` alone is not that enforcement. Re-evaluate the setting after a plan or visibility change.
+The repository is public. The [hardening record](repository-hardening.md) documents active settings read back from GitHub on October 28, 2026, including the precise check names, code-owner review, stale-approval dismissal and the owner's PR-only review bypass. Recheck those APIs and the current PR before relying on enforcement; `CODEOWNERS` alone is not enforcement. Changing visibility or relaxing protections requires explicit owner authorization.
 
 ## Repository image
 
 The README uses the [AgentBay SVG](../assets/agentbay-repository.svg). Its [1280 × 640 PNG](../assets/agentbay-repository.png) is the upload-ready GitHub social preview; it is under 1 MB. Edit the SVG as the source and export the PNG at the same dimensions when changing the artwork. The artwork contains no changing catalogue counts or verification claims.
 
-GitHub currently permits a first custom social-preview upload for a public repository, or an update to a private repository that already has one. This private repo has no existing custom preview, so the image is prepared without changing visibility. When eligible, use **Settings → General → Social preview → Edit → Upload an image**. See [GitHub's social-preview instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
+The image is ready for the public repository. Use **Settings → General → Social preview → Edit → Upload an image**. See [GitHub's social-preview instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
