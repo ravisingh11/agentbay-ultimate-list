@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "additions": [],
+  "corrections": [],
+  "exclusions": [
+    {
+      "id": "9a7c1d89-3a08-566a-9411-04a1df11e37e",
+      "reason": "Merged duplicate of retained AgentBay listing 9290ca34-d85c-55dd-8b3b-8bc034d4c2f4 after verifying the same official skill source.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills/blob/84e8150e4fa71bf422d5b224e215f5ba13864aa3/skills/cloud/gemini-api/SKILL.md",
+          "checked_at": "2026-10-27T02:35:07.839044Z",
+          "note": "Verified public active official repository, exact SKILL.md path and Git blob. Retain canonical ID 9290ca34-d85c-55dd-8b3b-8bc034d4c2f4; the website alias preserves saved references."
+        }
+      ]
+    },
+    {
+      "id": "3a3dbe9f-6120-5b64-ac31-a3d09c547b29",
+      "reason": "Merged duplicate of retained AgentBay listing 9b1826ca-bba1-558c-afc1-0b84697ef70d after verifying the same official skill source.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills/blob/84e8150e4fa71bf422d5b224e215f5ba13864aa3/skills/cloud/gemini-interactions-api/SKILL.md",
+          "checked_at": "2026-10-27T02:35:07.839044Z",
+          "note": "Verified public active official repository, exact SKILL.md path and Git blob. Retain canonical ID 9b1826ca-bba1-558c-afc1-0b84697ef70d; the website alias preserves saved references."
+        }
+      ]
+    }
+  ]
+}

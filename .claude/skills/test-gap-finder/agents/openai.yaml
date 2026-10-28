@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Gap Finder"
+  short_description: "Find risky missing tests and weak coverage"
+  default_prompt: "Use $test-gap-finder to inspect this repository for missing regression, integration, and contract tests on risky code paths."

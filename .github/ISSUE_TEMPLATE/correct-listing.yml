@@ -1,0 +1,27 @@
+name: Correct or remove a listing
+description: Report inaccurate metadata, a duplicate, a broken source or an inclusion concern.
+title: '[Correction] '
+body:
+  - type: markdown
+    attributes:
+      value: For credentials, personal data or other sensitive material, follow SECURITY.md instead of posting it here.
+  - type: input
+    id: record
+    attributes:
+      label: Stable record ID and name
+      description: Find the ID in catalog.json. An AgentBay project link can also help identify it.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change and why?
+      description: For a duplicate, identify the retained record. A single timeout does not establish permanent source removal.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence and observation date
+    validations:
+      required: true

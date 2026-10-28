@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dependency Risk Review"
+  short_description: "Review dependencies for security and churn"
+  default_prompt: "Use $dependency-risk-review to inspect this repositories dependencies for vulnerability exposure, upgrade risk, and stale package hazards."

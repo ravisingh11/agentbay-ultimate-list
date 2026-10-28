@@ -1,0 +1,40 @@
+name: Add a listing
+description: Suggest a skill, agent, framework or developer tool for the AgentBay list.
+title: '[Addition] '
+body:
+  - type: markdown
+    attributes:
+      value: Read CONTRIBUTING.md and search the list before submitting. Use public sources and your own factual wording.
+  - type: input
+    id: name
+    attributes:
+      label: Project or component name
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: Public GitHub repository URL
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Component source or documentation URL
+      description: For an individual skill, link its actual SKILL.md.
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: Purpose, type and proposed category
+      description: Explain the supported capability and how this differs from an existing listing.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence and observation date
+      description: Include license evidence if known. Disclose your affiliation with the project, if any.
+    validations:
+      required: true

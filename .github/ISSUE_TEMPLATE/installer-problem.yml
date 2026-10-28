@@ -1,0 +1,40 @@
+name: Installer, discovery or first-use problem
+description: Report a problem getting AgentBay installed, discovered or used for a task.
+title: '[Installer] '
+body:
+  - type: markdown
+    attributes:
+      value: Do not include tokens, auth.json, private project files, private prompts or account exports. Sensitive reports belong in SECURITY.md's private reporting channels.
+  - type: dropdown
+    id: step
+    attributes:
+      label: Where did the problem occur?
+      options:
+        - Installing AgentBay
+        - Finding AgentBay in my agent
+        - Finding or selecting an upstream skill
+        - Installing or using a selected skill
+        - Following the documentation
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Agent, version and operating system
+      description: For example, Codex CLI or desktop, the version, and macOS/Linux/Windows. Include Node.js and Skills CLI versions if available.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps and expected result
+      description: Include the public command or documented example, the installed AgentBay revision if known, and what you expected. Redact private paths and task details.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Actual result
+      description: Provide the smallest redacted error or result. Say whether installation, agent discovery and the task itself succeeded separately.
+    validations:
+      required: true

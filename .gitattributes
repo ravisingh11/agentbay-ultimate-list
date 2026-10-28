@@ -1,0 +1,14 @@
+* text=auto eol=lf
+catalog.json linguist-generated=true
+catalog.csv linguist-generated=true
+skills/*.json linguist-generated=true
+skills/*.csv linguist-generated=true
+skills/*.md linguist-generated=true
+projects/*.json linguist-generated=true
+projects/*.csv linguist-generated=true
+projects/*.md linguist-generated=true
+provenance/*.json linguist-generated=true
+sync-manifest.json linguist-generated=true
+docs/providers.md linguist-generated=true
+docs/examples/cloudflare-worker.zip binary
+downloads/*.zip binary linguist-generated=true

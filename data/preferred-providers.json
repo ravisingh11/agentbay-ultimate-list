@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "meaning": "Provider names identify verified official repository owners. Attribution does not imply a recommendation or endorsement.",
+  "providers": [
+    {
+      "name": "Adobe",
+      "github_owners": [
+        "adobe",
+        "adobe-research"
+      ],
+      "homepage_url": "https://www.adobe.com/"
+    },
+    {
+      "name": "Agent2Agent Project",
+      "github_owners": [
+        "a2aproject"
+      ],
+      "homepage_url": "https://a2a-protocol.org/"
+    },
+    {
+      "name": "Amazon Web Services",
+      "github_owners": [
+        "aws",
+        "strands-agents",
+        "awslabs",
+        "aws-samples"
+      ],
+      "homepage_url": "https://aws.amazon.com/"
+    },
+    {
+      "name": "Anthropic",
+      "github_owners": [
+        "anthropics"
+      ],
+      "homepage_url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Apple",
+      "github_owners": [
+        "apple",
+        "ml-explore"
+      ],
+      "homepage_url": "https://www.apple.com/"
+    },
+    {
+      "name": "Browserbase",
+      "github_owners": [
+        "browserbase"
+      ],
+      "homepage_url": "https://www.browserbase.com/"
+    },
+    {
+      "name": "ByteDance",
+      "github_owners": [
+        "bytedance"
+      ],
+      "homepage_url": "https://www.bytedance.com/"
+    },
+    {
+      "name": "Cloudflare",
+      "github_owners": [
+        "cloudflare"
+      ],
+      "homepage_url": "https://www.cloudflare.com/"
+    },
+    {
+      "name": "Databricks",
+      "github_owners": [
+        "databricks",
+        "databrickslabs"
+      ],
+      "homepage_url": "https://www.databricks.com/"
+    },
+    {
+      "name": "Docker",
+      "github_owners": [
+        "docker"
+      ],
+      "homepage_url": "https://www.docker.com/"
+    },
+    {
+      "name": "ElevenLabs",
+      "github_owners": [
+        "elevenlabs"
+      ],
+      "homepage_url": "https://elevenlabs.io/"
+    },
+    {
+      "name": "Firecrawl",
+      "github_owners": [
+        "firecrawl"
+      ],
+      "homepage_url": "https://www.firecrawl.dev/"
+    },
+    {
+      "name": "GitHub",
+      "github_owners": [
+        "github",
+        "githubnext"
+      ],
+      "homepage_url": "https://github.com/"
+    },
+    {
+      "name": "Google",
+      "github_owners": [
+        "google",
+        "google-gemini",
+        "google-labs-code",
+        "googleworkspace",
+        "googlecloudplatform",
+        "googleapis",
+        "firebase"
+      ],
+      "homepage_url": "https://www.google.com/"
+    },
+    {
+      "name": "Hugging Face",
+      "github_owners": [
+        "huggingface"
+      ],
+      "homepage_url": "https://huggingface.co/"
+    },
+    {
+      "name": "IBM",
+      "github_owners": [
+        "ibm",
+        "ibm-granite"
+      ],
+      "homepage_url": "https://www.ibm.com/"
+    },
+    {
+      "name": "Inngest",
+      "github_owners": [
+        "inngest"
+      ],
+      "homepage_url": "https://www.inngest.com/"
+    },
+    {
+      "name": "JetBrains",
+      "github_owners": [
+        "jetbrains",
+        "jetbrains-research"
+      ],
+      "homepage_url": "https://www.jetbrains.com/"
+    },
+    {
+      "name": "Meta",
+      "github_owners": [
+        "facebookresearch",
+        "facebook",
+        "facebookincubator",
+        "meta-llama"
+      ],
+      "homepage_url": "https://ai.meta.com/"
+    },
+    {
+      "name": "Microsoft",
+      "github_owners": [
+        "microsoft",
+        "azure",
+        "azure-samples"
+      ],
+      "homepage_url": "https://www.microsoft.com/"
+    },
+    {
+      "name": "Model Context Protocol",
+      "github_owners": [
+        "modelcontextprotocol"
+      ],
+      "homepage_url": "https://modelcontextprotocol.io/"
+    },
+    {
+      "name": "MongoDB",
+      "github_owners": [
+        "mongodb-js",
+        "mongodb"
+      ],
+      "homepage_url": "https://www.mongodb.com/"
+    },
+    {
+      "name": "Neon",
+      "github_owners": [
+        "neondatabase"
+      ],
+      "homepage_url": "https://neon.com/"
+    },
+    {
+      "name": "NVIDIA",
+      "github_owners": [
+        "nvidia",
+        "nvidia-ai-blueprints",
+        "nvidia-nemo"
+      ],
+      "homepage_url": "https://www.nvidia.com/"
+    },
+    {
+      "name": "OpenAI",
+      "github_owners": [
+        "openai"
+      ],
+      "homepage_url": "https://openai.com/"
+    },
+    {
+      "name": "Qwen",
+      "github_owners": [
+        "qwenlm"
+      ],
+      "homepage_url": "https://qwen.ai/"
+    },
+    {
+      "name": "Redis",
+      "github_owners": [
+        "redis"
+      ],
+      "homepage_url": "https://redis.io/"
+    },
+    {
+      "name": "Resend",
+      "github_owners": [
+        "resend"
+      ],
+      "homepage_url": "https://resend.com/"
+    },
+    {
+      "name": "Salesforce",
+      "github_owners": [
+        "salesforce",
+        "salesforceairesearch",
+        "salesforcecli"
+      ],
+      "homepage_url": "https://www.salesforce.com/"
+    },
+    {
+      "name": "Sentry",
+      "github_owners": [
+        "getsentry"
+      ],
+      "homepage_url": "https://sentry.io/"
+    },
+    {
+      "name": "Snowflake",
+      "github_owners": [
+        "snowflake-labs",
+        "snowflakedb"
+      ],
+      "homepage_url": "https://www.snowflake.com/"
+    },
+    {
+      "name": "Stripe",
+      "github_owners": [
+        "stripe"
+      ],
+      "homepage_url": "https://stripe.com/"
+    },
+    {
+      "name": "Supabase",
+      "github_owners": [
+        "supabase"
+      ],
+      "homepage_url": "https://supabase.com/"
+    },
+    {
+      "name": "Trigger.dev",
+      "github_owners": [
+        "triggerdotdev"
+      ],
+      "homepage_url": "https://trigger.dev/"
+    },
+    {
+      "name": "Vercel",
+      "github_owners": [
+        "vercel",
+        "vercel-labs"
+      ],
+      "homepage_url": "https://vercel.com/"
+    }
+  ]
+}

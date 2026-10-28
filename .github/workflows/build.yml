@@ -1,0 +1,41 @@
+# Proof template, customized by AgentBay: PR and resulting-main checks.
+name: Build
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: build-${{ github.repository }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - name: Record checked revision and invocation
+        id: ci-context
+        run: python3 scripts/ci_context.py
+      - name: Setup repository
+        run: python3 .proof/run_repository_command.py --command build --phase setup
+        env:
+          PROOF_SETUP_COMMAND: ${{ vars.PROOF_SETUP_COMMAND }}
+          PROOF_BUILD_COMMAND: ${{ vars.PROOF_BUILD_COMMAND }}
+          PROOF_WORKING_DIRECTORY: ${{ vars.PROOF_WORKING_DIRECTORY }}
+      - name: Build
+        run: python3 .proof/run_repository_command.py --command build --phase producer
+        env:
+          PROOF_BUILD_COMMAND: ${{ vars.PROOF_BUILD_COMMAND }}
+          PROOF_WORKING_DIRECTORY: ${{ vars.PROOF_WORKING_DIRECTORY }}

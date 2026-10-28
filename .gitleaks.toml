@@ -1,0 +1,16 @@
+title = "AgentBay secret scan policy"
+
+[extend]
+useDefault = true
+
+# Two public catalogue names are repeated across a CSV field boundary.
+# The generic API-key rule mistakes the repeated description prefix for a key.
+# Keep every default rule; match only these exact non-secret names in the CSV
+# exports and the regression helper that deliberately names those fixtures.
+[[allowlists]]
+description = "Public catalogue names repeated in generated CSV descriptions"
+targetRules = ["generic-api-key"]
+condition = "AND"
+paths = ['''^(catalog\.csv|skills/catalog\.csv|scripts/check_secret_scan_policy\.py)$''']
+regexTarget = "secret"
+regexes = ['''^(fly0pants/admapix|normalled/apijack)$''']

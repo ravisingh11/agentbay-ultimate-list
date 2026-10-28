@@ -1,0 +1,65 @@
+# Proof starter template, customized by AgentBay: manual until this control is adopted.
+name: Migration Validation
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: migration-validation-${{ github.repository }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  migration-validation:
+    name: Migration Validation
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - name: Setup repository
+        run: python3 .proof/run_repository_command.py --command migration-validation --phase setup
+        env:
+          PROOF_SETUP_COMMAND: ${{ vars.PROOF_SETUP_COMMAND }}
+          PROOF_MIGRATION_VALIDATION_COMMAND: ${{ vars.PROOF_MIGRATION_VALIDATION_COMMAND }}
+          PROOF_WORKING_DIRECTORY: ${{ vars.PROOF_WORKING_DIRECTORY }}
+      - name: Validate migrations
+        id: validate
+        run: python3 .proof/run_repository_command.py --command migration-validation --phase producer
+        env:
+          PROOF_MIGRATION_VALIDATION_COMMAND: ${{ vars.PROOF_MIGRATION_VALIDATION_COMMAND }}
+          PROOF_WORKING_DIRECTORY: ${{ vars.PROOF_WORKING_DIRECTORY }}
+          PROOF_MEASUREMENTS_FILE: ${{ runner.temp }}/proof-measurements-input.json
+      # Optional, self-reported display counts: never changes this check's result.
+      - name: Package self-reported measurements
+        id: measurements
+        if: ${{ always() && (steps.validate.outcome == 'success' || steps.validate.outcome == 'failure') }}
+        env:
+          HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+          OUTCOME: ${{ steps.validate.outcome }}
+        run: |
+          input="${RUNNER_TEMP}/proof-measurements-input.json"
+          if [[ ! -f "${input}" ]]; then
+            echo "No measurements file was written; the scorecard will show measurements as not collected."
+            exit 0
+          fi
+          if python3 .proof/measurements.py package --control migration-validation --input "${input}" \
+              --outcome "${OUTCOME}" --head-sha "${HEAD_SHA}" --output "${RUNNER_TEMP}/proof-measurements/proof-measurements.json"; then
+            echo "present=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "::warning::Measurements were not packaged; the check result is unaffected."
+          fi
+      - name: Upload self-reported measurements
+        if: ${{ always() && steps.measurements.outputs.present == 'true' }}
+        # Optional display metadata: an upload failure must not change the check result.
+        continue-on-error: true
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        with:
+          name: proof-measurements-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/proof-measurements/proof-measurements.json
+          if-no-files-found: error
+          retention-days: 7

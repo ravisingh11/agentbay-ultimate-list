@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "mappings": [
+    {
+      "name": "catalogue-and-curation",
+      "triggers": [
+        "scripts/catalog.py",
+        "data/**"
+      ],
+      "documents": [
+        "docs/data.md",
+        "docs/maintenance.md",
+        "CONTRIBUTING.md"
+      ]
+    },
+    {
+      "name": "installer-and-downloads",
+      "triggers": [
+        "skills/agentbay-skill-installer/**",
+        "install.sh",
+        "scripts/installer.py",
+        "scripts/skill_bundle.py",
+        "scripts/example_bundle.py",
+        "scripts/catalogue_context.py",
+        "scripts/smoke_installer.py"
+      ],
+      "documents": [
+        "docs/install.md",
+        "docs/using-skills.md",
+        "docs/installer-maintenance.md",
+        "docs/installer-validation.md"
+      ]
+    },
+    {
+      "name": "review-and-guardrails",
+      "triggers": [
+        ".proof/**",
+        ".github/**",
+        "AGENTS.md",
+        "toolkit.toml",
+        "toolkit.lock.json",
+        ".gitleaks.toml",
+        "scripts/check_secret_scan_policy.py",
+        "scripts/ci_context.py"
+      ],
+      "documents": [
+        "docs/guardrails.md",
+        "CONTRIBUTING.md"
+      ]
+    }
+  ]
+}

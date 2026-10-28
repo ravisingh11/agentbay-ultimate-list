@@ -1,0 +1,19 @@
+# AI Software Toolkit configuration. Policy and provider selection live in
+# .proof/ and are changed with .proof/configure.py; repository
+# commands live in GitHub repository variables, never in this file.
+
+[toolkit]
+revision = "8a36b246f6bd0c3808276de0f7794b26f574ce5e"
+components = ["proof", "skills"]
+install_set = "starter"
+
+[agents]
+clients = ["codex", "claude-code"]
+skills_dir = ".agents/skills"
+
+[proof]
+policy = ".proof/policy.yaml"
+providers = ".proof/providers.yaml"
+profiles = ".proof/profiles.yaml"
+actions = true
+github_profile = false

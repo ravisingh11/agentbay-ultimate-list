@@ -1,0 +1,15 @@
+{
+  "$schema": "./policy.schema.json",
+  "version": 2,
+  "name": "baseline",
+  "profiles": [
+    "core"
+  ],
+  "overrides": {
+    "change": {
+      "migration-validation": "not_activated",
+      "changed-code-coverage": "not_activated"
+    },
+    "release": {}
+  }
+}

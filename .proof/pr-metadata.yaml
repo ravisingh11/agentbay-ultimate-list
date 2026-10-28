@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "title_pattern": ".+",
+  "required_body_markers": [
+    "## Why",
+    "## Outcome",
+    "## Review map",
+    "## Evidence and verification",
+    "## Documentation",
+    "## Risk and rollback",
+    "## Out of scope",
+    "## Rights and review"
+  ]
+}

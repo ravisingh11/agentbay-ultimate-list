@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">AgentBay — Your task. The right skill.</title>
+  <desc id="desc">AgentBay connects your task with skills from official publishers and open-source projects. Discover, inspect, install and use.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#c5f458" stop-opacity=".10"/><stop offset="1" stop-color="#202820" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line" x2="0" y2="1"><stop stop-color="#c5f458"/><stop offset="1" stop-color="#527715"/></linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="#202820"/>
+  <circle cx="1050" cy="320" r="440" fill="url(#glow)"/>
+  <path d="M0 618H1280" stroke="#c5f458" stroke-width="8"/>
+  <g transform="translate(80 63)">
+    <rect width="64" height="64" rx="16" fill="#c5f458"/>
+    <path d="M12 47 27 17h9l15 30H40l-3-7H26l-3 7zm18-15h4l-2-6z" fill="#202820"/>
+    <path d="M43 12h10v10m0-10L42 23" stroke="#202820" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="162" y="112" fill="#f7f8f3" font-size="48" font-weight="700">agentbay<tspan fill="#c5f458">.</tspan></text>
+    <text x="84" y="184" fill="#bcc8b1" font-size="14" font-weight="700" letter-spacing="3">THE TASK-FIRST SKILL DIRECTORY</text>
+    <text x="78" y="274" fill="#f7f8f3" font-size="78" font-weight="700" letter-spacing="-3">Your task.</text>
+    <text x="78" y="362" fill="#c5f458" font-size="78" font-weight="700" letter-spacing="-3">The right skill.</text>
+    <text x="84" y="423" fill="#dfe3d8" font-size="25">Find useful skills from official publishers</text>
+    <text x="84" y="461" fill="#dfe3d8" font-size="25">and open-source projects with momentum.</text>
+    <text x="84" y="553" fill="#c5f458" font-size="29" font-weight="700">agentbay.io ↗</text>
+    <path d="M1024 226V442" stroke="url(#line)" stroke-width="2"/>
+    <g transform="translate(848 145)">
+      <rect width="348" height="98" rx="18" fill="#2c382a" stroke="#506345"/>
+      <text x="26" y="33" fill="#c5f458" font-size="13" font-weight="700" letter-spacing="2">01 / DISCOVER</text>
+      <text x="26" y="70" fill="#f7f8f3" font-size="26" font-weight="700">Describe the job</text>
+    </g>
+    <g transform="translate(848 274)">
+      <rect width="348" height="98" rx="18" fill="#2c382a" stroke="#506345"/>
+      <text x="26" y="33" fill="#c5f458" font-size="13" font-weight="700" letter-spacing="2">02 / INSPECT</text>
+      <text x="26" y="70" fill="#f7f8f3" font-size="26" font-weight="700">Read the real skill</text>
+    </g>
+    <g transform="translate(848 403)">
+      <rect width="348" height="98" rx="18" fill="#c5f458"/>
+      <text x="26" y="33" fill="#38432e" font-size="13" font-weight="700" letter-spacing="2">03 / GET TO WORK</text>
+      <text x="26" y="70" fill="#202820" font-size="26" font-weight="700">Install &amp; use</text>
+    </g>
+    <text x="850" y="570" fill="#bcc8b1" font-size="13" font-weight="700" letter-spacing="1.5">MIT · CURATED BY AGENTBAY</text>
+  </g>
+</svg>

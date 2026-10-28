@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Search AgentBay
+    url: https://agentbay.io/
+    about: Find a skill for your task using the live finder.
+  - name: Sensitive security or privacy report
+    url: https://github.com/ravisingh11/agentbay-ultimate-list/security/policy
+    about: Follow SECURITY.md and avoid disclosing sensitive information in an issue.

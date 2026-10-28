@@ -1,0 +1,66 @@
+name: Validate catalogue
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalogue-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - name: Record checked revision and invocation
+        id: ci-context
+        run: python3 scripts/ci_context.py
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Validate maintained inputs and generated outputs
+        run: python3 scripts/catalog.py check
+      - name: Validate the maintained installer skill
+        run: python3 scripts/installer.py check
+      - name: Verify the example download and source checksums
+        run: python3 scripts/example_bundle.py check
+      - name: Verify the same-source Claude desktop download
+        run: python3 scripts/skill_bundle.py check
+      - name: Check installer shell syntax
+        run: bash -n install.sh
+      - name: Check maintenance behavior
+        run: python3 -m unittest discover -s tests -v
+      - name: Confirm deterministic offline regeneration
+        run: |
+          python3 scripts/catalog.py render
+          python3 scripts/example_bundle.py build
+          python3 scripts/skill_bundle.py build
+          git diff --exit-code
+          test -z "$(git ls-files --others --exclude-standard)"
+
+  installer-install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - name: Record checked revision and invocation
+        id: ci-context
+        run: python3 scripts/ci_context.py
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Install the README repository skill folder and verify Codex discovery without credentials
+        run: python3 scripts/smoke_installer.py --install-only --output "$RUNNER_TEMP/agentbay-installer-check"

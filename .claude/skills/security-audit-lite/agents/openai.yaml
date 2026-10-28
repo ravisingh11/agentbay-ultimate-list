@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Audit Lite"
+  short_description: "Practical app security reviews and fixes"
+  default_prompt: "Use $security-audit-lite to review this repository for concrete security issues, verify real risk, and track only evidence-backed findings."
