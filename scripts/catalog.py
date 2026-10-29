@@ -570,6 +570,19 @@ def augment(existing, incoming, aliases):
             'removed_automatically': 0}
 
 
+def refresh_review(existing, incoming, merged, aliases):
+    before = {r['id']: r for r in existing}
+    after = {r['id']: r for r in merged}
+    imported = {aliases.get(r['id'], r['id']) for r in incoming}
+    def references(ids):
+        return [{'id': rid, 'name': after[rid]['name'], 'source': after[rid]['website_url']}
+                for rid in sorted(ids)]
+    return {'new_upstream_records': references(imported - set(before)),
+            'changed_upstream_records': references({rid for rid in imported & set(before) if before[rid] != after[rid]}),
+            'retained_absent_records': references(set(before) - imported),
+            'automatic_removals': 0}
+
+
 def render_browse(rows, manifest):
     outputs = {}
     counts = {}
@@ -653,6 +666,7 @@ def render_browse(rows, manifest):
         'This list is **sourced and maintained by [AgentBay](https://agentbay.io/)**. Imports bring in new listings and supported metadata; reviewed contributions add context and corrections that survive later imports. An entry disappearing from a website import does not automatically erase it here. [How curation works](docs/maintenance.md).', '',
         'The website and repository serve different ways of exploring the same ecosystem. This repository publishes the broader catalogue, reusable downloads and installer skill. **Recommendations and curation on AgentBay.io are not synchronized back into this repository.** Website rankings, favorites, notes, accounts and personal collections stay on the site. Maintainers may separately import new listings and supported factual metadata; repository corrections and exclusions go through review. The list augments the site rather than mirroring its current recommendations.', '',
         'Listing summaries are generated from catalogue metadata; the linked publisher instructions remain the source to read before use. Stars and status checks are dated observations. [Data details](docs/data.md) · [Source and update evidence](sync-manifest.json).', '',
+        'Maintainers can prepare [reviewed refresh proposals](docs/maintenance.md#reviewed-refresh-proposals-and-new-providers) and contributors can [suggest an official provider](https://github.com/ravisingh11/agentbay-ultimate-list/issues/new?template=add-provider.yml). Provider attribution requires verified ownership and actual skill sources; discovery alone does not approve a listing.', '',
         '## Contribute', '',
         'Found a useful skill, a broken link or a better way to describe a task? Help make the next person’s search easier. [CONTRIBUTING.md](CONTRIBUTING.md) explains how to suggest a well-sourced change. [Contributors](CONTRIBUTORS.md) · [Report a security or privacy concern](SECURITY.md).', '',
         '## 🛡️ How we look after the list', '',
@@ -784,9 +798,14 @@ def main():
     parser.add_argument('command', choices=['render','check','refresh'])
     parser.add_argument('--site-source', type=pathlib.Path, help='Optional local AgentBay public directory for byte-parity verification')
     parser.add_argument('--snapshot', action='store_true', help='Use published static curation snapshots instead of live APIs; records that limitation')
+    parser.add_argument('--report', type=pathlib.Path, help='Write public refresh review evidence to a new file outside the checkout')
     args = parser.parse_args()
-    if args.command != 'refresh' and (args.snapshot or args.site_source):
-        parser.error('--snapshot and --site-source apply only to refresh')
+    if args.command != 'refresh' and (args.snapshot or args.site_source or args.report):
+        parser.error('--snapshot, --site-source and --report apply only to refresh')
+    if args.report:
+        report_path = args.report.absolute()
+        if report_path.exists() or any(p.is_symlink() for p in [report_path] + list(report_path.parents)) or ROOT.resolve() in report_path.resolve().parents:
+            raise ValueError('Use a new report file outside the checkout')
     validate_policy(PREFERRED_PROVIDERS)
     if args.command == 'check':
         print(json.dumps(check(), indent=2)); return
@@ -825,7 +844,9 @@ def main():
         incoming, excluded = build({p:v[0] for p,v in responses.items()})
         if not incoming: raise ValueError('Empty upstream result; preserving current catalog')
         validate_rows(incoming)
+        before = current
         current, delta = augment(current, incoming, aliases)
+        review = refresh_review(before, incoming, current, aliases)
         now = datetime.datetime.now(datetime.timezone.utc).isoformat()
         manifest['upstream'] = {'url':ORIGIN,'imported_at':now,
             'mode':'packaged_snapshot' if args.snapshot else 'live_api',
@@ -836,6 +857,11 @@ def main():
     current, aliases = normalize(current, aliases, baseline_ids)
     outputs, manifest = build_outputs(current, aliases, manifest)
     write_outputs(outputs, previous)
+    if args.report:
+        report_path.parent.mkdir(parents=True, exist_ok=True)
+        with report_path.open('x') as stream:
+            json.dump({'schema_version': 1, 'upstream': manifest['upstream'], **review}, stream, indent=2)
+            stream.write('\n')
     print(json.dumps({'entries':len(current),'duplicate_id_aliases':len(aliases),'mode':args.command},indent=2))
 
 

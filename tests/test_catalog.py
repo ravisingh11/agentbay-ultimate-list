@@ -35,6 +35,16 @@ def evidence():
 
 
 class MaintenanceTests(unittest.TestCase):
+    def test_refresh_review_names_retained_records_and_resolves_aliases(self):
+        before = [row('keep'), row('absent', name='Review this source')]
+        incoming = [row('alias', name='Updated'), row('new')]
+        merged, _ = catalog.augment(before, incoming, {'alias': 'keep'})
+        report = catalog.refresh_review(before, incoming, merged, {'alias': 'keep'})
+        self.assertEqual([r['id'] for r in report['new_upstream_records']], ['new'])
+        self.assertEqual([r['id'] for r in report['changed_upstream_records']], ['keep'])
+        self.assertEqual([r['id'] for r in report['retained_absent_records']], ['absent'])
+        self.assertEqual(report['automatic_removals'], 0)
+
     def test_import_augments_and_retains_absent_records(self):
         baseline = [row(),row('local',name='Local',repository_url='https://github.com/example/local')]
         incoming = [row(name='Updated'),row('new',name='New')]

@@ -1,0 +1,45 @@
+name: Suggest an official provider
+description: Propose an additional provider with verifiable official skill sources.
+title: '[Provider] '
+body:
+  - type: markdown
+    attributes:
+      value: A nomination is not official attribution. Maintainers verify ownership, actual instruction files and licensing before updating the provider registry. Do not include credentials or private sources.
+  - type: input
+    id: provider
+    attributes:
+      label: Provider name and official website
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Official GitHub organization URL
+    validations:
+      required: true
+  - type: textarea
+    id: ownership
+    attributes:
+      label: Official ownership evidence
+      description: Link a page on the provider's official website that identifies the GitHub organization. A matching name, popularity or self-description alone is insufficient.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Actual skill files
+      description: Link SKILL.md files at full upstream commit revisions and explain which tasks they support. Search existing listings for duplicates.
+    validations:
+      required: true
+  - type: textarea
+    id: licensing
+    attributes:
+      label: License and observation date
+      description: Link license or usage terms and state when you inspected them. Identify unknown or skill-specific terms rather than assuming the repository license covers every file.
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation and review notes
+      description: Disclose your relationship to the provider and any missing evidence.

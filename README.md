@@ -95,6 +95,8 @@ The website and repository serve different ways of exploring the same ecosystem.
 
 Listing summaries are generated from catalogue metadata; the linked publisher instructions remain the source to read before use. Stars and status checks are dated observations. [Data details](docs/data.md) · [Source and update evidence](sync-manifest.json).
 
+Maintainers can prepare [reviewed refresh proposals](docs/maintenance.md#reviewed-refresh-proposals-and-new-providers) and contributors can [suggest an official provider](https://github.com/ravisingh11/agentbay-ultimate-list/issues/new?template=add-provider.yml). Provider attribution requires verified ownership and actual skill sources; discovery alone does not approve a listing.
+
 ## Contribute
 
 Found a useful skill, a broken link or a better way to describe a task? Help make the next person’s search easier. [CONTRIBUTING.md](CONTRIBUTING.md) explains how to suggest a well-sourced change. [Contributors](CONTRIBUTORS.md) · [Report a security or privacy concern](SECURITY.md).
