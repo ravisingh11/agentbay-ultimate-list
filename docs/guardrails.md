@@ -56,7 +56,7 @@ The selected change controls are repository validation, documentation validation
 - **Verified:** the producer ran and its result identifies the evaluated revision.
 - **Enforced:** GitHub blocks the protected operation. The [active rulesets](repository-hardening.md) require eleven producer checks and protect `main`; the advisory Proof scorecard is not itself a required merge check.
 
-Database-migration validation is inactive because this repository has no database migration surface. Changed-code coverage is inactive until a real producer and reviewed threshold are adopted. The migration and coverage templates are manual-only until those controls are adopted. Advanced provider integrations, lifecycle tests and public scorecard hosting are not installed by this starter setup. No unavailable check is described as passing.
+Database-migration validation is inactive because this repository has no database migration surface. Changed-code coverage is inactive until a real producer and reviewed threshold are adopted. The migration and coverage templates are manual-only until those controls are adopted. Advanced provider integrations, lifecycle tests and public scorecard hosting are not installed by the starter setup. This repository separately adopts the optional score publisher described below. No unavailable check is described as passing.
 
 `change-scope` keeps the toolkit's advisory size budget; the initial toolkit installation is intentionally larger than a routine patch. Review that installation explicitly instead of raising limits to hide it. PR metadata requires the same sections as the [PR template](../.github/pull_request_template.md).
 
@@ -134,3 +134,14 @@ The image is ready for the public repository. Use **Settings → General → Soc
 ## Private maintenance automation
 
 Scheduled refresh and provider-discovery tooling lives in the private website repository. No App key or write-enabled scheduler is added here. Its per-repository installation token opens only data review PRs; existing checks and review gates remain authoritative. The [maintenance procedure](maintenance.md#reviewed-refresh-proposals-and-new-providers) explains source inspection, retained removals and the activation gate. App configuration and a real manual PR/update run must be verified before enabling weekly operation; an offline fixture pass is not that evidence.
+
+
+## Public latest-PR score
+
+[AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. They are advisory reporting, not a current-main attestation or a rating of the linked third-party skills.
+
+The optional publisher comes from the same checksum-verified Toolkit v2.3.2 release as the installed runtime. `toolkit.lock.json` records its upstream file hashes. The repository adds a default-branch-only manual trigger to the pinned publisher workflow; workflow-run and six-hour reconciliation retain the upstream behavior. Future updates must preserve that intentional difference.
+
+Only the public list repository owns this dedicated GitHub Pages site. Its trusted default-branch code reads bounded scorecard artifacts as data, validates repository/run/revision identity, and publishes an allowlisted aggregate projection. Artifact Markdown, arbitrary findings, credentials and private website source are excluded. A failed or incomplete score remains visible; a successful publisher does not turn missing checks green.
+
+Pages uses GitHub Actions with `PROOF_SCORECARD_BADGE_ENABLED=true` and `PROOF_SCORECARD_BADGE_PAGES_MODE=dedicated`. No new PAT or secret is needed. Manual runs must target `main`; inspect the publisher result and `scorecard.json` before claiming publication. Keep the private website’s Actions and deployment settings unchanged.
