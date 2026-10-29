@@ -100,3 +100,9 @@ Record the selected upstream revision and referenced resources when reproducing 
 The repository maintains AgentBay's own installer skill. The website serves a published copy. Third-party skills are obtained from their upstream publishers and retain their own licenses. Inspect their instructions and required resources before using them.
 
 A catalogue listing may represent a skill, repository or collection; it does not by itself establish runtime compatibility. The website finder and the broader catalogue also have different inclusion rules and counts. See [data documentation](data.md).
+
+## Match the task, including direction
+
+“Find a skill for converting Excel to PDF with AgentBay” searches the maintained catalogue; it does not stop at the agent’s installed Skills list. AgentBay checks the actual upstream instructions for the input, output, operation and required tools. PDF → Excel and Excel → Markdown are different jobs. A related PDF skill is a candidate to inspect, not proof of Excel export support. Tools such as Adobe connectors must be available before claiming readiness. If no verified skill covers the whole task, AgentBay explains a small combination or a direct workflow.
+
+In Codex, the display name is **AgentBay**. The package name and explicit invocation remain `agentbay-skill-installer` and `$agentbay-skill-installer`. [Choose the right installation scope](install.md#available-across-projects-optional) if it is missing in another project.

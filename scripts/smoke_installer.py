@@ -134,6 +134,9 @@ def main():
         fixture_hash={p.relative_to(work).as_posix():installer.digest(p.read_bytes()) for p in work.rglob('*') if p.is_file()}
     raw,revision=installer.source()
     released=installer.stage(artifact,raw,revision)
+    ui_relative=installer.RELATIVE.parent/'agents/openai.yaml'
+    ui_raw=(ROOT/ui_relative).read_bytes()
+    ui_target=artifact/ui_relative;ui_target.parent.mkdir(parents=True);ui_target.write_bytes(ui_raw)
     catalogue=output/'catalogue-snapshot';catalogue.mkdir()
     catalogue_revision=run(['git','-C',str(ROOT),'rev-parse','HEAD']).strip()
     context={'repository':'https://github.com/ravisingh11/agentbay-ultimate-list',
@@ -200,11 +203,14 @@ def main():
         arguments.insert(1,'--yes');arguments.append('--yes')
         execute(*arguments,log='candidate-install.log')
         require((work/'.agents/skills'/installer.NAME/'SKILL.md').read_bytes()==raw,'candidate_installed_unchanged')
+        require((work/'.agents/skills'/installer.NAME/'agents/openai.yaml').read_bytes()==ui_raw,'native_ui_metadata_installed_unchanged')
+        receipt['ui_metadata_sha256']=installer.digest(ui_raw)
         execute('npx','--yes','skills@'+installer.CLI_VERSION,'list','--agent','codex',log='installer-list.log')
         execute('node','-e',NATIVE_LIST,'/evidence/native-installed.json')
         installed=native_skills(evidence/'native-installed.json')
         require(sum(s['name']==installer.NAME and s.get('enabled') for s in installed)==1,'candidate_discovered_once')
         entry=next(s for s in installed if s['name']==installer.NAME)
+        require(entry.get('interface',{}).get('displayName')=='AgentBay','native_agentbay_display_name')
         require(entry.get('scope')=='repo' and entry.get('path')=='/work/.agents/skills/'+installer.NAME+'/SKILL.md','candidate_discovered_at_project_path')
         print('README repository-folder install matched candidate bytes; native discovery passed.',flush=True)
         receipt['skills_cli_version']=execute('npx','--yes','skills@'+installer.CLI_VERSION,'--version').strip()
