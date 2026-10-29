@@ -6,7 +6,7 @@
 
 **Start with a task. Find the skill. Get to work.**
 
-[![MIT license](https://img.shields.io/badge/License-MIT-527715?style=flat-square)](LICENSE) [![Skill finder](https://img.shields.io/badge/AgentBay.io-Find_a_skill-202820?style=flat-square)](https://agentbay.io/) [![Guardrails](https://img.shields.io/badge/Guardrails-See_the_checks-6f42c1?style=flat-square)](docs/guardrails.md)
+[![MIT license](https://img.shields.io/badge/License-MIT-527715?style=flat-square)](LICENSE) [![Skill finder](https://img.shields.io/badge/AgentBay.io-Find_a_skill-202820?style=flat-square)](https://agentbay.io/) [![Guardrails](https://img.shields.io/badge/Guardrails-See_the_checks-6f42c1?style=flat-square)](docs/guardrails.md) [![Latest PR Proof score](https://ravisingh11.github.io/agentbay-ultimate-list/proof-badge.svg)](https://ravisingh11.github.io/agentbay-ultimate-list/)
 
 [Find a skill at AgentBay.io](https://agentbay.io/) · [Install AgentBay](#quick-start) · [Read the skill](skills/agentbay-skill-installer/SKILL.md) · [Browse the list](skills/README.md)
 
@@ -105,6 +105,8 @@ Found a useful skill, a broken link or a better way to describe a task? Help mak
 
 > [!NOTE]
 > **We use [AI Software Toolkit](https://github.com/ravisingh11/ai-software-toolkit) to manage the checks and review workflow around catalogue data commits.** Its Proof checks validate proposed changes, while catalogue checks keep the generated README, browsing pages and JSON/CSV downloads consistent. Changes go through pull requests and maintainer review; the toolkit does not automatically approve, merge or publish them.
+
+**[See AgentBay’s latest PR Proof score](https://ravisingh11.github.io/agentbay-ultimate-list/)** — active checks passed/total, evaluated revision and source-run evidence. The score describes the latest accepted PR report; it does not certify current `main` or the third-party skills in this list.
 
 Public evidence, stable IDs, reproducible downloads and owner review keep contributions traceable. [See the guardrails](docs/guardrails.md) for the configured checks, shared engineering skills, recorded results and current enforcement limits.
 

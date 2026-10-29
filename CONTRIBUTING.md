@@ -157,3 +157,8 @@ Follow the [community conduct policy](CODE_OF_CONDUCT.md): be respectful, discus
 ## Suggest an official provider
 
 Use the [provider form](https://github.com/ravisingh11/agentbay-ultimate-list/issues/new?template=add-provider.yml) with an official website, official ownership evidence, pinned skill-file links, license details and observation date. Discovery leads with missing evidence are not ready for approval. The registry in this repository is the maintained source; the website derives a checksum-identified copy after review. Weekly automation stays in the private website repository and proposes data-only PRs here. It does not promote candidates, merge changes or publish the site. See [reviewed refresh proposals](docs/maintenance.md#reviewed-refresh-proposals-and-new-providers).
+
+
+### Inspect the visible Proof score
+
+The [public latest-PR dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) links to the evaluated revision and source workflow attempt. Check that identity when using its score in a review. Missing, failed and inactive controls stay distinct; the badge is not an audit of this catalogue’s third-party listings or proof about a later main commit. The publisher runs only trusted default-branch code and never executes contributed artifact content.

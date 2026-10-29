@@ -45,3 +45,5 @@ The full catalogue and website finder have different purposes and counts. The fi
 See [LICENSING.md](../LICENSING.md) before reusing linked third-party material. This list's MIT license does not change upstream licenses.
 
 Maintenance PR reports are supporting public evidence, not a new catalogue schema or an endorsement. A stable `community:` ID identifies a proposed individual skill across repeated runs. Source paths are compared independently of upstream commit changes, and explicit exclusions remain effective. The finder snapshot hash identifies the inspected feed; each proposed addition separately verifies its pinned publisher bytes. Candidate-provider reports never set official attribution by themselves.
+
+The README’s Proof badge is repository-check evidence with its own evaluated revision. It is not a catalogue data field or a third-party skill quality score.
