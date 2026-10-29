@@ -26,6 +26,12 @@ Start Claude Code in that same project. Check `/skills` for `agentbay-skill-inst
 
 For both coding agents, use `--agent codex claude-code` in one command. This uses one shared skill package. Avoid adding a second global or synced copy.
 
+## Available across projects (optional)
+
+The commands above install into the current project. To make AgentBay available to your user across projects on this computer, append `--global` to the command for your app. Choose one scope; reuse an existing installation instead of creating project and global duplicates. Claude desktop uses its own upload and has no terminal scope option.
+
+Codex shows **AgentBay** as the display name; its package and explicit invocation name stay `agentbay-skill-installer` / `$agentbay-skill-installer`. After installation, check native discovery in the intended project before trying a task. A project install will not appear in a chat opened in another folder.
+
 ## Claude desktop app
 
 1. [Download the skill ZIP](https://github.com/ravisingh11/agentbay-ultimate-list/raw/refs/heads/main/downloads/agentbay-skill-installer.zip).

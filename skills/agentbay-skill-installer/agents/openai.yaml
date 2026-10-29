@@ -1,0 +1,4 @@
+interface:
+  display_name: "AgentBay"
+  short_description: "Find, inspect and use the right skill for your task"
+  default_prompt: "Use $agentbay-skill-installer to find a skill for my task, inspect its actual instructions and explain the best fit and prerequisites."

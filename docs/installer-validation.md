@@ -87,3 +87,19 @@ After the repository became public, a fresh disposable Git project installed Age
 The maintained context helper also fetched the catalogue, provider registry and manifest through anonymous HTTPS at that revision and verified both recorded input hashes. No GitHub sign-in or full repository checkout was needed. These checks establish public distribution and installed bytes; no new model task or desktop UI result is claimed. The app-specific results and deferred Claude Code execution above remain separate.
 
 Reproduce with the [real GitHub route procedure](public-release.md#verify-the-real-github-route), the README command pinned to that full commit and `scripts/catalogue_context.py --access public --revision bda94788d045af53acd2df5c1e4a4d9048a358a0 --output ../agentbay-public-context-check`. Use a new output directory. Never include credentials or raw app traces in a contribution.
+
+## Task matching and scope regression checks
+
+For the input “Excel to PDF”, require inspection of the actual converter instructions and prerequisites. A PDF-to-Excel or Excel-to-Markdown match is not a successful recommendation. Check that AgentBay searches its repository catalogue even when no conversion skill is installed; catalogue access failures must remain visible. An unavailable connector must be reported before task execution.
+
+Project-scoped installation remains the default. Check Codex native discovery for the package `agentbay-skill-installer` with display name **AgentBay**. An explicit user-wide install may use `--global`; do not silently add a second installation to fix a wrong-project chat. File parity, native discovery and task execution are distinct outcomes. See PR evidence for the exact source hash and checks performed on a candidate; these criteria alone are not a new desktop or model-backed pass.
+
+### October 29: native Codex first-use regression
+
+Candidate instruction SHA-256: `2d947bacbc852bed80e19dc9ae2f340661ee35838587fe9f32bff9160df693f9`. A disposable project using Codex CLI 0.163.0 installed the candidate folder through Skills CLI 1.7.4. Both `SKILL.md` and `agents/openai.yaml` matched source bytes; native `skills/list` returned exactly one enabled AgentBay package with display name **AgentBay**.
+
+The model-backed HTML review used catalogue revision `fca4e2ea1a71214678a7c9ca3b52eeba6c2bdf7b`, read the actual installer/catalogue/provider registry, selected Vercel’s `web-design-guidelines`, installed its pinned revision `1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62`, and applied the installed instructions. Independent checks confirmed upstream byte parity, native discovery, the expected findings at `first-use.html:11`, `:12`, and `:14`, and an unchanged HTML fixture.
+
+The first restricted invocation correctly reported that the sandbox blocked `.agents` writes. The subsequent CLI invocation used its supported approval-aware mode; the narrowly scoped installation retry succeeded. Permission errors must not be relabelled as installs. The model’s task commands used Node 26.5.1; native discovery and the outer installer command used pinned Node 24.22.2. This was a native disposable-project test with existing user authentication, not a fresh Docker home or desktop UI session. No new Claude desktop/Code execution pass is claimed. Project/global command selection is tested separately; the test did not install a global copy.
+
+A separate discovery-only “Excel to PDF” request searched the same catalogue and inspected pinned upstream files. It identified Adobe `adobe-anypdf` as supporting XLSX → PDF while reporting missing Adobe tools and unestablished Codex compatibility. It also inspected Microsoft `doc-format-converter` as a local reconstruction alternative, reported missing Python dependencies and layout limits, and rejected PDF → Excel / Excel → Markdown as equivalent conversions. No conversion or additional installation was performed in this test.

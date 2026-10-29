@@ -99,3 +99,7 @@ python3 scripts/skill_bundle.py check
 ```
 
 Commit its checksum with it. The builder uses fixed metadata and refuses symlinks, unowned archives/checksums and temporary output collisions. CI checks byte equality and deterministic regeneration. Structural ZIP checks do not establish a successful Claude desktop upload or task; record an actual app result separately. See [installation by app](install.md).
+
+## Native display metadata
+
+`skills/agentbay-skill-installer/agents/openai.yaml` gives Codex the display name **AgentBay** and an explicit default prompt. The skill directory is installed together for coding agents. The maintained `SKILL.md` remains the instruction source; the Claude desktop ZIP and website MD deliberately contain that file without Codex-specific UI metadata. Validate native discovery and the installed UI metadata separately from ZIP byte parity.
