@@ -1,7 +1,7 @@
 {
   "version": 1,
   "toolkit": {
-    "revision": "8a36b246f6bd0c3808276de0f7794b26f574ce5e",
+    "revision": "248d8f02e774e4f75af6ea2de49b466688dfae54",
     "install_set": "starter"
   },
   "components": [
@@ -114,7 +114,7 @@
     ".proof/providers.schema.json": "eef9cb3668f6e853d5e2a9b597637ee4fccd75cf7c438a303566bed442d16e81",
     ".proof/providers.yaml": "572391be89c62289e8283175eae54296e705c756e2b325a0603901a7e7d537f0",
     ".proof/reconcile_scorecard_badge.py": "297d49f5fdaa6ce8f949495560a598ea4f44e1de1a48494345587103164f31a2",
-    ".proof/render_scorecard_badge.py": "dcdf289e178784ac2529cbca563fb4164f1dcc2706d82dc0e939234d3d19206c",
+    ".proof/render_scorecard_badge.py": "d9aaad5579197fc49e340c783fbd74538c2881c5fbfd40324b40b9721abd0ba4",
     ".proof/run_repository_command.py": "ca1105d4fdee433534ca42dbed031e6c1c8246bb1e70633be01c1308edf88e7c",
     ".proof/run_trivy.py": "b2a418ef9e5e3dd9c4eba7b5366323b1324502d3df4e8c66142084140d9ecccc",
     ".proof/scan.py": "7921120d80086306f00d59940b23c61636aad8c0264554b9a302d1c76bdb2a56",
@@ -132,7 +132,7 @@
   },
   "previous": {
     "revision": "8a36b246f6bd0c3808276de0f7794b26f574ce5e",
-    "backup": ".artifacts/ai-toolkit/backup/20261029-144540Z-1n3b0en0",
+    "backup": ".artifacts/ai-toolkit/backup/20261029-161934Z-ohf8ake0",
     "managed": {
       ".agents/skills/_shared-project-ops/references/close-comment-template.md": "52a8a9a4a75c3290bbf38d9a4133cce361ea899cb1a242e9d22874952042d378",
       ".agents/skills/_shared-project-ops/references/dedupe-rules.md": "97d4b461dafdf24199c42a1146b796ccc993db5ef6a7a879c05d8a2efbd49513",
@@ -203,6 +203,7 @@
       ".github/workflows/gitleaks.yml": "deece3b4fa5ff5f816373671019a6cb1441ba366832fd71416e195b1e39b05e2",
       ".github/workflows/migration-validation.yml": "4136ba40e64b6321721b83283d8cfd50837ae8d95b8217ddf2cbce05dd9d945f",
       ".github/workflows/pr-metadata.yml": "d0b0c63b77492ddc1aea52c900cfcc77aac7cc37195264e964a472394fed5727",
+      ".github/workflows/proof-scorecard-badge.yml": "4895b4cf2b74a3355c3a4605c9de72fac00c52c116c6e88327e87639011ede26",
       ".github/workflows/proof-scorecard.yml": "a543b41892f9e6cac36e23fc1881b4d1f8c598f82636c27c60f9099c1308f6cf",
       ".github/workflows/repository-validation.yml": "9675444f316dbd5b8fbff34900838afde6e789aed6745f0ef6c0e0250bf7380c",
       ".github/workflows/semgrep-ce.yml": "fb84eec3970a896347515f8fcc525b767c9c965ef83c9ae87c6c958230a6d7b1",
@@ -217,7 +218,7 @@
       ".proof/control-catalog.schema.json": "c0344e0b79e63b961f602fd73779a55a7e67d8e13e6487820fcdae9de44302fc",
       ".proof/control-catalog.yaml": "a0695d491328582faec19f6b742727e6aaeaf6c116901d80e4acfe70b3100835",
       ".proof/doctor.py": "8e319593074dd9d6a06cf8acaf807f1e91b7b683fbf02e8a1a09fda2cf97219d",
-      ".proof/documentation.yaml": "b65743daddbc13c0c2204ebabfa4c52781e5b18e70204731770d09c749bf4f58",
+      ".proof/documentation.yaml": "afef97757e4c40fe248ebdbbde3c0ad6c0d7161ddda6529fa0e84fc3dd2275dc",
       ".proof/evaluate.py": "6eac99728fa3159bbcd296a61659d2b09cc3d50eac89eb0d36ad899509965e64",
       ".proof/evidence.schema.json": "159965d99effc99a2cfe1f31f4e226aacd323495bef48a0c15c4c7338bfd4fa6",
       ".proof/fetch_pr_metadata.py": "ff51155b5b5621e46bf1aa079c282b1b808a1030214b49968ef581e7274b46e9",
@@ -237,6 +238,8 @@
       ".proof/provider_check.py": "cf2a6dde3dd21e766c5186d9aff6c978440ed9438824bd803dbb5fc40f89ffb4",
       ".proof/providers.schema.json": "eef9cb3668f6e853d5e2a9b597637ee4fccd75cf7c438a303566bed442d16e81",
       ".proof/providers.yaml": "572391be89c62289e8283175eae54296e705c756e2b325a0603901a7e7d537f0",
+      ".proof/reconcile_scorecard_badge.py": "297d49f5fdaa6ce8f949495560a598ea4f44e1de1a48494345587103164f31a2",
+      ".proof/render_scorecard_badge.py": "dcdf289e178784ac2529cbca563fb4164f1dcc2706d82dc0e939234d3d19206c",
       ".proof/run_repository_command.py": "ca1105d4fdee433534ca42dbed031e6c1c8246bb1e70633be01c1308edf88e7c",
       ".proof/run_trivy.py": "b2a418ef9e5e3dd9c4eba7b5366323b1324502d3df4e8c66142084140d9ecccc",
       ".proof/scan.py": "7921120d80086306f00d59940b23c61636aad8c0264554b9a302d1c76bdb2a56",

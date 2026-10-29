@@ -140,8 +140,38 @@ Scheduled refresh and provider-discovery tooling lives in the private website re
 
 [AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. They are advisory reporting, not a current-main attestation or a rating of the linked third-party skills.
 
-The optional publisher comes from the same checksum-verified Toolkit v2.3.2 release as the installed runtime. `toolkit.lock.json` records its upstream file hashes. The repository adds a default-branch-only manual trigger to the pinned publisher workflow; workflow-run and six-hour reconciliation retain the upstream behavior. Future updates must preserve that intentional difference.
+The runtime and optional publisher use the checksum-verified Toolkit v2.3.3 release, pinned to `248d8f02e774e4f75af6ea2de49b466688dfae54`. `toolkit.lock.json` records its upstream file hashes. The repository adds a default-branch-only manual trigger to the pinned publisher workflow; workflow-run and six-hour reconciliation retain the upstream behavior. Future updates must preserve that intentional difference.
 
 Only the public list repository owns this dedicated GitHub Pages site. Its trusted default-branch code reads bounded scorecard artifacts as data, validates repository/run/revision identity, and publishes an allowlisted aggregate projection. Artifact Markdown, arbitrary findings, credentials and private website source are excluded. A failed or incomplete score remains visible; a successful publisher does not turn missing checks green.
 
 Pages uses GitHub Actions with `PROOF_SCORECARD_BADGE_ENABLED=true` and `PROOF_SCORECARD_BADGE_PAGES_MODE=dedicated`. No new PAT or secret is needed. Manual runs must target `main`; inspect the publisher result and `scorecard.json` before claiming publication. Keep the private website’s Actions and deployment settings unchanged.
+
+### PR review and verification after merge
+
+The dashboard’s two recorded examples use AgentBay PR #4 and its resulting main
+commit. PR source checks run on `pull_request`; the trusted policy evaluation
+runs on `pull_request_target` using the base runtime. After merge, `push` checks
+run again against the resulting main commit. These are two checkpoints with
+separate revisions and evidence, not one combined score or a production-health
+claim. The latest PR evaluation below the examples retains its own identity.
+
+| Checkpoint | Recorded subject | Selected evidence |
+| --- | --- | --- |
+| PR #4 before merge | `7f71e8c04a768b6a531b95786a070f142a66fcd1` | [Policy evaluation](https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40897632954/attempts/1), plus linked build/test jobs. Metadata, build and tests passed; size remained advisory-failed. |
+| PR #4 after merge | `d4d8011c036b4d5cde58647d886e721f129e9c40` | [Main catalogue and installer checks](https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40899395353/attempts/1), plus linked main build/test jobs. All four displayed workflow outcomes passed. |
+
+`tests/fixtures/scorecard-checkpoints.json` records public facts captured from the
+original PR scorecard artifact, GitHub PR merge metadata and individual run/job
+APIs. Recheck those sources before editing the examples; retain failures and
+unverified results. The display and concise intro/disclosure are intentional
+AgentBay customizations in `.proof/render_scorecard_badge.py`. Toolkit updates
+must preserve/review that modified managed file, along with the existing manual
+publisher trigger. No evaluator, provider selection, workflow trigger, permissions
+or enforcement is changed by these examples.
+
+The main explanation is short. Expand **How to read these results** for selection,
+provider, status and missing-evidence definitions. The disclosure is closed by
+default and supports native keyboard navigation. Presentation tests verify source
+identity, missing/blocked outcomes and unchanged latest-score JSON. Fresh PR and
+post-merge executions remain separately verifiable in GitHub; a recorded example
+is not a substitute for checking the current change.

@@ -1212,7 +1212,7 @@ def _controls_html(controls: list[dict[str, Any]], run_url: str, scope: dict[str
         if not rows:
             continue
         groups.append(f'<tbody><tr class="check-category"><th colspan="4" scope="rowgroup">{html.escape(group)}</th></tr>{"".join(rows)}</tbody>')
-    overview = '<section class="checks" aria-labelledby="checks-title"><p class="eyebrow">Stage-specific evaluation</p><h2 id="checks-title" tabindex="-1">Selected checks</h2><p class="checks-intro">These are the checks selected for this evaluation, plus any entries whose selection could not be validated. Adoption options and later-stage checks are listed separately below. Select a check to inspect its evidence. Provider names link to trusted base configuration when its identity is recorded. Latest reported run links open available evidence for this snapshot, not a newer scan. Provider names describe selection, not credential readiness or a passing scan. Not configured means required provider configuration is absent; it does not change the selected policy mode. Not reported means no validated row in this snapshot; it does not imply disabled or passed. A dash means the check has no active mode in this snapshot. Custom controls may contribute to totals without publishing their private names.</p><div class="checks-table-wrap" role="region" aria-label="Individual checks" tabindex="0"><table class="checks-table"><caption>Check results, policy modes, and selected providers for this snapshot</caption><thead><tr><th scope="col">Check</th><th scope="col">Result</th><th scope="col" class="mode-cell">Mode</th><th scope="col">Provider</th></tr></thead>' + ''.join(groups) + '</table></div></section>'
+    overview = '<section class="checks" aria-labelledby="checks-title"><p class="eyebrow">Stage-specific evaluation</p><h2 id="checks-title" tabindex="-1">Selected checks</h2><p class="checks-intro">Open a check to see its result, provider and supporting evidence. A configured provider does not mean the check ran or passed.</p><details class="checks-help"><summary>How to read these results</summary><p class="checks-explainer">These are the checks selected for this evaluation, plus any entries whose selection could not be validated. Adoption options and later-stage checks are listed separately below. Select a check to inspect its evidence. Provider names link to trusted base configuration when its identity is recorded. Latest reported run links open available evidence for this snapshot, not a newer scan. Provider names describe selection, not credential readiness or a passing scan. Not configured means required provider configuration is absent; it does not change the selected policy mode. Not reported means no validated row in this snapshot; it does not imply disabled or passed. A dash means the check has no active mode in this snapshot. Custom controls may contribute to totals without publishing their private names.</p></details><div class="checks-table-wrap" role="region" aria-label="Individual checks" tabindex="0"><table class="checks-table"><caption>Check results, policy modes, and selected providers for this snapshot</caption><thead><tr><th scope="col">Check</th><th scope="col">Result</th><th scope="col" class="mode-cell">Mode</th><th scope="col">Provider</th></tr></thead>' + ''.join(groups) + '</table></div></section>'
     # Stable sort: checks needing attention first, then passes, each in catalog order.
     order = (*_ATTENTION_STATUSES, "passed")
     active = ''.join(card for _, card in sorted(active_details, key=lambda item: order.index(item[0])))
@@ -1220,7 +1220,7 @@ def _controls_html(controls: list[dict[str, Any]], run_url: str, scope: dict[str
     details = '<section class="checks" aria-labelledby="check-details-title"><h2 id="check-details-title">Check details</h2><p class="checks-intro">Checks needing attention come first. Source report links open the evaluation run containing the detailed evidence.</p>' + active
     if inactive:
         details += f'<h3 class="inactive-title" id="inactive-title">Other evaluation context or selection unknown <span>({len(inactive_details)})</span></h3><p class="checks-intro">{_inactive_intro(inactive_details)}</p><div class="inactive-grid">{inactive}</div>'
-    overview = overview.replace('<p class="checks-intro">', f'<p class="activation-summary">{html.escape(_activation_summary(controls))}</p><p class="checks-intro">', 1)
+    overview = overview.replace('<p class="checks-explainer">', f'<p class="activation-summary">{html.escape(_activation_summary(controls))}</p><p class="checks-explainer">', 1)
     discovery = []
     for group, target, heading in (("available-to-adopt", "available-tools-title", "Tools available to adopt"),
                                    ("relevant-later", "relevant-later-title", "Checks relevant later")):
@@ -1678,6 +1678,26 @@ h1{margin:0;font-size:clamp(30px,4.5vw,42px);font-weight:650;line-height:1.2;let
 .overview-card h2{margin:0 0 8px;font-size:16px;letter-spacing:-.2px}
 .overview-card p,.adoption-note{margin:0;color:var(--muted);font-size:14px}
 .adoption-note strong{color:var(--ink)}
+.checkpoint-gallery{margin-bottom:40px;padding-bottom:36px;border-bottom:1px solid var(--line)}
+.checkpoint-gallery h2{margin:0;font-size:clamp(24px,3.5vw,30px);line-height:1.25;letter-spacing:-.7px}
+.checkpoint-intro{margin:12px 0;color:var(--muted);max-width:850px}
+.checkpoint-history{font-size:12px;color:var(--muted);margin:0 0 20px}
+.checkpoint-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.checkpoint-card{display:flex;flex-direction:column;min-width:0;background:var(--paper);border:1px solid var(--line);border-top:4px solid var(--checkpoint-color);border-radius:12px;padding:24px}
+.checkpoint-pr{--checkpoint-color:#047857}.checkpoint-main{--checkpoint-color:#7e22ce}
+.checkpoint-kind{margin:0 0 9px;color:var(--checkpoint-color);font-size:11px;font-weight:750;text-transform:uppercase;letter-spacing:.7px}
+.checkpoint-card h3{margin:0;font-size:23px;letter-spacing:-.4px}.checkpoint-decision{margin:6px 0 18px;font-size:14px;min-height:45px}
+.checkpoint-facts{margin:0;padding:14px;background:var(--canvas);border-radius:8px;font-size:12px}
+.checkpoint-facts div{display:grid;grid-template-columns:110px minmax(0,1fr);gap:12px;margin:4px 0}
+.checkpoint-facts dt{color:var(--muted)}.checkpoint-facts dd{margin:0;overflow-wrap:anywhere}
+.checkpoint-scope{font-size:12px;color:var(--muted);margin:16px 0 8px;min-height:58px}
+.checkpoint-checks{list-style:none;padding:0;margin:0 0 24px}
+.checkpoint-checks li{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-size:13px}
+.checkpoint-checks a{overflow-wrap:anywhere;min-width:0}
+.example-outcome{flex-shrink:0;color:var(--tone);background:var(--wash);border:1px solid var(--edge);border-radius:6px;padding:2px 7px;font-size:11px;font-weight:650}
+.checkpoint-next{margin-top:auto;padding-top:16px;border-top:1px solid var(--line)}
+.checkpoint-next h4{margin:0;font-size:13px}.checkpoint-next p{font-size:13px;color:var(--muted);margin:6px 0 12px}
+.checkpoint-next a{font-size:13px;font-weight:650}.checkpoint-boundary{font-size:12px;color:var(--muted);margin:18px 0 0}
 .scorecard-section{scroll-margin-top:24px}
 .report-title{margin:0;font-size:clamp(26px,4vw,34px);font-weight:650;line-height:1.2;letter-spacing:-1px}
 .good{--tone:#216341;--wash:#eef8f1;--edge:#c6e1cf}
@@ -1726,6 +1746,7 @@ h1{margin:0;font-size:clamp(30px,4.5vw,42px);font-weight:650;line-height:1.2;let
 .scope-block h4{margin:0;font-size:14px;line-height:1.4;color:var(--ink)}
 .check-detail .scope-block p{margin:6px 0 0}.check-detail .scope-block .scope-mode{color:var(--ink);font-weight:600}
 .check-detail .scope-block .size-footnote{margin-top:12px}
+.checks-help{margin:14px 0}.checks-help summary{cursor:pointer;font-size:14px;font-weight:650;color:var(--ink)}.checks-explainer{max-width:850px;color:var(--muted);font-size:13px;line-height:1.65}
 .checks{margin-top:36px}.checks h2{font-size:28px;margin:0}.checks-intro{color:var(--muted);max-width:850px;font-size:14px}
 .checks-table-wrap{overflow-x:auto}.checks-table-wrap:focus-visible{outline:3px solid #227b92;outline-offset:3px}
 .attention{margin:0 0 22px;padding:20px 24px;background:var(--paper);border:1px solid var(--line);border-radius:12px}
@@ -1783,6 +1804,9 @@ footer img{display:block;max-width:100%;height:auto}
 .formats{display:flex;gap:20px;flex-wrap:wrap;font-size:12px}
 @media(max-width:800px){:root{--snapshot-anchor-offset:24px}.freshness{position:static}.freshness .button{padding:6px 12px}.snapshot-identity{grid-template-columns:1fr}}
 @media(max-width:680px){
+  .checkpoint-grid{grid-template-columns:1fr}.checkpoint-card{padding:20px}
+  .checkpoint-decision,.checkpoint-scope{min-height:0}
+  .checkpoint-checks li{align-items:flex-start;flex-wrap:wrap}.checkpoint-facts div{grid-template-columns:96px minmax(0,1fr);gap:8px}
   .shell{width:calc(100% - 36px)}
   .topbar .shell{gap:12px}.repo-link{font-size:12px}
   main{padding-top:30px}.intro{font-size:14px}
@@ -1940,6 +1964,153 @@ def _catalog_overview(controls: list[dict[str, Any]]) -> str:
             '<div class="catalog-grid">' + ''.join(groups) + '</div></section>')
 
 
+# Curated historical teaching examples, not inputs to evaluation or freshness.
+# Inspect the exact source runs/receipts before changing these recorded facts.
+_CHECKPOINT_EXAMPLES = (
+    {
+        "id": "pr", "title": "PR created or updated", "decision": "Ready for review?",
+        "kind": "Recorded PR policy evidence · advisory",
+        "event": "pull_request_target", "revision": "2388c864ef72fd9f803ff6195a4395b5d7a5fd02",
+        "created_at": "2026-10-29T13:11:27Z", "run_id": 40879663676, "run_attempt": 1,
+        "scope": "Four PR checks from the recorded evaluation of PR #164.",
+        "checks": (
+            ("pr-metadata", "PR title and body", "failed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40879663676/attempts/1"),
+            ("change-scope", "PR size and change scope", "failed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40879663591"),
+            ("changed-code-coverage", "Changed-code coverage", "passed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40877728154/job/123461044694"),
+            ("dependency-change-review", "Dependency change review", "passed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40877728005/job/123460777551"),
+        ),
+        "next": "Review the recorded metadata and size findings. Collect fresh evidence and inspect current merge requirements before deciding to merge.",
+    },
+    {
+        "id": "main", "title": "After merge", "decision": "Did this main revision pass its adopted verification?",
+        "kind": "Recorded workflow observations · main",
+        "event": "push: refs/heads/main", "revision": "8a36b246f6bd0c3808276de0f7794b26f574ce5e",
+        "created_at": "2026-10-28T04:17:52Z", "run_id": 40631525656, "run_attempt": 1,
+        "scope": "Three verification steps from Distribution Acceptance on main. These are workflow outcomes, not a Proof policy score.",
+        "checks": (
+            ("activation-documentation-regressions", "Activation and documentation regressions", "passed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40631525656/job/122628768165"),
+            ("cli-archive-build", "CLI archive build", "passed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40631525656/job/122628768165"),
+            ("consumer-compatibility", "Fresh and published-consumer compatibility", "passed", "https://github.com/ravisingh11/ai-software-toolkit/actions/runs/40631525656/job/122628768165"),
+        ),
+        "next": "Inspect evidence for the resulting main revision. Release, deployment approval and live health each need their own evidence and authorization.",
+    },
+)
+
+
+_REFERENCE_CHECKPOINT_EXAMPLES = (
+    {
+        "id": "pr", "title": "PR created or updated", "decision": "Ready for review?",
+        "kind": "Recorded PR policy evidence · advisory",
+        "event": "pull_request_target", "revision": "510e25a6c8f4816a35ef9f2d4d1d00f2db74cab8",
+        "created_at": "2026-10-29T13:11:26Z", "run_id": 40879661416, "run_attempt": 1,
+        "scope": "Four PR checks from the recorded evaluation of reference app PR #63.",
+        "checks": (
+            ("pr-metadata", "PR title and body", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40879661416/attempts/1"),
+            ("change-scope", "PR size and change scope", "failed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40879661249"),
+            ("changed-code-coverage", "Changed-code coverage", "no_result", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40876100183/job/123455314109"),
+            ("dependency-change-review", "Dependency change review", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40876100236/job/123455184321"),
+        ),
+        "next": "Review the recorded size finding and missing coverage evidence. Inspect fresh results and current merge requirements before deciding to merge.",
+    },
+    {
+        "id": "main", "title": "After merge", "decision": "Did this main revision pass its adopted verification?",
+        "kind": "Recorded workflow observations · main",
+        "event": "push: refs/heads/main", "revision": "c3df3f459f14dd4a9945f4988722ebaafc804edd",
+        "created_at": "2026-10-28T04:25:51Z", "run_id": 40632274819, "run_attempt": 1,
+        "scope": "Four Application acceptance steps on main. These are workflow outcomes, not a Proof policy score or live deployment evidence.",
+        "checks": (
+            ("application-build", "Application build", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40632274819/job/122631173511"),
+            ("unit-tests", "Unit tests and coverage", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40632274819/job/122631173511"),
+            ("browser-acceptance", "Browser acceptance", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40632274819/job/122631173511"),
+            ("migration-validation", "Migration validation", "passed", "https://github.com/ravisingh11/ai-software-toolkit-reference-app/actions/runs/40632274819/job/122631173511"),
+        ),
+        "next": "Inspect evidence for the resulting main revision. Deployment approval and live health/API/UI verification remain separate decisions.",
+    },
+)
+
+
+# AgentBay-owned presentation customization. These immutable public observations
+# are checked against tests/fixtures/scorecard-checkpoints.json; they are not
+# inputs to evaluation, selection, freshness, or the latest-PR badge.
+_AGENTBAY_CHECKPOINT_EXAMPLES = (
+    {
+        "id": "pr", "title": "PR created or updated", "decision": "Ready for review?",
+        "kind": "Recorded PR policy evidence · advisory",
+        "event": "pull_request + pull_request_target", "revision": "7f71e8c04a768b6a531b95786a070f142a66fcd1",
+        "created_at": "2026-10-29T15:03:16Z", "run_id": 40897632954, "run_attempt": 1,
+        "scope": "PR #4: source checks and trusted policy review before merge.",
+        "checks": (
+            ("pr-metadata", "PR title and body", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40897632954/attempts/1"),
+            ("change-scope", "PR size and change scope", "failed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40897632954/attempts/1"),
+            ("build", "Build", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40897632804/job/123530969242"),
+            ("unit-tests", "Unit tests", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40897632699/job/123530967346"),
+        ),
+        "next": "Review the size warning and current required checks before merging.",
+    },
+    {
+        "id": "main", "title": "After merge", "decision": "Did the merged commit pass?",
+        "kind": "Recorded workflow observations · main",
+        "event": "push: refs/heads/main", "revision": "d4d8011c036b4d5cde58647d886e721f129e9c40",
+        "created_at": "2026-10-29T15:13:41Z", "run_id": 40899395353, "run_attempt": 1,
+        "scope": "Checks rerun on PR #4’s merged main commit. CI outcomes, not a Proof policy score.",
+        "checks": (
+            ("catalogue-validation", "Catalogue and downloads", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40899395353/job/123537216183"),
+            ("installer-discovery", "Installer and skill discovery", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40899395353/job/123537215694"),
+            ("build", "Build", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40899395534/job/123537216632"),
+            ("unit-tests", "Unit tests", "passed", "https://github.com/ravisingh11/agentbay-ultimate-list/actions/runs/40899395286/job/123537216070"),
+        ),
+        "next": "Inspect results for the merged revision. Website deployment and live health need separate evidence.",
+    },
+)
+
+
+def _checkpoint_examples_html(repository: str = "ravisingh11/ai-software-toolkit") -> str:
+    agentbay = repository == "ravisingh11/agentbay-ultimate-list"
+    if agentbay:
+        examples = _AGENTBAY_CHECKPOINT_EXAMPLES
+    elif repository == "ravisingh11/ai-software-toolkit-reference-app":
+        examples = _REFERENCE_CHECKPOINT_EXAMPLES
+    else:
+        repository = "ravisingh11/ai-software-toolkit"
+        examples = _CHECKPOINT_EXAMPLES
+    cards = []
+    for example in examples:
+        run_url = f"https://github.com/{repository}/actions/runs/{example['run_id']}/attempts/{example['run_attempt']}"
+        rows = []
+        for identifier, name, status, url in example["checks"]:
+            label, tone = {"passed": ("Passed", "good"), "failed": ("Failed", "danger"),
+                           "blocked": ("Blocked", "caution")}.get(status, ("Unverified", "neutral"))
+            mode = " · advisory" if example["id"] == "pr" else ""
+            rows.append(f'<li data-example-check="{html.escape(identifier, quote=True)}">'
+                        f'<a href="{html.escape(url, quote=True)}">{html.escape(name)}</a>'
+                        f'<span class="example-outcome {tone}">{label}{mode}</span></li>')
+        revision = example["revision"]
+        cards.append(f'''<article class="checkpoint-card checkpoint-{example['id']}" id="checkpoint-{example['id']}-example" aria-labelledby="checkpoint-{example['id']}-title">
+  <p class="checkpoint-kind">{html.escape(example['kind'])}</p>
+  <h3 id="checkpoint-{example['id']}-title">{html.escape(example['title'])}</h3>
+  <p class="checkpoint-decision">{html.escape(example['decision'])}</p>
+  <dl class="checkpoint-facts">
+    <div><dt>Invocation</dt><dd><code>{html.escape(example['event'])}</code></dd></div>
+    <div><dt>Tested revision</dt><dd><a href="https://github.com/{repository}/commit/{revision}"><code>{revision[:12]}</code></a></dd></div>
+    <div><dt>Source run started</dt><dd><time datetime="{example['created_at']}">{_utc_label(example['created_at'])}</time></dd></div>
+  </dl>
+  <p class="checkpoint-scope">{html.escape(example['scope'])}</p>
+  <ul class="checkpoint-checks" aria-label="Recorded {example['id']} checks">{''.join(rows)}</ul>
+  <div class="checkpoint-next"><h4>Next decision</h4><p>{html.escape(example['next'])}</p>
+    <a href="{run_url}">Inspect this recorded run <span aria-hidden="true">↗</span></a></div>
+</article>''')
+    history = ("PR #4 and the main commit produced by its merge. These fixed examples are separate from the latest PR scorecard below."
+               if agentbay else "These runs come from different changes. They are fixed teaching examples, not the latest results for the repository shown on this page.")
+    return ('''<section class="checkpoint-gallery" aria-labelledby="checkpoint-examples-title">
+  <p class="eyebrow">Separate decisions · separate checks</p>
+  <h2 id="checkpoint-examples-title">Two SDLC checkpoints in practice</h2>
+  <p class="checkpoint-intro">A PR review and verification after merge answer different questions. Each checkpoint below has its own check list, revision and evidence. There is no combined score.</p>
+  <p class="checkpoint-history">Historical examples from <strong>''' + repository + '''</strong>. ''' + history + '''</p>
+  <div class="checkpoint-grid">''' + ''.join(cards) + '''</div>
+  <p class="checkpoint-boundary">PR findings do not become main results. Main CI does not establish deployment health. These examples never contribute to the live scorecard totals below. Checks remain optional, Core advisory, and lifecycle/polyglot manual.</p>
+</section>''')
+
+
 def _html(metadata: dict[str, Any]) -> str:
     safe = {key: html.escape(str(value), quote=True) for key, value in metadata.items()}
     tone, headline = {
@@ -2048,6 +2219,7 @@ def _html(metadata: dict[str, Any]) -> str:
       Installing skills does not run them or make checks required. Your team owns
       its application, commands, review decisions, and release authority.</p>
   </section>
+  {_checkpoint_examples_html(metadata['repository'])}
   <section class="scorecard-section" id="scorecard" aria-labelledby="scorecard-title" tabindex="-1">
   <p class="eyebrow">CI evidence / change assessment</p>
   <h2 class="report-title" id="scorecard-title">Latest PR Scorecard</h2>
