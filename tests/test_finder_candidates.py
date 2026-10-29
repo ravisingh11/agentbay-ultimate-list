@@ -73,6 +73,19 @@ class FinderCandidateTests(unittest.TestCase):
         additions, _ = m.propose(index, rows, CURATION, POLICY, verify=lambda _: META)
         self.assertEqual(additions, [])
 
+    def test_legacy_internal_fixtures_are_deferred_without_blocking_valid_skills(self):
+        fixtures = [{**SKILL, 'path': 'pkg/testdata/worker/SKILL.md'},
+                    {**SKILL, 'path': 'sdk/test-data/worker/SKILL.md'}]
+        checked = []
+        def verify(skill):
+            checked.append(skill['path'])
+            return META
+        additions, report = m.propose({'skills': fixtures + [SKILL], 'repositories': {}}, [], CURATION, POLICY, verify=verify)
+        self.assertEqual(checked, [SKILL['path']])
+        self.assertEqual(len(additions), 1)
+        self.assertEqual(report['deferred'], 2)
+        self.assertEqual(report['automatic_removals'], 0)
+
     def test_malformed_source_and_rate_limit_do_not_mutate_inputs(self):
         for patch in [{'path': '../SKILL.md'}, {'commit': 'main'}, {'repository': 'evil.test/x?token=y'}]:
             with self.subTest(patch=patch), self.assertRaises(ValueError): self.propose({**SKILL, **patch})

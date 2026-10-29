@@ -89,8 +89,13 @@ def propose(index, rows, curation, providers, verify=inspect, now=None, limit=MA
             raise ValueError('Malformed finder entry')
         source = 'https://github.com/' + repo + '/blob/' + commit + '/' + path
         key = component(source)
-        if key is None or not path.endswith('SKILL.md') or any(p.casefold() in EXCLUDED for p in path.split('/')):
+        if key is None or not (path == 'SKILL.md' or path.endswith('/SKILL.md')):
             raise ValueError('Unsafe finder path')
+        # Older accepted finder snapshots can contain internal fixtures. They
+        # are not install candidates and must not block unrelated valid sources.
+        if any(p.casefold() in EXCLUDED for p in path.split('/')):
+            deferred += 1
+            continue
         if key in known or key in excluded or key in seen or blob in seen_blobs or blob in represented_blobs:
             duplicates += 1
             continue
