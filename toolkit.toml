@@ -3,7 +3,7 @@
 # commands live in GitHub repository variables, never in this file.
 
 [toolkit]
-revision = "8a36b246f6bd0c3808276de0f7794b26f574ce5e"
+revision = "248d8f02e774e4f75af6ea2de49b466688dfae54"
 components = ["proof", "skills"]
 install_set = "starter"
 

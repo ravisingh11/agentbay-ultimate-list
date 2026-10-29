@@ -162,3 +162,8 @@ Use the [provider form](https://github.com/ravisingh11/agentbay-ultimate-list/is
 ### Inspect the visible Proof score
 
 The [public latest-PR dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) links to the evaluated revision and source workflow attempt. Check that identity when using its score in a review. Missing, failed and inactive controls stay distinct; the badge is not an audit of this catalogue’s third-party listings or proof about a later main commit. The publisher runs only trusted default-branch code and never executes contributed artifact content.
+
+For the Proof dashboard, keep the PR and post-merge examples tied to their own
+recorded revisions and run links. Update the [evidence record](docs/guardrails.md#pr-review-and-verification-after-merge)
+when changing those examples. The latest PR score must stay independent; a
+workflow success must not turn an advisory failure or missing result into a pass.
