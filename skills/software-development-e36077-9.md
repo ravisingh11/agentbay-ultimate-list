@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-8.md) · [Next →](software-development-e36077-10.md)
 
-11,555 listings · Page 9 of 58
+11,628 listings · Page 9 of 59
 
 - **block-inventory** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/aem/edge-delivery-services/skills/block-inventory/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — block-inventory is listed as an agent skill. Its catalogue topics include software engineering.
 - **blockdancez/PreviewShip** — [Website](<https://github.com/blockdancez/previewship>) · [GitHub](<https://github.com/blockdancez/previewship>) · **License: Unknown** · Stars: not recorded — blockdancez/PreviewShip is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and deployment and cloud…

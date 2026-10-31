@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](software-development-e36077-2.md)
 
-11,555 listings · Page 1 of 58
+11,628 listings · Page 1 of 59
 
 - **0-acs-full-scan** — [Website](<https://github.com/microsoft/acs-resource-explorer/blob/84a5fb9afdc4334608c45af9f32a0678a65af8ac/.agent/skills/acs/0-acs-full-scan/SKILL.md>) · [GitHub](<https://github.com/microsoft/acs-resource-explorer>) · **License: MIT** · **★ 0** (as of 2026-10-25) · **Microsoft · Official source** — 0-acs-full-scan is listed as an agent skill. Its catalogue topics include software engineering.
 - **0xArchiveIO/0xarchive-skill** — [Website](<https://github.com/0xarchiveio/0xarchive-skill>) · [GitHub](<https://github.com/0xarchiveio/0xarchive-skill>) · **License: MIT** · Stars: not recorded — 0xArchiveIO/0xarchive-skill is listed as an agent-skill repository. Its catalogue topics include software engineering, monitoring and operations, and deployment and cloud…

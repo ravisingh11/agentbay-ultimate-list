@@ -1,7 +1,3315 @@
 {
   "schema_version": 1,
-  "additions": [],
-  "corrections": [],
+  "additions": [
+    {
+      "id": "community:c57ba79a-ed5e-53c8-942a-b233a13fa82a",
+      "fields": {
+        "name": "clerk-android",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-android/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-android/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:bb732f59-216c-5a29-b930-6aefd9f411f1",
+      "fields": {
+        "name": "clerk-astro-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-astro-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-astro-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:d48d17f2-91f6-5d87-bf19-a94b2d060b38",
+      "fields": {
+        "name": "clerk-backend-api",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-backend-api/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-backend-api/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:b2fd2b8c-5c18-5021-b62c-8eba331b6cf7",
+      "fields": {
+        "name": "clerk-billing",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-billing/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-billing/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:407bda83-4de3-5c94-85ae-22f9e3fa00d8",
+      "fields": {
+        "name": "clerk-chrome-extension-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-chrome-extension-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-chrome-extension-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:d257cb4f-728a-5fc9-ad5b-3d32c56ff48b",
+      "fields": {
+        "name": "clerk-cli",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-cli/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-cli/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:e7718f0e-8bf4-5006-8100-30ffcd98a93b",
+      "fields": {
+        "name": "clerk-custom-ui",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-custom-ui/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-custom-ui/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:4343d335-ab06-5a29-bffc-712e3f14fc03",
+      "fields": {
+        "name": "clerk-expo",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-expo/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-expo/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:36a9529b-5819-5cf7-a57f-5d2c7a8c8d96",
+      "fields": {
+        "name": "clerk-nextjs-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nextjs-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nextjs-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:c4b20256-7b7b-52c9-8579-532488aae71e",
+      "fields": {
+        "name": "clerk-nuxt-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nuxt-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nuxt-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:6ccff07a-8aa0-54c4-8a22-68bcbb8b6ba3",
+      "fields": {
+        "name": "clerk-orgs",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-orgs/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-orgs/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2691ff1d-0239-59a0-a008-fc02ca0348b3",
+      "fields": {
+        "name": "clerk-react-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:61f55ad9-7048-53cd-9fb2-24714d9246ce",
+      "fields": {
+        "name": "clerk-react-router-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-router-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-router-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:4a6e54f1-4286-59ec-8123-f3409acc0b46",
+      "fields": {
+        "name": "clerk-setup",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-setup/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-setup/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:74ee2c29-82f0-5adb-9d39-228ab22f359a",
+      "fields": {
+        "name": "clerk-swift",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-swift/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-swift/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:b4791e24-bffe-5a36-91ee-4b9ea54175a1",
+      "fields": {
+        "name": "clerk-tanstack-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-tanstack-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-tanstack-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:68cd8583-2927-559a-92d1-6db7e9b88b98",
+      "fields": {
+        "name": "clerk-testing",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-testing/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-testing/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:daa53b6d-feba-5b23-9514-273188df5850",
+      "fields": {
+        "name": "clerk-vue-patterns",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-vue-patterns/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-vue-patterns/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:e056a20c-48ad-51f3-801e-11a5a4676de2",
+      "fields": {
+        "name": "clerk-webhooks",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-webhooks/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-webhooks/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:ae7d2e34-f5e3-5dd2-b059-e85dbb201546",
+      "fields": {
+        "name": "clerk",
+        "type": "Skill",
+        "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk/SKILL.md",
+        "repository_url": "https://github.com/clerk/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Clerk",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 89,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/clerk/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://clerk.com/docs/guides/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:53daed9f-d044-551b-aad3-c21b4b3706f7",
+      "fields": {
+        "name": "convex-add",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-add/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-add/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:a622a586-d6ce-52b1-a7b4-f0612c28ca66",
+      "fields": {
+        "name": "convex-advisor",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-advisor/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-advisor/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:a515f6b0-2162-5f70-9f62-d065e3965c1a",
+      "fields": {
+        "name": "convex-agent",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-agent/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-agent/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:75f94567-5529-535c-ae31-b2de08f0d885",
+      "fields": {
+        "name": "convex-auth",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-auth/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-auth/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:c88dc7e6-02cf-5d39-92ed-016ce617a15b",
+      "fields": {
+        "name": "convex-authz",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-authz/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-authz/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2651e41f-707a-53e3-a17d-f8fd4105c0a4",
+      "fields": {
+        "name": "convex-backup",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-backup/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-backup/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:3d79e9ac-c3d8-5b29-bd1d-d196c86f61d2",
+      "fields": {
+        "name": "convex-billing",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-billing/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-billing/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:7f0c6c51-68ad-5343-8600-c34fb4bc173d",
+      "fields": {
+        "name": "convex-cost",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-cost/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-cost/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:bed5b75a-1413-54c4-9c6c-5e9ee674f48a",
+      "fields": {
+        "name": "convex-crons",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-crons/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-crons/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:617eac44-4648-5c62-a88c-bc52e20f51d3",
+      "fields": {
+        "name": "convex-deploy-guard",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-deploy-guard/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-deploy-guard/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2391667c-f761-51b7-ad1f-165ec08e7f0d",
+      "fields": {
+        "name": "convex-design",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-design/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-design/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:8f5a5dfa-ffdd-5506-b64b-6a7bf5406786",
+      "fields": {
+        "name": "convex-docs",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-docs/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-docs/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:055749dc-59d2-5537-b7cf-5e9589de67fc",
+      "fields": {
+        "name": "convex-domains",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-domains/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-domains/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:3b4ac148-bf5d-557a-b23e-37bd4088bb60",
+      "fields": {
+        "name": "convex-env",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-env/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-env/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:fe00cb63-8bf0-5622-9ad1-818b16d4187e",
+      "fields": {
+        "name": "convex-expert",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-expert/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-expert/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:aec38df0-19a1-53a2-93d1-393ac052ce1f",
+      "fields": {
+        "name": "convex-explain-app",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-explain-app/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-explain-app/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:9b287975-84d1-55cb-af02-980606f5b775",
+      "fields": {
+        "name": "convex-insights",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-insights/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-insights/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:8699104a-f731-5510-8408-85a8fe656b60",
+      "fields": {
+        "name": "convex-launch-readiness",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-launch-readiness/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-launch-readiness/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:edb919be-c0a2-5cb5-84cd-37daf988cca6",
+      "fields": {
+        "name": "convex-migrate-rehearse",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate-rehearse/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate-rehearse/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:58f6ce80-a02e-50bf-a7a0-a2d2607efdf3",
+      "fields": {
+        "name": "convex-migrate",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:0ead4309-83a0-5dfa-822c-67152071ce2f",
+      "fields": {
+        "name": "convex-monitor",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-monitor/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-monitor/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2a2f09d5-dbf7-5eb0-9ff8-bae03e4c9f00",
+      "fields": {
+        "name": "convex-optimize",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-optimize/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-optimize/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:3b610302-5b81-5178-855a-a38717ae4164",
+      "fields": {
+        "name": "convex-reviewer",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-reviewer/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-reviewer/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:14946754-08b1-52a0-a1b9-ae0d9c294ab1",
+      "fields": {
+        "name": "convex-seed",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-seed/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-seed/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:22f74414-513d-505e-86b9-7cefdc4d736b",
+      "fields": {
+        "name": "convex-self-heal",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-self-heal/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-self-heal/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:5b7067b0-1c52-5184-ad96-c68f76c0f76a",
+      "fields": {
+        "name": "convex-sentinel",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-sentinel/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-sentinel/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:6b749ea4-8679-5a6a-90a7-90645d280a2d",
+      "fields": {
+        "name": "convex-suggest",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-suggest/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-suggest/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:49b195d7-99f3-583d-be78-fac3964aae0b",
+      "fields": {
+        "name": "convex-test",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-test/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-test/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:ebd5ee07-2e41-5417-96f6-9a63713a5202",
+      "fields": {
+        "name": "convex-verify",
+        "type": "Skill",
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-verify/SKILL.md",
+        "repository_url": "https://github.com/convex/agent-skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Convex",
+          "SKILL.md"
+        ],
+        "license": "Apache-2.0",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 69,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-verify/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:e0788061-b70a-52c1-81c6-7f0b8f12be69",
+      "fields": {
+        "name": "expo-migrate-module",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo-experiments/skills/expo-migrate-module/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo-experiments/skills/expo-migrate-module/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2bc8dddb-56c4-5737-b997-f3c3eab31ef7",
+      "fields": {
+        "name": "eas-app-stores",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-app-stores/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-app-stores/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:22251f6a-24cc-59cd-a323-2b34f47a1ef5",
+      "fields": {
+        "name": "eas-hosting",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-hosting/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-hosting/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:8658f8d3-dbab-5303-a786-f7bed35a4946",
+      "fields": {
+        "name": "eas-observe",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-observe/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-observe/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:1d4c97af-8340-5a2e-a4d0-6f7c705712e6",
+      "fields": {
+        "name": "eas-simulator",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-simulator/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-simulator/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:a59bf992-4706-5534-a313-6099c56a4a38",
+      "fields": {
+        "name": "eas-update-insights",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update-insights/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update-insights/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:c7e31654-3050-5100-a6cb-3b41d3938b87",
+      "fields": {
+        "name": "eas-update",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:928d4360-925c-5783-a0ea-041470b3bf86",
+      "fields": {
+        "name": "eas-workflows",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-workflows/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-workflows/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:774dd9fd-3f8a-5980-840d-59edacfaa8a5",
+      "fields": {
+        "name": "expo-animation",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-animation/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-animation/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:6d708952-1a46-5559-bbd9-cf4e1fd48f95",
+      "fields": {
+        "name": "expo-app-clip",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-app-clip/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-app-clip/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:3040dbbc-c99f-504b-b1b9-5ad986d21415",
+      "fields": {
+        "name": "expo-brownfield",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-brownfield/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-brownfield/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:850674c5-8591-5f85-9e67-cebc36ff879d",
+      "fields": {
+        "name": "expo-data-fetching",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-data-fetching/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-data-fetching/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:019902ae-176a-5dce-b647-8b179cac7641",
+      "fields": {
+        "name": "expo-design-system",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-design-system/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-design-system/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:478eedec-4552-5335-b1cc-eca2f5dca8c9",
+      "fields": {
+        "name": "expo-dev-client",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dev-client/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dev-client/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:17446a9e-f03b-587b-bc59-4f3a554311c3",
+      "fields": {
+        "name": "expo-dom",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dom/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dom/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:0355338f-1842-5e6f-ab1f-4f78c734caf3",
+      "fields": {
+        "name": "expo-examples",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-examples/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-examples/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:cb145da3-b4bb-5a66-ab47-1acd702e8ded",
+      "fields": {
+        "name": "expo-module",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-module/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-module/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:2e269da8-faaa-5770-ba43-0ee5130e2993",
+      "fields": {
+        "name": "expo-native-ui",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-native-ui/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-native-ui/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:7379f9ba-6e22-5df6-bf14-ef4dc942ab47",
+      "fields": {
+        "name": "expo-overview",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-overview/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-overview/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:9436de41-c31c-530e-87f7-09ad765c6156",
+      "fields": {
+        "name": "expo-project-structure",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-project-structure/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-project-structure/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:c08a8c50-01fd-5025-8402-17d186f0be8d",
+      "fields": {
+        "name": "expo-router",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-router/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-router/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:d90cb766-800c-5d1c-add5-4874c2152340",
+      "fields": {
+        "name": "expo-ui",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-ui/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-ui/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:eb54c34f-b19e-5670-96fd-e1f08de85d2c",
+      "fields": {
+        "name": "expo-upgrade",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-upgrade/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-upgrade/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:57628971-92bb-5def-ae6c-dc63081c9274",
+      "fields": {
+        "name": "expo-web-to-native",
+        "type": "Skill",
+        "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-web-to-native/SKILL.md",
+        "repository_url": "https://github.com/expo/skills",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Expo",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 3914,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-web-to-native/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/expo/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.expo.dev/skills/",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:dc127798-eca3-536a-8720-24450f08ffbc",
+      "fields": {
+        "name": "content-experimentation-best-practices",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-experimentation-best-practices/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-experimentation-best-practices/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:e1943873-7d7b-5b33-90b0-049e6ec6ed83",
+      "fields": {
+        "name": "content-modeling-best-practices",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-modeling-best-practices/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-modeling-best-practices/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:b9f8a5e6-2c8b-5684-a6a3-9e6a9517a998",
+      "fields": {
+        "name": "portable-text-conversion",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-conversion/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-conversion/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:5e77c961-c4ce-5d08-995e-253b260dc647",
+      "fields": {
+        "name": "portable-text-serialization",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-serialization/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-serialization/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:0f81d235-355a-5c5b-8240-95cc17ab78b1",
+      "fields": {
+        "name": "sanity-best-practices",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-best-practices/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-best-practices/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:c91f1db1-6a48-59d9-8393-bb4d10410047",
+      "fields": {
+        "name": "sanity-form-component-suspense",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-form-component-suspense/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-form-component-suspense/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:9fb0681e-d16f-5ba7-ab33-3232257c034f",
+      "fields": {
+        "name": "sanity-migration",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-migration/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-migration/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:20c49850-2b61-5ff7-bfac-49cf93de71cf",
+      "fields": {
+        "name": "sanity-singletons",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-singletons/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-singletons/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:85441cd4-5caa-58b3-9c2a-858c1ab60228",
+      "fields": {
+        "name": "sanity-studio-upgrade",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-studio-upgrade/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-studio-upgrade/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "community:7d947552-0877-5265-97d2-b536ee48ef3c",
+      "fields": {
+        "name": "seo-aeo-best-practices",
+        "type": "Skill",
+        "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/seo-aeo-best-practices/SKILL.md",
+        "repository_url": "https://github.com/sanity-io/agent-toolkit",
+        "categories": [
+          "Content creation"
+        ],
+        "tags": [
+          "Sanity",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+        "github_stars": 194,
+        "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/seo-aeo-best-practices/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/sanity-io/agent-toolkit",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://www.sanity.io/docs/ai/skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "id": "9dd972eb-9050-5e14-a9ea-11b7f5d4ea59",
+      "fields": {
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-create-component/SKILL.md"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-create-component/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "62bd726a-1e61-54a9-8205-0d3536d6120c",
+      "fields": {
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-quickstart/SKILL.md"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-quickstart/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    },
+    {
+      "id": "5cbb8062-efa4-54af-9b3e-641578123dfe",
+      "fields": {
+        "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex/SKILL.md"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex/SKILL.md",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Verified pinned path, Git blob bytes and valid skill frontmatter; reviewed for consumer-facing task fit. License scope is recorded separately."
+        },
+        {
+          "url": "https://github.com/convex/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://docs.convex.dev/ai/agent-skills",
+          "checked_at": "2026-10-31T03:26:03.840776+00:00",
+          "note": "Official documentation links this publisher to its skill source repository."
+        }
+      ]
+    }
+  ],
   "exclusions": [
     {
       "id": "9a7c1d89-3a08-566a-9411-04a1df11e37e",

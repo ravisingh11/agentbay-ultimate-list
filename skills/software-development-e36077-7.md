@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-6.md) · [Next →](software-development-e36077-8.md)
 
-11,555 listings · Page 7 of 58
+11,628 listings · Page 7 of 59
 
 - **azure-ai-document-intelligence-ts** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-typescript/skills/azure-ai-document-intelligence-ts/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-document-intelligence-ts is listed as an agent skill. Its catalogue topics include software engineering.
 - **azure-ai-formrecognizer-java** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-java/skills/azure-ai-formrecognizer-java/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-formrecognizer-java is listed as an agent skill. Its catalogue topics include software engineering.

@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-9.md) · [Next →](software-development-e36077-11.md)
 
-11,555 listings · Page 10 of 58
+11,628 listings · Page 10 of 59
 
 - **build-systems** — [Website](<https://github.com/adobe/data/blob/b80649893ba98e0222e9ae3e85112bd36384ffbd/.agents/skills/adobe-data-ai/build-systems/SKILL.md>) · [GitHub](<https://github.com/adobe/data>) · **License: MIT** · **★ 12** (as of 2026-10-24) · **Adobe · Official source** — build-systems is listed as an agent skill. Its catalogue topics include software engineering.
 - **build-task-evaluation** — [Website](<https://github.com/aws-samples/sample-open-weight-inference/blob/ce5478d5532b9ece781771924b360efff0606041/backend/knowledge/skills/build-task-evaluation/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-open-weight-inference>) · **License: MIT-0** · **★ 3** (as of 2026-10-25) · **Amazon Web Services · Official source** — build-task-evaluation is listed as an agent skill. Its catalogue topics include software engineering.
