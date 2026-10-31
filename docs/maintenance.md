@@ -141,3 +141,17 @@ Historical public catalog records are retained; this is not a claim that those
 eight currently qualify for website discovery. Twelve new Meta paths are not
 selected. No third-party instructions were executed. Website publication uses
 the approved registry revision and its normal direct release gates.
+
+## Pyrefly differential skill (October 31, 2026)
+
+The owner-approved addition selects only `meta/pyrefly`’s
+`.agents/skills/interpret-mypy-primer/SKILL.md`, pinned to the reviewed commit and
+Git blob in [data/pyrefly-primer-review.json](../data/pyrefly-primer-review.json).
+The repository license is MIT. Its public contributor workflow does not require
+Meta-only CI or Phabricator services. No publisher instructions were executed.
+
+The other eleven reviewed Meta paths remain unselected: one operational hold,
+nine upstream metadata problems and one already indexed mirror. Existing IDs,
+curation, explicit exclusions and installer behavior are unchanged. The public
+registry already verifies `meta`; no owner-policy change is needed. Website
+publication remains a separate direct-qualified catalog release.

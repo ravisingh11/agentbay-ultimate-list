@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-11.md) · [Next →](software-development-e36077-13.md)
 
-11,628 listings · Page 12 of 59
+11,629 listings · Page 12 of 59
 
 - **classic-com-abi** — [Website](<https://github.com/microsoft/dynwinrt/blob/21e6e6f3cc56db698511d7e45d6dd7b590fc60f4/.github/skills/classic-com-abi/SKILL.md>) · [GitHub](<https://github.com/microsoft/dynwinrt>) · **License: MIT** · **★ 63** (as of 2026-10-25) · **Microsoft · Official source** — classic-com-abi is listed as an agent skill. Its catalogue topics include software engineering.
 - **classic-text-adventure** — [Website](<https://github.com/microsoft/cat-agent-skills/blob/5c8cad25a6f1f01fd9bc922080fb8aae5bb420be/submissions/classic-text-adventure/SKILL.md>) · [GitHub](<https://github.com/microsoft/cat-agent-skills>) · **License: MIT** · **★ 89** (as of 2026-10-25) · **Microsoft · Official source** — classic-text-adventure is listed as an agent skill. Its catalogue topics include software engineering.

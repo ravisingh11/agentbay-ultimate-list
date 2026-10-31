@@ -312989,6 +312989,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:71cb63f8-51cd-5c41-bab7-6441e1d88ad3",
+    "name": "interpret-mypy-primer",
+    "description": "interpret-mypy-primer is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/meta/pyrefly/blob/cf0c00414b5f12bc2f84f8c4a2b3ca26fe1a8512/.agents/skills/interpret-mypy-primer/SKILL.md",
+    "repository_url": "https://github.com/meta/pyrefly",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Meta",
+      "Pyrefly",
+      "Python",
+      "Type checking",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T14:20:41.047675+00:00",
+    "agentbay_url": "",
+    "github_stars": 7172,
+    "github_stars_checked_at": "2026-10-31T14:20:41.047675+00:00",
+    "recommended": false,
+    "preferred_provider": "Meta"
+  },
+  {
     "id": "10b72375-e810-5741-b9f7-768f731d30da",
     "name": "interpreting-html",
     "description": "interpreting-html is listed as an agent skill. Its catalogue topics include software engineering.",

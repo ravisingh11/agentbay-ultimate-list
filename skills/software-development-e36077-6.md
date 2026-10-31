@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-5.md) · [Next →](software-development-e36077-7.md)
 
-11,628 listings · Page 6 of 59
+11,629 listings · Page 6 of 59
 
 - **autopilot-issue-delivery-worker** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-issue-delivery-worker/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-issue-delivery-worker is listed as an agent skill. Its catalogue topics include software engineering.
 - **autopilot-issue-triage-scheduler** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-issue-triage-scheduler/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-issue-triage-scheduler is listed as an agent skill. Its catalogue topics include software engineering.

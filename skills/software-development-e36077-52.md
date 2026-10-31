@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-51.md) · [Next →](software-development-e36077-53.md)
 
-11,628 listings · Page 52 of 59
+11,629 listings · Page 52 of 59
 
+- **Teknesyum/Teknesyum-Core** — [Website](<https://github.com/teknesyum/teknesyum-core>) · [GitHub](<https://github.com/teknesyum/teknesyum-core>) · **License: AGPL-3.0-only** · Stars: not recorded — Teknesyum/Teknesyum-Core is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **telemetry** — [Website](<https://github.com/microsoft/power-platform-skills/blob/aed70bfca39805db167e6bf08364d8bf55c49592/plugins/mobile-apps/skills/telemetry/SKILL.md>) · [GitHub](<https://github.com/microsoft/power-platform-skills>) · **License: MIT** · **★ 1,053** (as of 2026-10-25) · **Microsoft · Official source** — telemetry is listed as an agent skill. Its catalogue topics include software engineering.
 - **telemetry** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/build-macos-apps/skills/telemetry/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — telemetry is listed as an agent skill. Its catalogue topics include software engineering.
 - **telemetry-analyzer** — [Website](<https://github.com/IBM/ibm-watsonx-orchestrate-adk/blob/724d6af901cc77548917bd9c83488abc47cc367a/skills/telemetry-analyzer/SKILL.md>) · [GitHub](<https://github.com/IBM/ibm-watsonx-orchestrate-adk>) · **License: MIT** · **★ 177** (as of 2026-10-24) · **IBM · Official source** — telemetry-analyzer is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **threat-model-analyst** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/threat-model-analyst/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — threat-model-analyst is listed as an agent skill. Its catalogue topics include software engineering.
 - **three-statement-model-builder** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/public-equity-investing/skills/three-statement-model-builder/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — three-statement-model-builder is listed as an agent skill. Its catalogue topics include software engineering.
 - **three-webgl-game** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/game-studio/skills/three-webgl-game/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — three-webgl-game is listed as an agent skill. Its catalogue topics include software engineering.
-- **thrixel/build-world** — [Website](<https://github.com/thrixel/build-world>) · [GitHub](<https://github.com/thrixel/build-world>) · **License: Apache-2.0** · Stars: not recorded — thrixel/build-world is listed as an agent-skill repository. Its catalogue topics include software engineering and MCP tool integration.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-51.md) · [Next →](software-development-e36077-53.md)

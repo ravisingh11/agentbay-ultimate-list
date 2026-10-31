@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-16.md) · [Next →](software-development-e36077-18.md)
 
-11,628 listings · Page 17 of 59
+11,629 listings · Page 17 of 59
 
 - **db-migration-dms-sc-ingest** — [Website](<https://github.com/aws-samples/sample-dbmig-aidlc/blob/4bd3911c4f22c6271896b859f79672801115032c/.claude/skills/db-migration-dms-sc-ingest/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-dbmig-aidlc>) · **License: MIT-0** · **★ 4** (as of 2026-10-25) · **Amazon Web Services · Official source** — db-migration-dms-sc-ingest is listed as an agent skill. Its catalogue topics include software engineering.
 - **db-migration-inception** — [Website](<https://github.com/aws-samples/sample-dbmig-aidlc/blob/4bd3911c4f22c6271896b859f79672801115032c/.claude/skills/db-migration-inception/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-dbmig-aidlc>) · **License: MIT-0** · **★ 4** (as of 2026-10-25) · **Amazon Web Services · Official source** — db-migration-inception is listed as an agent skill. Its catalogue topics include software engineering.

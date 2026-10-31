@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-25.md) · [Next →](software-development-e36077-27.md)
 
-11,628 listings · Page 26 of 59
+11,629 listings · Page 26 of 59
 
 - **gws-classroom** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/gws-classroom/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 381** (as of 2026-10-24) · **JetBrains · Official source** — gws-classroom is listed as an agent skill. Its catalogue topics include software engineering.
 - **gws-classroom** — [Website](<https://github.com/googleworkspace/cli/blob/a3768d0e82ad83cca2da97724e46bea4ff0e6dbd/skills/gws-classroom/SKILL.md>) · [GitHub](<https://github.com/googleworkspace/cli>) · **License: Apache-2.0** · **★ 31,861** (as of 2026-10-25) · **Google · Official source** — gws-classroom is listed as an agent skill. Its catalogue topics include software engineering.

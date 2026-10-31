@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-29.md) · [Next →](software-development-e36077-31.md)
 
-11,628 listings · Page 30 of 59
+11,629 listings · Page 30 of 59
 
+- **kgaidev/kgai** — [Website](<https://github.com/kgaidev/kgai>) · [GitHub](<https://github.com/kgaidev/kgai>) · **License: MIT** · Stars: not recorded — kgaidev/kgai is listed as an agent-skill repository. Its catalogue topics include software engineering and agent memory and context.
 - **kharmanskyi/open-steps** — [Website](<https://github.com/kharmanskyi/open-steps>) · [GitHub](<https://github.com/kharmanskyi/open-steps>) · **License: MIT** · Stars: not recorded — kharmanskyi/open-steps is listed as an agent-skill repository. Its catalogue topics include software engineering, monitoring and operations, and deployment and cloud operations.
 - **khasky/awesome-agent-skills** — [Website](<https://github.com/khasky/awesome-agent-skills>) · [GitHub](<https://github.com/khasky/awesome-agent-skills>) · **License: MIT** · Stars: not recorded — khasky/awesome-agent-skills is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and security and privacy.
 - **khmm12/solidjs-v2-skills** — [Website](<https://github.com/khmm12/solidjs-v2-skills>) · [GitHub](<https://github.com/khmm12/solidjs-v2-skills>) · **License: Unknown** · Stars: not recorded — khmm12/solidjs-v2-skills is listed as an agent-skill repository. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **legal-response** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/legal/skills/legal-response/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — legal-response is listed as an agent skill. Its catalogue topics include software engineering.
 - **legal-risk-assessment** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/legal/skills/legal-risk-assessment/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — legal-risk-assessment is listed as an agent skill. Its catalogue topics include software engineering.
 - **legal-writing** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/law-student/skills/legal-writing/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — legal-writing is listed as an agent skill. Its catalogue topics include software engineering.
-- **Leksgg/claude-skills** — [Website](<https://github.com/leksgg/claude-skills>) · [GitHub](<https://github.com/leksgg/claude-skills>) · **License: MIT** · Stars: not recorded — Leksgg/claude-skills is listed as an agent-skill repository. Its catalogue topics include software engineering and security and privacy.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-29.md) · [Next →](software-development-e36077-31.md)

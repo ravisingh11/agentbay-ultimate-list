@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-34.md) · [Next →](software-development-e36077-36.md)
 
-11,628 listings · Page 35 of 59
+11,629 listings · Page 35 of 59
 
+- **ncc** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/ncc/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — ncc is listed as an agent skill. Its catalogue topics include software engineering.
 - **ncore** — [Website](<https://github.com/NVIDIA/nurec-skills/blob/5b9d287eb7d271147751a119aa490f41edc90363/skills/ncore/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/nurec-skills>) · **License: Apache-2.0** · **★ 48** (as of 2026-10-25) · **NVIDIA · Official source** — ncore is listed as an agent skill. Its catalogue topics include software engineering.
 - **ncu-report** — [Website](<https://github.com/NVIDIA/tilus/blob/2047456887dd95bfadec6707b99916805767ccb4/.claude/skills/ncu-report/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/tilus>) · **License: Apache-2.0** · **★ 497** (as of 2026-10-25) · **NVIDIA · Official source** — ncu-report is listed as an agent skill. Its catalogue topics include software engineering.
 - **nda-review** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/commercial-legal/skills/nda-review/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — nda-review is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **nightly-sync** — [Website](<https://github.com/NVIDIA/Megatron-LM/blob/2052769557dcf7045c4091d1996f0bc59afeb80e/skills/nightly-sync/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/Megatron-LM>) · **License: Unknown** · **★ 18,263** (as of 2026-10-25) · **NVIDIA · Official source** — nightly-sync is listed as an agent skill. Its catalogue topics include software engineering.
 - **nim-operator-install** — [Website](<https://github.com/NVIDIA/k8s-nim-operator/blob/344da28e18158cf407f0751585ef5c2be2b4db1e/.agents/skills/nim-operator-install/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/k8s-nim-operator>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **NVIDIA · Official source** — nim-operator-install is listed as an agent skill. Its catalogue topics include software engineering.
 - **nim-operator-uninstall** — [Website](<https://github.com/NVIDIA/k8s-nim-operator/blob/344da28e18158cf407f0751585ef5c2be2b4db1e/.agents/skills/nim-operator-uninstall/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/k8s-nim-operator>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **NVIDIA · Official source** — nim-operator-uninstall is listed as an agent skill. Its catalogue topics include software engineering.
-- **NintendaDev/unikit-ai** — [Website](<https://github.com/nintendadev/unikit-ai>) · [GitHub](<https://github.com/nintendadev/unikit-ai>) · **License: MIT** · Stars: not recorded — NintendaDev/unikit-ai is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and audio and speech workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-34.md) · [Next →](software-development-e36077-36.md)

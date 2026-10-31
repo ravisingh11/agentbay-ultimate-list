@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-7.md) · [Next →](software-development-e36077-9.md)
 
-11,628 listings · Page 8 of 59
+11,629 listings · Page 8 of 59
 
 - **azure-upgrade** — [Website](<https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/8d9a95a2f9fbe9a540b4062a010eb9368b8012c5/plugins/azure-skills/skills/azure-upgrade/SKILL.md>) · [GitHub](<https://github.com/microsoft/GitHub-Copilot-for-Azure>) · **License: Unknown** · **★ 259** (as of 2026-10-25) · **Microsoft · Official source** — azure-upgrade is listed as an agent skill. Its catalogue topics include software engineering.
 - **azure-validate** — [Website](<https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/8d9a95a2f9fbe9a540b4062a010eb9368b8012c5/plugins/azure-skills/skills/azure-validate/SKILL.md>) · [GitHub](<https://github.com/microsoft/GitHub-Copilot-for-Azure>) · **License: Unknown** · **★ 259** (as of 2026-10-25) · **Microsoft · Official source** — azure-validate is listed as an agent skill. Its catalogue topics include software engineering.

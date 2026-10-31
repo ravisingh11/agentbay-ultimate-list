@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-50.md) · [Next →](software-development-e36077-52.md)
 
-11,628 listings · Page 51 of 59
+11,629 listings · Page 51 of 59
 
+- **subtitles** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/higgsfield/skills/subtitles/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — subtitles is listed as an agent skill. Its catalogue topics include software engineering.
 - **sudeepgupta90/extended-andrej-karpathy-skill** — [Website](<https://github.com/sudeepgupta90/extended-andrej-karpathy-skill>) · [GitHub](<https://github.com/sudeepgupta90/extended-andrej-karpathy-skill>) · **License: MIT** · Stars: not recorded — sudeepgupta90/extended-andrej-karpathy-skill is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **suggest-awesome-github-copilot-instructions** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/suggest-awesome-github-copilot-instructions/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — suggest-awesome-github-copilot-instructions is listed as an agent skill. Its catalogue topics include software engineering.
 - **suggest-awesome-github-copilot-skills** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/suggest-awesome-github-copilot-skills/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — suggest-awesome-github-copilot-skills is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **TechNickAI/ai-coding-config** — [Website](<https://github.com/technickai/ai-coding-config>) · [GitHub](<https://github.com/technickai/ai-coding-config>) · **License: MIT** · Stars: not recorded — TechNickAI/ai-coding-config is listed as an agent-skill repository. Its catalogue topics include software engineering and security and privacy.
 - **technology-stack-blueprint-generator** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/technology-stack-blueprint-generator/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — technology-stack-blueprint-generator is listed as an agent skill. Its catalogue topics include software engineering.
 - **teklabsdigital/x2-method** — [Website](<https://github.com/teklabsdigital/x2-method>) · [GitHub](<https://github.com/teklabsdigital/x2-method>) · **License: Unknown** · Stars: not recorded — teklabsdigital/x2-method is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **Teknesyum/Teknesyum-Core** — [Website](<https://github.com/teknesyum/teknesyum-core>) · [GitHub](<https://github.com/teknesyum/teknesyum-core>) · **License: AGPL-3.0-only** · Stars: not recorded — Teknesyum/Teknesyum-Core is listed as an agent-skill repository. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-50.md) · [Next →](software-development-e36077-52.md)

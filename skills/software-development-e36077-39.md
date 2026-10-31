@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-38.md) · [Next →](software-development-e36077-40.md)
 
-11,628 listings · Page 39 of 59
+11,629 listings · Page 39 of 59
 
+- **pirate-voice** — [Website](<https://github.com/cloudflare/agents/blob/321814b6c13f72cff82161e7eb20312574ac9b7a/examples/agent-skills/src/skills/pirate-voice/SKILL.md>) · [GitHub](<https://github.com/cloudflare/agents>) · **License: MIT** · **★ 5,881** (as of 2026-10-25) · **Cloudflare · Official source** — pirate-voice is listed as an agent skill. Its catalogue topics include software engineering.
 - **pitch-deck** — [Website](<https://github.com/anthropics/financial-services/blob/574ed3624aebd0418c7e96cd101262f30210ab26/plugins/agent-plugins/pitch-agent/skills/pitch-deck/SKILL.md>) · [GitHub](<https://github.com/anthropics/financial-services>) · **License: Apache-2.0** · **★ 40,761** (as of 2026-10-25) · **Anthropic · Official source** — pitch-deck is listed as an agent skill. Its catalogue topics include software engineering.
 - **pivot-merge** — [Website](<https://github.com/Snowflake-Labs/cocoplus/blob/bcd40f716c216f73034da43fc141417242ae495a/.cortex/skills/cococonverge/pivot-merge/SKILL.md>) · [GitHub](<https://github.com/Snowflake-Labs/cocoplus>) · **License: MIT** · **★ 726** (as of 2026-10-24) · **Snowflake · Official source** — pivot-merge is listed as an agent skill. Its catalogue topics include software engineering.
 - **Pizzaface/PizzaPi** — [Website](<https://github.com/pizzaface/pizzapi>) · [GitHub](<https://github.com/pizzaface/pizzapi>) · **License: Apache-2.0** · Stars: not recorded — Pizzaface/PizzaPi is listed as an agent-skill repository. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **ppgranger/token-saver** — [Website](<https://github.com/ppgranger/token-saver>) · [GitHub](<https://github.com/ppgranger/token-saver>) · **License: Apache-2.0** · Stars: not recorded — ppgranger/token-saver is listed as an agent-skill repository. Its catalogue topics include software engineering, monitoring and operations, and deployment and cloud operations.
 - **pr** — [Website](<https://github.com/getsentry/outpost/blob/ffda259661a6453c7cf4bc460a6247445bbb20c0/.agents/skills/pr/SKILL.md>) · [GitHub](<https://github.com/getsentry/outpost>) · **License: Unknown** · **★ 5** (as of 2026-10-24) · **Sentry · Official source** — pr is listed as an agent skill. Its catalogue topics include software engineering.
 - **pr** — [Website](<https://github.com/aws-samples/sample-agent-assisted-sdlc/blob/362f2033a64b4ccd8ec1d3e333d34e01a7671e77/coding-assistants/claude-code/plugin/skills/pr/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-agent-assisted-sdlc>) · **License: Apache-2.0** · **★ 47** (as of 2026-10-25) · **Amazon Web Services · Official source** — pr is listed as an agent skill. Its catalogue topics include software engineering.
-- **pr** — [Website](<https://github.com/aws/graph-explorer/blob/b2155c60c22dd86aee2101a8b91ea51b50a12d0e/.agents/skills/pr/SKILL.md>) · [GitHub](<https://github.com/aws/graph-explorer>) · **License: Apache-2.0** · **★ 487** (as of 2026-10-24) · **Amazon Web Services · Official source** — pr is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-38.md) · [Next →](software-development-e36077-40.md)

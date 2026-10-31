@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-14.md) · [Next →](software-development-e36077-16.md)
 
-11,628 listings · Page 15 of 59
+11,629 listings · Page 15 of 59
 
 - **copilot-studio-workflow** — [Website](<https://github.com/microsoft/FastTrack/blob/7857d379222582db873a6c1a015a4d1e89da1f07/copilot-agent-samples/github-copilot-skills/copilot-studio-workflow/SKILL.md>) · [GitHub](<https://github.com/microsoft/FastTrack>) · **License: MIT** · **★ 229** (as of 2026-10-25) · **Microsoft · Official source** — copilot-studio-workflow is listed as an agent skill. Its catalogue topics include software engineering.
 - **copilot-usage-metrics** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/copilot-usage-metrics/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — copilot-usage-metrics is listed as an agent skill. Its catalogue topics include software engineering.

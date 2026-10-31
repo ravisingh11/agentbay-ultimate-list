@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-47.md) · [Next →](software-development-e36077-49.md)
 
-11,628 listings · Page 48 of 59
+11,629 listings · Page 48 of 59
 
+- **shadow-frog-update** — [Website](<https://github.com/microsoft/ShadowFrog/blob/42c6c9f7251ec110ba426e14f09cab159a6714d3/skills/shadow-frog-update/SKILL.md>) · [GitHub](<https://github.com/microsoft/ShadowFrog>) · **License: MIT** · **★ 30** (as of 2026-10-25) · **Microsoft · Official source** — shadow-frog-update is listed as an agent skill. Its catalogue topics include software engineering.
 - **shadow-frog-viewer** — [Website](<https://github.com/microsoft/ShadowFrog/blob/42c6c9f7251ec110ba426e14f09cab159a6714d3/skills/shadow-frog-viewer/SKILL.md>) · [GitHub](<https://github.com/microsoft/ShadowFrog>) · **License: MIT** · **★ 30** (as of 2026-10-25) · **Microsoft · Official source** — shadow-frog-viewer is listed as an agent skill. Its catalogue topics include software engineering.
 - **shadow-report** — [Website](<https://github.com/Snowflake-Labs/cocoplus/blob/bcd40f716c216f73034da43fc141417242ae495a/.cortex/skills/secondeye/shadow-report/SKILL.md>) · [GitHub](<https://github.com/Snowflake-Labs/cocoplus>) · **License: MIT** · **★ 726** (as of 2026-10-24) · **Snowflake · Official source** — shadow-report is listed as an agent skill. Its catalogue topics include software engineering.
 - **shahzaibrafiq/shipkit** — [Website](<https://github.com/shahzaibrafiq/shipkit>) · [GitHub](<https://github.com/shahzaibrafiq/shipkit>) · **License: MIT** · Stars: not recorded — shahzaibrafiq/shipkit is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and security and privacy.
@@ -205,6 +206,5 @@
 - **skill-koji-triage** — [Website](<https://github.com/microsoft/azurelinux/blob/1035368c970cbed17ab06a8006b6c57b25fdc856/.agents/skills/skill-koji-triage/SKILL.md>) · [GitHub](<https://github.com/microsoft/azurelinux>) · **License: MIT** · **★ 5,357** (as of 2026-10-25) · **Microsoft · Official source** — skill-koji-triage is listed as an agent skill. Its catalogue topics include software engineering.
 - **skill-kql-queries** — [Website](<https://github.com/microsoft/azurelinux/blob/1035368c970cbed17ab06a8006b6c57b25fdc856/.agents/skills/skill-kql-queries/SKILL.md>) · [GitHub](<https://github.com/microsoft/azurelinux>) · **License: MIT** · **★ 5,357** (as of 2026-10-25) · **Microsoft · Official source** — skill-kql-queries is listed as an agent skill. Its catalogue topics include software engineering.
 - **skill-manager** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/legal-builder-hub/skills/skill-manager/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — skill-manager is listed as an agent skill. Its catalogue topics include software engineering.
-- **skill-mass-triage** — [Website](<https://github.com/microsoft/azurelinux/blob/1035368c970cbed17ab06a8006b6c57b25fdc856/.agents/skills/skill-mass-triage/SKILL.md>) · [GitHub](<https://github.com/microsoft/azurelinux>) · **License: MIT** · **★ 5,357** (as of 2026-10-25) · **Microsoft · Official source** — skill-mass-triage is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-47.md) · [Next →](software-development-e36077-49.md)

@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-35.md) · [Next →](software-development-e36077-37.md)
 
-11,628 listings · Page 36 of 59
+11,629 listings · Page 36 of 59
 
+- **NintendaDev/unikit-ai** — [Website](<https://github.com/nintendadev/unikit-ai>) · [GitHub](<https://github.com/nintendadev/unikit-ai>) · **License: MIT** · Stars: not recorded — NintendaDev/unikit-ai is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and audio and speech workflows.
 - **NiobiumInc/niobium-skills** — [Website](<https://github.com/niobiuminc/niobium-skills>) · [GitHub](<https://github.com/niobiuminc/niobium-skills>) · **License: Apache-2.0** · Stars: not recorded — NiobiumInc/niobium-skills is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and security and privacy.
 - **NishikantaRay/Attic** — [Website](<https://github.com/nishikantaray/attic>) · [GitHub](<https://github.com/nishikantaray/attic>) · **License: MIT** · Stars: not recorded — NishikantaRay/Attic is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **nitinjain999/platform-skills** — [Website](<https://github.com/nitinjain999/platform-skills>) · [GitHub](<https://github.com/nitinjain999/platform-skills>) · **License: Apache-2.0** · Stars: not recorded — nitinjain999/platform-skills is listed as an agent-skill repository. Its catalogue topics include software engineering, security and privacy, and monitoring and operations.
@@ -205,6 +206,5 @@
 - **onboard-benchmark** — [Website](<https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks/blob/14d5e9d4940c78c1fa85b81ab0d6bc959869dcc1/.claude/skills/onboard-benchmark/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks>) · **License: MIT-0** · **★ 18** (as of 2026-10-25) · **Amazon Web Services · Official source** — onboard-benchmark is listed as an agent skill. Its catalogue topics include software engineering.
 - **onboard-context-matic** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/onboard-context-matic/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — onboard-context-matic is listed as an agent skill. Its catalogue topics include software engineering.
 - **onboard-defender-cli** — [Website](<https://github.com/microsoft/security-devops-common/blob/71bce2834ba3b2e2e9502aeeef1f540699eff24c/plugin/defender-code-security/skills/onboard-defender-cli/SKILL.md>) · [GitHub](<https://github.com/microsoft/security-devops-common>) · **License: MIT** · **★ 7** (as of 2026-10-25) · **Microsoft · Official source** — onboard-defender-cli is listed as an agent skill. Its catalogue topics include software engineering.
-- **onboard-e2e-example** — [Website](<https://github.com/salesforce/multicloud-py/blob/550ba3babfaefe68aaaa340f59bbfda77d123398/.agents/skills/onboard-e2e-example/SKILL.md>) · [GitHub](<https://github.com/salesforce/multicloud-py>) · **License: Apache-2.0** · **★ 4** (as of 2026-10-24) · **Salesforce · Official source** — onboard-e2e-example is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-35.md) · [Next →](software-development-e36077-37.md)

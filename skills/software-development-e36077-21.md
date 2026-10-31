@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-20.md) · [Next →](software-development-e36077-22.md)
 
-11,628 listings · Page 21 of 59
+11,629 listings · Page 21 of 59
 
 - **evaluate-discounts-break-even** — [Website](<https://github.com/aws-samples/sample-open-weight-inference/blob/ce5478d5532b9ece781771924b360efff0606041/backend/knowledge/skills/evaluate-discounts-break-even/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-open-weight-inference>) · **License: MIT-0** · **★ 3** (as of 2026-10-25) · **Amazon Web Services · Official source** — evaluate-discounts-break-even is listed as an agent skill. Its catalogue topics include software engineering.
 - **evaluate-document-quality** — [Website](<https://github.com/NVIDIA-AI-Blueprints/docsfab/blob/7c7c950a370e7f3dc718cf36aa6b0cc30c6d0aa0/packages/runtime/skill-crate/evaluate-document-quality/SKILL.md>) · [GitHub](<https://github.com/NVIDIA-AI-Blueprints/docsfab>) · **License: Unknown** · **★ 2** (as of 2026-10-25) · **NVIDIA · Official source** — evaluate-document-quality is listed as an agent skill. Its catalogue topics include software engineering.

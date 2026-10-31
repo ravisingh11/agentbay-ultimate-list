@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-43.md) · [Next →](software-development-e36077-45.md)
 
-11,628 listings · Page 44 of 59
+11,629 listings · Page 44 of 59
 
+- **resolve-docker-vulnerabilities** — [Website](<https://github.com/firebase/firebase-tools/blob/926b3fe846dd861f5743e50d45f3475bac6fa209/.agent/skills/resolve-docker-vulnerabilities/SKILL.md>) · [GitHub](<https://github.com/firebase/firebase-tools>) · **License: MIT** · **★ 4,481** (as of 2026-10-25) · **Google · Official source** — resolve-docker-vulnerabilities is listed as an agent skill. Its catalogue topics include software engineering.
 - **resolve-issue** — [Website](<https://github.com/getsentry/outpost/blob/ffda259661a6453c7cf4bc460a6247445bbb20c0/.agents/skills/resolve-issue/SKILL.md>) · [GitHub](<https://github.com/getsentry/outpost>) · **License: Unknown** · **★ 5** (as of 2026-10-24) · **Sentry · Official source** — resolve-issue is listed as an agent skill. Its catalogue topics include software engineering.
 - **resolve-issue** — [Website](<https://github.com/NVIDIA/sphinx-llm/blob/7ddd70a219c93b6d318828df0d0862f9396bc24c/.agents/skills/resolve-issue/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/sphinx-llm>) · **License: Apache-2.0** · **★ 45** (as of 2026-10-25) · **NVIDIA · Official source** — resolve-issue is listed as an agent skill. Its catalogue topics include software engineering.
 - **resolve-merge-conflicts** — [Website](<https://github.com/github/gh-aw/blob/3de7cc191d85f95a65e5d64d2e386539ed7a36be/.github/skills/resolve-merge-conflicts/SKILL.md>) · [GitHub](<https://github.com/github/gh-aw>) · **License: MIT** · **★ 5,462** (as of 2026-10-25) · **GitHub · Official source** — resolve-merge-conflicts is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **rokokol/ai-commit-trailers-skill** — [Website](<https://github.com/rokokol/ai-commit-trailers-skill>) · [GitHub](<https://github.com/rokokol/ai-commit-trailers-skill>) · **License: MIT** · Stars: not recorded — rokokol/ai-commit-trailers-skill is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **rokokol/maintainer-docs-skill** — [Website](<https://github.com/rokokol/maintainer-docs-skill>) · [GitHub](<https://github.com/rokokol/maintainer-docs-skill>) · **License: MIT** · Stars: not recorded — rokokol/maintainer-docs-skill is listed as an agent-skill repository. Its catalogue topics include software engineering and document and knowledge workflows.
 - **role-definitions** — [Website](<https://github.com/microsoft/amplifier-bundle-routing-matrix/blob/edf3603295c03fbe4cc06dc9d818fa84d9405d33/skills/role-definitions/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-bundle-routing-matrix>) · **License: MIT** · **★ 3** (as of 2026-10-25) · **Microsoft · Official source** — role-definitions is listed as an agent skill. Its catalogue topics include software engineering.
-- **roli-lpci/agent-trash-guard** — [Website](<https://github.com/roli-lpci/agent-trash-guard>) · [GitHub](<https://github.com/roli-lpci/agent-trash-guard>) · **License: Apache-2.0** · Stars: not recorded — roli-lpci/agent-trash-guard is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and monitoring and…
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-43.md) · [Next →](software-development-e36077-45.md)

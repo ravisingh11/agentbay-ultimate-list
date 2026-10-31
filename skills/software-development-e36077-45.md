@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-44.md) · [Next →](software-development-e36077-46.md)
 
-11,628 listings · Page 45 of 59
+11,629 listings · Page 45 of 59
 
+- **roli-lpci/agent-trash-guard** — [Website](<https://github.com/roli-lpci/agent-trash-guard>) · [GitHub](<https://github.com/roli-lpci/agent-trash-guard>) · **License: Apache-2.0** · Stars: not recorded — roli-lpci/agent-trash-guard is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and monitoring and…
 - **roli-lpci/quick-gate-js** — [Website](<https://github.com/roli-lpci/quick-gate-js>) · [GitHub](<https://github.com/roli-lpci/quick-gate-js>) · **License: Apache-2.0** · Stars: not recorded — roli-lpci/quick-gate-js is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **roli-lpci/quick-gate-python** — [Website](<https://github.com/roli-lpci/quick-gate-python>) · [GitHub](<https://github.com/roli-lpci/quick-gate-python>) · **License: Apache-2.0** · Stars: not recorded — roli-lpci/quick-gate-python is listed as an agent-skill repository. Its catalogue topics include software engineering and monitoring and operations.
 - **roll-forward** — [Website](<https://github.com/anthropics/financial-services/blob/574ed3624aebd0418c7e96cd101262f30210ab26/plugins/agent-plugins/month-end-closer/skills/roll-forward/SKILL.md>) · [GitHub](<https://github.com/anthropics/financial-services>) · **License: Apache-2.0** · **★ 40,761** (as of 2026-10-25) · **Anthropic · Official source** — roll-forward is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **sar-series-analysis** — [Website](<https://github.com/GoogleCloudPlatform/LifeSciences/blob/40acc80ce9a8f5040b72be1f440b650cbe6521f8/applications/open-agentic-science-engine/skills/sar-series-analysis/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/LifeSciences>) · **License: Apache-2.0** · **★ 52** (as of 2026-10-25) · **Google · Official source** — sar-series-analysis is listed as an agent skill. Its catalogue topics include software engineering.
 - **sass-diff** — [Website](<https://github.com/NVIDIA/cccl/blob/036ecd2d7aeaf85075cd5222c2f000416f10f74b/.agent/skills/sass-diff/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/cccl>) · **License: Unknown** · **★ 2,547** (as of 2026-10-25) · **NVIDIA · Official source** — sass-diff is listed as an agent skill. Its catalogue topics include software engineering.
 - **satbirbhbc-ux/ai-coding-principles** — [Website](<https://github.com/satbirbhbc-ux/ai-coding-principles>) · [GitHub](<https://github.com/satbirbhbc-ux/ai-coding-principles>) · **License: MIT** · Stars: not recorded — satbirbhbc-ux/ai-coding-principles is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **satori** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/satori/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — satori is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-44.md) · [Next →](software-development-e36077-46.md)

@@ -3237,6 +3237,48 @@
           "note": "Official documentation links this publisher to its skill source repository."
         }
       ]
+    },
+    {
+      "id": "community:71cb63f8-51cd-5c41-bab7-6441e1d88ad3",
+      "fields": {
+        "name": "interpret-mypy-primer",
+        "type": "Skill",
+        "website_url": "https://github.com/meta/pyrefly/blob/cf0c00414b5f12bc2f84f8c4a2b3ca26fe1a8512/.agents/skills/interpret-mypy-primer/SKILL.md",
+        "repository_url": "https://github.com/meta/pyrefly",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Meta",
+          "Pyrefly",
+          "Python",
+          "Type checking",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-10-31T14:20:41.047675+00:00",
+        "github_stars": 7172,
+        "github_stars_checked_at": "2026-10-31T14:20:41.047675+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/meta/pyrefly/blob/cf0c00414b5f12bc2f84f8c4a2b3ca26fe1a8512/.agents/skills/interpret-mypy-primer/SKILL.md",
+          "checked_at": "2026-10-31T14:20:41.047675+00:00",
+          "note": "Owner-approved distinct consumer/contributor skill. Pinned path, exact Git blob and valid frontmatter verified; instructions contextually reviewed without executing them. Public workflow is usable without Meta-only services."
+        },
+        {
+          "url": "https://github.com/meta/pyrefly",
+          "checked_at": "2026-10-31T14:20:41.047675+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/meta/pyrefly/blob/cf0c00414b5f12bc2f84f8c4a2b3ca26fe1a8512/LICENSE",
+          "checked_at": "2026-10-31T14:20:39.398119+00:00",
+          "note": "Pinned MIT repository license bytes verified against the reviewed SHA-256. No skill-specific override observed."
+        }
+      ]
     }
   ],
   "corrections": [

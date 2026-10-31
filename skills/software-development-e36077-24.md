@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-23.md) · [Next →](software-development-e36077-25.md)
 
-11,628 listings · Page 24 of 59
+11,629 listings · Page 24 of 59
 
 - **gcs-security-assessment** — [Website](<https://github.com/GoogleCloudPlatform/google-cloud-storage-plugin/blob/b346e39698fcdfdc711ca3ee35e41c8dbaa1aa2b/skills/gcs-security-assessment/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/google-cloud-storage-plugin>) · **License: Apache-2.0** · **★ 33** (as of 2026-10-25) · **Google · Official source** — gcs-security-assessment is listed as an agent skill. Its catalogue topics include software engineering.
 - **gdbscripts** — [Website](<https://github.com/NVIDIA/gdbscripts/blob/ad26f264a5e0d96886da72853877ac9fc3fb7ebe/.agents/skills/gdbscripts/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/gdbscripts>) · **License: Unknown** · **★ 1** (as of 2026-10-25) · **NVIDIA · Official source** — gdbscripts is listed as an agent skill. Its catalogue topics include software engineering.

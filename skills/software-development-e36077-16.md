@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-15.md) · [Next →](software-development-e36077-17.md)
 
-11,628 listings · Page 16 of 59
+11,629 listings · Page 16 of 59
 
 - **create-tools** — [Website](<https://github.com/databricks/app-templates/blob/382645061cc66f23d672a46c0b9f55497da2913c/.claude/skills/create-tools/SKILL.md>) · [GitHub](<https://github.com/databricks/app-templates>) · **License: Unknown** · **★ 216** (as of 2026-10-24) · **Databricks · Official source** — create-tools is listed as an agent skill. Its catalogue topics include software engineering.
 - **create-webapp-game** — [Website](<https://github.com/meta/meta-wearables-webapp/blob/2efe20bf6e4d84c4f7f4d650f7201460a2173d65/plugins/meta-wearables-webapp-game/skills/create-webapp-game/SKILL.md>) · [GitHub](<https://github.com/meta/meta-wearables-webapp>) · **License: Unknown** · **★ 221** (as of 2026-10-31) · **Meta · Official source** — create-webapp-game is listed as an agent skill. Its catalogue topics include software engineering.

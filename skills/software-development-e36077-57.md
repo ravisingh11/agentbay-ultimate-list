@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-56.md) · [Next →](software-development-e36077-58.md)
 
-11,628 listings · Page 57 of 59
+11,629 listings · Page 57 of 59
 
+- **watch-github-actions** — [Website](<https://github.com/NVIDIA/OpenShell/blob/c4688aa8715ea75d6c39fe468361dbbc16c691fa/.agents/skills/watch-github-actions/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/OpenShell>) · **License: Apache-2.0** · **★ 19,598** (as of 2026-10-25) · **NVIDIA · Official source** — watch-github-actions is listed as an agent skill. Its catalogue topics include software engineering.
 - **watch-multiple-pr-status** — [Website](<https://github.com/Azure/azure-messaging-ai-context/blob/b1470d15b08e368f9e5291ee34fab127823bbacd/.github/skills/watch-multiple-pr-status/SKILL.md>) · [GitHub](<https://github.com/Azure/azure-messaging-ai-context>) · **License: MIT** · **★ 0** (as of 2026-10-25) · **Microsoft · Official source** — watch-multiple-pr-status is listed as an agent skill. Its catalogue topics include software engineering.
 - **watchtower** — [Website](<https://github.com/NVIDIA/nemoclaw-community/blob/54bac91992830b6249f1f727c0f6d628d3a984e8/examples/recipes/partners/tavily/watchtower/skills/watchtower/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/nemoclaw-community>) · **License: Apache-2.0** · **★ 133** (as of 2026-10-25) · **NVIDIA · Official source** — watchtower is listed as an agent skill. Its catalogue topics include software engineering.
 - **WaterTian/cc-bot** — [Website](<https://github.com/watertian/cc-bot>) · [GitHub](<https://github.com/watertian/cc-bot>) · **License: MIT** · Stars: not recorded — WaterTian/cc-bot is listed as an agent-skill repository. Its catalogue topics include software engineering, security and privacy, and deployment and cloud operations.
@@ -205,6 +206,5 @@
 - **workflow-triggering** — [Website](<https://github.com/adobe/aem-auth-demo/blob/57e05f8d2ef8699744885088a0f5d0331c64e0f5/.agents/skills/aem-workflow/workflow-triggering/SKILL.md>) · [GitHub](<https://github.com/adobe/aem-auth-demo>) · **License: Apache-2.0** · **★ 0** (as of 2026-10-24) · **Adobe · Official source** — workflow-triggering is listed as an agent skill. Its catalogue topics include software engineering.
 - **workflows** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/plugins/workflows/skills/workflows/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — workflows is listed as an agent skill. Its catalogue topics include software engineering.
 - **WorkflowtechAI/job-hunt** — [Website](<https://github.com/workflowtechai/job-hunt>) · [GitHub](<https://github.com/workflowtechai/job-hunt>) · **License: MIT** · Stars: not recorded — WorkflowtechAI/job-hunt is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **workfront-actions** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/app-builder/skills/appbuilder-workfront/workfront-actions/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — workfront-actions is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-56.md) · [Next →](software-development-e36077-58.md)

@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-21.md) · [Next →](software-development-e36077-23.md)
 
-11,628 listings · Page 22 of 59
+11,629 listings · Page 22 of 59
 
 - **features-variants** — [Website](<https://github.com/microsoft/coreai-design-system/blob/9e7876c47c30a6c44ca79915991bd5541d58764c/apps/prototype/.github/skills/features-variants/SKILL.md>) · [GitHub](<https://github.com/microsoft/coreai-design-system>) · **License: CC-BY-4.0** · **★ 2** (as of 2026-10-25) · **Microsoft · Official source** — features-variants is listed as an agent skill. Its catalogue topics include software engineering.
 - **federalavd-air-gapped-readiness** — [Website](<https://github.com/Azure/FederalAVD/blob/4b1202ec231085db182a0a726c481558ca16fb79/.github/skills/federalavd-air-gapped-readiness/SKILL.md>) · [GitHub](<https://github.com/Azure/FederalAVD>) · **License: MIT** · **★ 19** (as of 2026-10-25) · **Microsoft · Official source** — federalavd-air-gapped-readiness is listed as an agent skill. Its catalogue topics include software engineering.

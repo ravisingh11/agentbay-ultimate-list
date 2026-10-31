@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-19.md) · [Next →](software-development-e36077-21.md)
 
-11,628 listings · Page 20 of 59
+11,629 listings · Page 20 of 59
 
 - **effectustasi/agent-receipts** — [Website](<https://github.com/effectustasi/agent-receipts>) · [GitHub](<https://github.com/effectustasi/agent-receipts>) · **License: MIT** · Stars: not recorded — effectustasi/agent-receipts is listed as an agent-skill repository. Its catalogue topics include software engineering and document and knowledge workflows.
 - **effort** — [Website](<https://github.com/google-gemini/gemini-cli/blob/cd1b45c2db0a5ea7b7fc3b67c1ba5879601d6005/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/effort/SKILL.md>) · [GitHub](<https://github.com/google-gemini/gemini-cli>) · **License: Apache-2.0** · **★ 108,206** (as of 2026-10-25) · **Google · Official source** — effort is listed as an agent skill. Its catalogue topics include software engineering.

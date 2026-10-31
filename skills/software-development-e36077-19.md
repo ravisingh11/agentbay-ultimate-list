@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-18.md) · [Next →](software-development-e36077-20.md)
 
-11,628 listings · Page 19 of 59
+11,629 listings · Page 19 of 59
 
 - **domain-modeling** — [Website](<https://github.com/aws/graph-explorer/blob/b2155c60c22dd86aee2101a8b91ea51b50a12d0e/.agents/skills/domain-modeling/SKILL.md>) · [GitHub](<https://github.com/aws/graph-explorer>) · **License: Apache-2.0** · **★ 487** (as of 2026-10-24) · **Amazon Web Services · Official source** — domain-modeling is listed as an agent skill. Its catalogue topics include software engineering.
 - **domain-pack-authoring** — [Website](<https://github.com/redis/redis-iris-demos/blob/4a844a2f4d1f2e1340eb086fb92c495e53b0bae5/.codex/skills/domain-pack-authoring/SKILL.md>) · [GitHub](<https://github.com/redis/redis-iris-demos>) · **License: Unknown** · **★ 33** (as of 2026-10-24) · **Redis · Official source** — domain-pack-authoring is listed as an agent skill. Its catalogue topics include software engineering.

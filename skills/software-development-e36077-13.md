@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-12.md) · [Next →](software-development-e36077-14.md)
 
-11,628 listings · Page 13 of 59
+11,629 listings · Page 13 of 59
 
 - **code-style** — [Website](<https://github.com/JetBrains/MPS/blob/306426161178d67f0686ab2352ebb4343198a9e1/.agents/skills/code-style/SKILL.md>) · [GitHub](<https://github.com/JetBrains/MPS>) · **License: Apache-2.0** · **★ 1,661** (as of 2026-10-24) · **JetBrains · Official source** — code-style is listed as an agent skill. Its catalogue topics include software engineering.
 - **code-style** — [Website](<https://github.com/microsoft/semantic-link-labs/blob/4b63e6f4b412387b8798e6fad189581595fe5a59/.claude/skills/code-style/SKILL.md>) · [GitHub](<https://github.com/microsoft/semantic-link-labs>) · **License: MIT** · **★ 592** (as of 2026-10-25) · **Microsoft · Official source** — code-style is listed as an agent skill. Its catalogue topics include software engineering.
