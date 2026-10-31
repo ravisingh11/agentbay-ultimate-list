@@ -122,3 +122,22 @@ pool enrollment and publication stay separate. After accepting the registry on
 main, generate the website copy and receipt from that exact approved source.
 Existing IDs, reviewed curation, exclusions and installer instructions remain
 intact. The independent website design work is outside this catalogue change.
+
+## Verified source restoration (October 31, 2026)
+
+The owner-approved correction replaces the obsolete `facebook` owner with
+verified `meta` in the official registry. The current `facebook` organization
+has a different, unverified GitHub identity. Explicitly migrate 18 accepted
+repositories and 152 skills to their canonical `meta/*` sources, plus one
+unchanged skill from `Azure/ai-gateway` to `Azure/aigateway`. All 153 existing
+listing IDs, categories, license scopes, exclusions and curation are preserved.
+The maintained corrections retain source evidence across future imports.
+
+[data/source-restoration-review.json](../data/source-restoration-review.json)
+records immutable repository/owner identities, paths, old and new Git pins and
+the changed-instruction review. Eight website sources remain excluded: five
+archived, one inaccessible and two whose indexed instruction paths were removed.
+Historical public catalog records are retained; this is not a claim that those
+eight currently qualify for website discovery. Twelve new Meta paths are not
+selected. No third-party instructions were executed. Website publication uses
+the approved registry revision and its normal direct release gates.
