@@ -101,3 +101,24 @@ To add a provider, use the [provider nomination form](https://github.com/ravisin
 For a review that names changed or absent upstream records, use `python3 scripts/catalog.py refresh --report ../agentbay-refresh-review.json` with a new output filename outside the checkout. The report resolves aliases and lists new/changed upstream records and records retained despite absence; absence alone is not permission to remove them. Public catalogue schemas and default refresh behavior remain compatible.
 
 The README renderer also maintains the public latest-PR Proof badge and dashboard link. Score publication is a separate, trusted reporting workflow; it does not import website curation, alter catalogue facts or authorize a merge.
+
+## Four-provider catalogue expansion (October 30, 2026)
+
+The owner-approved expansion adds Expo (`expo/skills`), Clerk (`clerk/skills`),
+Convex (`convex/agent-skills`) and Sanity (`sanity-io/agent-toolkit`) to the
+maintained provider registry. Official documentation, pinned commits, file paths,
+Git blob hashes and licensing observations are recorded in
+[`data/provider-expansion-review.json`](../data/provider-expansion-review.json).
+The selection covers 86 consumer-facing skills: 83 new catalogue records and
+three existing Convex source-link corrections that preserve their accepted IDs.
+Two internal Clerk audits, Expo's skill-evaluation harness and Convex's optional
+session-transcript sharing helper are excluded from this selection.
+
+Clerk's selected files declare MIT individually; no repository-wide license is
+inferred. Other licenses retain their recorded skill or repository scope. This
+registry change permits official attribution and the existing popularity
+exemption; it does not certify the instructions or execute them. Website source
+pool enrollment and publication stay separate. After accepting the registry on
+main, generate the website copy and receipt from that exact approved source.
+Existing IDs, reviewed curation, exclusions and installer instructions remain
+intact. The independent website design work is outside this catalogue change.
