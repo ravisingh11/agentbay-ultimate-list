@@ -31,7 +31,7 @@ Counts below are listings in this repository, including repository-level entries
 | [IBM](https://www.ibm.com/) | 158 |
 | [Inngest](https://www.inngest.com/) | 15 |
 | [JetBrains](https://www.jetbrains.com/) | 300 |
-| [Meta](https://ai.meta.com/) | 230 |
+| [Meta](https://ai.meta.com/) | 231 |
 | [Microsoft](https://www.microsoft.com/) | 3,545 |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | 50 |
 | [MongoDB](https://www.mongodb.com/) | 49 |
