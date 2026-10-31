@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-49.md) · [Next →](software-development-e36077-51.md)
 
-11,628 listings · Page 50 of 59
+11,629 listings · Page 50 of 59
 
+- **speech** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/speech/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 381** (as of 2026-10-24) · **JetBrains · Official source** — speech is listed as an agent skill. Its catalogue topics include software engineering.
 - **speech** — [Website](<https://github.com/meta/meta-wearables-dat-android/blob/f4371bc9f90249d51eb07d7f8a61e8d829294f16/plugins/mwdat-android/skills/speech/SKILL.md>) · [GitHub](<https://github.com/meta/meta-wearables-dat-android>) · **License: Unknown** · **★ 391** (as of 2026-10-31) · **Meta · Official source** — speech is listed as an agent skill. Its catalogue topics include software engineering.
 - **speech** — [Website](<https://github.com/openai/skills/blob/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/speech/SKILL.md>) · [GitHub](<https://github.com/openai/skills>) · **License: Unknown** · **★ 28,289** (as of 2026-10-25) · **OpenAI · Official source** — speech is listed as an agent skill. Its catalogue topics include software engineering.
 - **speech** — [Website](<https://github.com/meta/meta-wearables-dat-ios/blob/bbae597cd1c748cd29b9375a1624a8d75b1c9e14/plugins/mwdat-ios/skills/speech/SKILL.md>) · [GitHub](<https://github.com/meta/meta-wearables-dat-ios>) · **License: Unknown** · **★ 578** (as of 2026-10-31) · **Meta · Official source** — speech is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **submit-task** — [Website](<https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/blob/6dad935fb8fff44935925f342ed3236ae6676502/docs/abca-plugin/skills/submit-task/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-autonomous-cloud-coding-agents>) · **License: MIT-0** · **★ 163** (as of 2026-10-25) · **Amazon Web Services · Official source** — submit-task is listed as an agent skill. Its catalogue topics include software engineering.
 - **suboss87/FDEOps** — [Website](<https://github.com/suboss87/fdeops>) · [GitHub](<https://github.com/suboss87/fdeops>) · **License: MIT** · Stars: not recorded — suboss87/FDEOps is listed as an agent-skill repository. Its catalogue topics include software engineering and deployment and cloud operations.
 - **subpoena-triage** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/litigation-legal/skills/subpoena-triage/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — subpoena-triage is listed as an agent skill. Its catalogue topics include software engineering.
-- **subtitles** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/higgsfield/skills/subtitles/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — subtitles is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-49.md) · [Next →](software-development-e36077-51.md)

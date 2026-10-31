@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-28.md) · [Next →](software-development-e36077-30.md)
 
-11,628 listings · Page 29 of 59
+11,629 listings · Page 29 of 59
 
+- **ivuorinen/skills** — [Website](<https://github.com/ivuorinen/skills>) · [GitHub](<https://github.com/ivuorinen/skills>) · **License: MIT** · Stars: not recorded — ivuorinen/skills is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **iwsdk-build-model** — [Website](<https://github.com/meta/immersive-web-sdk/blob/fdc8330664b3095dcec403c4e1e604654cae9295/packages/create/guidance/claude/.claude/skills/iwsdk-build-model/SKILL.md>) · [GitHub](<https://github.com/meta/immersive-web-sdk>) · **License: MIT** · **★ 349** (as of 2026-10-31) · **Meta · Official source** — iwsdk-build-model is listed as an agent skill. Its catalogue topics include software engineering.
 - **iwsdk-compose-scene** — [Website](<https://github.com/meta/immersive-web-sdk/blob/fdc8330664b3095dcec403c4e1e604654cae9295/packages/create/guidance/claude/.claude/skills/iwsdk-compose-scene/SKILL.md>) · [GitHub](<https://github.com/meta/immersive-web-sdk>) · **License: MIT** · **★ 349** (as of 2026-10-31) · **Meta · Official source** — iwsdk-compose-scene is listed as an agent skill. Its catalogue topics include software engineering.
 - **iwsdk-debug** — [Website](<https://github.com/meta/immersive-web-sdk/blob/fdc8330664b3095dcec403c4e1e604654cae9295/packages/create/guidance/claude/.claude/skills/iwsdk-debug/SKILL.md>) · [GitHub](<https://github.com/meta/immersive-web-sdk>) · **License: MIT** · **★ 349** (as of 2026-10-31) · **Meta · Official source** — iwsdk-debug is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **kernel-tileir-optimization** — [Website](<https://github.com/NVIDIA/TensorRT-LLM/blob/b7d6e624d1d5d297bbea8d6f4d383ca6e2d46711/.claude/skills/kernel-tileir-optimization/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/TensorRT-LLM>) · **License: Unknown** · **★ 14,942** (as of 2026-10-25) · **NVIDIA · Official source** — kernel-tileir-optimization is listed as an agent skill. Its catalogue topics include software engineering.
 - **kernel-triton-writing** — [Website](<https://github.com/NVIDIA/TensorRT-LLM/blob/b7d6e624d1d5d297bbea8d6f4d383ca6e2d46711/.claude/skills/kernel-triton-writing/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/TensorRT-LLM>) · **License: Unknown** · **★ 14,942** (as of 2026-10-25) · **NVIDIA · Official source** — kernel-triton-writing is listed as an agent skill. Its catalogue topics include software engineering.
 - **keyvnchristian/pixelproof** — [Website](<https://github.com/keyvnchristian/pixelproof>) · [GitHub](<https://github.com/keyvnchristian/pixelproof>) · **License: MIT** · Stars: not recorded — keyvnchristian/pixelproof is listed as an agent-skill repository. Its catalogue topics include software engineering and design workflows.
-- **kgaidev/kgai** — [Website](<https://github.com/kgaidev/kgai>) · [GitHub](<https://github.com/kgaidev/kgai>) · **License: MIT** · Stars: not recorded — kgaidev/kgai is listed as an agent-skill repository. Its catalogue topics include software engineering and agent memory and context.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-28.md) · [Next →](software-development-e36077-30.md)

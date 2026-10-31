@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-2.md) · [Next →](software-development-e36077-4.md)
 
-11,628 listings · Page 3 of 59
+11,629 listings · Page 3 of 59
 
 - **ai-implement** — [Website](<https://github.com/awslabs/ai-skills/blob/ae9c42cbc429a35f90f75b6b71da5bca256eaefd/skills/research/ai-implement/SKILL.md>) · [GitHub](<https://github.com/awslabs/ai-skills>) · **License: MIT-0** · **★ 2** (as of 2026-10-25) · **Amazon Web Services · Official source** — ai-implement is listed as an agent skill. Its catalogue topics include software engineering.
 - **ai-inference-recipe** — [Website](<https://github.com/NVIDIA/srt-slurm-recipes/blob/2018b1dda0a2792edcb81fe7bae5293d25fd4ab2/.agents/skills/ai-inference-recipe/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/srt-slurm-recipes>) · **License: Apache-2.0** · **★ 10** (as of 2026-10-25) · **NVIDIA · Official source** — ai-inference-recipe is listed as an agent skill. Its catalogue topics include software engineering.

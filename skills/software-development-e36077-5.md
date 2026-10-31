@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-4.md) · [Next →](software-development-e36077-6.md)
 
-11,628 listings · Page 5 of 59
+11,629 listings · Page 5 of 59
 
 - **arithmetic-evaluator** — [Website](<https://github.com/JetBrains/koog/blob/22e342e033c716f835312dd6cbe83193e1cbcf76/integration-tests/src/jvmTest/resources/skills/arithmetic-evaluator/SKILL.md>) · [GitHub](<https://github.com/JetBrains/koog>) · **License: Apache-2.0** · **★ 4,634** (as of 2026-10-24) · **JetBrains · Official source** — arithmetic-evaluator is listed as an agent skill. Its catalogue topics include software engineering.
 - **arize-ai-provider-integration** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/arize-ai-provider-integration/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — arize-ai-provider-integration is listed as an agent skill. Its catalogue topics include software engineering.

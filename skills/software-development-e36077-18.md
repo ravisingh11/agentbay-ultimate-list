@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-17.md) · [Next →](software-development-e36077-19.md)
 
-11,628 listings · Page 18 of 59
+11,629 listings · Page 18 of 59
 
 - **dev-testing-python** — [Website](<https://github.com/google/capsem/blob/965d92df829bca6533d8294c24539d2b96b6a7ad/skills/dev-testing-python/SKILL.md>) · [GitHub](<https://github.com/google/capsem>) · **License: Apache-2.0** · **★ 102** (as of 2026-10-25) · **Google · Official source** — dev-testing-python is listed as an agent skill. Its catalogue topics include software engineering.
 - **dev-testing-vm** — [Website](<https://github.com/google/capsem/blob/965d92df829bca6533d8294c24539d2b96b6a7ad/skills/dev-testing-vm/SKILL.md>) · [GitHub](<https://github.com/google/capsem>) · **License: Apache-2.0** · **★ 102** (as of 2026-10-25) · **Google · Official source** — dev-testing-vm is listed as an agent skill. Its catalogue topics include software engineering.

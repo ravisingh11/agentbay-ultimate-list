@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 23018,
+  "entry_count": 23019,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -98256,6 +98256,15 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:71cb63f8-51cd-5c41-bab7-6441e1d88ad3": {
+      "input_sha256": "2a5cf6ddd906f1a450dd6dd8a6f3c02d0406e67549f44337b1016cff579c8340",
+      "description_sha256": "59d3f3007e02bbce44d50af1e04052cd903a28c623ea152b253969800369a70a",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },

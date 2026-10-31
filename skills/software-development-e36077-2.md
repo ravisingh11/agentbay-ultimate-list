@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-1.md) · [Next →](software-development-e36077-3.md)
 
-11,628 listings · Page 2 of 59
+11,629 listings · Page 2 of 59
 
 - **add-nexus-package** — [Website](<https://github.com/IBM/algorithm-nexus/blob/fad5d845236c3b0561d1ab0351577fbf90e1096d/.agents/skills/add-nexus-package/SKILL.md>) · [GitHub](<https://github.com/IBM/algorithm-nexus>) · **License: Apache-2.0** · **★ 4** (as of 2026-10-24) · **IBM · Official source** — add-nexus-package is listed as an agent skill. Its catalogue topics include software engineering.
 - **add-office365** — [Website](<https://github.com/microsoft/power-platform-skills/blob/aed70bfca39805db167e6bf08364d8bf55c49592/plugins/code-apps/skills/add-office365/SKILL.md>) · [GitHub](<https://github.com/microsoft/power-platform-skills>) · **License: MIT** · **★ 1,053** (as of 2026-10-25) · **Microsoft · Official source** — add-office365 is listed as an agent skill. Its catalogue topics include software engineering.

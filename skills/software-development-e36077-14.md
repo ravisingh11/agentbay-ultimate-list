@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-13.md) · [Next →](software-development-e36077-15.md)
 
-11,628 listings · Page 14 of 59
+11,629 listings · Page 14 of 59
 
 - **connect-ops-proactive-evaluation** — [Website](<https://github.com/aws-samples/sample-amazon-connect-operational-review/blob/1d24eadb7006bcf4a4aaca824b1f5ba0fb37ff75/devops-agent/skills/connect-ops-proactive-evaluation/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-amazon-connect-operational-review>) · **License: MIT-0** · **★ 1** (as of 2026-10-25) · **Amazon Web Services · Official source** — connect-ops-proactive-evaluation is listed as an agent skill. Its catalogue topics include software engineering.
 - **connect-ops-remediation-actions** — [Website](<https://github.com/aws-samples/sample-amazon-connect-operational-review/blob/1d24eadb7006bcf4a4aaca824b1f5ba0fb37ff75/devops-agent/skills/connect-ops-remediation-actions/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-amazon-connect-operational-review>) · **License: MIT-0** · **★ 1** (as of 2026-10-25) · **Amazon Web Services · Official source** — connect-ops-remediation-actions is listed as an agent skill. Its catalogue topics include software engineering.

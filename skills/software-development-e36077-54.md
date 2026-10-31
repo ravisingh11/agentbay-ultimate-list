@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-53.md) · [Next →](software-development-e36077-55.md)
 
-11,628 listings · Page 54 of 59
+11,629 listings · Page 54 of 59
 
+- **ts-style** — [Website](<https://github.com/cloudflare/workerd/blob/67e852e6968348985c3c7806e777ff850dc723da/.opencode/skills/ts-style/SKILL.md>) · [GitHub](<https://github.com/cloudflare/workerd>) · **License: Apache-2.0** · **★ 9,070** (as of 2026-10-25) · **Cloudflare · Official source** — ts-style is listed as an agent skill. Its catalogue topics include software engineering.
 - **tsa-throughput** — [Website](<https://github.com/Snowflake-Labs/sfguide-aviation-ops-intelligence/blob/ebc7d2a1f3d8319116ca88e6ba6a575624c6eecd/.cortex/skills/aviation-installer/tsa-throughput/SKILL.md>) · [GitHub](<https://github.com/Snowflake-Labs/sfguide-aviation-ops-intelligence>) · **License: Unknown** · **★ 2** (as of 2026-10-24) · **Snowflake · Official source** — tsa-throughput is listed as an agent skill. Its catalogue topics include software engineering.
 - **tsconfigs** — [Website](<https://github.com/redis/RedisInsight/blob/43bd288ed30dc6d2355723158dad5d7ecf4a280e/.ai/skills/tsconfigs/SKILL.md>) · [GitHub](<https://github.com/redis/RedisInsight>) · **License: Unknown** · **★ 8,916** (as of 2026-10-24) · **Redis · Official source** — tsconfigs is listed as an agent skill. Its catalogue topics include software engineering.
 - **tsdown** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/tsdown/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 381** (as of 2026-10-24) · **JetBrains · Official source** — tsdown is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **update-dependencies** — [Website](<https://github.com/GoogleCloudPlatform/magic-modules/blob/1c1fe90e85c2c110a2aaf70b5b98003f9ad5bd00/.agents/skills/utils/update-dependencies/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/magic-modules>) · **License: Unknown** · **★ 973** (as of 2026-10-25) · **Google · Official source** — update-dependencies is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-dependencies** — [Website](<https://github.com/microsoft/dcp/blob/0fa5d16db929d278ebe6eeca01dde02f2d3630ed/.agents/skills/update-dependencies/SKILL.md>) · [GitHub](<https://github.com/microsoft/dcp>) · **License: MIT** · **★ 192** (as of 2026-10-25) · **Microsoft · Official source** — update-dependencies is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-deps** — [Website](<https://github.com/microsoft/graphrag/blob/c600ff80b77b9b62c47d539a3ac9569e95d8949b/.agents/skills/update-deps/SKILL.md>) · [GitHub](<https://github.com/microsoft/graphrag>) · **License: MIT** · **★ 36,437** (as of 2026-10-25) · **Microsoft · Official source** — update-deps is listed as an agent skill. Its catalogue topics include software engineering.
-- **update-deps** — [Website](<https://github.com/github/rust-gems/blob/31331e8eeadf7e58f5af355a3881d95e9315ee32/.github/skills/update-deps/SKILL.md>) · [GitHub](<https://github.com/github/rust-gems>) · **License: MIT** · **★ 135** (as of 2026-10-25) · **GitHub · Official source** — update-deps is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-53.md) · [Next →](software-development-e36077-55.md)

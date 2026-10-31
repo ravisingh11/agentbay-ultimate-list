@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-58.md)
 
-11,628 listings · Page 59 of 59
+11,629 listings · Page 59 of 59
 
+- **zcc-preview** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-preview/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-preview is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-terminal** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-terminal/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-terminal is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcourts/zboard** — [Website](<https://github.com/zcourts/zboard>) · [GitHub](<https://github.com/zcourts/zboard>) · **License: MIT** · Stars: not recorded — zcourts/zboard is listed as an agent-skill repository. Its catalogue topics include software engineering and data analysis.
 - **zdrjson/xhs-growth-skill** — [Website](<https://github.com/zdrjson/xhs-growth-skill>) · [GitHub](<https://github.com/zdrjson/xhs-growth-skill>) · **License: MIT** · Stars: not recorded — zdrjson/xhs-growth-skill is listed as an agent-skill repository. Its catalogue topics include software engineering.

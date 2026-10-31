@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-52.md) · [Next →](software-development-e36077-54.md)
 
-11,628 listings · Page 53 of 59
+11,629 listings · Page 53 of 59
 
+- **thrixel/build-world** — [Website](<https://github.com/thrixel/build-world>) · [GitHub](<https://github.com/thrixel/build-world>) · **License: Apache-2.0** · Stars: not recorded — thrixel/build-world is listed as an agent-skill repository. Its catalogue topics include software engineering and MCP tool integration.
 - **throughput** — [Website](<https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks/blob/14d5e9d4940c78c1fa85b81ab0d6bc959869dcc1/.claude/skills/throughput/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks>) · **License: MIT-0** · **★ 18** (as of 2026-10-25) · **Amazon Web Services · Official source** — throughput is listed as an agent skill. Its catalogue topics include software engineering.
 - **tibtof/cobots** — [Website](<https://github.com/tibtof/cobots>) · [GitHub](<https://github.com/tibtof/cobots>) · **License: MIT** · Stars: not recorded — tibtof/cobots is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **ticket-deflector** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/small-business/skills/ticket-deflector/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — ticket-deflector is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **trx-analysis** — [Website](<https://github.com/microsoft/vstest/blob/47203137b886646772ae769fd72eb662feca8f34/.github/skills/trx-analysis/SKILL.md>) · [GitHub](<https://github.com/microsoft/vstest>) · **License: MIT** · **★ 969** (as of 2026-10-25) · **Microsoft · Official source** — trx-analysis is listed as an agent skill. Its catalogue topics include software engineering.
 - **trycourier/courier-skills** — [Website](<https://github.com/trycourier/courier-skills>) · [GitHub](<https://github.com/trycourier/courier-skills>) · **License: MIT** · Stars: not recorded — trycourier/courier-skills is listed as an agent skill. Its catalogue topics include software engineering, security and privacy, and marketing and outreach.
 - **ts-maintain-reduce-repro** — [Website](<https://github.com/microsoft/TypeScript-Maintainer-Skills/blob/9d1c914496bc09a8481a5692cedbacb6bc8a9df5/.github/skills/ts-maintain-reduce-repro/SKILL.md>) · [GitHub](<https://github.com/microsoft/TypeScript-Maintainer-Skills>) · **License: MIT** · **★ 4** (as of 2026-10-25) · **Microsoft · Official source** — ts-maintain-reduce-repro is listed as an agent skill. Its catalogue topics include software engineering.
-- **ts-style** — [Website](<https://github.com/cloudflare/workerd/blob/67e852e6968348985c3c7806e777ff850dc723da/.opencode/skills/ts-style/SKILL.md>) · [GitHub](<https://github.com/cloudflare/workerd>) · **License: Apache-2.0** · **★ 9,070** (as of 2026-10-25) · **Cloudflare · Official source** — ts-style is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-52.md) · [Next →](software-development-e36077-54.md)

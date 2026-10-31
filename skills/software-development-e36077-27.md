@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-26.md) · [Next →](software-development-e36077-28.md)
 
-11,628 listings · Page 27 of 59
+11,629 listings · Page 27 of 59
 
 - **huggingface-lora-space-builder** — [Website](<https://github.com/huggingface/skills/blob/fabc634a893f62ad5c2039830397efa35fa62715/skills/huggingface-lora-space-builder/SKILL.md>) · [GitHub](<https://github.com/huggingface/skills>) · **License: Apache-2.0** · **★ 11,208** (as of 2026-10-24) · **Hugging Face · Official source** — huggingface-lora-space-builder is listed as an agent skill. Its catalogue topics include software engineering.
 - **huggingface-spaces** — [Website](<https://github.com/huggingface/skills/blob/fabc634a893f62ad5c2039830397efa35fa62715/skills/huggingface-spaces/SKILL.md>) · [GitHub](<https://github.com/huggingface/skills>) · **License: Apache-2.0** · **★ 11,208** (as of 2026-10-24) · **Hugging Face · Official source** — huggingface-spaces is listed as an agent skill. Its catalogue topics include software engineering.

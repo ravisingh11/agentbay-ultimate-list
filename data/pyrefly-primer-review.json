@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "accepted": {
+    "name": "interpret-mypy-primer",
+    "repository": "meta/pyrefly",
+    "commit": "cf0c00414b5f12bc2f84f8c4a2b3ca26fe1a8512",
+    "path": ".agents/skills/interpret-mypy-primer/SKILL.md",
+    "blob": "aae15bc869e9bb7fb127d8c755e1ff52cc6b4f38",
+    "website_id": "44e6bf64-04ae-5b44-8219-056283d47a81",
+    "public_catalog_id": "community:71cb63f8-51cd-5c41-bab7-6441e1d88ad3",
+    "license": "MIT",
+    "license_scope": "repository",
+    "license_blob": "b93be90515ccd0b9daedaa589e42bf5929693f1f",
+    "license_sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+    "checked_at": "2026-10-31T14:20:39.398119+00:00"
+  },
+  "not_selected": [
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/add-config-cli-oss/SKILL.md",
+      "decision": "hold_operational_guardrails"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/build-fboss-oss-local/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/debug-agent-hw-test/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/debug-link-test/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/debug-qsfp-hw-test/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/platform-services/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/platform-verify/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/immersive-web-sdk",
+      "path": "packages/create/guidance/claude/.claude/skills/iwsdk-dev/SKILL.md",
+      "decision": "skip_duplicate"
+    },
+    {
+      "repository": "meta/meta-ray-ban-display-ui-toolkit-web",
+      "path": "llm-skills/uit-operational-pager-app-web/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/openzl",
+      "path": ".claude/skills/unitbench-scenarios/SKILL.md",
+      "decision": "hold_upstream_format"
+    },
+    {
+      "repository": "meta/sapling",
+      "path": "eden/.llms/skills/CREATING_ENDPOINTS/SKILL.md",
+      "decision": "hold_upstream_format"
+    }
+  ],
+  "registry_change_needed": false,
+  "publisher_instruction_execution": false,
+  "review_method": "Public identity/license and pinned bytes verified. Contextual review of the instruction workflow; no installation or runtime certification.",
+  "authorization": "Owner explicitly approved adding and publishing only this skill on 2026-10-31; the other 11 paths remain unselected."
+}

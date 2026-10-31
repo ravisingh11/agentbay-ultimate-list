@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-24.md) · [Next →](software-development-e36077-26.md)
 
-11,628 listings · Page 25 of 59
+11,629 listings · Page 25 of 59
 
 - **github/awesome-copilot** — [Website](<https://github.com/github/awesome-copilot>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — github/awesome-copilot is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and security and privacy.
 - **github/gh-stack** — [Website](<https://github.com/github/gh-stack>) · [GitHub](<https://github.com/github/gh-stack>) · **License: MIT** · **★ 1,718** (as of 2026-10-25) · **GitHub · Official source** — github/gh-stack is listed as an agent-skill repository. Its catalogue topics include software engineering.

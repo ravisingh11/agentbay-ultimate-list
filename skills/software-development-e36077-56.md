@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-55.md) · [Next →](software-development-e36077-57.md)
 
-11,628 listings · Page 56 of 59
+11,629 listings · Page 56 of 59
 
+- **vercel-flags** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-flags** — [Website](<https://github.com/vercel/vercel-plugin/blob/3c88cfc8de5d1e124d23b0ef23f32c5aa127c845/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/vercel/vercel-plugin>) · **License: Unknown** · **★ 312** (as of 2026-10-25) · **Vercel · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-functions** — [Website](<https://github.com/vercel/vercel-plugin/blob/3c88cfc8de5d1e124d23b0ef23f32c5aa127c845/skills/vercel-functions/SKILL.md>) · [GitHub](<https://github.com/vercel/vercel-plugin>) · **License: Unknown** · **★ 312** (as of 2026-10-25) · **Vercel · Official source** — vercel-functions is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-functions** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-functions/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-functions is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **warrendeanlangeveldt/code-kit** — [Website](<https://github.com/warrendeanlangeveldt/code-kit>) · [GitHub](<https://github.com/warrendeanlangeveldt/code-kit>) · **License: MIT** · Stars: not recorded — warrendeanlangeveldt/code-kit is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and deployment and cloud operations.
 - **wasm-inspector** — [Website](<https://github.com/JetBrains/hexana/blob/2da10ef84c907ddb66f6f0eb980e70e8bf21ef46/plugins/hexana/skills/wasm-inspector/SKILL.md>) · [GitHub](<https://github.com/JetBrains/hexana>) · **License: Unknown** · **★ 29** (as of 2026-10-24) · **JetBrains · Official source** — wasm-inspector is listed as an agent skill. Its catalogue topics include software engineering.
 - **wasulajr/headsup** — [Website](<https://github.com/wasulajr/headsup>) · [GitHub](<https://github.com/wasulajr/headsup>) · **License: MIT** · Stars: not recorded — wasulajr/headsup is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **watch-github-actions** — [Website](<https://github.com/NVIDIA/OpenShell/blob/c4688aa8715ea75d6c39fe468361dbbc16c691fa/.agents/skills/watch-github-actions/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/OpenShell>) · **License: Apache-2.0** · **★ 19,598** (as of 2026-10-25) · **NVIDIA · Official source** — watch-github-actions is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-55.md) · [Next →](software-development-e36077-57.md)

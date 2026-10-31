@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-22.md) · [Next →](software-development-e36077-24.md)
 
-11,628 listings · Page 23 of 59
+11,629 listings · Page 23 of 59
 
 - **forecast-analysis** — [Website](<https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent/blob/951a1a1114e9818073ddbe2a5fdbfa824751f4d3/src/deep_researcher_agent/agents/deep_researcher/skills/research/forecast-analysis/SKILL.md>) · [GitHub](<https://github.com/NVIDIA-AI-Blueprints/deep-researcher-agent>) · **License: Apache-2.0** · **★ 909** (as of 2026-10-25) · **NVIDIA · Official source** — forecast-analysis is listed as an agent skill. Its catalogue topics include software engineering.
 - **forecast-narrative** — [Website](<https://github.com/salesforce/salesforce-skills/blob/6b989d6490589647c4c164f7f55c2797cf322f04/salesforce-for-sales/skills/forecast-narrative/SKILL.md>) · [GitHub](<https://github.com/salesforce/salesforce-skills>) · **License: Apache-2.0** · **★ 17** (as of 2026-10-24) · **Salesforce · Official source** — forecast-narrative is listed as an agent skill. Its catalogue topics include software engineering.

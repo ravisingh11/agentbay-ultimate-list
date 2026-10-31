@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-54.md) · [Next →](software-development-e36077-56.md)
 
-11,628 listings · Page 55 of 59
+11,629 listings · Page 55 of 59
 
+- **update-deps** — [Website](<https://github.com/github/rust-gems/blob/31331e8eeadf7e58f5af355a3881d95e9315ee32/.github/skills/update-deps/SKILL.md>) · [GitHub](<https://github.com/github/rust-gems>) · **License: MIT** · **★ 135** (as of 2026-10-25) · **GitHub · Official source** — update-deps is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-emitter** — [Website](<https://github.com/Azure/azure-sdk-for-rust/blob/481c2224e9a76ed4a323e928558538c5240750cf/.github/skills/update-emitter/SKILL.md>) · [GitHub](<https://github.com/Azure/azure-sdk-for-rust>) · **License: MIT** · **★ 885** (as of 2026-10-25) · **Microsoft · Official source** — update-emitter is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-go-version** — [Website](<https://github.com/GoogleCloudPlatform/k8s-config-connector/blob/f35b8c9cee0717ac9c95274cb11264ab0625a90b/.gemini/skills/update-go-version/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/k8s-config-connector>) · **License: Apache-2.0** · **★ 1,071** (as of 2026-10-25) · **Google · Official source** — update-go-version is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-golden-values** — [Website](<https://github.com/NVIDIA/Megatron-LM/blob/2052769557dcf7045c4091d1996f0bc59afeb80e/skills/update-golden-values/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/Megatron-LM>) · **License: Unknown** · **★ 18,263** (as of 2026-10-25) · **NVIDIA · Official source** — update-golden-values is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **vercel-firewall** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-firewall/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-firewall is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-firewall** — [Website](<https://github.com/vercel/vercel-plugin/blob/3c88cfc8de5d1e124d23b0ef23f32c5aa127c845/skills/vercel-firewall/SKILL.md>) · [GitHub](<https://github.com/vercel/vercel-plugin>) · **License: Unknown** · **★ 312** (as of 2026-10-25) · **Vercel · Official source** — vercel-firewall is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-flags** — [Website](<https://github.com/vercel/flags/blob/86df06229b34cd18f6d4b53cb2cb010930953af5/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/vercel/flags>) · **License: MIT** · **★ 624** (as of 2026-10-25) · **Vercel · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
-- **vercel-flags** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-54.md) · [Next →](software-development-e36077-56.md)
