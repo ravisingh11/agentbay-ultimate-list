@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-10.md) · [Next →](software-development-e36077-12.md)
 
-11,555 listings · Page 11 of 58
+11,628 listings · Page 11 of 59
 
 - **canvas-app** — [Website](<https://github.com/microsoft/power-platform-skills/blob/aed70bfca39805db167e6bf08364d8bf55c49592/plugins/canvas-apps/skills/canvas-app/SKILL.md>) · [GitHub](<https://github.com/microsoft/power-platform-skills>) · **License: MIT** · **★ 1,053** (as of 2026-10-25) · **Microsoft · Official source** — canvas-app is listed as an agent skill. Its catalogue topics include software engineering.
 - **canvas-apps** — [Website](<https://github.com/microsoft/PilotSwarm/blob/e49372caf31602632e138e41972d235e1ee4354b/packages/sdk/plugins/system/skills/canvas-apps/SKILL.md>) · [GitHub](<https://github.com/microsoft/PilotSwarm>) · **License: MIT** · **★ 9** (as of 2026-10-25) · **Microsoft · Official source** — canvas-apps is listed as an agent skill. Its catalogue topics include software engineering.

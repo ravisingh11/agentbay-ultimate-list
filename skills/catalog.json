@@ -130976,6 +130976,566 @@
     "preferred_provider": "Anthropic"
   },
   {
+    "id": "community:ae7d2e34-f5e3-5dd2-b059-e85dbb201546",
+    "name": "clerk",
+    "description": "clerk is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:c57ba79a-ed5e-53c8-942a-b233a13fa82a",
+    "name": "clerk-android",
+    "description": "clerk-android is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-android/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:bb732f59-216c-5a29-b930-6aefd9f411f1",
+    "name": "clerk-astro-patterns",
+    "description": "clerk-astro-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-astro-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:d48d17f2-91f6-5d87-bf19-a94b2d060b38",
+    "name": "clerk-backend-api",
+    "description": "clerk-backend-api is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-backend-api/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:b2fd2b8c-5c18-5021-b62c-8eba331b6cf7",
+    "name": "clerk-billing",
+    "description": "clerk-billing is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-billing/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:407bda83-4de3-5c94-85ae-22f9e3fa00d8",
+    "name": "clerk-chrome-extension-patterns",
+    "description": "clerk-chrome-extension-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-chrome-extension-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:d257cb4f-728a-5fc9-ad5b-3d32c56ff48b",
+    "name": "clerk-cli",
+    "description": "clerk-cli is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-cli/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:e7718f0e-8bf4-5006-8100-30ffcd98a93b",
+    "name": "clerk-custom-ui",
+    "description": "clerk-custom-ui is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-custom-ui/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:4343d335-ab06-5a29-bffc-712e3f14fc03",
+    "name": "clerk-expo",
+    "description": "clerk-expo is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-expo/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:36a9529b-5819-5cf7-a57f-5d2c7a8c8d96",
+    "name": "clerk-nextjs-patterns",
+    "description": "clerk-nextjs-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nextjs-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:c4b20256-7b7b-52c9-8579-532488aae71e",
+    "name": "clerk-nuxt-patterns",
+    "description": "clerk-nuxt-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-nuxt-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:6ccff07a-8aa0-54c4-8a22-68bcbb8b6ba3",
+    "name": "clerk-orgs",
+    "description": "clerk-orgs is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-orgs/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:2691ff1d-0239-59a0-a008-fc02ca0348b3",
+    "name": "clerk-react-patterns",
+    "description": "clerk-react-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:61f55ad9-7048-53cd-9fb2-24714d9246ce",
+    "name": "clerk-react-router-patterns",
+    "description": "clerk-react-router-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-react-router-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:4a6e54f1-4286-59ec-8123-f3409acc0b46",
+    "name": "clerk-setup",
+    "description": "clerk-setup is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-setup/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:74ee2c29-82f0-5adb-9d39-228ab22f359a",
+    "name": "clerk-swift",
+    "description": "clerk-swift is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-swift/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:b4791e24-bffe-5a36-91ee-4b9ea54175a1",
+    "name": "clerk-tanstack-patterns",
+    "description": "clerk-tanstack-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-tanstack-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:68cd8583-2927-559a-92d1-6db7e9b88b98",
+    "name": "clerk-testing",
+    "description": "clerk-testing is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-testing/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:daa53b6d-feba-5b23-9514-273188df5850",
+    "name": "clerk-vue-patterns",
+    "description": "clerk-vue-patterns is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-vue-patterns/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
+    "id": "community:e056a20c-48ad-51f3-801e-11a5a4676de2",
+    "name": "clerk-webhooks",
+    "description": "clerk-webhooks is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-webhooks/SKILL.md",
+    "repository_url": "https://github.com/clerk/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Clerk",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 89,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Clerk"
+  },
+  {
     "id": "bb4c82af-ad25-52b2-b1b9-32c73ec666f1",
     "name": "clever-cc-plugins/cc-concept",
     "description": "clever-cc-plugins/cc-concept is listed as an agent-skill repository. Its catalogue topics include project planning, information research, and agent development.",
@@ -147969,6 +148529,34 @@
     "preferred_provider": "Adobe"
   },
   {
+    "id": "community:dc127798-eca3-536a-8720-24450f08ffbc",
+    "name": "content-experimentation-best-practices",
+    "description": "content-experimentation-best-practices is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-experimentation-best-practices/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
     "id": "c9007cce-0840-59b5-828c-25746cf1288b",
     "name": "content-management-systems",
     "description": "content-management-systems is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -148023,6 +148611,34 @@
     "github_stars_checked_at": "2026-10-24T16:06:53.419936+00:00",
     "recommended": false,
     "preferred_provider": "Adobe"
+  },
+  {
+    "id": "community:e1943873-7d7b-5b33-90b0-049e6ec6ed83",
+    "name": "content-modeling-best-practices",
+    "description": "content-modeling-best-practices is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/content-modeling-best-practices/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
   },
   {
     "id": "e67f9584-0ed1-5efe-ac78-4c7231ba3d96",
@@ -150869,18 +151485,23 @@
   {
     "id": "5cbb8062-efa4-54af-9b3e-641578123dfe",
     "name": "convex",
-    "description": "convex is listed as an agent skill. Its catalogue topics include data analysis and agent development.",
+    "description": "convex is listed as an agent skill. Its catalogue topics include data analysis, agent development, and software engineering.",
     "type": "Skill",
-    "website_url": "https://github.com/convex/agent-skills",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex/SKILL.md",
     "repository_url": "https://github.com/convex/agent-skills",
     "categories": [
       "Data analysis",
-      "ai-agent"
+      "ai-agent",
+      "Software development"
     ],
-    "tags": [],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
     "use_cases": [
       "Explore and organize analytical work",
-      "Explore agent-building workflows"
+      "Explore agent-building workflows",
+      "Assist with implementation and code-maintenance tasks"
     ],
     "license": "Apache-2.0",
     "license_scope": "repository",
@@ -150891,7 +151512,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "9f3765a7-6c1f-58f9-a23d-bbe023870df4",
@@ -150950,6 +151571,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:53daed9f-d044-551b-aad3-c21b4b3706f7",
+    "name": "convex-add",
+    "description": "convex-add is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-add/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "73c122a0-4b1e-5b21-9ee8-a4a0e71134be",
     "name": "convex-advisor",
     "description": "convex-advisor is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -150976,6 +151625,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:a622a586-d6ce-52b1-a7b4-f0612c28ca66",
+    "name": "convex-advisor",
+    "description": "convex-advisor is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-advisor/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "76702dc5-05a5-5ec8-a559-9c67cfc093f6",
@@ -151006,6 +151683,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:a515f6b0-2162-5f70-9f62-d065e3965c1a",
+    "name": "convex-agent",
+    "description": "convex-agent is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-agent/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "7a7dda32-75a5-56cf-bdf6-42fd25febdbc",
     "name": "convex-auth",
     "description": "convex-auth is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151032,6 +151737,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:75f94567-5529-535c-ae31-b2de08f0d885",
+    "name": "convex-auth",
+    "description": "convex-auth is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-auth/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "6e649df1-bd05-5d95-95bd-6ff44d719cf6",
@@ -151062,6 +151795,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:c88dc7e6-02cf-5d39-92ed-016ce617a15b",
+    "name": "convex-authz",
+    "description": "convex-authz is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-authz/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "5e185f7a-b671-5f5b-a692-d07a28300ed2",
     "name": "convex-backup",
     "description": "convex-backup is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151088,6 +151849,62 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:2651e41f-707a-53e3-a17d-f8fd4105c0a4",
+    "name": "convex-backup",
+    "description": "convex-backup is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-backup/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
+    "id": "community:3d79e9ac-c3d8-5b29-bd1d-d196c86f61d2",
+    "name": "convex-billing",
+    "description": "convex-billing is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-billing/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "e8baafb7-ccc1-5150-8bdc-9106aed0506b",
@@ -151146,16 +151963,48 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:7f0c6c51-68ad-5343-8600-c34fb4bc173d",
+    "name": "convex-cost",
+    "description": "convex-cost is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-cost/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "9dd972eb-9050-5e14-a9ea-11b7f5d4ea59",
     "name": "convex-create-component",
     "description": "convex-create-component is listed as an agent skill. Its catalogue topics include software engineering.",
     "type": "Skill",
-    "website_url": "https://github.com/convex/agent-skills",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-create-component/SKILL.md",
     "repository_url": "https://github.com/convex/agent-skills",
     "categories": [
-      "dev-programming"
+      "dev-programming",
+      "Software development"
     ],
-    "tags": [],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
     "use_cases": [
       "Assist with implementation and code-maintenance tasks"
     ],
@@ -151168,7 +152017,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "f5217565-3482-5f4b-af38-c43cdbc2718a",
@@ -151227,6 +152076,62 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:bed5b75a-1413-54c4-9c6c-5e9ee674f48a",
+    "name": "convex-crons",
+    "description": "convex-crons is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-crons/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
+    "id": "community:617eac44-4648-5c62-a88c-bc52e20f51d3",
+    "name": "convex-deploy-guard",
+    "description": "convex-deploy-guard is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-deploy-guard/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "d0d37773-53b2-5399-b88d-4cf3dfc1a318",
     "name": "convex-deploy-guard",
     "description": "convex-deploy-guard is listed as an agent skill. Its catalogue topics include deployment and cloud operations.",
@@ -151253,6 +152158,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:2391667c-f761-51b7-ad1f-165ec08e7f0d",
+    "name": "convex-design",
+    "description": "convex-design is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-design/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "d2a86cd8-7759-5ba9-aa04-5b6539885d77",
@@ -151311,6 +152244,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:8f5a5dfa-ffdd-5506-b64b-6a7bf5406786",
+    "name": "convex-docs",
+    "description": "convex-docs is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-docs/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "223f0a53-fc19-591c-9854-0f6878333ac6",
     "name": "convex-domains",
     "description": "convex-domains is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151337,6 +152298,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:055749dc-59d2-5537-b7cf-5e9589de67fc",
+    "name": "convex-domains",
+    "description": "convex-domains is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-domains/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "1acb61f0-1b08-5c78-8eaa-91333a62431b",
@@ -151367,6 +152356,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:3b4ac148-bf5d-557a-b23e-37bd4088bb60",
+    "name": "convex-env",
+    "description": "convex-env is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-env/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "42f14437-86db-5b37-9303-8236eec8fdae",
     "name": "convex-expert",
     "description": "convex-expert is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151395,6 +152412,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:fe00cb63-8bf0-5622-9ad1-818b16d4187e",
+    "name": "convex-expert",
+    "description": "convex-expert is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-expert/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "bf0c2056-1035-5280-a653-c3aa922195d7",
     "name": "convex-explain-app",
     "description": "convex-explain-app is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151421,6 +152466,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:aec38df0-19a1-53a2-93d1-393ac052ce1f",
+    "name": "convex-explain-app",
+    "description": "convex-explain-app is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-explain-app/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "0e4f640f-58a8-51da-b0c1-2c6c345322fc",
@@ -151479,6 +152552,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:9b287975-84d1-55cb-af02-980606f5b775",
+    "name": "convex-insights",
+    "description": "convex-insights is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-insights/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "d8152e0a-d254-5267-9b32-c875385cc5c5",
     "name": "convex-insights",
     "description": "convex-insights is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151535,6 +152636,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:8699104a-f731-5510-8408-85a8fe656b60",
+    "name": "convex-launch-readiness",
+    "description": "convex-launch-readiness is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-launch-readiness/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "be04a66d-5264-588d-a5f0-31c59ad749ee",
     "name": "convex-migrate",
     "description": "convex-migrate is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151561,6 +152690,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:58f6ce80-a02e-50bf-a7a0-a2d2607efdf3",
+    "name": "convex-migrate",
+    "description": "convex-migrate is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "3f34b4ad-8ffd-51d3-821a-c7733c506b93",
@@ -151591,6 +152748,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:edb919be-c0a2-5cb5-84cd-37daf988cca6",
+    "name": "convex-migrate-rehearse",
+    "description": "convex-migrate-rehearse is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-migrate-rehearse/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "6ab0c29b-7d1a-5e2a-8c8f-07c79e8149b3",
     "name": "convex-migration-helper",
     "description": "convex-migration-helper is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151613,7 +152798,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "3b6bdbf6-77b3-593b-8895-c7ab8de173bc",
@@ -151644,6 +152829,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:0ead4309-83a0-5dfa-822c-67152071ce2f",
+    "name": "convex-monitor",
+    "description": "convex-monitor is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-monitor/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "6cd36ffe-7542-525e-bcb7-fff266131acd",
     "name": "convex-optimize",
     "description": "convex-optimize is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151672,6 +152885,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:2a2f09d5-dbf7-5eb0-9ff8-bae03e4c9f00",
+    "name": "convex-optimize",
+    "description": "convex-optimize is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-optimize/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "d0bed015-0dca-5e44-b91b-e5dbb3b684bd",
     "name": "convex-performance-audit",
     "description": "convex-performance-audit is listed as an agent skill. Its catalogue topics include agent development.",
@@ -151694,21 +152935,26 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "62bd726a-1e61-54a9-8205-0d3536d6120c",
     "name": "convex-quickstart",
-    "description": "convex-quickstart is listed as an agent skill. Its catalogue topics include agent development.",
+    "description": "convex-quickstart is listed as an agent skill. Its catalogue topics include agent development and software engineering.",
     "type": "Skill",
-    "website_url": "https://github.com/convex/agent-skills",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-quickstart/SKILL.md",
     "repository_url": "https://github.com/convex/agent-skills",
     "categories": [
-      "ai-agent"
+      "ai-agent",
+      "Software development"
     ],
-    "tags": [],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
     "use_cases": [
-      "Explore agent-building workflows"
+      "Explore agent-building workflows",
+      "Assist with implementation and code-maintenance tasks"
     ],
     "license": "Apache-2.0",
     "license_scope": "repository",
@@ -151719,7 +152965,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "926d3743-d33e-5bee-b7ec-cc4f3a13ac8d",
@@ -151778,6 +153024,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:3b610302-5b81-5178-855a-a38717ae4164",
+    "name": "convex-reviewer",
+    "description": "convex-reviewer is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-reviewer/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "ab79ad51-6b85-59f4-ab30-bebdd01798fc",
     "name": "convex-seed",
     "description": "convex-seed is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151804,6 +153078,62 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:14946754-08b1-52a0-a1b9-ae0d9c294ab1",
+    "name": "convex-seed",
+    "description": "convex-seed is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-seed/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
+    "id": "community:22f74414-513d-505e-86b9-7cefdc4d736b",
+    "name": "convex-self-heal",
+    "description": "convex-self-heal is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-self-heal/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "f7ef7267-317c-5a58-a91a-ca8e1a95256f",
@@ -151862,6 +153192,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:5b7067b0-1c52-5184-ad96-c68f76c0f76a",
+    "name": "convex-sentinel",
+    "description": "convex-sentinel is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-sentinel/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "9dca727f-dbe4-58ac-bdee-e1fa910afce1",
     "name": "convex-setup-auth",
     "description": "convex-setup-auth is listed as an agent skill. Its catalogue topics include agent development.",
@@ -151884,7 +153242,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "463e6c92-3867-5cd9-b120-d10e39c6a049",
@@ -151915,6 +153273,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:6b749ea4-8679-5a6a-90a7-90645d280a2d",
+    "name": "convex-suggest",
+    "description": "convex-suggest is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-suggest/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "9eb6820e-85b0-5454-a93a-0e91927d053c",
     "name": "convex-test",
     "description": "convex-test is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -151941,6 +153327,34 @@
     "github_stars_checked_at": "2026-10-24T20:59:33.603575+00:00",
     "recommended": false,
     "preferred_provider": "Sentry"
+  },
+  {
+    "id": "community:49b195d7-99f3-583d-be78-fac3964aae0b",
+    "name": "convex-test",
+    "description": "convex-test is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-test/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
   },
   {
     "id": "1169076a-abb3-57b2-a5b7-4f87b6927979",
@@ -151971,6 +153385,34 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:ebd5ee07-2e41-5417-96f6-9a63713a5202",
+    "name": "convex-verify",
+    "description": "convex-verify is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/convex/agent-skills/blob/f60629d7c6c1f27eb58a56260546d2445049274d/skills/convex-verify/SKILL.md",
+    "repository_url": "https://github.com/convex/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Convex",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "Apache-2.0",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 69,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Convex"
+  },
+  {
     "id": "6cea8a4c-3919-5b01-842a-4b164bffafbe",
     "name": "convex/agent-skills",
     "description": "convex/agent-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and authentication workflows.",
@@ -151995,7 +153437,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Convex"
   },
   {
     "id": "1187f15f-67d6-5ee6-8129-ca659601aa76",
@@ -212726,6 +214168,202 @@
     "preferred_provider": "NVIDIA"
   },
   {
+    "id": "community:2bc8dddb-56c4-5737-b997-f3c3eab31ef7",
+    "name": "eas-app-stores",
+    "description": "eas-app-stores is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-app-stores/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:22251f6a-24cc-59cd-a323-2b34f47a1ef5",
+    "name": "eas-hosting",
+    "description": "eas-hosting is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-hosting/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:8658f8d3-dbab-5303-a786-f7bed35a4946",
+    "name": "eas-observe",
+    "description": "eas-observe is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-observe/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:1d4c97af-8340-5a2e-a4d0-6f7c705712e6",
+    "name": "eas-simulator",
+    "description": "eas-simulator is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-simulator/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:c7e31654-3050-5100-a6cb-3b41d3938b87",
+    "name": "eas-update",
+    "description": "eas-update is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:a59bf992-4706-5534-a313-6099c56a4a38",
+    "name": "eas-update-insights",
+    "description": "eas-update-insights is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-update-insights/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:928d4360-925c-5783-a0ea-041470b3bf86",
+    "name": "eas-workflows",
+    "description": "eas-workflows is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/eas-workflows/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "d07b0185-bf2a-5a78-9ceb-46ff484187a8",
     "name": "easyinplay/harnessed",
     "description": "easyinplay/harnessed is listed as an agent-skill repository. Its catalogue topics include project planning, information research, and agent development.",
@@ -229786,6 +231424,34 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:774dd9fd-3f8a-5980-840d-59edacfaa8a5",
+    "name": "expo-animation",
+    "description": "expo-animation is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-animation/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "0b3c2629-c1cd-5819-babe-66995146c080",
     "name": "expo-api-routes",
     "description": "expo-api-routes is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -229812,6 +231478,62 @@
     "github_stars_checked_at": "2026-10-25T05:50:41.582700+00:00",
     "recommended": false,
     "preferred_provider": "OpenAI"
+  },
+  {
+    "id": "community:6d708952-1a46-5559-bbd9-cf4e1fd48f95",
+    "name": "expo-app-clip",
+    "description": "expo-app-clip is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-app-clip/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:3040dbbc-c99f-504b-b1b9-5ad986d21415",
+    "name": "expo-brownfield",
+    "description": "expo-brownfield is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-brownfield/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
   },
   {
     "id": "bb54c564-a7a8-5f20-9598-984a20e950a3",
@@ -229842,6 +231564,34 @@
     "preferred_provider": "OpenAI"
   },
   {
+    "id": "community:850674c5-8591-5f85-9e67-cebc36ff879d",
+    "name": "expo-data-fetching",
+    "description": "expo-data-fetching is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-data-fetching/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "e4168c76-f6e7-5a2f-be63-3939f3bc21e5",
     "name": "expo-deployment",
     "description": "expo-deployment is listed as an agent skill. Its catalogue topics include deployment and cloud operations.",
@@ -229868,6 +231618,34 @@
     "github_stars_checked_at": "2026-10-25T05:50:41.582700+00:00",
     "recommended": false,
     "preferred_provider": "OpenAI"
+  },
+  {
+    "id": "community:019902ae-176a-5dce-b647-8b179cac7641",
+    "name": "expo-design-system",
+    "description": "expo-design-system is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-design-system/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
   },
   {
     "id": "21c8ee8d-67ae-55ed-ab9d-e06c1db9097a",
@@ -229898,6 +231676,118 @@
     "preferred_provider": "OpenAI"
   },
   {
+    "id": "community:478eedec-4552-5335-b1cc-eca2f5dca8c9",
+    "name": "expo-dev-client",
+    "description": "expo-dev-client is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dev-client/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:17446a9e-f03b-587b-bc59-4f3a554311c3",
+    "name": "expo-dom",
+    "description": "expo-dom is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-dom/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:0355338f-1842-5e6f-ab1f-4f78c734caf3",
+    "name": "expo-examples",
+    "description": "expo-examples is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-examples/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:e0788061-b70a-52c1-81c6-7f0b8f12be69",
+    "name": "expo-migrate-module",
+    "description": "expo-migrate-module is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo-experiments/skills/expo-migrate-module/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "12a6bc6c-bde9-5ffc-8c69-41cab4db87b5",
     "name": "expo-module",
     "description": "expo-module is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -229926,6 +231816,146 @@
     "preferred_provider": "OpenAI"
   },
   {
+    "id": "community:cb145da3-b4bb-5a66-ab47-1acd702e8ded",
+    "name": "expo-module",
+    "description": "expo-module is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-module/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:2e269da8-faaa-5770-ba43-0ee5130e2993",
+    "name": "expo-native-ui",
+    "description": "expo-native-ui is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-native-ui/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:7379f9ba-6e22-5df6-bf14-ef4dc942ab47",
+    "name": "expo-overview",
+    "description": "expo-overview is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-overview/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:9436de41-c31c-530e-87f7-09ad765c6156",
+    "name": "expo-project-structure",
+    "description": "expo-project-structure is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-project-structure/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:c08a8c50-01fd-5025-8402-17d186f0be8d",
+    "name": "expo-router",
+    "description": "expo-router is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-router/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "f91797a7-c430-5cb6-b2cd-14a875ae83c7",
     "name": "expo-tailwind-setup",
     "description": "expo-tailwind-setup is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -229952,6 +231982,34 @@
     "github_stars_checked_at": "2026-10-25T05:50:41.582700+00:00",
     "recommended": false,
     "preferred_provider": "OpenAI"
+  },
+  {
+    "id": "community:d90cb766-800c-5d1c-add5-4874c2152340",
+    "name": "expo-ui",
+    "description": "expo-ui is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-ui/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
   },
   {
     "id": "9d1e7549-0d94-56c1-8ddf-6a2c5eba4b53",
@@ -230010,6 +232068,62 @@
     "preferred_provider": "OpenAI"
   },
   {
+    "id": "community:eb54c34f-b19e-5670-96fd-e1f08de85d2c",
+    "name": "expo-upgrade",
+    "description": "expo-upgrade is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-upgrade/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
+    "id": "community:57628971-92bb-5def-ae6c-dc63081c9274",
+    "name": "expo-web-to-native",
+    "description": "expo-web-to-native is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/expo/skills/blob/05754e71d02abe0d2d7a2fb5259ccac41f5ea59c/plugins/expo/skills/expo-web-to-native/SKILL.md",
+    "repository_url": "https://github.com/expo/skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Expo",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 3914,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Expo"
+  },
+  {
     "id": "769cae1e-8522-5063-8116-b05eeb4fe39e",
     "name": "expo/building-native-ui",
     "description": "expo/building-native-ui is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
@@ -230028,7 +232142,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "9bc7a40c-3b28-517e-9c0d-f995c2d2505f",
@@ -230049,7 +232163,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "a79a6419-8e19-5113-bec1-1d1560d45a1b",
@@ -230070,7 +232184,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "2454d40c-c966-5ac5-9fe3-fdacf47a3a03",
@@ -230095,7 +232209,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "58317108-1f5d-5b20-a597-a0e4fac6b4a8",
@@ -230116,7 +232230,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "7a8a621e-09c7-508d-ab60-806f78140de8",
@@ -230137,7 +232251,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "2767bd0f-4693-5aab-973a-9c08faf477d1",
@@ -230158,7 +232272,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "f4c903a1-777a-521a-b838-ede5201c39b0",
@@ -230179,7 +232293,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "051205c4-6e4b-5751-8ebe-eb4eb9d93a3d",
@@ -230200,7 +232314,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "c0a3b832-81e6-543e-b7dd-e6669cfd0177",
@@ -230229,7 +232343,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "8efe2bd7-6f2e-527a-b6dd-d00cd3d03061",
@@ -230250,7 +232364,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "56cfc266-7114-51c3-b3ec-174fc0f35de7",
@@ -230271,7 +232385,7 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Expo"
   },
   {
     "id": "faafe43b-464a-5453-9ba8-45f0d40a0990",
@@ -460613,6 +462727,62 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:b9f8a5e6-2c8b-5684-a6a3-9e6a9517a998",
+    "name": "portable-text-conversion",
+    "description": "portable-text-conversion is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-conversion/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
+    "id": "community:5e77c961-c4ce-5d08-995e-253b260dc647",
+    "name": "portable-text-serialization",
+    "description": "portable-text-serialization is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/portable-text-serialization/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
     "id": "da6309cf-1aa3-574e-8936-dc1a2897fce9",
     "name": "portfolio",
     "description": "portfolio is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -521455,6 +523625,34 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:0f81d235-355a-5c5b-8240-95cc17ab78b1",
+    "name": "sanity-best-practices",
+    "description": "sanity-best-practices is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-best-practices/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
     "id": "0c47fc44-a6f8-5730-86fa-f704aed02afe",
     "name": "sanity-check-linter",
     "description": "sanity-check-linter is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -521481,6 +523679,34 @@
     "github_stars_checked_at": "2026-10-25T04:50:46.252511+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:c91f1db1-6a48-59d9-8393-bb4d10410047",
+    "name": "sanity-form-component-suspense",
+    "description": "sanity-form-component-suspense is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-form-component-suspense/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
   },
   {
     "id": "e3cad024-c2d3-57b5-b997-9834945711aa",
@@ -521517,7 +523743,91 @@
     "github_stars": null,
     "github_stars_checked_at": null,
     "recommended": false,
-    "preferred_provider": ""
+    "preferred_provider": "Sanity"
+  },
+  {
+    "id": "community:9fb0681e-d16f-5ba7-ab33-3232257c034f",
+    "name": "sanity-migration",
+    "description": "sanity-migration is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-migration/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
+    "id": "community:20c49850-2b61-5ff7-bfac-49cf93de71cf",
+    "name": "sanity-singletons",
+    "description": "sanity-singletons is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-singletons/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
+  },
+  {
+    "id": "community:85441cd4-5caa-58b3-9c2a-858c1ab60228",
+    "name": "sanity-studio-upgrade",
+    "description": "sanity-studio-upgrade is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/sanity-studio-upgrade/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
   },
   {
     "id": "88f35d39-9d9f-5304-8a8f-3eeaca0c2b01",
@@ -534604,6 +536914,34 @@
     "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
+  },
+  {
+    "id": "community:7d947552-0877-5265-97d2-b536ee48ef3c",
+    "name": "seo-aeo-best-practices",
+    "description": "seo-aeo-best-practices is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/sanity-io/agent-toolkit/blob/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320/skills/seo-aeo-best-practices/SKILL.md",
+    "repository_url": "https://github.com/sanity-io/agent-toolkit",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Sanity",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "agentbay_url": "",
+    "github_stars": 194,
+    "github_stars_checked_at": "2026-10-31T03:26:03.840776+00:00",
+    "recommended": false,
+    "preferred_provider": "Sanity"
   },
   {
     "id": "92d90725-abf5-5493-a03c-552653fe1679",

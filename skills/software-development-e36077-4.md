@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-3.md) · [Next →](software-development-e36077-5.md)
 
-11,555 listings · Page 4 of 58
+11,628 listings · Page 4 of 59
 
 - **analysis-methods** — [Website](<https://github.com/NVIDIA/dgx-spark-playbooks/blob/30883150541743d580c9c347700c6ac99fc396d2/nvidia/playbook-healthcare-agent/assets/skills/analysis-methods/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/dgx-spark-playbooks>) · **License: Apache-2.0** · **★ 1,456** (as of 2026-10-25) · **NVIDIA · Official source** — analysis-methods is listed as an agent skill. Its catalogue topics include software engineering.
 - **analysis-qa** — [Website](<https://github.com/microsoft/glintlabs/blob/ab0ea5d0173d2b62595c44751993bf79818597b7/skills/analysis-qa/SKILL.md>) · [GitHub](<https://github.com/microsoft/glintlabs>) · **License: MIT** · **★ 2** (as of 2026-10-25) · **Microsoft · Official source** — analysis-qa is listed as an agent skill. Its catalogue topics include software engineering.

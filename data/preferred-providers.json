@@ -57,11 +57,25 @@
       "homepage_url": "https://www.bytedance.com/"
     },
     {
+      "name": "Clerk",
+      "github_owners": [
+        "clerk"
+      ],
+      "homepage_url": "https://clerk.com/"
+    },
+    {
       "name": "Cloudflare",
       "github_owners": [
         "cloudflare"
       ],
       "homepage_url": "https://www.cloudflare.com/"
+    },
+    {
+      "name": "Convex",
+      "github_owners": [
+        "convex"
+      ],
+      "homepage_url": "https://www.convex.dev/"
     },
     {
       "name": "Databricks",
@@ -84,6 +98,13 @@
         "elevenlabs"
       ],
       "homepage_url": "https://elevenlabs.io/"
+    },
+    {
+      "name": "Expo",
+      "github_owners": [
+        "expo"
+      ],
+      "homepage_url": "https://expo.dev/"
     },
     {
       "name": "Firecrawl",
@@ -178,13 +199,6 @@
       "homepage_url": "https://www.mongodb.com/"
     },
     {
-      "name": "Neon",
-      "github_owners": [
-        "neondatabase"
-      ],
-      "homepage_url": "https://neon.com/"
-    },
-    {
       "name": "NVIDIA",
       "github_owners": [
         "nvidia",
@@ -192,6 +206,13 @@
         "nvidia-nemo"
       ],
       "homepage_url": "https://www.nvidia.com/"
+    },
+    {
+      "name": "Neon",
+      "github_owners": [
+        "neondatabase"
+      ],
+      "homepage_url": "https://neon.com/"
     },
     {
       "name": "OpenAI",
@@ -229,6 +250,13 @@
         "salesforcecli"
       ],
       "homepage_url": "https://www.salesforce.com/"
+    },
+    {
+      "name": "Sanity",
+      "github_owners": [
+        "sanity-io"
+      ],
+      "homepage_url": "https://www.sanity.io/"
     },
     {
       "name": "Sentry",

@@ -1,0 +1,597 @@
+{
+  "schema_version": 1,
+  "counts": {
+    "proposed_additions": 83,
+    "duplicates_or_exclusions": 0,
+    "deferred": 0,
+    "automatic_removals": 0,
+    "limit": 100,
+    "existing_skill_links_refreshed": 3
+  },
+  "instruction_execution": false,
+  "providers": [
+    {
+      "provider": "Clerk",
+      "official_documentation": "https://clerk.com/docs/guides/ai/skills",
+      "repository": "https://github.com/clerk/skills",
+      "commit": "b0d994e9cd954556ec747754484ad80565d67c15",
+      "checked_at": "2026-10-31T03:19:12.491140+00:00",
+      "repository_license": null,
+      "selected_skills": [
+        {
+          "name": "clerk-android",
+          "path": "skills/clerk-android/SKILL.md",
+          "blob": "8be6ab1d5742f58bd7d27ae985a3f8129c0840ef",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-astro-patterns",
+          "path": "skills/clerk-astro-patterns/SKILL.md",
+          "blob": "ed4c3e6783d5d8c75ec02ad9aea29c958f1a063a",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-backend-api",
+          "path": "skills/clerk-backend-api/SKILL.md",
+          "blob": "da8a9d7007c04a540841848899e2a3b5fe033f90",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-billing",
+          "path": "skills/clerk-billing/SKILL.md",
+          "blob": "6715edcff8a29f0b8da438ccef515fe1d20f4dfd",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-chrome-extension-patterns",
+          "path": "skills/clerk-chrome-extension-patterns/SKILL.md",
+          "blob": "988864f228773f10b39c07dbe2a15e58ef974ff6",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-cli",
+          "path": "skills/clerk-cli/SKILL.md",
+          "blob": "4f057dc9bf4275345d2aad002e7cd5373922d9a1",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-custom-ui",
+          "path": "skills/clerk-custom-ui/SKILL.md",
+          "blob": "22ace93a464894474fa123cfc257ca54c6c12510",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-expo",
+          "path": "skills/clerk-expo/SKILL.md",
+          "blob": "815930c52ad504b50c6acc96890ce46e0ef65b48",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-nextjs-patterns",
+          "path": "skills/clerk-nextjs-patterns/SKILL.md",
+          "blob": "1a9d7c5739a16cbc1f064cfa2254af0b9c9cf166",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-nuxt-patterns",
+          "path": "skills/clerk-nuxt-patterns/SKILL.md",
+          "blob": "987093e2fae62daa251545f18e0bbcf6428a4953",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-orgs",
+          "path": "skills/clerk-orgs/SKILL.md",
+          "blob": "c9bc7c127d9b43263492f4154c7ab201b1be7f21",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-react-patterns",
+          "path": "skills/clerk-react-patterns/SKILL.md",
+          "blob": "84496131d6db5129e4083a841802b2fbaf3ceb78",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-react-router-patterns",
+          "path": "skills/clerk-react-router-patterns/SKILL.md",
+          "blob": "1647cd89bcbc1df040170c07e30b655d7d11f8cb",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-setup",
+          "path": "skills/clerk-setup/SKILL.md",
+          "blob": "12416692bef5d5c636338f4ad89d273b281d5b63",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-swift",
+          "path": "skills/clerk-swift/SKILL.md",
+          "blob": "abef2fd25da7b51aff6fed808d6701a4811d7c20",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-tanstack-patterns",
+          "path": "skills/clerk-tanstack-patterns/SKILL.md",
+          "blob": "cf242a2403a1f5830007444ebc091a77f64c5b34",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-testing",
+          "path": "skills/clerk-testing/SKILL.md",
+          "blob": "353b6d92ef0ff95839c38686009e405965b86e23",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-vue-patterns",
+          "path": "skills/clerk-vue-patterns/SKILL.md",
+          "blob": "0109b3d7a2b6cc34fc6551753fdb1d3834035ddf",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk-webhooks",
+          "path": "skills/clerk-webhooks/SKILL.md",
+          "blob": "ab232d4a4003c7ee5a19ed6d366705963edb22dc",
+          "license": "MIT"
+        },
+        {
+          "name": "clerk",
+          "path": "skills/clerk/SKILL.md",
+          "blob": "9464c9972683457f772c4cd78ff62a91c4e933a9",
+          "license": "MIT"
+        }
+      ],
+      "excluded": [
+        {
+          "name": "audit-clerk-skill",
+          "path": ".agents/skills/audit-clerk-skill/SKILL.md",
+          "reason": "Internal skill-maintenance audit"
+        },
+        {
+          "name": "audit-expo-skill",
+          "path": ".agents/skills/audit-expo-skill/SKILL.md",
+          "reason": "Internal skill-maintenance audit"
+        }
+      ]
+    },
+    {
+      "provider": "Convex",
+      "official_documentation": "https://docs.convex.dev/ai/agent-skills",
+      "repository": "https://github.com/convex/agent-skills",
+      "commit": "f60629d7c6c1f27eb58a56260546d2445049274d",
+      "checked_at": "2026-10-31T03:19:12.491140+00:00",
+      "repository_license": "Apache-2.0",
+      "selected_skills": [
+        {
+          "name": "convex-add",
+          "path": "skills/convex-add/SKILL.md",
+          "blob": "07eb73d86bf623248e136885f40af9d283578486",
+          "license": null
+        },
+        {
+          "name": "convex-advisor",
+          "path": "skills/convex-advisor/SKILL.md",
+          "blob": "765528b1ed77f92d69a94400fbe88f938f2423e9",
+          "license": null
+        },
+        {
+          "name": "convex-agent",
+          "path": "skills/convex-agent/SKILL.md",
+          "blob": "dd3be813f6ad1e3bde2890cc9c5072b3648696b5",
+          "license": null
+        },
+        {
+          "name": "convex-auth",
+          "path": "skills/convex-auth/SKILL.md",
+          "blob": "9e7a95a252335d1cc11c49c715735e8529d90bcb",
+          "license": null
+        },
+        {
+          "name": "convex-authz",
+          "path": "skills/convex-authz/SKILL.md",
+          "blob": "125dc69331ab2aa381bb27a3a9be2fa25fc1c03e",
+          "license": null
+        },
+        {
+          "name": "convex-backup",
+          "path": "skills/convex-backup/SKILL.md",
+          "blob": "74d60d6bf02a0b4b8fb195eb3ce4c7816b7bdbc0",
+          "license": null
+        },
+        {
+          "name": "convex-billing",
+          "path": "skills/convex-billing/SKILL.md",
+          "blob": "7ffac8b62ec1047a1a65c2184303012cd9d3f0e8",
+          "license": null
+        },
+        {
+          "name": "convex-cost",
+          "path": "skills/convex-cost/SKILL.md",
+          "blob": "ad8f667c3adcba5a7d1c63286278065179f79ffd",
+          "license": null
+        },
+        {
+          "name": "convex-create-component",
+          "path": "skills/convex-create-component/SKILL.md",
+          "blob": "4e5785bd9dedb4820947733b4b38bd253b5b9867",
+          "license": null
+        },
+        {
+          "name": "convex-crons",
+          "path": "skills/convex-crons/SKILL.md",
+          "blob": "f3192193d3ffa000e39ad4160559e46b3462213c",
+          "license": null
+        },
+        {
+          "name": "convex-deploy-guard",
+          "path": "skills/convex-deploy-guard/SKILL.md",
+          "blob": "9d7da1fc9eb40dd2ea60d7a582db3db28e8e5e88",
+          "license": null
+        },
+        {
+          "name": "convex-design",
+          "path": "skills/convex-design/SKILL.md",
+          "blob": "b2529db03fcaae07b6ddb5bdca48830b7b95ce63",
+          "license": null
+        },
+        {
+          "name": "convex-docs",
+          "path": "skills/convex-docs/SKILL.md",
+          "blob": "389cf1cd214eaec23ba4c69251e3e80bdd31f57b",
+          "license": null
+        },
+        {
+          "name": "convex-domains",
+          "path": "skills/convex-domains/SKILL.md",
+          "blob": "6c027b25379cd1d212ac51d3ed5cdf1c6bf076f7",
+          "license": null
+        },
+        {
+          "name": "convex-env",
+          "path": "skills/convex-env/SKILL.md",
+          "blob": "6b833d1791461822e9494227037312689e2a78ee",
+          "license": null
+        },
+        {
+          "name": "convex-expert",
+          "path": "skills/convex-expert/SKILL.md",
+          "blob": "9cbe5d7ccd4c0db90d5d439dcb0558e8a03088ce",
+          "license": null
+        },
+        {
+          "name": "convex-explain-app",
+          "path": "skills/convex-explain-app/SKILL.md",
+          "blob": "bde1ed646db37fcdef0e918aa894ec8bc385b851",
+          "license": null
+        },
+        {
+          "name": "convex-insights",
+          "path": "skills/convex-insights/SKILL.md",
+          "blob": "c0d7b82c931d0f6f1635876399ce97e6c959f2ac",
+          "license": null
+        },
+        {
+          "name": "convex-launch-readiness",
+          "path": "skills/convex-launch-readiness/SKILL.md",
+          "blob": "8a19d874476652477d9ac3c21c8732fbbacdee3f",
+          "license": null
+        },
+        {
+          "name": "convex-migrate-rehearse",
+          "path": "skills/convex-migrate-rehearse/SKILL.md",
+          "blob": "85c881c07a72a19d7f4fc879d91b016e41d6a281",
+          "license": null
+        },
+        {
+          "name": "convex-migrate",
+          "path": "skills/convex-migrate/SKILL.md",
+          "blob": "d2ea8f3f791d308494f2084132cc2390847cc5a4",
+          "license": null
+        },
+        {
+          "name": "convex-monitor",
+          "path": "skills/convex-monitor/SKILL.md",
+          "blob": "484be8586c9d3a1c87f4f217dcc1d10ea9ec564b",
+          "license": null
+        },
+        {
+          "name": "convex-optimize",
+          "path": "skills/convex-optimize/SKILL.md",
+          "blob": "f1aab6e40a0b70cf4859bd000d650671417b3f61",
+          "license": null
+        },
+        {
+          "name": "convex-quickstart",
+          "path": "skills/convex-quickstart/SKILL.md",
+          "blob": "7fd9053c6146b3d710caa5a9d33457c52127c102",
+          "license": null
+        },
+        {
+          "name": "convex-reviewer",
+          "path": "skills/convex-reviewer/SKILL.md",
+          "blob": "f3adab255c36ad7b893a525306dc93d204984634",
+          "license": null
+        },
+        {
+          "name": "convex-seed",
+          "path": "skills/convex-seed/SKILL.md",
+          "blob": "faf857f3027baff7e8bb6df126a94a8ac09de90a",
+          "license": null
+        },
+        {
+          "name": "convex-self-heal",
+          "path": "skills/convex-self-heal/SKILL.md",
+          "blob": "a228dc2143030a8bcd61c3caf62f376ce0a35d8f",
+          "license": null
+        },
+        {
+          "name": "convex-sentinel",
+          "path": "skills/convex-sentinel/SKILL.md",
+          "blob": "e434c2ffeade4adda52a3975989db5631bdc8145",
+          "license": null
+        },
+        {
+          "name": "convex-suggest",
+          "path": "skills/convex-suggest/SKILL.md",
+          "blob": "92ef08ed533f7ed78671335cfbc0e516911da816",
+          "license": null
+        },
+        {
+          "name": "convex-test",
+          "path": "skills/convex-test/SKILL.md",
+          "blob": "ec19b3e9f3f0ed3e9b49a39281851ea76e9063d4",
+          "license": null
+        },
+        {
+          "name": "convex-verify",
+          "path": "skills/convex-verify/SKILL.md",
+          "blob": "2fe59729b90489281f23faf9c72db7d162cbff9d",
+          "license": null
+        },
+        {
+          "name": "convex",
+          "path": "skills/convex/SKILL.md",
+          "blob": "0adde92da439ecb5ec4bad10828471604d996fd9",
+          "license": null
+        }
+      ],
+      "excluded": [
+        {
+          "name": "convex-improve-convex-plugin",
+          "path": "skills/convex-improve-convex-plugin/SKILL.md",
+          "reason": "Publisher improvement helper that shares a session transcript"
+        }
+      ]
+    },
+    {
+      "provider": "Expo",
+      "official_documentation": "https://docs.expo.dev/skills/",
+      "repository": "https://github.com/expo/skills",
+      "commit": "05754e71d02abe0d2d7a2fb5259ccac41f5ea59c",
+      "checked_at": "2026-10-31T03:19:12.491140+00:00",
+      "repository_license": "MIT",
+      "selected_skills": [
+        {
+          "name": "expo-migrate-module",
+          "path": "plugins/expo-experiments/skills/expo-migrate-module/SKILL.md",
+          "blob": "6afeaa4f8c010cc5adadc09c7353a14ded64dfd9",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-app-stores",
+          "path": "plugins/expo/skills/eas-app-stores/SKILL.md",
+          "blob": "0f2085dea662f648f9de79a68e93e8755f530159",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-hosting",
+          "path": "plugins/expo/skills/eas-hosting/SKILL.md",
+          "blob": "b7830a9b89a57b3e9b2e0e24c729fc393680bcad",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-observe",
+          "path": "plugins/expo/skills/eas-observe/SKILL.md",
+          "blob": "b3483f36f6479551c33467c0935e4c3a1784dd6a",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-simulator",
+          "path": "plugins/expo/skills/eas-simulator/SKILL.md",
+          "blob": "c46ca5a74514ef8adedf2ee4a0396734bcf16ec5",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-update-insights",
+          "path": "plugins/expo/skills/eas-update-insights/SKILL.md",
+          "blob": "5e127de994ddbc59031182d1bf346510c97ef7a8",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-update",
+          "path": "plugins/expo/skills/eas-update/SKILL.md",
+          "blob": "e9808da7916f5cfd663519ebb7cd7ad35629ecaf",
+          "license": "MIT"
+        },
+        {
+          "name": "eas-workflows",
+          "path": "plugins/expo/skills/eas-workflows/SKILL.md",
+          "blob": "f7b791bf12eb2440ab5401bf0269992e606dfa0e",
+          "license": "MIT License"
+        },
+        {
+          "name": "expo-animation",
+          "path": "plugins/expo/skills/expo-animation/SKILL.md",
+          "blob": "015ebb22382b1b0d1621002773ab71af94f2d24b",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-app-clip",
+          "path": "plugins/expo/skills/expo-app-clip/SKILL.md",
+          "blob": "f298a522ca2f35d126321b0d8185e4cd41a30229",
+          "license": null
+        },
+        {
+          "name": "expo-brownfield",
+          "path": "plugins/expo/skills/expo-brownfield/SKILL.md",
+          "blob": "dd153e4b90f18405134bd748a1a495773b0e1c4e",
+          "license": null
+        },
+        {
+          "name": "expo-data-fetching",
+          "path": "plugins/expo/skills/expo-data-fetching/SKILL.md",
+          "blob": "67516d8e6f0ede6b1c7bef59ba3c06ac356a6263",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-design-system",
+          "path": "plugins/expo/skills/expo-design-system/SKILL.md",
+          "blob": "3c07361109588ae16b512ab0f77f44aacfc6bd47",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-dev-client",
+          "path": "plugins/expo/skills/expo-dev-client/SKILL.md",
+          "blob": "56ce78e23db9a9e8b18dc7ae1a10eb7613497e7e",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-dom",
+          "path": "plugins/expo/skills/expo-dom/SKILL.md",
+          "blob": "38950bb217d586dc67342565962381aacf38b2cf",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-examples",
+          "path": "plugins/expo/skills/expo-examples/SKILL.md",
+          "blob": "46b50ad69dbfad6d8f5bea91ee1bc5a544ee310f",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-module",
+          "path": "plugins/expo/skills/expo-module/SKILL.md",
+          "blob": "ade758421aee5fd5cf7d948cf6baae156d3a3c7b",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-native-ui",
+          "path": "plugins/expo/skills/expo-native-ui/SKILL.md",
+          "blob": "9bd26c48aab5682031b7a0b592148980252ca238",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-overview",
+          "path": "plugins/expo/skills/expo-overview/SKILL.md",
+          "blob": "8d4fc1a52c7207d76826162bb349f59e87367a94",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-project-structure",
+          "path": "plugins/expo/skills/expo-project-structure/SKILL.md",
+          "blob": "9d6624ac27181961eff376b4285c4dce76750daa",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-router",
+          "path": "plugins/expo/skills/expo-router/SKILL.md",
+          "blob": "f7abac62220bf2c8508bf20d3421e640487d0aa3",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-ui",
+          "path": "plugins/expo/skills/expo-ui/SKILL.md",
+          "blob": "6dcb120166e47a424b0a681057077863d3a09628",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-upgrade",
+          "path": "plugins/expo/skills/expo-upgrade/SKILL.md",
+          "blob": "db32f2c5552085601e17c4b8e46f907dea24b057",
+          "license": "MIT"
+        },
+        {
+          "name": "expo-web-to-native",
+          "path": "plugins/expo/skills/expo-web-to-native/SKILL.md",
+          "blob": "4766e058bdbef28772df98ff04c0e248a4b2ca41",
+          "license": "MIT"
+        }
+      ],
+      "excluded": [
+        {
+          "name": "expo-skill-eval",
+          "path": ".claude/skills/expo-skill-eval/SKILL.md",
+          "reason": "Repository skill evaluation harness"
+        }
+      ]
+    },
+    {
+      "provider": "Sanity",
+      "official_documentation": "https://www.sanity.io/docs/ai/skills",
+      "repository": "https://github.com/sanity-io/agent-toolkit",
+      "commit": "3ed3a143f8d3413faa7790ac0b2274fd3a8a6320",
+      "checked_at": "2026-10-31T03:19:12.491140+00:00",
+      "repository_license": "MIT",
+      "selected_skills": [
+        {
+          "name": "content-experimentation-best-practices",
+          "path": "skills/content-experimentation-best-practices/SKILL.md",
+          "blob": "a3b3ade8dc30660d22f6134ed6adf902114eb9e8",
+          "license": null
+        },
+        {
+          "name": "content-modeling-best-practices",
+          "path": "skills/content-modeling-best-practices/SKILL.md",
+          "blob": "98d5a7cf1dc5ffdbdf39709e80fda9b3723087b1",
+          "license": null
+        },
+        {
+          "name": "portable-text-conversion",
+          "path": "skills/portable-text-conversion/SKILL.md",
+          "blob": "9965873452969fe4000652efc9294d4a33855da1",
+          "license": "MIT"
+        },
+        {
+          "name": "portable-text-serialization",
+          "path": "skills/portable-text-serialization/SKILL.md",
+          "blob": "32010982aaa05e2746d92bc0d5a44408ea56f228",
+          "license": "MIT"
+        },
+        {
+          "name": "sanity-best-practices",
+          "path": "skills/sanity-best-practices/SKILL.md",
+          "blob": "196e75f6f456ab2f417a98d3f6c3ec65c621808f",
+          "license": null
+        },
+        {
+          "name": "sanity-form-component-suspense",
+          "path": "skills/sanity-form-component-suspense/SKILL.md",
+          "blob": "055ec7445378b154172b85c3cd6680ca10749cc3",
+          "license": null
+        },
+        {
+          "name": "sanity-migration",
+          "path": "skills/sanity-migration/SKILL.md",
+          "blob": "0a48116b569c1f39ba589155e9685efbf4f9f498",
+          "license": null
+        },
+        {
+          "name": "sanity-singletons",
+          "path": "skills/sanity-singletons/SKILL.md",
+          "blob": "673edf8d24d6e919c4771fea4fb48a33dbf63e3d",
+          "license": null
+        },
+        {
+          "name": "sanity-studio-upgrade",
+          "path": "skills/sanity-studio-upgrade/SKILL.md",
+          "blob": "b6e8cadee26c21228d37795aad33a2a8f9046e02",
+          "license": null
+        },
+        {
+          "name": "seo-aeo-best-practices",
+          "path": "skills/seo-aeo-best-practices/SKILL.md",
+          "blob": "ade2bb51e5f99c0794cd017fb905467a49a1717f",
+          "license": null
+        }
+      ],
+      "excluded": []
+    }
+  ]
+}
