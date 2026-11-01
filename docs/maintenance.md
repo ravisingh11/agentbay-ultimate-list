@@ -176,3 +176,20 @@ The packages accept supplied local logs only. No live device, private CI,
 account operation or external log upload is part of their maintained workflow.
 Their broader-catalog publication does not change the website Finder's
 verified-owner/adoption thresholds or enroll the nine other reviewed paths.
+
+## Brag community skills (November 1, 2026)
+
+The owner-requested addition selects the two canonical `latent-spaces/brag`
+packages, `skills/brag/SKILL.md` and `skills/brag-slim/SKILL.md`, from the exact
+revision in [data/brag-source-review.json](../data/brag-source-review.json).
+Discovery mirrors and the embedded slim handoff are not separate listings.
+The current public active repository meets the unchanged community adoption
+criteria; no official-provider attribution or registry exception is added.
+
+Code/instructions use the repository MIT license. Classic Brag’s bundled music
+has separate CC BY 4.0 attribution requirements and its SFX credits are documented
+upstream. No publisher code or media is copied here. Classic Brag needs Hyperframes
+and FFmpeg; slim uses locally available tools. Static instruction review is not
+a rendering, first-use or cross-agent compatibility certification. The nine
+remaining Meta paths remain review-only and separate site improvements are
+outside this data change.

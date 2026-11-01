@@ -34,8 +34,8 @@
   "source": "https://agentbay.io",
   "maintainer": "AgentBay",
   "update_policy": "Add and update upstream entries, preserve reviewed local changes and absent records; removals require curation.",
-  "entry_count": 23021,
-  "unique_repository_count": 9158,
+  "entry_count": 23023,
+  "unique_repository_count": 9159,
   "catalogue_license": {
     "spdx_id": "MIT",
     "path": "LICENSE",
@@ -43,7 +43,7 @@
   },
   "inputs": {
     "data/curation.json": {
-      "sha256": "9e57739eb03f05f1adf7d42a78e0d9be7d64cdfa4d525491754b43f1aee082d9"
+      "sha256": "f5c06a8eabeeb23d73f8b6567eb90aa7ea168cfef35f6e71c2fc348c03f9a9a3"
     },
     "data/preferred-providers.json": {
       "sha256": "1b16a2cf294a4046b0a3a3878e83b30019a160fa7b944c9a97d783351fa4f5ea"
@@ -60,7 +60,7 @@
   },
   "derived_exports": {
     "skills": {
-      "entry_count": 22664,
+      "entry_count": 22666,
       "json": "skills/catalog.json",
       "csv": "skills/catalog.csv"
     },
@@ -256,16 +256,16 @@
   ],
   "files": {
     "README.md": {
-      "sha256": "1a7c13fdbd94238d3aab88bd1a74b933efeacefefbebd710cec3699c76369ec7",
+      "sha256": "c37a539ca532f60a16e4b70a3525310e91146225795430c429eee3faad02a961",
       "bytes": 10359
     },
     "catalog.csv": {
-      "sha256": "6d4652b15ea5776748d2af3eba956aa9d7506b2c0efb2bf0ef628bd68fbd96b1",
-      "bytes": 15287857
+      "sha256": "594716a22f2b85063958960cd7bbb829fe24a8e6704b45b86fd5c1b24f680edb",
+      "bytes": 15288932
     },
     "catalog.json": {
-      "sha256": "09056bf1d6ea4cffad416903c7e450232de3d9149f7e9dd1a5f9a3e93565ecc9",
-      "bytes": 26029650
+      "sha256": "7278921d06dfaa12d880f01f152b39e7a05745bd2d0b17299fc3ea153b808e1b",
+      "bytes": 26031657
     },
     "docs/providers.md": {
       "sha256": "8c43c6196ec1d27dafd1fb30cecfa69d1139d816289a04a4816849dd2c99e0c9",
@@ -396,11 +396,11 @@
       "bytes": 9508
     },
     "provenance/descriptions.json": {
-      "sha256": "1735e0e5ca865f73255b2af6cddde66387d5ef27417d2e856b19ffc78ab6f8fa",
-      "bytes": 10164036
+      "sha256": "d963ad8dd31798d9f7039ae23f38d9a9b1d938e28bc7327996afd8515676d552",
+      "bytes": 10164914
     },
     "skills/README.md": {
-      "sha256": "6468738c87bca4126dfe63c834607d11dfe816c9d71b83d73817ae011d66293e",
+      "sha256": "77958d532426e567a5340a2e8e9829503f455bfb009a9ccad4a2c41f491473ae",
       "bytes": 8719
     },
     "skills/agent-development-1eeae9-1.md": {
@@ -456,12 +456,12 @@
       "bytes": 8577
     },
     "skills/catalog.csv": {
-      "sha256": "50b012f36501c0271b83d3d0999b83a18acf30423becc25d221df52ab2101453",
-      "bytes": 15053234
+      "sha256": "876d53acf7510c47585fd54503103563b8fb14af2752ca3babfe24ae049aafb8",
+      "bytes": 15054309
     },
     "skills/catalog.json": {
-      "sha256": "a39c9b2046babd05402020aa7e8335772ca0765651507b08cf81fc9828c40929",
-      "bytes": 25627719
+      "sha256": "0d2a358583269a6e0fc4219561330c7442230cbf70ebebfcd86f966c395e4a74",
+      "bytes": 25629726
     },
     "skills/content-creation-b3b99b.md": {
       "sha256": "189cc089bc3ea42a23fca1d15a92025d9db4547ee27232f1620f2d0bc077fee9",
@@ -1008,8 +1008,8 @@
       "bytes": 72008
     },
     "skills/video-creation-f6c4c1.md": {
-      "sha256": "152825d0917592e93d7b589a9d9bd9b23f4aa3cdf47c611eb416198cf6fde396",
-      "bytes": 28044
+      "sha256": "5d6d3bb0ca201b447cc323e11ce27f0ac86f23a9a6f071bf85d2d48877c812b9",
+      "bytes": 28713
     }
   }
 }

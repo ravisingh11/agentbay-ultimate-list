@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "repository": "latent-spaces/brag",
+  "repository_id": 1271560627,
+  "owner_id": 292754346,
+  "commit": "669ab9286aa28b6c3ee30e75f181ee74319d012a",
+  "checked_at": "2026-11-01T07:02:21.111394+00:00",
+  "accepted": [
+    {
+      "name": "brag",
+      "website_id": "9a995941-f0ad-5d41-976e-3b7980a2f7d1",
+      "public_catalog_id": "community:3a8c989c-7b81-5874-a806-6fbb66800d8d",
+      "path": "skills/brag/SKILL.md",
+      "source_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/SKILL.md",
+      "description": "Create a short launch video from project code using Hyperframes, with music, motion and share copy. Requires Node.js 22+, FFmpeg and Hyperframes. Bundled music requires CC BY 4.0 attribution.",
+      "blob": "efcc009686e970dfcb911389b0fbfd49eb7cc67f"
+    },
+    {
+      "name": "brag-slim",
+      "website_id": "0be2e4c0-01cf-5e0f-bf3b-9faa38a61d11",
+      "public_catalog_id": "community:7403f36d-9656-579e-abaa-3d93b8953f8a",
+      "path": "skills/brag-slim/SKILL.md",
+      "source_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag-slim/SKILL.md",
+      "description": "Create a short launch video from a project or website using locally available rendering tools. Produces video, a poster and share copy; upstream optimized for Claude Opus 5.5. No bundled audio assets.",
+      "blob": "29ef01edc4c2e7c14d4a80fefddf627e3815a4b7"
+    }
+  ],
+  "license": "MIT",
+  "license_scope": "repository code/instructions",
+  "license_blob": "0fe6a519bfbed7b6872cd81c1316aac818975d14",
+  "license_sha256": "92d538e0da9abeaafff8ecfc62e142f5053fa92b2c3ef29978742c325c554089",
+  "media_terms": "Classic bundled music is CC BY 4.0 with attribution; SFX have separately documented CC0 credits. No upstream code or media is republished here.",
+  "source_kind": "community",
+  "official_registry_unchanged": true,
+  "community_adoption": {
+    "stars": 19818,
+    "forks": 1536,
+    "minStars": 5000,
+    "minForks": 2000,
+    "operator": "or"
+  },
+  "canonical_only": true,
+  "publisher_instructions_executed": false,
+  "review_method": "Exact pinned instruction, local reference/helper and license inspection. No private project access, installation, video rendering or all-agent/runtime certification.",
+  "meta_paths_added": 0,
+  "authorization": "Owner requested adding https://github.com/latent-spaces/brag on November 1, 2026; remaining nine Meta paths are review-only."
+}

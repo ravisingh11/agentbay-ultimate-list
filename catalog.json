@@ -103473,6 +103473,36 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:3a8c989c-7b81-5874-a806-6fbb66800d8d",
+    "name": "brag",
+    "description": "brag is listed as an agent skill. Its catalogue topics include video workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/SKILL.md",
+    "repository_url": "https://github.com/latent-spaces/brag",
+    "categories": [
+      "Video creation"
+    ],
+    "tags": [
+      "Launch video",
+      "Video generation",
+      "Hyperframes",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Work with video-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-01T07:02:21.111394+00:00",
+    "agentbay_url": "",
+    "github_stars": 19818,
+    "github_stars_checked_at": "2026-11-01T07:02:21.111394+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "40e6fe42-947f-596a-8c91-711c60f7369a",
     "name": "brag-sheet",
     "description": "brag-sheet is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -103527,6 +103557,36 @@
     "github_stars_checked_at": "2026-10-25T04:56:38.716202+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:7403f36d-9656-579e-abaa-3d93b8953f8a",
+    "name": "brag-slim",
+    "description": "brag-slim is listed as an agent skill. Its catalogue topics include video workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag-slim/SKILL.md",
+    "repository_url": "https://github.com/latent-spaces/brag",
+    "categories": [
+      "Video creation"
+    ],
+    "tags": [
+      "Launch video",
+      "Video generation",
+      "Local rendering",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Work with video-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-01T07:02:21.111394+00:00",
+    "agentbay_url": "",
+    "github_stars": 19818,
+    "github_stars_checked_at": "2026-11-01T07:02:21.111394+00:00",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "08298a5d-4810-59dc-871e-0f99a4710a1d",
