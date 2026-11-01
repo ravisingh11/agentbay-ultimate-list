@@ -43,7 +43,7 @@
   },
   "inputs": {
     "data/curation.json": {
-      "sha256": "c686dc4697c60bed022edfc74dfd45e2bc7e060f11a3213a962d32abd90b1177"
+      "sha256": "af97fee916c2af5755d88a4dd63fe45a103aee03f9e3437295ca16efab590c50"
     },
     "data/preferred-providers.json": {
       "sha256": "1b16a2cf294a4046b0a3a3878e83b30019a160fa7b944c9a97d783351fa4f5ea"
@@ -260,11 +260,11 @@
       "bytes": 10359
     },
     "catalog.csv": {
-      "sha256": "a43a95cae15051cd89466c3b76a0278414e880e8fdda9b8cfe8488f8d30ff4f0",
+      "sha256": "aeb1bcb10ca79451dce8fa8c04c82e780df447c9bd5e25e996e66fc47d109fe7",
       "bytes": 15287857
     },
     "catalog.json": {
-      "sha256": "1b4cbb7cf8924df047304668bc30fd81ff3d191ffb7c392f71f6d9b66e12cd17",
+      "sha256": "7e5e0a3f1f49673330693cc48d3bcb84503ab67982e3103348abd8373a0ddfce",
       "bytes": 26029650
     },
     "docs/providers.md": {
@@ -456,11 +456,11 @@
       "bytes": 8577
     },
     "skills/catalog.csv": {
-      "sha256": "28d19026b92fda90c7b887ad89845a5748b46c12ceb10494ba19f59fc1396f7c",
+      "sha256": "3cd68f43d3fb19734689c888cf99c0f6de4e375d2e39078d9e29b409e1c6959c",
       "bytes": 15053234
     },
     "skills/catalog.json": {
-      "sha256": "43efa1ac9b7e752e01c1294e844eb56b0373d4ad050bf188f5783933609aa113",
+      "sha256": "0e6adf7735494db76a48c7d7139383d185359f5fa8d8f92af333386b57efeee8",
       "bytes": 25627719
     },
     "skills/content-creation-b3b99b.md": {
@@ -744,7 +744,7 @@
       "bytes": 87152
     },
     "skills/software-development-e36077-21.md": {
-      "sha256": "d802484d2d328f3d4b2346407f015767730af91841416ee7e93aab7bf0c1847d",
+      "sha256": "e787335fe22862cbf33454e4763e0683b381c88400a18defc1b598fba9e9bc51",
       "bytes": 85627
     },
     "skills/software-development-e36077-22.md": {
