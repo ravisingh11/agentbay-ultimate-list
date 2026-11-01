@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "package_name": "agentbay-openzl-benchmark-scenarios",
+  "title": "OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream)",
+  "adaptation_publisher": "AgentBay",
+  "official_meta_distribution": false,
+  "prepared_on": "2026-11-01",
+  "upstream_repository": "meta/openzl",
+  "upstream_commit": "d5d872059bad85da410eb66e3d7f9cac107be263",
+  "upstream_skill_path": ".claude/skills/unitbench-scenarios/SKILL.md",
+  "license": "BSD-3-Clause",
+  "license_scope": "Exact upstream repository license retained for this adapted instruction package; no upstream library binaries or dependency trees bundled.",
+  "changes": [
+    "Matching AgentBay-prefixed directory/name, UI labels and visible Meta attribution.",
+    "Public Make route; conditional CMake guidance; internal Buck route is not required.",
+    "Fresh bounded synthetic fixtures with width alignment, private run directories and SHA-256 manifests.",
+    "Separate timing/correctness evidence; document CSV disabling decompression and block remainder truncation.",
+    "Require independent decoded length/byte equality; make automatic STORE fallbacks explicit.",
+    "Self-contained local skill references; no external companion skill required."
+  ],
+  "upstream_inputs": [
+    {
+      "path": ".claude/skills/unitbench-scenarios/SKILL.md",
+      "blob": "4ef4dfbd7b7ee3d763029bba017efa820b4b3db6",
+      "sha256": "ce5757830504524439e78ee05eb96b4af05d06a17dfb9c3a7d5c64c41ef61531",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/.claude/skills/unitbench-scenarios/SKILL.md"
+    },
+    {
+      "path": "LICENSE",
+      "blob": "863b757fc24ea230d6eb4885afb8652fd74c82f4",
+      "sha256": "371ed262b7969ba0a52f009588c0215df0e455c86b88356e8753748fad8296a5",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/LICENSE"
+    },
+    {
+      "path": "Makefile",
+      "blob": "5bd1e7fe5bacbfb48405868ecc70376359437d15",
+      "sha256": "4f6afecab31c8428d31ed5a771543c77eda71a3cacb62b686a7889abaed80786",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/Makefile"
+    },
+    {
+      "path": "build-scripts/make/zldefs.make",
+      "blob": "88314f12344798d40df54fec86ae4bb153ec8a87",
+      "sha256": "fdb10786873510d91c5979d66e87f50dabb62cda7ea96d2c9344725c0888f053",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/build-scripts/make/zldefs.make"
+    },
+    {
+      "path": "build-scripts/make/deps.make",
+      "blob": "56a00ceccf49dda1c4a3abe728e4b756ed7b0ea8",
+      "sha256": "579fc314e915757ab94bd1f427244387c283d02c3e963bebacb5000867fe0202",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/build-scripts/make/deps.make"
+    },
+    {
+      "path": "build-scripts/make/fetch_dep.sh",
+      "blob": "7a1192cbb16dbb01d683715b3711272fc2d1c7e6",
+      "sha256": "f405c0ea681782c4dddcaca474e8bcfc1e0e3f22495c4c965384f4bc25b90e73",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/build-scripts/make/fetch_dep.sh"
+    },
+    {
+      "path": "build-scripts/make/multiconf.make",
+      "blob": "24445b18822e03c9d75917973ce64eb6a11811ea",
+      "sha256": "417bf562c667ceac412b4050f954ef113233c4cc669f69c756db9977f9076e6d",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/build-scripts/make/multiconf.make"
+    },
+    {
+      "path": "CMakeLists.txt",
+      "blob": "d40a6c8f2c2eacb1ca704f28270a443c757fa3cb",
+      "sha256": "c7ac936064ced03b50a1d909ac1b9e8b78687696415389d74358bfdf014f95d9",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/CMakeLists.txt"
+    },
+    {
+      "path": "benchmark/CMakeLists.txt",
+      "blob": "dba2219cda0e0169203bd043b6f30642eea2f3eb",
+      "sha256": "afa9c623c3cebdfa4f4d5f7b8f01b4b7dca4db8e6c81c2f49453413acf9759a5",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/CMakeLists.txt"
+    },
+    {
+      "path": "benchmark/unitBench/CMakeLists.txt",
+      "blob": "b64ef779f18ab167763852e0253a2244df7c6ae8",
+      "sha256": "087eec8f8340b41b3e767f3d1af61123b197567360687e83a9ab6d8a54122dfb",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/CMakeLists.txt"
+    },
+    {
+      "path": "benchmark/unitBench/benchList.h",
+      "blob": "632c37fa66bdba1deab16600f2d94ca762edde39",
+      "sha256": "d50efdab0437a9c5511a6fe47a8a0e48ce3db8469d07da9f849ab4cc5fe8f6d8",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/benchList.h"
+    },
+    {
+      "path": "benchmark/unitBench/bench_entry.h",
+      "blob": "7db196040cbf3a4e53a961fdbc1f31a2fb4424b1",
+      "sha256": "adcad434d082b2f2cbb0a6e4bb905652a9aadd34e74ae9220e0ccc5469a8b0cb",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/bench_entry.h"
+    },
+    {
+      "path": "benchmark/unitBench/unitBench.c",
+      "blob": "5c456974187aab264729e1ef6b88208c31d383c7",
+      "sha256": "58d6d13bba9d9a54306bd98d81bc79bc785d5e3a6c94bdbf020d92a83ab4fa30",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/unitBench.c"
+    },
+    {
+      "path": "benchmark/unitBench/scenarios/codecs/bitSplit.c",
+      "blob": "1229984442e43836a8f527c305059011ad204a27",
+      "sha256": "d3905857264f933f64c7deac67fcb2bd0341d7cbc9c70c89c6186ef2ed334311",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/scenarios/codecs/bitSplit.c"
+    },
+    {
+      "path": "benchmark/unitBench/scenarios/sao_graph.c",
+      "blob": "59219d44de24af0ddea4a0085973dc531700a0ea",
+      "sha256": "ad300b6543fe78618f978a5246ed2643bd346f660faf708062bfb24626392b7a",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/benchmark/unitBench/scenarios/sao_graph.c"
+    },
+    {
+      "path": "include/openzl/zl_compress.h",
+      "blob": "3370367c2d4bb127baba690317f3f81fea45ecc1",
+      "sha256": "e5e8d142cd2ed6d8a09c4380e1d30e82e8bcf498e2836166675def82b9653666",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/include/openzl/zl_compress.h"
+    },
+    {
+      "path": "include/openzl/zl_common_types.h",
+      "blob": "c3969f6420a9b2432d18ab24aabfe16b7341d23f",
+      "sha256": "2a0389644b9f9a9088fd779d5e18df81ff607eb3c9ad96f0365ee14c92d209c4",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/include/openzl/zl_common_types.h"
+    },
+    {
+      "path": "src/openzl/compress/cctx.c",
+      "blob": "9160ad5a0e4600def090ed7527a049c98282f575",
+      "sha256": "bc5028e5d4186aaeaa775ecc7d5b0af84c80d6b333ce603e0dabad76e09f7be4",
+      "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/src/openzl/compress/cctx.c"
+    }
+  ],
+  "adapted_files": [
+    {
+      "path": "LICENSE",
+      "sha256": "371ed262b7969ba0a52f009588c0215df0e455c86b88356e8753748fad8296a5",
+      "bytes": 1546,
+      "upstream_inputs": [
+        "LICENSE"
+      ],
+      "change": "Retained verbatim upstream license"
+    },
+    {
+      "path": "NOTICE.txt",
+      "sha256": "3db29d1bcfb83727fdbbf0058e053b1dbeb33359a289fadeeea08a67e42990d2",
+      "bytes": 1175,
+      "upstream_inputs": [
+        "LICENSE",
+        ".claude/skills/unitbench-scenarios/SKILL.md"
+      ],
+      "change": "AgentBay adaptation; see NOTICE.txt"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "3823db2dc95e026651f5ec929f7d82881d97d71b894f709c2e0e6f0a1a81d10a",
+      "bytes": 4652,
+      "upstream_inputs": [
+        ".claude/skills/unitbench-scenarios/SKILL.md",
+        "benchmark/unitBench/unitBench.c",
+        "benchmark/unitBench/bench_entry.h",
+        "include/openzl/zl_compress.h"
+      ],
+      "change": "AgentBay adaptation; see NOTICE.txt"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "86d434be88c2a66e3ccf8dd0d00dddabf49da78a693e15536def498123126557",
+      "bytes": 294,
+      "upstream_inputs": [],
+      "change": "Original AgentBay helper/UI metadata"
+    },
+    {
+      "path": "references/build-and-verify.md",
+      "sha256": "02db60d05d6eddb40d93cbdf6e8b22c67fb713f389b59be91cd8ed45941f7894",
+      "bytes": 4355,
+      "upstream_inputs": [
+        "Makefile",
+        "build-scripts/make/zldefs.make",
+        "build-scripts/make/deps.make",
+        "build-scripts/make/fetch_dep.sh",
+        "CMakeLists.txt",
+        "benchmark/CMakeLists.txt",
+        "benchmark/unitBench/CMakeLists.txt",
+        "benchmark/unitBench/unitBench.c"
+      ],
+      "change": "AgentBay adaptation; see NOTICE.txt"
+    },
+    {
+      "path": "references/scenario-patterns.md",
+      "sha256": "b1b47809714a2b6f3965da5d3b1f322c129a5da0f017916e87107d5fdf4ae3f5",
+      "bytes": 5180,
+      "upstream_inputs": [
+        ".claude/skills/unitbench-scenarios/SKILL.md",
+        "benchmark/unitBench/bench_entry.h",
+        "benchmark/unitBench/benchList.h",
+        "include/openzl/zl_compress.h",
+        "include/openzl/zl_common_types.h",
+        "src/openzl/compress/cctx.c"
+      ],
+      "change": "AgentBay adaptation; see NOTICE.txt"
+    },
+    {
+      "path": "scripts/prepare_data.py",
+      "sha256": "6c063e9ba090e54cff45344f706482233df96c5d56e5d5da90fdf95b2a02ad71",
+      "bytes": 2440,
+      "upstream_inputs": [],
+      "change": "Original AgentBay helper/UI metadata"
+    }
+  ],
+  "hash_scope": "Adapted-file list excludes this provenance file to avoid a self-hash. The external package manifest covers provenance and every archive member.",
+  "verification": {
+    "method": "Contextual self-review plus native compiler/benchmark and isolated helper checks; no independent-model or live-site validation claimed.",
+    "native_platform": "darwin",
+    "native_architecture": "arm64",
+    "native_compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)",
+    "public_make_build": "passed",
+    "new_graph_snippet_registration_and_execution": "passed",
+    "new_graph_store_fallbacks": "Explicitly disabled in the tested smoke graph; not a universal benchmark requirement.",
+    "explicit_length_and_byte_roundtrips": 12,
+    "insufficient_output_buffer_rejections": 12,
+    "helper_behavior_tests": 15,
+    "csv_skips_decode_observed": true,
+    "cmake_runtime_tested": false,
+    "new_kernel_runtime_tested": false,
+    "model_backed_first_use_tested": false,
+    "representative_performance_claim": false
+  },
+  "authority": "Owner approved publication of this AgentBay adaptation with Meta attribution. No other eight-path inclusion, global installation or unrelated site changes."
+}

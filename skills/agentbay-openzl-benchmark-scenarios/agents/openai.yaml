@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenZL Benchmarks — AgentBay adaptation"
+  short_description: "OpenZL benchmark scenarios, adapted from Meta"
+  default_prompt: "Use $agentbay-openzl-benchmark-scenarios to add a local OpenZL benchmark scenario and verify its correctness before reporting timing."

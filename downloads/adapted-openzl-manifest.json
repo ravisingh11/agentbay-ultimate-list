@@ -1,0 +1,17 @@
+{
+  "path": "downloads/agentbay-openzl-benchmark-scenarios.zip",
+  "bytes": 31993,
+  "sha256": "fd36f70a3310f2c34e130a24db95bf5bdc0c37c756f738aed34966a382443ec5",
+  "publisher": "AgentBay",
+  "official_meta_distribution": false,
+  "files": {
+    "LICENSE": "371ed262b7969ba0a52f009588c0215df0e455c86b88356e8753748fad8296a5",
+    "NOTICE.txt": "3db29d1bcfb83727fdbbf0058e053b1dbeb33359a289fadeeea08a67e42990d2",
+    "SKILL.md": "3823db2dc95e026651f5ec929f7d82881d97d71b894f709c2e0e6f0a1a81d10a",
+    "agents/openai.yaml": "86d434be88c2a66e3ccf8dd0d00dddabf49da78a693e15536def498123126557",
+    "provenance.json": "f907d5a2d4e8593fd0115654c627fdb2cc820ee4d1c545a81832d81c9d31d2b1",
+    "references/build-and-verify.md": "02db60d05d6eddb40d93cbdf6e8b22c67fb713f389b59be91cd8ed45941f7894",
+    "references/scenario-patterns.md": "b1b47809714a2b6f3965da5d3b1f322c129a5da0f017916e87107d5fdf4ae3f5",
+    "scripts/prepare_data.py": "6c063e9ba090e54cff45344f706482233df96c5d56e5d5da90fdf95b2a02ad71"
+  }
+}

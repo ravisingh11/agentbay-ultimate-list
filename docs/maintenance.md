@@ -193,3 +193,12 @@ and FFmpeg; slim uses locally available tools. Static instruction review is not
 a rendering, first-use or cross-agent compatibility certification. The nine
 remaining Meta paths remain review-only and separate site improvements are
 outside this data change.
+
+## OpenZL benchmark adaptation (November 1, 2026)
+
+The owner-approved [AgentBay adaptation](adapted-openzl-benchmark.md) retains
+Meta attribution and its exact upstream BSD license. Its maintained source,
+provenance and reproducible download are separate from official Meta sources.
+Only this package is selected; the other eight remain excluded in
+`data/adapted-openzl-review.json`. No Finder, provider or website design policy
+change is attached to this publication.

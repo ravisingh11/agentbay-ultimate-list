@@ -1,0 +1,53 @@
+{
+  "package": "agentbay-openzl-benchmark-scenarios",
+  "title": "OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream)",
+  "publisher": "AgentBay",
+  "official_meta_distribution": false,
+  "upstream_repository": "meta/openzl",
+  "upstream_commit": "d5d872059bad85da410eb66e3d7f9cac107be263",
+  "license": "BSD-3-Clause",
+  "other_eight_excluded": [
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/add-config-cli-oss/SKILL.md",
+      "decision": "Hold — device operations"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/build-fboss-oss-local/SKILL.md",
+      "decision": "Later — larger environment work"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/debug-agent-hw-test/SKILL.md",
+      "decision": "Hold — live hardware testing"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/platform-services/SKILL.md",
+      "decision": "3 — adapt a local-development subset"
+    },
+    {
+      "repository": "meta/fboss",
+      "path": "fboss/skills/platform-verify/SKILL.md",
+      "decision": "Hold — service and kernel changes"
+    },
+    {
+      "repository": "meta/immersive-web-sdk",
+      "path": "packages/create/guidance/claude/.claude/skills/iwsdk-dev/SKILL.md",
+      "decision": "Skip — duplicate of an accepted skill"
+    },
+    {
+      "repository": "meta/meta-ray-ban-display-ui-toolkit-web",
+      "path": "llm-skills/uit-operational-pager-app-web/SKILL.md",
+      "decision": "2 — adapt after packaging and QA repairs"
+    },
+    {
+      "repository": "meta/sapling",
+      "path": "eden/.llms/skills/CREATING_ENDPOINTS/SKILL.md",
+      "decision": "Later — public workflow rewrite"
+    }
+  ],
+  "authorization": "Owner approved publication on November 1, 2026.",
+  "adaptation_only": true
+}
