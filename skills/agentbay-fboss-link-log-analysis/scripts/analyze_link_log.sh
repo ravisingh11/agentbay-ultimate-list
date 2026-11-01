@@ -227,10 +227,10 @@ END{
   if (firstts != "") { s = span(firstts, lastts); printf "Log time span (glog):     %s -> %s%s\n", firstts, lastts, (s >= 0) ? "  (~" s " s)" : "" }
   if (ngf > 0) { printf "gtest [  FAILED  ]:       "; for (i = 1; i <= ngf; i++) printf "%s%s", (i > 1 ? "; " : ""), gtestfailed[i]; print "" }
   else if (gtestok != "" || aggpass != "") {
-    printf "gtest passed:             %s%s\n", (gtestok != "" ? "[       OK ] " gtestok : ""), (aggpass != "" ? "  [  PASSED  ] " aggpass : "");
-    print  "    NOTE: the binary PASSED. If the result is still FAILED, the verdict came from OUTSIDE this log";
-    print  "    (multi-switch \"Hw Agent exited with non-zero status code.\" + hw agent log link, a postflight";
-    print  "    health check, or a runner rule): read the result record message section.";
+    printf "Passed markers observed:  %s%s\n", (gtestok != "" ? "[       OK ] " gtestok : ""), (aggpass != "" ? "  [  PASSED  ] " aggpass : "");
+    print "    These markers do not establish complete binary or job success. Review the supplied log and result record.";
+    if (nfail > 0 || nchk > 0 || nexc > 0 || nabort > 0 || nsan > 0)
+      print "    Failure/crash evidence is also present; do not treat earlier passed tests as a passing run.";
   }
   else if (gtestskip != "") printf "gtest [  SKIPPED ]:       %s\n", gtestskip;
   else if (exitgraceful) print "gtest verdict line:       none — the process exited through the warmboot graceful-exit path (cold_boot runs with --setup_for_warmboot exit(1) on failure before gtest prints [  FAILED  ]). The Failure block below IS the verdict.";
@@ -296,7 +296,7 @@ END{
 
   # ---- qsfp_service hand-off decision ------------------------------------------
   need = "no"; why = "no qsfp_service-owned failure evidence in this log";
-  if (gate ~ /^G2|^G3|never populated|qsfp_service died/) { need = "YES"; why = "the failing gate is evaluated by qsfp_service" }
+  if (gate ~ /^G2|^G3|no present transceiver|qsfp_service died/) { need = "YES"; why = "the failing gate is evaluated by qsfp_service" }
   else if (nqerr >= 3) { need = "YES"; why = "repeated qsfp_service RPC failures (service down/restarting?)" }
   else if (nport > 0) {
     bad = 0; for (i = 1; i <= nport; i++) { p = plist[i]; if ((p in pstate && pstate[p] != "ACTIVE") || (p in prxlos && prxlos[p] + 0 > 0) || (p in ppresent && ppresent[p] != "true") || (p in ptcvr && ptcvr[p] == "MISSING") || (p in pcomm)) bad++ }

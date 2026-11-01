@@ -49,7 +49,7 @@ class AdaptationTests(unittest.TestCase):
  def test_01_link_assertion_and_qsfp_handoff(self):
   text=self.run_script(SCRIPTS[0],LINK_FAIL);self.assertIn('G2 transceiver-state gate',text);self.assertIn('phase: SetUp',text);self.assertIn('QSFP_SERVICE_LOG_NEEDED:  YES',text);self.assertIn('6,10',text)
  def test_02_link_pass_is_not_job_pass(self):
-  text=self.run_script(SCRIPTS[0],LINK_PASS);self.assertIn('binary PASSED',text);self.assertIn('OUTSIDE this log',text)
+  text=self.run_script(SCRIPTS[0],LINK_PASS);self.assertIn('Passed markers observed',text);self.assertIn('do not establish complete binary or job success',text);self.assertNotIn('binary PASSED',text)
  def test_03_link_abort_without_failed_marker(self):
   log='I1031 10:00:00.000000 1 Agent.cpp:1] start\nF1031 10:00:01.000000 1 Agent.cpp:2] Check failed: synthetic\n*** Aborted at 1 ***\n';text=self.run_script(SCRIPTS[0],log);self.assertIn('Fatal CHECK',text);self.assertIn('synthetic',text)
  def test_04_link_truncated_scope(self):
@@ -131,4 +131,10 @@ class AdaptationTests(unittest.TestCase):
    with self.subTest(value=value):self.run_script(SCRIPTS[1],SERVICE,args=('--at',value),expected=2)
  def test_32_service_inverted_window_rejected(self):
   self.run_script(SCRIPTS[1],SERVICE,args=('--from','1031 10:20:00','--to','1031 10:00:00'),expected=2)
+ def test_33_passed_test_then_later_crash_is_not_binary_success(self):
+  log=LINK_PASS+'[ RUN      ] AgentExample.second\nF1031 10:01:00.000000 1 Agent.cpp:2] Check failed: synthetic later failure\n*** Aborted at 1 ***\n'
+  text=self.run_script(SCRIPTS[0],log);self.assertIn('Failure/crash evidence is also present',text);self.assertNotIn('binary PASSED',text);self.assertIn('Fatal CHECK',text)
+ def test_34_missing_transceiver_gate_requests_supplied_service_log(self):
+  log=LINK_FAIL.replace("Transceivers:[6,10] don't have expected TransceiverStateMachineState",'TransceiverInfo was never populated.')
+  text=self.run_script(SCRIPTS[0],log);self.assertIn('qsfp_service returned no present transceiver',text);self.assertIn('QSFP_SERVICE_LOG_NEEDED:  YES',text)
 if __name__=='__main__':unittest.main(verbosity=2)
