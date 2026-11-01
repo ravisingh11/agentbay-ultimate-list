@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-31.md) · [Next →](software-development-e36077-33.md)
 
-11,631 listings · Page 32 of 59
+11,632 listings · Page 32 of 59
 
 - **managing-legacy-dotnet-packages** — [Website](<https://github.com/microsoft/upgrade-agent-plugins/blob/2faeb986eae87a9261584642b5b169b008aa8fc8/plugins/upgrade-agent/upgrade/dotnet/skills/lazy/common/managing-legacy-dotnet-packages/SKILL.md>) · [GitHub](<https://github.com/microsoft/upgrade-agent-plugins>) · **License: Unknown** · **★ 43** (as of 2026-10-25) · **Microsoft · Official source** — managing-legacy-dotnet-packages is listed as an agent skill. Its catalogue topics include software engineering.
 - **managing-metal-cpp-lifetimes** — [Website](<https://github.com/apple/game-porting-toolkit/blob/4f42344c90be22112f46becc3fb9687f423f2f88/game-porting-skills/skills/managing-metal-cpp-lifetimes/SKILL.md>) · [GitHub](<https://github.com/apple/game-porting-toolkit>) · **License: Apache-2.0** · **★ 207** (as of 2026-10-24) · **Apple · Official source** — managing-metal-cpp-lifetimes is listed as an agent skill. Its catalogue topics include software engineering.

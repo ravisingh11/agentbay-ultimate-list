@@ -1,0 +1,21 @@
+OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream)
+AgentBay adaptation, November 1, 2026.
+
+Adapted from Meta Platforms, Inc. and affiliates' public OpenZL skill and
+benchmark implementation. This is an AgentBay adaptation, not an official
+Meta skill or a Meta-endorsed distribution. The original repository license
+is retained verbatim in LICENSE; no Meta trademarks or endorsement are granted.
+
+Upstream: https://github.com/meta/openzl
+Revision: d5d872059bad85da410eb66e3d7f9cac107be263
+Original skill: .claude/skills/unitbench-scenarios/SKILL.md
+
+AgentBay changes: distinct matching package/name and attribution; public Make
+workflow; self-contained references; non-overwriting synthetic data helper;
+separate correctness/timing evidence; explicit CSV decompression and partial
+block behavior; independent complete-length/byte-equality checks. Exact
+upstream input and adapted-file hashes are recorded in provenance.json.
+
+This package covers only local OpenZL benchmark scenarios. The other eight
+reviewed Meta paths remain excluded. Catalog publication does not install the
+skill or authorize remote publishing, unrelated provider changes or device work.

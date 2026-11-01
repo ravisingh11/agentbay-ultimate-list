@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-37.md) · [Next →](software-development-e36077-39.md)
 
-11,631 listings · Page 38 of 59
+11,632 listings · Page 38 of 59
 
+- **pactflow/pactflow-agent-skills** — [Website](<https://github.com/pactflow/pactflow-agent-skills>) · [GitHub](<https://github.com/pactflow/pactflow-agent-skills>) · **License: MIT** · Stars: not recorded — pactflow/pactflow-agent-skills is listed as an agent-skill repository. Its catalogue topics include software engineering and deployment and cloud operations.
 - **padosoft/skills** — [Website](<https://github.com/padosoft/skills>) · [GitHub](<https://github.com/padosoft/skills>) · **License: MIT** · Stars: not recorded — padosoft/skills is listed as an agent-skill repository. Its catalogue topics include software engineering and monitoring and operations.
 - **page-banners** — [Website](<https://github.com/Azure-Samples/sherpa/blob/12be921ec85bd915105d9c6b5335cffe8c680966/.github/skills/page-banners/SKILL.md>) · [GitHub](<https://github.com/Azure-Samples/sherpa>) · **License: MIT** · **★ 29** (as of 2026-10-25) · **Microsoft · Official source** — page-banners is listed as an agent skill. Its catalogue topics include software engineering.
 - **page-cache** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/web/skills/page-cache/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — page-cache is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **pipeline-review** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/sales/skills/pipeline-review/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — pipeline-review is listed as an agent skill. Its catalogue topics include software engineering.
 - **pipeline-review** — [Website](<https://github.com/salesforce/salesforce-skills/blob/6b989d6490589647c4c164f7f55c2797cf322f04/salesforce-for-sales/skills/pipeline-review/SKILL.md>) · [GitHub](<https://github.com/salesforce/salesforce-skills>) · **License: Apache-2.0** · **★ 17** (as of 2026-10-24) · **Salesforce · Official source** — pipeline-review is listed as an agent skill. Its catalogue topics include software engineering.
 - **pipeline-troubleshooting** — [Website](<https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/pipeline-troubleshooting/SKILL.md>) · [GitHub](<https://github.com/Azure/azure-sdk-tools>) · **License: MIT** · **★ 134** (as of 2026-10-25) · **Microsoft · Official source** — pipeline-troubleshooting is listed as an agent skill. Its catalogue topics include software engineering.
-- **pipelines-build-summary** — [Website](<https://github.com/microsoft/azure-devops-skills/blob/844a1f6f5202aa920ce5b1be95c056d529d63ded/.github/skills/pipelines-build-summary/SKILL.md>) · [GitHub](<https://github.com/microsoft/azure-devops-skills>) · **License: MIT** · **★ 55** (as of 2026-10-25) · **Microsoft · Official source** — pipelines-build-summary is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-37.md) · [Next →](software-development-e36077-39.md)

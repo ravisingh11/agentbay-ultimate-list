@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-22.md) · [Next →](software-development-e36077-24.md)
 
-11,631 listings · Page 23 of 59
+11,632 listings · Page 23 of 59
 
 - **forecast** — [Website](<https://github.com/microsoft/dataverse-business-skills/blob/10016dd09acfa5f4dfce84de4e34ef294961faaf/skills/forecast/SKILL.md>) · [GitHub](<https://github.com/microsoft/dataverse-business-skills>) · **License: MIT** · **★ 52** (as of 2026-10-25) · **Microsoft · Official source** — forecast is listed as an agent skill. Its catalogue topics include software engineering.
 - **forecast** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/sales/skills/forecast/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — forecast is listed as an agent skill. Its catalogue topics include software engineering.

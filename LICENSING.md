@@ -8,7 +8,7 @@ You may use, copy, modify, distribute and sell covered material under the MIT te
 
 The repository's MIT license does not relicense a listed project, skill, hosted product, trademark or publisher material. Linked software and instructions remain under their upstream licenses. The `license` and `license_scope` fields describe a listed source, not this catalogue. An empty license value means unknown; it does not mean MIT or unrestricted use.
 
-This repository links to upstream skills instead of bundling their instructions, scripts or assets. Before copying or running a skill, review that source's license, prerequisites and instructions. Neither an Official source label nor a public GitHub repository establishes permission to redistribute everything it contains.
+Most listings link to upstream skills. The maintained AgentBay adaptations under `skills/agentbay-fboss-*/` and `skills/agentbay-openzl-benchmark-scenarios/` bundle adapted instructions and local helpers under their own retained upstream licenses and attribution notices. Before copying or running a skill, review that source's license, prerequisites and instructions. Neither an Official source label nor a public GitHub repository establishes permission to redistribute everything it contains.
 
 ## Original summaries
 

@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-28.md) · [Next →](software-development-e36077-30.md)
 
-11,631 listings · Page 29 of 59
+11,632 listings · Page 29 of 59
 
 - **itw-creative-works/workkit** — [Website](<https://github.com/itw-creative-works/workkit>) · [GitHub](<https://github.com/itw-creative-works/workkit>) · **License: MIT** · Stars: not recorded — itw-creative-works/workkit is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **IvanMurzak/ai-game-dev-plugin** — [Website](<https://github.com/ivanmurzak/ai-game-dev-plugin>) · [GitHub](<https://github.com/ivanmurzak/ai-game-dev-plugin>) · **License: Apache-2.0** · Stars: not recorded — IvanMurzak/ai-game-dev-plugin is listed as an agent-skill repository. Its catalogue topics include software engineering.

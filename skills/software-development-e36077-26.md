@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-25.md) · [Next →](software-development-e36077-27.md)
 
-11,631 listings · Page 26 of 59
+11,632 listings · Page 26 of 59
 
 - **gws-chat** — [Website](<https://github.com/googleworkspace/cli/blob/a3768d0e82ad83cca2da97724e46bea4ff0e6dbd/skills/gws-chat/SKILL.md>) · [GitHub](<https://github.com/googleworkspace/cli>) · **License: Apache-2.0** · **★ 31,861** (as of 2026-10-25) · **Google · Official source** — gws-chat is listed as an agent skill. Its catalogue topics include software engineering.
 - **gws-chat-send** — [Website](<https://github.com/googleworkspace/cli/blob/a3768d0e82ad83cca2da97724e46bea4ff0e6dbd/skills/gws-chat-send/SKILL.md>) · [GitHub](<https://github.com/googleworkspace/cli>) · **License: Apache-2.0** · **★ 31,861** (as of 2026-10-25) · **Google · Official source** — gws-chat-send is listed as an agent skill. Its catalogue topics include software engineering.

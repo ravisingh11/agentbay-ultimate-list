@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-24.md) · [Next →](software-development-e36077-26.md)
 
-11,631 listings · Page 25 of 59
+11,632 listings · Page 25 of 59
 
 - **github-script** — [Website](<https://github.com/github/gh-aw/blob/3de7cc191d85f95a65e5d64d2e386539ed7a36be/.github/skills/github-script/SKILL.md>) · [GitHub](<https://github.com/github/gh-aw>) · **License: MIT** · **★ 5,462** (as of 2026-10-25) · **GitHub · Official source** — github-script is listed as an agent skill. Its catalogue topics include software engineering.
 - **github-workflows-query** — [Website](<https://github.com/github/gh-aw/blob/3de7cc191d85f95a65e5d64d2e386539ed7a36be/.github/skills/github-workflows-query/SKILL.md>) · [GitHub](<https://github.com/github/gh-aw>) · **License: MIT** · **★ 5,462** (as of 2026-10-25) · **GitHub · Official source** — github-workflows-query is listed as an agent skill. Its catalogue topics include software engineering.
