@@ -49,6 +49,10 @@ A zero exit means parsing completed, never that a test or device passed.
    bash "$SKILL_DIR/scripts/analyze_link_log.sh" "$LOG"
    ```
 
+   Port tables show the latest dump for the last observed test, with original
+   header line numbers. Align them to that test; earlier dumps remain in the
+   input log. Missing presence/state fields are unknown, not healthy.
+
    The parser is a candidate index. Read the original log around its line
    numbers, including the complete assertion block. Its output can be clipped.
    Use [failure-signatures.md](references/failure-signatures.md) to distinguish

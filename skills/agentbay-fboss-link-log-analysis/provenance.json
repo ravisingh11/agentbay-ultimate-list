@@ -18,7 +18,8 @@
     "Service focus IDs and timestamp shapes validated; inverted or year-wrapping windows require separate slices.",
     "Passed individual/aggregate markers do not establish a complete successful run when logs may be incomplete or later failures exist. Missing-transceiver normalized gate requests a matching supplied service log.",
     "Final review: retain per-abort setup state and conditional uncertainty; fatal evidence takes precedence over retry wording without promoting ordinary vendor WARNs to terminal failures.",
-    "Per-port fields reset at each test and dump/section boundary; latest snapshots identify their original header lines. Missing later fields never inherit an earlier healthy state."
+    "Per-port fields reset at each test and dump/section boundary; latest snapshots identify their original header lines. Missing later fields never inherit an earlier healthy state.",
+    "An available transceiver-info structure does not establish physical module presence; absent boolean evidence is reported as unknown. The entrypoint explains latest-test snapshot scope."
   ],
   "inputs": [
     {
@@ -27,7 +28,7 @@
       "upstream_blob": "153907b827a927402cc1aa0285997a6cb476539c",
       "upstream_sha256": "99b89e361a32546c432a417102b6da589ccdcec9117ae3d2250a1ec4f5942bd5",
       "destination": "scripts/analyze_link_log.sh",
-      "adapted_sha256": "ec6de7276561689032529722dbb73e7cd4083614b834c62826a58cbb8407882b",
+      "adapted_sha256": "575dd9623af232edaabdacefbf8b293dae667105821b6ea9986916ba61c94f68",
       "modified": true
     },
     {
@@ -72,7 +73,7 @@
       "upstream_blob": "1c916a6e3a16cb54134b5f532c4b7a4c901a7b7b",
       "upstream_sha256": "9ac8a3bc31a7f61eeada8729b36272b535385f0a41f9e3ed83fa11fae319112c",
       "destination": "SKILL.md",
-      "adapted_sha256": "df794fa64025baba9afcc20d15a7d0723be38e083c5b5db396808f567a3f97f4",
+      "adapted_sha256": "382bf7b2a63555beec161ed4f086612e2b35ab7d87c1de6a58682aff4e76519b",
       "modified": true
     },
     {

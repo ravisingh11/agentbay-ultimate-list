@@ -164,5 +164,5 @@ class AdaptationTests(unittest.TestCase):
  def test_42_incomplete_new_snapshot_does_not_inherit_healthy_state(self):
   prefix='I1031 10:01:00.000000 1 AgentEnsembleLinkTest.cpp:10] '
   log='[ RUN      ] Example.test\n'+self.port_dump('true',6,0)+prefix+'Debug information for eth1/1\n'+prefix+'Transceiver INFO: {\n[  FAILED  ] Example.test (1 ms)\n'
-  text=self.run_script(SCRIPTS[0],log);row=self.snapshot_row(text);self.assertNotIn('true',row);self.assertNotIn('ACTIVE',row);self.assertNotIn('suspect host-side',text)
+  text=self.run_script(SCRIPTS[0],log);row=self.snapshot_row(text);self.assertIn('unknown',row);self.assertNotIn('true',row);self.assertNotIn('ACTIVE',row);self.assertNotIn('suspect host-side',text)
 if __name__=='__main__':unittest.main(verbosity=2)

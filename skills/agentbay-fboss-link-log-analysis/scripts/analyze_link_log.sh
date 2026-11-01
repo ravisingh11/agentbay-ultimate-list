@@ -295,7 +295,7 @@ END{
       p = plist[i];
       printf "  snapshot header line %d for %s\n", snapshotline[p],p;
       tn = (p in pid ? pid[p] : "-") " / " (p in ptn ? ptn[p] : "-");
-      pr = (p in ppresent ? ppresent[p] : (p in ptcvr ? ptcvr[p] : "-")) ((p in pcomm) ? "+commErr" : "");
+      pr = (p in ppresent ? ppresent[p] : "unknown") ((p in pcomm) ? "+commErr" : "");
       xp = (p in pxphy ? pxphy[p] : "-"); if (pxsdF[p] + 0 > 0) xp = xp " (sigDet false x" pxsdF[p] ")";
       printf "  %-15s %-18s %-8s %-23s %-21s %-15s / %-15s %d/%d            %d/%d          %s\n", p, tn, pr, (p in pstate ? pstate[p] : "-"), (p in ppn ? ppn[p] : "-"), (p in prxlos ? lanes(prxlos[p]) : "-"), (p in prxlol ? lanes(prxlol[p]) : "-"), psdT[p] + 0, psdF[p] + 0, pcdrT[p] + 0, pcdrF[p] + 0, xp;
     }
