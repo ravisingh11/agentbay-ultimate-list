@@ -52,6 +52,9 @@ BEGIN{
   cur="(before first test / setup)";
   npass=0; nrecords=0; nfail=0; nsig=0; nbenign=0; nhint=0; ctx=0; instack=0; nframe=0;
 }
+# journalctl prefixes precede both glog and gtest records. Preserve NR while
+# normalizing the record before all classification and test-window extraction.
+{ sub(/^[A-Z][a-z][a-z] +[0-9]+ [0-9][0-9]:[0-9][0-9]:[0-9][0-9] [^ ]+ [^ ]+\[[0-9]+\]: /, "") }
 # Recognized records distinguish an empty/unrelated file from an incomplete log.
 { if (index($0,"[ RUN      ]")>0 || index($0,"[       OK ]")>0 ||
       index($0,"[  FAILED  ]")>0 || index($0,"[  PASSED  ]")>0 ||

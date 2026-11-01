@@ -33,7 +33,7 @@ must not be attributed to the Meta official-provider group.
 Rebuild/check deterministic downloads with `python3 scripts/adapted_fboss.py
 build` and `python3 scripts/adapted_fboss.py check`. Run
 `python3 -m unittest discover -s tests -v` for fixture and existing catalog
-coverage. The 42 adaptation checks use synthetic inputs, with no live device,
+coverage. The 45 adaptation checks use synthetic inputs, with no live device,
 SDK or private CI. Real device diagnosis and cross-platform compatibility are
 not certified by those checks.
 

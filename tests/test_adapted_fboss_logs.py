@@ -165,4 +165,13 @@ class AdaptationTests(unittest.TestCase):
   prefix='I1031 10:01:00.000000 1 AgentEnsembleLinkTest.cpp:10] '
   log='[ RUN      ] Example.test\n'+self.port_dump('true',6,0)+prefix+'Debug information for eth1/1\n'+prefix+'Transceiver INFO: {\n[  FAILED  ] Example.test (1 ms)\n'
   text=self.run_script(SCRIPTS[0],log);row=self.snapshot_row(text);self.assertIn('unknown',row);self.assertNotIn('true',row);self.assertNotIn('ACTIVE',row);self.assertNotIn('suspect host-side',text)
+ def journal_lines(self,log):
+  return ''.join('Nov 01 10:00:00 host qsfp_hw_test[123]: '+line+'\n' for line in log.splitlines())
+ def test_43_journal_fatal_severity_is_retained(self):
+  log='[ RUN      ] Example.init\nF1101 10:00:00.000000 123 Example.cpp:1] hardware initialization failed\n'
+  text=self.run_script(SCRIPTS[2],self.journal_lines(log));self.assertIn('[CHECK/FATAL] line 2',text);self.assertNotIn('No failure signature matched',text)
+ def test_44_journal_gtest_name_and_assertion_scope(self):
+  text=self.run_script(SCRIPTS[2],self.journal_lines(QSFP_FAIL));self.assertIn('(in: cold_boot.OpticsExample.program)',text);self.assertIn('[gtest-assert] line 3',text)
+ def test_45_journal_retry_stays_nonterminal_context(self):
+  text=self.run_script(SCRIPTS[2],self.journal_lines('W1101 10:00:00.000000 123 Example.cpp:1] programTransceiver failed: BcmError retry\n'));self.assertIn('[retry/context',text);self.assertIn('does not establish a terminal failure',text)
 if __name__=='__main__':unittest.main(verbosity=2)

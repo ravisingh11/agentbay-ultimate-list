@@ -8,8 +8,8 @@
   },
   "agentbay-fboss-qsfp-log-analysis": {
     "path": "downloads/agentbay-fboss-qsfp-log-analysis.zip",
-    "bytes": 18228,
-    "sha256": "ae60a43bf22f6d1278690885c931136be386d863cd69558b093c65dbe0a3dacb",
+    "bytes": 18412,
+    "sha256": "b6d82e24a12a29df435ded3b5a2a171fb08bd7590304ca5ce0bae9b4e519b0c8",
     "publisher": "AgentBay",
     "official_meta_distribution": false
   }
