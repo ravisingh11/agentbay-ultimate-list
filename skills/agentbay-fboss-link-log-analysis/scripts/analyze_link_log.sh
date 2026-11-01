@@ -71,7 +71,7 @@ BEGIN{
   test = "(none seen)"; nfail = 0; nchk = 0; nabort = 0; nqerr = 0; nport = 0; ctx = 0; instack = 0;
   gate = ""; gatedetail = ""; gatefail = ""; exitgraceful = 0; exitcode = ""; nbenign = 0; firstts = ""; lastts = "";
   curport = ""; sec = ""; nexc = 0; nvend = 0; nsan = 0; nlldp = 0; badtcvrs = ""; nfabric = 0; nrec = 0;
-  prev1 = ""; nrpc = 0; lastgate = ""; lastgatedetail = ""; gatecount = 0; aggpass = ""; ngf = 0;
+  prev1 = ""; nrpc = 0; lastgate = ""; lastgatedetail = ""; gatecount = 0; gatePending = 0; setupDone = 0; aggpass = ""; ngf = 0;
 }
 {
   line = $0
@@ -83,7 +83,7 @@ BEGIN{
   isdump = (curport != "" && line ~ /(AgentEnsembleLinkTest|LinkTest)\.cpp:[0-9]+\]/)
 }
 # ---- gtest boundaries ---------------------------------------------------------
-index(line, "[ RUN      ]") > 0 { test = substr(line, index(line, "]") + 2); nrec++; next }
+index(line, "[ RUN      ]") > 0 { test = substr(line, index(line, "]") + 2); lastgate=""; gatePending=0; setupDone=0; nrec++; next }
 index(line, "[  FAILED  ]") > 0 {
   n = substr(line, index(line, "]") + 2); nrec++
   if (n !~ /^[0-9]+ test/ && n !~ /listed below/ && n != "") gtestfailed[++ngf] = n
@@ -98,9 +98,9 @@ instack == 1 && line ~ /^\*\*\* Signal [0-9]+ \(SIG[A-Z]+\)/ {
   rp = ""; fp = "";
   if (match(line, /received by PID [0-9]+/)) rp = substr(line, RSTART + 16, RLENGTH - 16)
   if (match(line, /maybe from PID [0-9]+/)) fp = substr(line, RSTART + 15, RLENGTH - 15)
-  kind = "self-abort (the process raised it: CHECK/terminate/abort; read the stack)"
+  kind = "abort observed; signal origin/cause unconfirmed without sender and stack evidence"
   if (fp != "" && rp != "" && fp != rp && line ~ /sent by kill/) {
-    kind = "EXTERNAL kill from PID " fp ": almost always the runner `timeout -s ABRT <cap>` watchdog, i.e. a HANG/TIMEOUT"; external[nabort] = 1
+    kind = "EXTERNAL kill from PID " fp ": watchdog timeout is a hypothesis; confirm the supplied runner record"; external[nabort] = 1
   }
   abortkind[nabort] = kind; next
 }
@@ -114,7 +114,7 @@ instack == 1 {
   } else { instack = 0 }
 }
 line ~ /^\*\*\* Aborted at [0-9]+/ || line ~ /^\*\*\* SIGSEGV|^\*\*\* SIGBUS|^\*\*\* SIGILL|^\*\*\* SIGFPE/ {
-  nabort++; abortline[nabort] = NR; abortts[nabort] = lastts; aborttext[nabort] = clip(line, 200);
+  nabort++; abortgate[nabort]=lastgate; abortpending[nabort]=gatePending; abortdetail[nabort]=lastgatedetail; abortcount[nabort]=gatecount; abortsetupdone[nabort]=setupDone; abortline[nabort] = NR; abortts[nabort] = lastts; aborttext[nabort] = clip(line, 200);
   instack = 1; nframe = 0; frames[nabort] = ""; nrec++; next
 }
 # ---- gtest failure blocks -----------------------------------------------------
@@ -193,12 +193,12 @@ isdump && sec == "tcvr" {
 curport != "" && !isdump { curport = ""; sec = "" }   # dump ended; process this line normally
 # ---- last SetUp stage entered (explains a watchdog kill) ------------------------
 line ~ /Checking link status on / {
-  lastgate = "G1 link-up wait (waitForLinkStatus) entered at " lastts; lastgatedetail = clip(line, 200)
+  gatePending = !setupDone; lastgate = "G1 link-up wait (waitForLinkStatus) entered at " lastts; lastgatedetail = clip(line, 200)
   c = line; sub(/^.*Checking link status on /, "", c); gatecount = split(c, tmp, ",")
 }
-line ~ /Checking qsfp TransceiverStateMachineState on / { lastgate = "G2 transceiver-state wait entered at " lastts; lastgatedetail = clip(line, 200); gatecount = 0 }
-line ~ /Checking qsfp PortStateMachineState on / { lastgate = "G3 port-state wait entered at " lastts; lastgatedetail = clip(line, 200); gatecount = 0 }
-line ~ /Multi Switch Link Test setup ready/ { lastgate = "SetUp finished at " lastts " (the test body was running)"; lastgatedetail = ""; gatecount = 0 }
+line ~ /Checking qsfp TransceiverStateMachineState on / { gatePending = !setupDone; lastgate = "G2 transceiver-state wait entered at " lastts; lastgatedetail = clip(line, 200); gatecount = 0 }
+line ~ /Checking qsfp PortStateMachineState on / { gatePending = !setupDone; lastgate = "G3 port-state wait entered at " lastts; lastgatedetail = clip(line, 200); gatecount = 0 }
+line ~ /Multi Switch Link Test setup ready/ { gatePending=0; setupDone=1; lastgate = "SetUp finished at " lastts " (the test body was running)"; lastgatedetail = ""; gatecount = 0 }
 # ---- agent Thrift RPC saturation (e.g. qsfp_service -> agent programInternalPhyPorts) --------
 line ~ /ThriftHandler.cpp:[0-9]+\] \[[^]]*\] [A-Za-z]+ thrift request received/ {
   m = line; sub(/^.*ThriftHandler.cpp:[0-9]+\] \[[^]]*\] /, "", m); sub(/ .*$/, "", m); rpcin[m]++; if (!(m in rpcseen)) { rpcseen[m] = 1; rpcl[++nrpc] = m }
@@ -259,12 +259,16 @@ END{
       printf "[abort #%d] line %d  last glog ts before abort: %s%s\n    %s\n    %s\n    => %s\n", i, abortline[i], abortts[i], (s >= 0) ? "  (~" s " s after first log line)" : "", aborttext[i], sigtext[i], abortkind[i];
       if (!(i in external)) selfabort = 1;
       if (frames[i] != "") printf "  meaningful frames:\n%s", frames[i];
-      if ((i in external) && lastgate != "") {
-        printf "  last SetUp stage reached: %s\n    %s\n", lastgate, lastgatedetail;
-        if (gatecount > 0) printf "  ports checked by that wait: %d (candidate set; which ones were down is NOT known — the process was killed before the down-port dump)\n", gatecount;
-        print  "  => a gate entered but never finished = SetUp was still polling at the cap. Root cause = why links/transceivers";
-        print  "     never converged; mechanism = timeout (waitForLinkStatus refetches the full port status for every bad port";
-        print  "     each retry, so many down ports on a slow sanitizer build stretch the ~5 min gate past the cap).";
+      if ((i in external) && abortgate[i] != "") {
+        printf "  last observed stage before this abort: %s\n    %s\n", abortgate[i], abortdetail[i];
+        if (abortpending[i]) {
+          print "  A wait was observed without a later SetUp completion marker in this excerpt.";
+          print "  It may have remained pending; neither link convergence nor the underlying cause is confirmed.";
+          if (abortcount[i]>0) printf "  candidate ports checked: %d; the down-port set is unconfirmed.\n", abortcount[i];
+        } else if (abortsetupdone[i]) {
+          print "  SetUp completion was observed before this abort; do not attribute it to an unfinished SetUp gate.";
+          print "  The subsequent test-body cause remains unconfirmed from stage markers alone.";
+        }
       }
       if ((i in external) && frames[i] !~ /fboss::|SetUp|TestBody/) print "  NOTE: these frames are from the thread that RECEIVED the signal (e.g. a log writer), not necessarily the stuck one; use the last test-thread log lines before the abort.";
     }

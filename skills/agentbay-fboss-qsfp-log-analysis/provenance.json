@@ -14,7 +14,9 @@
     "Entrypoint rewritten for supplied files and conservative evidence reporting.",
     "Remote-fetch guides/internal routes omitted; all required domain references bundled.",
     "Relative filenames prefixed to prevent awk treating names as options or assignments.",
-    "QSFP helper rejects empty/unrecognized inputs and avoids inferring timeout from missing signatures."
+    "QSFP helper rejects empty/unrecognized inputs and avoids inferring timeout from missing signatures.",
+    "Final review: retain per-abort setup state and conditional uncertainty; fatal evidence takes precedence over retry wording without promoting ordinary vendor WARNs to terminal failures.",
+    "A failed-test marker remains an observed failure even when the only cause context is retry warnings."
   ],
   "inputs": [
     {
@@ -23,7 +25,7 @@
       "upstream_blob": "c9ac92d8daad23d3610b0cb08404f4b8d3f0cc1b",
       "upstream_sha256": "8f9845ed06d5eddab363d05a424f803edd126b17f403b4364dbf4a352099d4e8",
       "destination": "scripts/analyze_qsfp_log.sh",
-      "adapted_sha256": "c0246a88aababdfbae0eda75470767bc600124d7af1c30bee6c5a9613ddc9516",
+      "adapted_sha256": "1c0a8a6a2d633cb91cbe01afa531d06faeb953f76e9d94932101b115cd1279a8",
       "modified": true
     },
     {

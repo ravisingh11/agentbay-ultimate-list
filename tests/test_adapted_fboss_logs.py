@@ -137,4 +137,17 @@ class AdaptationTests(unittest.TestCase):
  def test_34_missing_transceiver_gate_requests_supplied_service_log(self):
   log=LINK_FAIL.replace("Transceivers:[6,10] don't have expected TransceiverStateMachineState",'TransceiverInfo was never populated.')
   text=self.run_script(SCRIPTS[0],log);self.assertIn('qsfp_service returned no present transceiver',text);self.assertIn('QSFP_SERVICE_LOG_NEEDED:  YES',text)
+ def external_abort_log(self,done):
+  return '[ RUN      ] AgentExample.test\nI1031 10:00:00.000000 1 Example.cpp:1] Checking link status on eth1/1\n'+('I1031 10:01:00.000000 1 Example.cpp:2] Multi Switch Link Test setup ready\n' if done else '')+'I1031 10:02:00.000000 1 Example.cpp:3] activity\n*** Aborted at 1 ***\n*** Signal 6 (SIGABRT) received by PID 123 (pthread TID 123) (maybe from PID 456, sent by kill()) ***\n'
+ def test_35_completed_setup_not_blamed_for_body_abort(self):
+  text=self.run_script(SCRIPTS[0],self.external_abort_log(True));self.assertIn('SetUp completion was observed before this abort',text);self.assertNotIn('SetUp was still polling',text);self.assertNotIn('A wait was observed without a later SetUp completion',text)
+ def test_36_fatal_retry_wording_keeps_terminal_evidence(self):
+  text=self.run_script(SCRIPTS[2],'F1031 10:00:00.000000 1 Example.cpp:1] Check failed: programTransceiver failed: synthetic\n');self.assertIn('[CHECK/FATAL]',text);self.assertNotIn('[retry/context — WARN, not the verdict] line',text)
+ def test_37_warning_vendor_reason_stays_retry_context(self):
+  text=self.run_script(SCRIPTS[2],'W1031 10:00:00.000000 1 Example.cpp:1] programTransceiver failed: BcmError synthetic\n');self.assertIn('[retry/context',text);self.assertIn('does not establish a terminal failure',text);self.assertNotIn('[exception]',text)
+ def test_38_unfinished_gate_remains_hypothesis(self):
+  text=self.run_script(SCRIPTS[0],self.external_abort_log(False));self.assertIn('A wait was observed without a later SetUp completion',text);self.assertIn('neither link convergence nor the underlying cause is confirmed',text);self.assertNotIn('Root cause =',text)
+ def test_39_retry_plus_failed_marker_preserves_failed_result(self):
+  log='[ RUN      ] Example.test\nW1031 10:00:00.000000 1 Example.cpp:1] programTransceiver failed: retry reason\n[  FAILED  ] Example.test (100 ms)\n'
+  text=self.run_script(SCRIPTS[2],log);self.assertIn('A failed-test marker was observed',text);self.assertNotIn('does not establish a terminal failure',text)
 if __name__=='__main__':unittest.main(verbosity=2)

@@ -42,6 +42,12 @@ function noiseframe(l){
           l ~ /HandleExceptionsInMethod/ || l ~ / testing::/ || l ~ /\(unknown\)/ ||
           l ~ /execute_native_thread/ || l ~ /start_thread/ || l ~ /__clone/)
 }
+# Strong terminal evidence must not be swallowed by retry wording on the same line.
+function strongterminal(l){
+  return (l ~ /:[0-9]+: Failure|unknown file: Failure|Check failed:|Check failure stack trace|LogMessageFatal/ ||
+          l ~ /(^|[[:space:]])F[0-9][0-9][0-9][0-9] / ||
+          l ~ /terminate called|C\+\+ exception.*thrown|SIGSEGV|SIGABRT|signal killed|Aborted at|Service exit status:/)
+}
 BEGIN{
   cur="(before first test / setup)";
   npass=0; nrecords=0; nfail=0; nsig=0; nbenign=0; nhint=0; ctx=0; instack=0; nframe=0;
@@ -90,7 +96,7 @@ instack==1 {
 # ---- state-machine WARN wrappers: retry/context, NOT terminal ---------------
 # These name the underlying reason (vendor error, tunable-optics gap, bad EEPROM)
 # but are WARN + retry — the terminal verdict is the SetUp gate / gtest assertion.
-$0 ~ /programExternalPhyPorts failed|readyTransceiver failed|programTransceiver failed|discover transceiver failed|programInternalPhyPorts failed|tryRemediateTransceiver failed/ {
+$0 ~ /(^|[[:space:]])W[0-9][0-9][0-9][0-9] / && !strongterminal($0) && $0 ~ /programExternalPhyPorts failed|readyTransceiver failed|programTransceiver failed|discover transceiver failed|programInternalPhyPorts failed|tryRemediateTransceiver failed/ {
   nhint++;
   printf "\n[retry/context — WARN, not the verdict] line %d  (in: %s)\n    %s\n", NR, cur, clip($0);
   next
@@ -146,7 +152,7 @@ END{
   }
   print  "==================== QSFP HW TEST LOG ANALYSIS ====================";
   printf "Lines scanned:            %d\n", NR;
-  printf "Terminal signatures:      %d\n", nsig;
+  printf "Failure-signature candidates:      %d\n", nsig;
   printf "Retry/context hints:      %d (named reasons; not the verdict)\n", nhint;
   printf "Benign/info lines seen:   %d (suppressed above)\n", nbenign;
   if (ni2c>0) {
@@ -170,7 +176,8 @@ END{
   if (nsig==0 && nhint>0) {
     print "";
     print "No terminal killer line, but retry/context hints above name the underlying reason";
-    print "A retry may later succeed; this excerpt does not establish a terminal failure.";
+    if (nfail>0) print "A failed-test marker was observed; the retry context alone does not confirm its terminal cause.";
+    else print "A retry may later succeed; this excerpt does not establish a terminal failure.";
   } else if (nsig==0) {
     print "";
     if (nfail>0) print "A failure marker was observed, but its cause is unconfirmed in this excerpt.";
