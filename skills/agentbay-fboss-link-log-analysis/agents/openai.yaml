@@ -1,0 +1,3 @@
+interface:
+  display_name: "FBOSS Link Logs — AgentBay Adaptation"
+  short_description: "Analyze supplied FBOSS link logs locally"

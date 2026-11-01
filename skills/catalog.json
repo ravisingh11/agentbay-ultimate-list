@@ -236511,6 +236511,70 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:e6f576c7-53f5-50cf-8c83-62c9d3da9df0",
+    "name": "FBOSS Link Log Analysis — AgentBay adaptation (Meta upstream)",
+    "description": "FBOSS Link Log Analysis — AgentBay adaptation (Meta upstream) is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/SKILL.md",
+    "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "AgentBay adaptation",
+      "Meta upstream",
+      "FBOSS",
+      "Log analysis",
+      "Local files",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "BSD-3-Clause",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-01T01:13:31.392434+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-01T01:13:31.392434+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:ec44fd7f-3625-511e-982b-86a37bd7c1a6",
+    "name": "FBOSS QSFP Log Analysis — AgentBay adaptation (Meta upstream)",
+    "description": "FBOSS QSFP Log Analysis — AgentBay adaptation (Meta upstream) is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/SKILL.md",
+    "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "AgentBay adaptation",
+      "Meta upstream",
+      "FBOSS",
+      "Log analysis",
+      "Local files",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "BSD-3-Clause",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-01T01:13:31.392434+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-01T01:13:31.392434+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "d6eb7484-3c67-593b-9151-34df50147595",
     "name": "fboss-agent-platform-onboarding",
     "description": "fboss-agent-platform-onboarding is listed as an agent skill. Its catalogue topics include agent development.",

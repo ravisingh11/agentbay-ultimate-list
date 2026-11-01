@@ -1,0 +1,13 @@
+AgentBay adaptation — prepared October 31, 2026.
+This package is adapted from Meta's FBOSS public sources. It is not an official
+Meta skill or a Meta-endorsed distribution. Original attribution and the full
+upstream license are retained in LICENSE.
+
+Upstream repository: https://github.com/meta/fboss
+Immutable upstream revision: d2cd70e1a46bbe87b280475e2aa7ee710da40ea3
+Exact incorporated source files and changes are recorded in provenance.json.
+
+AgentBay adaptations: canonical names and attribution; supplied-local-log-only
+scope; self-contained references; safer filename handling; conservative parser
+messages and evidence checks. No switch access, CI fetching, hardware tests,
+known-bad policy changes or remote upload workflow is included.

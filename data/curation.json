@@ -3279,6 +3279,102 @@
           "note": "Pinned MIT repository license bytes verified against the reviewed SHA-256. No skill-specific override observed."
         }
       ]
+    },
+    {
+      "id": "community:e6f576c7-53f5-50cf-8c83-62c9d3da9df0",
+      "fields": {
+        "name": "FBOSS Link Log Analysis — AgentBay adaptation (Meta upstream)",
+        "type": "Skill",
+        "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/SKILL.md",
+        "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "AgentBay adaptation",
+          "Meta upstream",
+          "FBOSS",
+          "Log analysis",
+          "Local files",
+          "SKILL.md"
+        ],
+        "license": "BSD-3-Clause",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-01T01:13:31.392434+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-01T01:13:31.392434+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/SKILL.md",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Owner-approved AgentBay adaptation; not an official Meta skill. Hosted source matches reviewed local-only package. Original attribution/license and exact immutable upstream hashes retained."
+        },
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/LICENSE",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Exact upstream three-condition BSD-style license retained per skill, separately from the repository MIT license."
+        },
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/provenance.json",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Per-file upstream and adapted hashes; 45 synthetic checks. No live-device diagnosis certification."
+        },
+        {
+          "url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-link-test/SKILL.md",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Meta FBOSS upstream author/source attribution, not the publisher of this adaptation."
+        }
+      ]
+    },
+    {
+      "id": "community:ec44fd7f-3625-511e-982b-86a37bd7c1a6",
+      "fields": {
+        "name": "FBOSS QSFP Log Analysis — AgentBay adaptation (Meta upstream)",
+        "type": "Skill",
+        "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/SKILL.md",
+        "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "AgentBay adaptation",
+          "Meta upstream",
+          "FBOSS",
+          "Log analysis",
+          "Local files",
+          "SKILL.md"
+        ],
+        "license": "BSD-3-Clause",
+        "license_scope": "skill",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-01T01:13:31.392434+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-01T01:13:31.392434+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/SKILL.md",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Owner-approved AgentBay adaptation; not an official Meta skill. Hosted source matches reviewed local-only package. Original attribution/license and exact immutable upstream hashes retained."
+        },
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/LICENSE",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Exact upstream three-condition BSD-style license retained per skill, separately from the repository MIT license."
+        },
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/provenance.json",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Per-file upstream and adapted hashes; 45 synthetic checks. No live-device diagnosis certification."
+        },
+        {
+          "url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-qsfp-hw-test/SKILL.md",
+          "checked_at": "2026-11-01T01:13:31.392434+00:00",
+          "note": "Meta FBOSS upstream author/source attribution, not the publisher of this adaptation."
+        }
+      ]
     }
   ],
   "corrections": [
