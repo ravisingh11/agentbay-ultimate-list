@@ -155,3 +155,24 @@ nine upstream metadata problems and one already indexed mirror. Existing IDs,
 curation, explicit exclusions and installer behavior are unchanged. The public
 registry already verifies `meta`; no owner-policy change is needed. Website
 publication remains a separate direct-qualified catalog release.
+
+## Maintained AgentBay adaptations of FBOSS log analysis
+
+The two packages under `skills/agentbay-fboss-link-log-analysis/` and
+`skills/agentbay-fboss-qsfp-log-analysis/` are maintained AgentBay adaptations
+of pinned Meta FBOSS sources. Their own LICENSE, NOTICE and provenance files
+preserve upstream rights and attribution; the general repository MIT license
+does not replace them. They are cataloged under AgentBay adaptation names,
+with Meta credited as upstream, never as Meta official-provider releases.
+
+Edit these maintained package files directly. Rebuild the two downloads with
+`python3 scripts/adapted_fboss.py build`, check with its `check` command, and
+run the unit suite for synthetic-log regression coverage. Catalog additions
+remain maintained in `data/curation.json`; regenerate using `scripts/catalog.py`.
+See [adaptation scope and downloads](adapted-fboss-log-analysis.md). Changes to
+an instruction/helper/reference need fresh behavior and provenance evidence.
+
+The packages accept supplied local logs only. No live device, private CI,
+account operation or external log upload is part of their maintained workflow.
+Their broader-catalog publication does not change the website Finder's
+verified-owner/adoption thresholds or enroll the nine other reviewed paths.
