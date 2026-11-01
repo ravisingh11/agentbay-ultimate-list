@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-34.md) · [Next →](software-development-e36077-36.md)
 
-11,631 listings · Page 35 of 59
+11,632 listings · Page 35 of 59
 
 - **ncbi-entrez-skill** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/life-science-research/skills/ncbi-entrez-skill/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — ncbi-entrez-skill is listed as an agent skill. Its catalogue topics include software engineering.
 - **ncbi-pmc-skill** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/life-science-research/skills/ncbi-pmc-skill/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — ncbi-pmc-skill is listed as an agent skill. Its catalogue topics include software engineering.

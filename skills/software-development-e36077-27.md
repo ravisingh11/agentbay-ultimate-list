@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-26.md) · [Next →](software-development-e36077-28.md)
 
-11,631 listings · Page 27 of 59
+11,632 listings · Page 27 of 59
 
 - **huggingface-local-models** — [Website](<https://github.com/huggingface/mlclaw/blob/3a99c45581db179fd96e971482d17c70b94b35f3/assets/hf-tooling/skills/huggingface-local-models/SKILL.md>) · [GitHub](<https://github.com/huggingface/mlclaw>) · **License: MIT** · **★ 13** (as of 2026-10-24) · **Hugging Face · Official source** — huggingface-local-models is listed as an agent skill. Its catalogue topics include software engineering.
 - **huggingface-local-models** — [Website](<https://github.com/huggingface/context-course/blob/e4fefaec7bd4843139df705f5e169750a441b273/projects/inference/.agents/skills/huggingface-local-models/SKILL.md>) · [GitHub](<https://github.com/huggingface/context-course>) · **License: Unknown** · **★ 113** (as of 2026-10-24) · **Hugging Face · Official source** — huggingface-local-models is listed as an agent skill. Its catalogue topics include software engineering.

@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-32.md) · [Next →](software-development-e36077-34.md)
 
-11,631 listings · Page 33 of 59
+11,632 listings · Page 33 of 59
 
 - **metalbear-co/skills** — [Website](<https://github.com/metalbear-co/skills>) · [GitHub](<https://github.com/metalbear-co/skills>) · **License: MIT** · Stars: not recorded — metalbear-co/skills is listed as an agent skill. Its catalogue topics include software engineering, data analysis, and monitoring and operations.
 - **MetcalfSolutions/Satori** — [Website](<https://github.com/metcalfsolutions/satori>) · [GitHub](<https://github.com/metcalfsolutions/satori>) · **License: Apache-2.0** · Stars: not recorded — MetcalfSolutions/Satori is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and deployment and cloud operations.

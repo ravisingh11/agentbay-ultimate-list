@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-30.md) · [Next →](software-development-e36077-32.md)
 
-11,631 listings · Page 31 of 59
+11,632 listings · Page 31 of 59
 
 - **legal-risk-assessment** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/legal/skills/legal-risk-assessment/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — legal-risk-assessment is listed as an agent skill. Its catalogue topics include software engineering.
 - **legal-writing** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/law-student/skills/legal-writing/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — legal-writing is listed as an agent skill. Its catalogue topics include software engineering.

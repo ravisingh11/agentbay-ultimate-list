@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-57.md) · [Next →](software-development-e36077-59.md)
 
-11,631 listings · Page 58 of 59
+11,632 listings · Page 58 of 59
 
+- **workflow-triggering** — [Website](<https://github.com/adobe/aem-auth-demo/blob/57e05f8d2ef8699744885088a0f5d0331c64e0f5/.agents/skills/aem-workflow/workflow-triggering/SKILL.md>) · [GitHub](<https://github.com/adobe/aem-auth-demo>) · **License: Apache-2.0** · **★ 0** (as of 2026-10-24) · **Adobe · Official source** — workflow-triggering is listed as an agent skill. Its catalogue topics include software engineering.
 - **workflows** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/plugins/workflows/skills/workflows/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — workflows is listed as an agent skill. Its catalogue topics include software engineering.
 - **WorkflowtechAI/job-hunt** — [Website](<https://github.com/workflowtechai/job-hunt>) · [GitHub](<https://github.com/workflowtechai/job-hunt>) · **License: MIT** · Stars: not recorded — WorkflowtechAI/job-hunt is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **workfront-actions** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/app-builder/skills/appbuilder-workfront/workfront-actions/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — workfront-actions is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **zavalivesite-demo** — [Website](<https://github.com/microsoft/sqlaiinaction/blob/40bff503a54ac860d895552d2bc92af2aaabcc19/.github/skills/zavalivesite-demo/SKILL.md>) · [GitHub](<https://github.com/microsoft/sqlaiinaction>) · **License: MIT** · **★ 4** (as of 2026-10-25) · **Microsoft · Official source** — zavalivesite-demo is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-browser** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-browser/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-browser is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-center** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-center/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-center is listed as an agent skill. Its catalogue topics include software engineering.
-- **zcc-cli** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-cli/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-cli is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-57.md) · [Next →](software-development-e36077-59.md)

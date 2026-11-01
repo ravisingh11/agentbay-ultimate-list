@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-50.md) · [Next →](software-development-e36077-52.md)
 
-11,631 listings · Page 51 of 59
+11,632 listings · Page 51 of 59
 
+- **submit-task** — [Website](<https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/blob/6dad935fb8fff44935925f342ed3236ae6676502/docs/abca-plugin/skills/submit-task/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-autonomous-cloud-coding-agents>) · **License: MIT-0** · **★ 163** (as of 2026-10-25) · **Amazon Web Services · Official source** — submit-task is listed as an agent skill. Its catalogue topics include software engineering.
 - **suboss87/FDEOps** — [Website](<https://github.com/suboss87/fdeops>) · [GitHub](<https://github.com/suboss87/fdeops>) · **License: MIT** · Stars: not recorded — suboss87/FDEOps is listed as an agent-skill repository. Its catalogue topics include software engineering and deployment and cloud operations.
 - **subpoena-triage** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/litigation-legal/skills/subpoena-triage/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — subpoena-triage is listed as an agent skill. Its catalogue topics include software engineering.
 - **subtitles** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/higgsfield/skills/subtitles/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — subtitles is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **technical-writer** — [Website](<https://github.com/vercel-labs/deepsec/blob/4fa67220aff67ac93dfc840206d3d32bfa4411ec/.agents/skills/technical-writer/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/deepsec>) · **License: Apache-2.0** · **★ 8,252** (as of 2026-10-25) · **Vercel · Official source** — technical-writer is listed as an agent skill. Its catalogue topics include software engineering.
 - **technical-writing** — [Website](<https://github.com/vercel/eve/blob/9f73f9dbe5841253657b9037614cb43887937fe8/.agents/skills/technical-writing/SKILL.md>) · [GitHub](<https://github.com/vercel/eve>) · **License: Apache-2.0** · **★ 5,667** (as of 2026-10-25) · **Vercel · Official source** — technical-writing is listed as an agent skill. Its catalogue topics include software engineering.
 - **technical-writing-review** — [Website](<https://github.com/github/github-well-architected/blob/d7ff7ab0b225e189c18dadca53196b0d8bc19764/.github/skills/technical-writing-review/SKILL.md>) · [GitHub](<https://github.com/github/github-well-architected>) · **License: MIT** · **★ 59** (as of 2026-10-25) · **GitHub · Official source** — technical-writing-review is listed as an agent skill. Its catalogue topics include software engineering.
-- **TechNickAI/ai-coding-config** — [Website](<https://github.com/technickai/ai-coding-config>) · [GitHub](<https://github.com/technickai/ai-coding-config>) · **License: MIT** · Stars: not recorded — TechNickAI/ai-coding-config is listed as an agent-skill repository. Its catalogue topics include software engineering and security and privacy.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-50.md) · [Next →](software-development-e36077-52.md)

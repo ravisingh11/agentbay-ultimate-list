@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-54.md) · [Next →](software-development-e36077-56.md)
 
-11,631 listings · Page 55 of 59
+11,632 listings · Page 55 of 59
 
+- **update-dependencies** — [Website](<https://github.com/GoogleCloudPlatform/magic-modules/blob/1c1fe90e85c2c110a2aaf70b5b98003f9ad5bd00/.agents/skills/utils/update-dependencies/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/magic-modules>) · **License: Unknown** · **★ 973** (as of 2026-10-25) · **Google · Official source** — update-dependencies is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-dependencies** — [Website](<https://github.com/microsoft/dcp/blob/0fa5d16db929d278ebe6eeca01dde02f2d3630ed/.agents/skills/update-dependencies/SKILL.md>) · [GitHub](<https://github.com/microsoft/dcp>) · **License: MIT** · **★ 192** (as of 2026-10-25) · **Microsoft · Official source** — update-dependencies is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-deps** — [Website](<https://github.com/microsoft/graphrag/blob/c600ff80b77b9b62c47d539a3ac9569e95d8949b/.agents/skills/update-deps/SKILL.md>) · [GitHub](<https://github.com/microsoft/graphrag>) · **License: MIT** · **★ 36,437** (as of 2026-10-25) · **Microsoft · Official source** — update-deps is listed as an agent skill. Its catalogue topics include software engineering.
 - **update-deps** — [Website](<https://github.com/github/rust-gems/blob/31331e8eeadf7e58f5af355a3881d95e9315ee32/.github/skills/update-deps/SKILL.md>) · [GitHub](<https://github.com/github/rust-gems>) · **License: MIT** · **★ 135** (as of 2026-10-25) · **GitHub · Official source** — update-deps is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **vercel-connect** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-connect/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-connect is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-deepsec** — [Website](<https://github.com/getsentry/warden-skills/blob/daf01f970a28450627a8d2d61d9915a742a735e2/skills/vercel-deepsec/SKILL.md>) · [GitHub](<https://github.com/getsentry/warden-skills>) · **License: MIT** · **★ 57** (as of 2026-10-24) · **Sentry · Official source** — vercel-deepsec is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-error** — [Website](<https://github.com/vercel-labs/error/blob/4ac5237985b3fa4e917219f98a67a6fac43a41a3/skills/vercel-error/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/error>) · **License: MIT** · **★ 19** (as of 2026-10-25) · **Vercel · Official source** — vercel-error is listed as an agent skill. Its catalogue topics include software engineering.
-- **vercel-firewall** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-firewall/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-firewall is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-54.md) · [Next →](software-development-e36077-56.md)

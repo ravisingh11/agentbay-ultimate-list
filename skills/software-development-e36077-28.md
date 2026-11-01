@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-27.md) · [Next →](software-development-e36077-29.md)
 
-11,631 listings · Page 28 of 59
+11,632 listings · Page 28 of 59
 
 - **index-migration** — [Website](<https://github.com/redis/redisctl/blob/e3e8b813cfebefa8f9271f965c97f72ec4332cdc/crates/redisctl-mcp/skills/index-migration/SKILL.md>) · [GitHub](<https://github.com/redis/redisctl>) · **License: Apache-2.0** · **★ 18** (as of 2026-10-24) · **Redis · Official source** — index-migration is listed as an agent skill. Its catalogue topics include software engineering.
 - **index-refresh** — [Website](<https://github.com/microsoft/amplifier-app-paperclip/blob/4993f8ee50c3035039b97f4c1cd6eeff0e841a80/packages/plugins/plugin-llm-wiki/skills/index-refresh/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-app-paperclip>) · **License: MIT** · **★ 1** (as of 2026-10-25) · **Microsoft · Official source** — index-refresh is listed as an agent skill. Its catalogue topics include software engineering.

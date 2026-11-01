@@ -445202,6 +445202,38 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:41791f30-8516-5a60-8912-6a86f1892ba1",
+    "name": "OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream)",
+    "description": "OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream) is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/71b0133f67eff90cacd85bae84e5b826a8568b3d/skills/agentbay-openzl-benchmark-scenarios/SKILL.md",
+    "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "AgentBay adaptation",
+      "Meta upstream",
+      "OpenZL",
+      "Compression",
+      "Benchmarking",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "BSD-3-Clause",
+    "license_scope": "skill",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-01T17:38:03.518573+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-01T17:38:03.518573+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "cb384189-69b5-55af-ab3d-ed92cd385f6f",
     "name": "openzl-codec-design",
     "description": "openzl-codec-design is listed as an agent skill. Its catalogue topics include content workflows.",

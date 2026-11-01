@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-35.md) · [Next →](software-development-e36077-37.md)
 
-11,631 listings · Page 36 of 59
+11,632 listings · Page 36 of 59
 
 - **nim-operator-install** — [Website](<https://github.com/NVIDIA/k8s-nim-operator/blob/344da28e18158cf407f0751585ef5c2be2b4db1e/.agents/skills/nim-operator-install/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/k8s-nim-operator>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **NVIDIA · Official source** — nim-operator-install is listed as an agent skill. Its catalogue topics include software engineering.
 - **nim-operator-uninstall** — [Website](<https://github.com/NVIDIA/k8s-nim-operator/blob/344da28e18158cf407f0751585ef5c2be2b4db1e/.agents/skills/nim-operator-uninstall/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/k8s-nim-operator>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **NVIDIA · Official source** — nim-operator-uninstall is listed as an agent skill. Its catalogue topics include software engineering.

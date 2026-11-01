@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-33.md) · [Next →](software-development-e36077-35.md)
 
-11,631 listings · Page 34 of 59
+11,632 listings · Page 34 of 59
 
 - **mkt-henry/plainspeak** — [Website](<https://github.com/mkt-henry/plainspeak>) · [GitHub](<https://github.com/mkt-henry/plainspeak>) · **License: MIT** · Stars: not recorded — mkt-henry/plainspeak is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **ml-best-practices** — [Website](<https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/blob/9a49a83f0e1088e8a64cd6d7db686dab20ccb7a3/skills/ml-best-practices/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/data-agent-kit-plugin>) · **License: Apache-2.0** · **★ 229** (as of 2026-10-25) · **Google · Official source** — ml-best-practices is listed as an agent skill. Its catalogue topics include software engineering.

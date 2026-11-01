@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-52.md) · [Next →](software-development-e36077-54.md)
 
-11,631 listings · Page 53 of 59
+11,632 listings · Page 53 of 59
 
+- **threat-model-analyst** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/threat-model-analyst/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — threat-model-analyst is listed as an agent skill. Its catalogue topics include software engineering.
 - **three-statement-model-builder** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/public-equity-investing/skills/three-statement-model-builder/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — three-statement-model-builder is listed as an agent skill. Its catalogue topics include software engineering.
 - **three-webgl-game** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/game-studio/skills/three-webgl-game/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — three-webgl-game is listed as an agent skill. Its catalogue topics include software engineering.
 - **thrixel/build-world** — [Website](<https://github.com/thrixel/build-world>) · [GitHub](<https://github.com/thrixel/build-world>) · **License: Apache-2.0** · Stars: not recorded — thrixel/build-world is listed as an agent-skill repository. Its catalogue topics include software engineering and MCP tool integration.
@@ -205,6 +206,5 @@
 - **trtllm-visualgen-bench** — [Website](<https://github.com/NVIDIA/TensorRT-LLM/blob/b7d6e624d1d5d297bbea8d6f4d383ca6e2d46711/.claude/skills/trtllm-visualgen-bench/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/TensorRT-LLM>) · **License: Unknown** · **★ 14,942** (as of 2026-10-25) · **NVIDIA · Official source** — trtllm-visualgen-bench is listed as an agent skill. Its catalogue topics include software engineering.
 - **trtllm-visualgen-lpips-golden-refresh** — [Website](<https://github.com/NVIDIA/TensorRT-LLM/blob/b7d6e624d1d5d297bbea8d6f4d383ca6e2d46711/.claude/skills/trtllm-visualgen-lpips-golden-refresh/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/TensorRT-LLM>) · **License: Unknown** · **★ 14,942** (as of 2026-10-25) · **NVIDIA · Official source** — trtllm-visualgen-lpips-golden-refresh is listed as an agent skill. Its catalogue topics include software engineering.
 - **TruVerifAI/claude-plugins** — [Website](<https://github.com/truverifai/claude-plugins>) · [GitHub](<https://github.com/truverifai/claude-plugins>) · **License: Unknown** · Stars: not recorded — TruVerifAI/claude-plugins is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **trx-analysis** — [Website](<https://github.com/microsoft/vstest/blob/47203137b886646772ae769fd72eb662feca8f34/.github/skills/trx-analysis/SKILL.md>) · [GitHub](<https://github.com/microsoft/vstest>) · **License: MIT** · **★ 969** (as of 2026-10-25) · **Microsoft · Official source** — trx-analysis is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-52.md) · [Next →](software-development-e36077-54.md)

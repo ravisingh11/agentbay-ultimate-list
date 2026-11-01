@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-58.md)
 
-11,631 listings · Page 59 of 59
+11,632 listings · Page 59 of 59
 
+- **zcc-cli** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-cli/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-cli is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-inbox** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-inbox/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-inbox is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-plugin-authoring** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-plugin-authoring/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-plugin-authoring is listed as an agent skill. Its catalogue topics include software engineering.
 - **zcc-preview** — [Website](<https://github.com/salesforce/zana/blob/87a65ad31ceea323348efec01b95a942828716ad/apps/server/src/plugins/builtin-skills/zcc-preview/SKILL.md>) · [GitHub](<https://github.com/salesforce/zana>) · **License: MIT** · **★ 40** (as of 2026-10-24) · **Salesforce · Official source** — zcc-preview is listed as an agent skill. Its catalogue topics include software engineering.

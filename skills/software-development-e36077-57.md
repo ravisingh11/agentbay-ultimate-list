@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-56.md) · [Next →](software-development-e36077-58.md)
 
-11,631 listings · Page 57 of 59
+11,632 listings · Page 57 of 59
 
+- **warrendeanlangeveldt/code-kit** — [Website](<https://github.com/warrendeanlangeveldt/code-kit>) · [GitHub](<https://github.com/warrendeanlangeveldt/code-kit>) · **License: MIT** · Stars: not recorded — warrendeanlangeveldt/code-kit is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and deployment and cloud operations.
 - **wasm-inspector** — [Website](<https://github.com/JetBrains/hexana/blob/2da10ef84c907ddb66f6f0eb980e70e8bf21ef46/plugins/hexana/skills/wasm-inspector/SKILL.md>) · [GitHub](<https://github.com/JetBrains/hexana>) · **License: Unknown** · **★ 29** (as of 2026-10-24) · **JetBrains · Official source** — wasm-inspector is listed as an agent skill. Its catalogue topics include software engineering.
 - **wasulajr/headsup** — [Website](<https://github.com/wasulajr/headsup>) · [GitHub](<https://github.com/wasulajr/headsup>) · **License: MIT** · Stars: not recorded — wasulajr/headsup is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **watch-github-actions** — [Website](<https://github.com/NVIDIA/OpenShell/blob/c4688aa8715ea75d6c39fe468361dbbc16c691fa/.agents/skills/watch-github-actions/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/OpenShell>) · **License: Apache-2.0** · **★ 19,598** (as of 2026-10-25) · **NVIDIA · Official source** — watch-github-actions is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **workflow-triaging** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/aem/6.5-lts/skills/aem-workflow/workflow-triaging/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — workflow-triaging is listed as an agent skill. Its catalogue topics include software engineering.
 - **workflow-triaging** — [Website](<https://github.com/adobe/aem-auth-demo/blob/57e05f8d2ef8699744885088a0f5d0331c64e0f5/.agents/skills/aem-workflow/workflow-triaging/SKILL.md>) · [GitHub](<https://github.com/adobe/aem-auth-demo>) · **License: Apache-2.0** · **★ 0** (as of 2026-10-24) · **Adobe · Official source** — workflow-triaging is listed as an agent skill. Its catalogue topics include software engineering.
 - **workflow-triggering** — [Website](<https://github.com/adobe/skills/blob/e3611d4c43093617886f4169c1154679a9c5e343/plugins/aem/6.5-lts/skills/aem-workflow/workflow-triggering/SKILL.md>) · [GitHub](<https://github.com/adobe/skills>) · **License: Apache-2.0** · **★ 304** (as of 2026-10-24) · **Adobe · Official source** — workflow-triggering is listed as an agent skill. Its catalogue topics include software engineering.
-- **workflow-triggering** — [Website](<https://github.com/adobe/aem-auth-demo/blob/57e05f8d2ef8699744885088a0f5d0331c64e0f5/.agents/skills/aem-workflow/workflow-triggering/SKILL.md>) · [GitHub](<https://github.com/adobe/aem-auth-demo>) · **License: Apache-2.0** · **★ 0** (as of 2026-10-24) · **Adobe · Official source** — workflow-triggering is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-56.md) · [Next →](software-development-e36077-58.md)

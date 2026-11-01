@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-29.md) · [Next →](software-development-e36077-31.md)
 
-11,631 listings · Page 30 of 59
+11,632 listings · Page 30 of 59
 
 - **kernel-triton-writing** — [Website](<https://github.com/NVIDIA/TensorRT-LLM/blob/b7d6e624d1d5d297bbea8d6f4d383ca6e2d46711/.claude/skills/kernel-triton-writing/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/TensorRT-LLM>) · **License: Unknown** · **★ 14,942** (as of 2026-10-25) · **NVIDIA · Official source** — kernel-triton-writing is listed as an agent skill. Its catalogue topics include software engineering.
 - **keyvnchristian/pixelproof** — [Website](<https://github.com/keyvnchristian/pixelproof>) · [GitHub](<https://github.com/keyvnchristian/pixelproof>) · **License: MIT** · Stars: not recorded — keyvnchristian/pixelproof is listed as an agent-skill repository. Its catalogue topics include software engineering and design workflows.

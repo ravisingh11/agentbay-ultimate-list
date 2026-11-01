@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-21.md) · [Next →](software-development-e36077-23.md)
 
-11,631 listings · Page 22 of 59
+11,632 listings · Page 22 of 59
 
 - **feature-tryouts** — [Website](<https://github.com/microsoft/vscode/blob/86db3b69224f75a786f815684bc96fc0eb5d9300/.github/skills/feature-tryouts/SKILL.md>) · [GitHub](<https://github.com/microsoft/vscode>) · **License: MIT** · **★ 194,262** (as of 2026-10-25) · **Microsoft · Official source** — feature-tryouts is listed as an agent skill. Its catalogue topics include software engineering.
 - **features** — [Website](<https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce/blob/2f5421ad144ffe6bd9306a3a3560544e1aaae92a/.agents/skills/features/SKILL.md>) · [GitHub](<https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce>) · **License: Apache-2.0** · **★ 81** (as of 2026-10-25) · **NVIDIA · Official source** — features is listed as an agent skill. Its catalogue topics include software engineering.

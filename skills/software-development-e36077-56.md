@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-55.md) · [Next →](software-development-e36077-57.md)
 
-11,631 listings · Page 56 of 59
+11,632 listings · Page 56 of 59
 
+- **vercel-firewall** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-firewall/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-firewall is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-firewall** — [Website](<https://github.com/vercel/vercel-plugin/blob/3c88cfc8de5d1e124d23b0ef23f32c5aa127c845/skills/vercel-firewall/SKILL.md>) · [GitHub](<https://github.com/vercel/vercel-plugin>) · **License: Unknown** · **★ 312** (as of 2026-10-25) · **Vercel · Official source** — vercel-firewall is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-flags** — [Website](<https://github.com/vercel/flags/blob/86df06229b34cd18f6d4b53cb2cb010930953af5/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/vercel/flags>) · **License: MIT** · **★ 624** (as of 2026-10-25) · **Vercel · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
 - **vercel-flags** — [Website](<https://github.com/openai/plugins/blob/0722921d5542fc593105c27bd52630babd8b8c2a/plugins/vercel/skills/vercel-flags/SKILL.md>) · [GitHub](<https://github.com/openai/plugins>) · **License: Unknown** · **★ 7,573** (as of 2026-10-25) · **OpenAI · Official source** — vercel-flags is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **warp-closing-issue** — [Website](<https://github.com/NVIDIA/warp/blob/4e07f18c060dfb0a555d1f97b4958d9197125ca3/.claude/skills/warp-closing-issue/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/warp>) · **License: Apache-2.0** · **★ 7,235** (as of 2026-10-25) · **NVIDIA · Official source** — warp-closing-issue is listed as an agent skill. Its catalogue topics include software engineering.
 - **warp-release-audit** — [Website](<https://github.com/NVIDIA/warp/blob/4e07f18c060dfb0a555d1f97b4958d9197125ca3/.claude/skills/warp-release-audit/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/warp>) · **License: Apache-2.0** · **★ 7,235** (as of 2026-10-25) · **NVIDIA · Official source** — warp-release-audit is listed as an agent skill. Its catalogue topics include software engineering.
 - **warp-release-notes** — [Website](<https://github.com/NVIDIA/warp/blob/4e07f18c060dfb0a555d1f97b4958d9197125ca3/.claude/skills/warp-release-notes/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/warp>) · **License: Apache-2.0** · **★ 7,235** (as of 2026-10-25) · **NVIDIA · Official source** — warp-release-notes is listed as an agent skill. Its catalogue topics include software engineering.
-- **warrendeanlangeveldt/code-kit** — [Website](<https://github.com/warrendeanlangeveldt/code-kit>) · [GitHub](<https://github.com/warrendeanlangeveldt/code-kit>) · **License: MIT** · Stars: not recorded — warrendeanlangeveldt/code-kit is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and deployment and cloud operations.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-55.md) · [Next →](software-development-e36077-57.md)
