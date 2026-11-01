@@ -1,0 +1,16 @@
+{
+  "agentbay-fboss-link-log-analysis": {
+    "path": "downloads/agentbay-fboss-link-log-analysis.zip",
+    "bytes": 40141,
+    "sha256": "c35852f3be826f0afe431adb6aa02fcbc5b6024d0478351888524d39f6f2d633",
+    "publisher": "AgentBay",
+    "official_meta_distribution": false
+  },
+  "agentbay-fboss-qsfp-log-analysis": {
+    "path": "downloads/agentbay-fboss-qsfp-log-analysis.zip",
+    "bytes": 17912,
+    "sha256": "68fe45141cc14e916df64d2a5eb832c3bedf025f3413ab74bce1b577a4a898a9",
+    "publisher": "AgentBay",
+    "official_meta_distribution": false
+  }
+}

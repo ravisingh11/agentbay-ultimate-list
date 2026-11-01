@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "package_name": "agentbay-fboss-qsfp-log-analysis",
+  "adaptation_publisher": "AgentBay",
+  "official_meta_distribution": false,
+  "prepared_at": "2026-10-31",
+  "upstream_repository": "meta/fboss",
+  "upstream_commit": "d2cd70e1a46bbe87b280475e2aa7ee710da40ea3",
+  "upstream_skill": "debug-qsfp-hw-test",
+  "license_observation": "Exact upstream three-condition BSD-style LICENSE retained; no vendor SDK rights claimed.",
+  "scope": "Supplied local log analysis only; no device access, CI fetch, external uploads or known-bad policy writes.",
+  "changes": [
+    "Canonical AgentBay-prefixed identity and explicit adaptation attribution.",
+    "Entrypoint rewritten for supplied files and conservative evidence reporting.",
+    "Remote-fetch guides/internal routes omitted; all required domain references bundled.",
+    "Relative filenames prefixed to prevent awk treating names as options or assignments.",
+    "QSFP helper rejects empty/unrecognized inputs and avoids inferring timeout from missing signatures."
+  ],
+  "inputs": [
+    {
+      "upstream_path": "fboss/skills/debug-qsfp-hw-test/scripts/analyze_qsfp_log.sh",
+      "upstream_url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-qsfp-hw-test/scripts/analyze_qsfp_log.sh",
+      "upstream_blob": "c9ac92d8daad23d3610b0cb08404f4b8d3f0cc1b",
+      "upstream_sha256": "8f9845ed06d5eddab363d05a424f803edd126b17f403b4364dbf4a352099d4e8",
+      "destination": "scripts/analyze_qsfp_log.sh",
+      "adapted_sha256": "c0246a88aababdfbae0eda75470767bc600124d7af1c30bee6c5a9613ddc9516",
+      "modified": true
+    },
+    {
+      "upstream_path": "fboss/skills/debug-qsfp-hw-test/references/failure-signatures.md",
+      "upstream_url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-qsfp-hw-test/references/failure-signatures.md",
+      "upstream_blob": "f7e45677967873a1b0902ba8bb6ffd77a0277cbb",
+      "upstream_sha256": "8f0da8bfaf0758dfe8bbf5b3a0d4c2758da5ad6a30d2e8d73ba549205402341b",
+      "destination": "references/failure-signatures.md",
+      "adapted_sha256": "e49fbe29ca07c0a3dfa665df3d6f26d53c55e198b6210a686b8b5cd338337a08",
+      "modified": true
+    },
+    {
+      "upstream_path": "fboss/skills/debug-qsfp-hw-test/references/test-catalog.md",
+      "upstream_url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-qsfp-hw-test/references/test-catalog.md",
+      "upstream_blob": "5e5fb0b57d49cee4ef0a3f9e3c80df00f8e9a563",
+      "upstream_sha256": "a04e84c3aa05e1df2a240a0a18be8d9390eb2dcec7261f3c7a01bd22988099e6",
+      "destination": "references/test-catalog.md",
+      "adapted_sha256": "ed461eb032be23f84c7c1c9ce3fe9d6ce5bdcf538ec566d6fc6e431c6fb9db54",
+      "modified": true
+    },
+    {
+      "upstream_path": "fboss/skills/debug-qsfp-hw-test/SKILL.md",
+      "upstream_url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/fboss/skills/debug-qsfp-hw-test/SKILL.md",
+      "upstream_blob": "856c2a701d446d84db57e648d69bf4502be3a6bf",
+      "upstream_sha256": "10e64d5bfae0cc3dadf26e8f3036d7b7d3168b86905ba2047346d10a83fa1d9a",
+      "destination": "SKILL.md",
+      "adapted_sha256": "f3a3f3660473c8c53f94f0d75414f9ccb545c7e0e166b1fbc8c74bb433d8530d",
+      "modified": true
+    },
+    {
+      "upstream_path": "LICENSE",
+      "upstream_url": "https://github.com/meta/fboss/blob/d2cd70e1a46bbe87b280475e2aa7ee710da40ea3/LICENSE",
+      "upstream_blob": "88d497721ce2b3bfbdaaa3bb1b9e7a5e7af2a8f4",
+      "upstream_sha256": "e47344f00dadb83064b6bfea48fb3f573beff05de8ffcd1c98bf1b8e9ee607a8",
+      "destination": "LICENSE",
+      "adapted_sha256": "e47344f00dadb83064b6bfea48fb3f573beff05de8ffcd1c98bf1b8e9ee607a8",
+      "modified": false
+    }
+  ],
+  "adaptation_version": "0.1.0"
+}

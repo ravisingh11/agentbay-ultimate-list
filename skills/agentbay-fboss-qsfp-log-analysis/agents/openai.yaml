@@ -1,0 +1,3 @@
+interface:
+  display_name: "FBOSS QSFP Logs — AgentBay Adaptation"
+  short_description: "Analyze supplied FBOSS QSFP test logs locally"
