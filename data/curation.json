@@ -3375,6 +3375,88 @@
           "note": "Meta FBOSS upstream author/source attribution, not the publisher of this adaptation."
         }
       ]
+    },
+    {
+      "id": "community:7403f36d-9656-579e-abaa-3d93b8953f8a",
+      "fields": {
+        "name": "brag-slim",
+        "type": "Skill",
+        "website_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag-slim/SKILL.md",
+        "repository_url": "https://github.com/latent-spaces/brag",
+        "categories": [
+          "Video creation"
+        ],
+        "tags": [
+          "Launch video",
+          "Video generation",
+          "Local rendering",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-01T07:02:21.111394+00:00",
+        "github_stars": 19818,
+        "github_stars_checked_at": "2026-11-01T07:02:21.111394+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag-slim/SKILL.md",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "Owner-requested community source. Exact canonical SKILL path, Git blob and valid metadata reviewed. Distinct lightweight workflow using local rendering tools; upstream optimized for Claude Opus 5.5. No cross-agent first-use certification."
+        },
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/LICENSE",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "MIT repository license verified for code/instructions. Bundled music and sound effects have separate terms; no media is copied into this catalog."
+        },
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/assets/music/README.md",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "Classic bundled music is separately CC BY 4.0 and requires Sascha Ende / ende.app attribution. SFX source/CC0 notices are in the audio reference."
+        }
+      ]
+    },
+    {
+      "id": "community:3a8c989c-7b81-5874-a806-6fbb66800d8d",
+      "fields": {
+        "name": "brag",
+        "type": "Skill",
+        "website_url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/SKILL.md",
+        "repository_url": "https://github.com/latent-spaces/brag",
+        "categories": [
+          "Video creation"
+        ],
+        "tags": [
+          "Launch video",
+          "Video generation",
+          "Hyperframes",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-01T07:02:21.111394+00:00",
+        "github_stars": 19818,
+        "github_stars_checked_at": "2026-11-01T07:02:21.111394+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/SKILL.md",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "Owner-requested community source. Exact canonical SKILL path, Git blob and valid metadata reviewed. Classic workflow requires Node.js 22+, FFmpeg and Hyperframes CLI/skills; local render and separate permission for remote/publishing operations."
+        },
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/LICENSE",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "MIT repository license verified for code/instructions. Bundled music and sound effects have separate terms; no media is copied into this catalog."
+        },
+        {
+          "url": "https://github.com/latent-spaces/brag/blob/669ab9286aa28b6c3ee30e75f181ee74319d012a/skills/brag/assets/music/README.md",
+          "checked_at": "2026-11-01T07:02:21.111394+00:00",
+          "note": "Classic bundled music is separately CC BY 4.0 and requires Sascha Ende / ende.app attribution. SFX source/CC0 notices are in the audio reference."
+        }
+      ]
     }
   ],
   "corrections": [

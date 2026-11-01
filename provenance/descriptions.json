@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 23021,
+  "entry_count": 23023,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -32030,6 +32030,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:3a8c989c-7b81-5874-a806-6fbb66800d8d": {
+      "input_sha256": "8ab02ed82e1a9444864ce9db9a574c0a5fdae5e4b66ef0e28775481bc753302a",
+      "description_sha256": "519c635876417b8b3c22b2fbb5313631ce403b2c3a4f93d3a95819b2db4c35d7",
+      "use_cases_sha256": "76640974ad7ee4d6881cbb2707dda56142959ed0199bfe571067312ddbf98c15",
+      "topics": [
+        "video workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
     "40e6fe42-947f-596a-8c91-711c60f7369a": {
       "input_sha256": "a66c88348fd8a33d5d91a98109156cefc14ad60f7b8e38ef6b2b68cbc57390f2",
       "description_sha256": "080e34d700d694c538c5fdb762f1506888a24e9f97a344e3c9018ec89693c631",
@@ -32045,6 +32054,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:7403f36d-9656-579e-abaa-3d93b8953f8a": {
+      "input_sha256": "21890d302f00ab5755e4fb7fc5f02d38f147033c76b845da81092998ead76555",
+      "description_sha256": "9913f9652c61db6b5d71a35260ea70afc09c39004c7fe295fd71744b7648c3ae",
+      "use_cases_sha256": "76640974ad7ee4d6881cbb2707dda56142959ed0199bfe571067312ddbf98c15",
+      "topics": [
+        "video workflows"
       ],
       "capability_topic_unresolved": false
     },
