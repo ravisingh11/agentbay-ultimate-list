@@ -67,6 +67,20 @@ function isbenign(l){
   return (l ~ /fboss_mka_service_conn|PacketStreamClient.cpp|getConfigAppliedInfo thrift request|RestartTimeTracker|FsdbStreamClient|FsdbPublisher|LINK_SNAPSHOT_EVENT|ThreadHeartbeat|XPHY info missing|runImmediatelyOrRunInFbossEventBaseThreadAndWait/ || \
           l ~ /LldpManager.cpp:[0-9]+\] Port [0-9]+: [0-9]+: Not present in config/)
 }
+# Snapshot values are local to the latest dump, never retained from another test.
+function clear_tcvr(p){
+  delete ppresent[p]; delete pid[p]; delete pstate[p]; delete ppn[p];
+  delete ptn[p]; delete prxlos[p]; delete prxlol[p]; delete pcomm[p]; delete ptcvr[p];
+}
+function clear_port(p){
+  clear_tcvr(p); delete piphy[p]; delete pxphy[p]; delete psdT[p]; delete psdF[p];
+  delete pcdrT[p]; delete pcdrF[p]; delete pxsdF[p]; delete snapshotline[p];
+}
+function reset_ports( p,j){
+  for(p in pseen){clear_port(p);delete pseen[p]}
+  for(j=1;j<=nport;j++)delete plist[j]
+  nport=0;curport="";sec="";
+}
 BEGIN{
   test = "(none seen)"; nfail = 0; nchk = 0; nabort = 0; nqerr = 0; nport = 0; ctx = 0; instack = 0;
   gate = ""; gatedetail = ""; gatefail = ""; exitgraceful = 0; exitcode = ""; nbenign = 0; firstts = ""; lastts = "";
@@ -83,7 +97,7 @@ BEGIN{
   isdump = (curport != "" && line ~ /(AgentEnsembleLinkTest|LinkTest)\.cpp:[0-9]+\]/)
 }
 # ---- gtest boundaries ---------------------------------------------------------
-index(line, "[ RUN      ]") > 0 { test = substr(line, index(line, "]") + 2); lastgate=""; gatePending=0; setupDone=0; nrec++; next }
+index(line, "[ RUN      ]") > 0 { test = substr(line, index(line, "]") + 2); reset_ports(); lastgate=""; gatePending=0; setupDone=0; nrec++; next }
 index(line, "[  FAILED  ]") > 0 {
   n = substr(line, index(line, "]") + 2); nrec++
   if (n !~ /^[0-9]+ test/ && n !~ /listed below/ && n != "") gtestfailed[++ngf] = n
@@ -160,16 +174,16 @@ line ~ /ERROR: (AddressSanitizer|LeakSanitizer|ThreadSanitizer|UndefinedBehavior
 }
 # ---- per-port debug dump printed by the link-up gate (logLinkDbgMessage) --------
 line ~ /Debug information for / {
-  p = line; sub(/^.*Debug information for /, "", p); curport = p; sec = "";
+  p = line; sub(/^.*Debug information for /, "", p); curport = p; sec = ""; clear_port(p); snapshotline[p]=NR;
   if (!(p in pseen)) { pseen[p] = 1; plist[++nport] = p }
   next
 }
 isdump && line ~ /IPHY info missing for / { piphy[curport] = "missing"; sec = ""; next }
 isdump && line ~ /XPHY info missing for / { pxphy[curport] = "missing"; sec = ""; next }
-isdump && line ~ /Transceiver info missing for / { ptcvr[curport] = "MISSING"; sec = ""; next }
-isdump && line ~ /IPHY INFO: / { sec = "iphy"; next }
-isdump && line ~ /XPHY INFO: / { sec = "xphy"; pxphy[curport] = "present"; next }
-isdump && line ~ /Transceiver INFO: / { sec = "tcvr"; ptcvr[curport] = "present"; next }
+isdump && line ~ /Transceiver info missing for / { clear_tcvr(curport); ptcvr[curport] = "MISSING"; sec = ""; next }
+isdump && line ~ /IPHY INFO: / { delete psdT[curport];delete psdF[curport];delete pcdrT[curport];delete pcdrF[curport];sec = "iphy"; next }
+isdump && line ~ /XPHY INFO: / { delete pxsdF[curport];sec = "xphy"; pxphy[curport] = "present"; next }
+isdump && line ~ /Transceiver INFO: / { clear_tcvr(curport);sec = "tcvr"; ptcvr[curport] = "present"; next }
 isdump && sec == "iphy" {
   if (line ~ /signalDetectLive \(bool\) = /) { if (line ~ /= true/) psdT[curport]++; else psdF[curport]++ }
   else if (line ~ /cdrLockLive \(bool\) = /) { if (line ~ /= true/) pcdrT[curport]++; else pcdrF[curport]++ }
@@ -275,10 +289,11 @@ END{
   }
   if (nport > 0) {
     print "";
-    printf "Per-port debug dump (%d down port(s), printed by the link-up wait):\n", nport;
+    printf "Latest per-port snapshots for last observed test %s (%d port(s)); inspect original header lines:\n", test, nport;
     print  "  port            tcvr id / name     present  tcvrState               partNumber            media rxLos lanes / rxLol lanes   IPHY sigDet T/F  cdrLock T/F  XPHY";
     for (i = 1; i <= nport && i <= 40; i++) {
       p = plist[i];
+      printf "  snapshot header line %d for %s\n", snapshotline[p],p;
       tn = (p in pid ? pid[p] : "-") " / " (p in ptn ? ptn[p] : "-");
       pr = (p in ppresent ? ppresent[p] : (p in ptcvr ? ptcvr[p] : "-")) ((p in pcomm) ? "+commErr" : "");
       xp = (p in pxphy ? pxphy[p] : "-"); if (pxsdF[p] + 0 > 0) xp = xp " (sigDet false x" pxsdF[p] ")";
@@ -305,7 +320,7 @@ END{
   else if (nport > 0) {
     bad = 0; for (i = 1; i <= nport; i++) { p = plist[i]; if ((p in pstate && pstate[p] != "ACTIVE") || (p in prxlos && prxlos[p] + 0 > 0) || (p in ppresent && ppresent[p] != "true") || (p in ptcvr && ptcvr[p] == "MISSING") || (p in pcomm)) bad++ }
     if (bad > 0) { need = "YES"; why = bad " down port(s) show a transceiver not ACTIVE / dark media lanes / not present / comm error" }
-    else { need = "maybe"; why = "transceivers look ACTIVE with clean media lanes; suspect host-side SerDes/IPHY, peer, or cabling first" }
+    else { need = "maybe"; why = "these latest snapshot fields do not establish a service-side cause; correlate the original test/window and result record" }
   } else if (rpchdr) { need = "YES"; why = "agent RPCs from qsfp_service were slow/unanswered; confirm on the qsfp side" }
   else if (nchk == 0 && nexc == 0 && !selfabort && nsan == 0 && test ~ /Optics|Prbs|QsfpFsdb|Transceiver|Remediation|TxDisable|xPhy|qsfp/) { need = "maybe"; why = "no agent-side killer found and the test exercises qsfp_service-owned state" }
   ids = ""; for (i = 1; i <= nport; i++) { p = plist[i]; if (p in pid) { t = pid[p]; if (!(t in tseen)) { tseen[t] = 1; ids = ids (ids == "" ? "" : ",") t } } }

@@ -150,4 +150,19 @@ class AdaptationTests(unittest.TestCase):
  def test_39_retry_plus_failed_marker_preserves_failed_result(self):
   log='[ RUN      ] Example.test\nW1031 10:00:00.000000 1 Example.cpp:1] programTransceiver failed: retry reason\n[  FAILED  ] Example.test (100 ms)\n'
   text=self.run_script(SCRIPTS[2],log);self.assertIn('A failed-test marker was observed',text);self.assertNotIn('does not establish a terminal failure',text)
+ def port_dump(self,present,state,los,header=True):
+  prefix='I1031 10:00:00.000000 1 AgentEnsembleLinkTest.cpp:10] '
+  return (prefix+'Debug information for eth1/1\n' if header else '')+prefix+'Transceiver INFO: {\n'+prefix+'  1: present (bool) = '+present+',\n'+prefix+'  2: stateMachineState (i32) = '+str(state)+',\n'+prefix+'  3: rxLos (i32) = '+str(los)+',\n'
+ def snapshot_row(self,text):
+  return next(line for line in text.splitlines() if re.match(r'^  eth1/1\s',line))
+ def test_40_port_snapshot_does_not_leak_across_tests(self):
+  log='[ RUN      ] Example.first\n'+self.port_dump('true',6,0)+'[       OK ] Example.first (1 ms)\n[ RUN      ] Example.second\n'+self.port_dump('false',0,15)+'[  FAILED  ] Example.second (1 ms)\n'
+  text=self.run_script(SCRIPTS[0],log);row=self.snapshot_row(text);self.assertIn('false',row);self.assertIn('NOT_PRESENT',row);self.assertNotIn(' ACTIVE ',row);self.assertIn('QSFP_SERVICE_LOG_NEEDED:  YES',text)
+ def test_41_repeated_snapshot_in_one_test_replaces_values(self):
+  log='[ RUN      ] Example.test\n'+self.port_dump('true',6,0)+self.port_dump('false',0,15)+'[  FAILED  ] Example.test (1 ms)\n'
+  row=self.snapshot_row(self.run_script(SCRIPTS[0],log));self.assertIn('false',row);self.assertIn('NOT_PRESENT',row)
+ def test_42_incomplete_new_snapshot_does_not_inherit_healthy_state(self):
+  prefix='I1031 10:01:00.000000 1 AgentEnsembleLinkTest.cpp:10] '
+  log='[ RUN      ] Example.test\n'+self.port_dump('true',6,0)+prefix+'Debug information for eth1/1\n'+prefix+'Transceiver INFO: {\n[  FAILED  ] Example.test (1 ms)\n'
+  text=self.run_script(SCRIPTS[0],log);row=self.snapshot_row(text);self.assertNotIn('true',row);self.assertNotIn('ACTIVE',row);self.assertNotIn('suspect host-side',text)
 if __name__=='__main__':unittest.main(verbosity=2)
