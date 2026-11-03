@@ -101,6 +101,10 @@ The repository maintains AgentBay's own installer skill. The website serves a pu
 
 A catalogue listing may represent a skill, repository or collection; it does not by itself establish runtime compatibility. The website finder and the broader catalogue also have different inclusion rules and counts. See [data documentation](data.md).
 
+## Match skills to your project
+
+Run AgentBay from the project or package you want help with. It reads relevant declared Ground Truth when present and checks key facts against current files. Otherwise it scans a few local manifests, configs or source files. The shortlist explains which project facts shaped the recommendation and flags prerequisites it could not verify. For a task without a project, describe the tools and constraints in your prompt.
+
 ## Match the task, including direction
 
 “Find a skill for converting Excel to PDF with AgentBay” searches the maintained catalogue; it does not stop at the agent’s installed Skills list. AgentBay checks the actual upstream instructions for the input, output, operation and required tools. PDF → Excel and Excel → Markdown are different jobs. A related PDF skill is a candidate to inspect, not proof of Excel export support. Tools such as Adobe connectors must be available before claiming readiness. If no verified skill covers the whole task, AgentBay explains a small combination or a direct workflow.
