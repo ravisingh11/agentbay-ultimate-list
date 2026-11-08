@@ -6,7 +6,7 @@
 
 3 listings · Page 1 of 1
 
-- **ilyautov/humanizer-ru** — [Website](<https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru>) · [GitHub](<https://github.com/ilyautov/humanizer-ru>) · **License: MIT** · Stars: not recorded — ilyautov/humanizer-ru is listed as an agent skill. Its catalogue topics include marketing and outreach.
+- **ilyautov/humanizer-ru** — [Website](<https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru>) · [GitHub](<https://github.com/ilyautov/humanizer-ru>) · **License: MIT** · **★ 536** (as of 2026-11-08) — ilyautov/humanizer-ru is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **SHADOWPR0/beautiful\_prose** — [Website](<https://github.com/shadowpr0/beautiful_prose>) · [GitHub](<https://github.com/shadowpr0/beautiful_prose>) · **License: Unknown** · Stars: not recorded — SHADOWPR0/beautiful\_prose is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **Vladimir-Human/humanizer-ru** — [Website](<https://github.com/vladimir-human/humanizer-ru>) · [GitHub](<https://github.com/vladimir-human/humanizer-ru>) · **License: MIT** · Stars: not recorded — Vladimir-Human/humanizer-ru is listed as an agent skill. Its catalogue topics include marketing and outreach.
 

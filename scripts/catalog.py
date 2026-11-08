@@ -614,6 +614,11 @@ def render_browse(rows, manifest):
     for p in PREFERRED_PROVIDERS['providers']:
         provider_lines.append('| ['+md(p['name'])+']('+link_url(p['homepage_url'])+') | '+f'{sum(r["preferred_provider"]==p["name"] for r in rows):,}'+' |')
     outputs['docs/providers.md'] = ('\n'.join(provider_lines+[''])).encode()
+    refreshed_at = manifest.get('last_refresh', {}).get('at')
+    refresh_label = []
+    if refreshed_at:
+        date = datetime.datetime.fromisoformat(refreshed_at.replace('Z', '+00:00')).date()
+        refresh_label = [f'Catalogue refreshed **{date:%B} {date.day}, {date.year}**. [Refresh details](sync-manifest.json).', '']
     root = [GENERATED, '', '# AgentBay Ultimate List', '',
         '[![AgentBay: Your task. The right skill.](assets/agentbay-repository.svg)](https://agentbay.io/)', '',
         '**Start with a task. Find the skill. Get to work.**', '',
@@ -641,6 +646,7 @@ def render_browse(rows, manifest):
         '- **A fit for the job.** AgentBay reads the publisher’s actual skill instructions and checks prerequisites before using a selected skill. The name alone is not enough.', '',
         'These are useful signals, not a security certification. Official ownership does not establish that every skill was audited; popularity does not establish task fit. Independent maintainers can produce excellent work too.', '',
         f'**Explore {len(rows):,} listings: {counts["skills"]:,} skills and {counts["projects"]:,} projects and tools across {len({repo_key(r["repository_url"]).casefold() for r in rows}):,} GitHub repositories.**', '',
+        *refresh_label,
         '## Quick start', '',
         'AgentBay matches your task to skills using this repository’s curated catalogue, then reads the selected publisher’s actual instructions. Install AgentBay once; request other skills as you need them. You do not need to check out the whole repository.', '',
         '**1. Install for your app.** For Codex desktop, CLI or IDE extension, run this in your project’s terminal:', '',

@@ -6,6 +6,6 @@
 
 1 listings · Page 1 of 1
 
-- **🎥 YouTube Agent** — [Website](<https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/youtube_agent.py>) · [GitHub](<https://github.com/agno-agi/agno>) · **License: Apache-2.0** · **★ 42,850** (as of 2026-10-21) — 🎥 YouTube Agent is listed as an agent example. Its catalogue topics include video workflows and Agno-related agent work.
+- **🎥 YouTube Agent** — [Website](<https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/youtube_agent.py>) · [GitHub](<https://github.com/agno-agi/agno>) · **License: Apache-2.0** · **★ 43,102** (as of 2026-11-08) — 🎥 YouTube Agent is listed as an agent example. Its catalogue topics include video workflows and Agno-related agent work.
 
 [Projects and tools index](README.md) · [Home](../README.md)

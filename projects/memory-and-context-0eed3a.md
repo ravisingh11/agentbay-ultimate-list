@@ -6,6 +6,6 @@
 
 1 listings · Page 1 of 1
 
-- **MicroAgent** — [Website](<https://github.com/aymenfurter/microagents>) · [GitHub](<https://github.com/aymenfurter/microagents>) · **License: MIT** · Stars: not recorded — MicroAgent is listed as an agent or tool. Its catalogue topics include agent memory and context and software engineering.
+- **MicroAgent** — [Website](<https://github.com/aymenfurter/microagents>) · [GitHub](<https://github.com/aymenfurter/microagents>) · **License: MIT** · **★ 821** (as of 2026-11-08) — MicroAgent is listed as an agent or tool. Its catalogue topics include agent memory and context and software engineering.
 
 [Projects and tools index](README.md) · [Home](../README.md)

@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 23024,
+  "entry_count": 23025,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -7174,6 +7174,15 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "8844548a-03dd-521a-afa3-44ba9016e22a": {
+      "input_sha256": "29964c1a160570b8d1e45f9f3b9e4e2d141aedbd031d5889a471240b512857e4",
+      "description_sha256": "78a5954402534687ea217694fe284a4cb3c1083a65b2a0504f221bb1d774ff40",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -47805,13 +47814,12 @@
       "capability_topic_unresolved": false
     },
     "5cbb8062-efa4-54af-9b3e-641578123dfe": {
-      "input_sha256": "1ce25d27594858f7c9910111dd36e2d789ea682af7b20dae820116f0c279390f",
-      "description_sha256": "567993440f7a30695e1e1e915b0685588faccea67bb451f769846f2f9e0f6054",
-      "use_cases_sha256": "0484805562322da9515c9f1a15ced8718c2ed3340f9f2ff81c19f8423b1e2c6d",
+      "input_sha256": "b5c6d8ec3eee0925f2bcf200df5206f3c82b17ddad4c593e7dac02387cb1af03",
+      "description_sha256": "190661096aa562140011e1473c8464c8e29f5886fd6078b7e3d2fcd711e96b20",
+      "use_cases_sha256": "27e89bf58ab04eddab4db6f603728ba00d033970da6ab3450da7864137485b19",
       "topics": [
         "data analysis",
-        "agent development",
-        "software engineering"
+        "agent development"
       ],
       "capability_topic_unresolved": false
     },
@@ -47969,7 +47977,7 @@
       "capability_topic_unresolved": false
     },
     "9dd972eb-9050-5e14-a9ea-11b7f5d4ea59": {
-      "input_sha256": "1a4ccb1772c67c5c833c0a28eea69d297fdd2b8cc156f8d14126d006feda9afe",
+      "input_sha256": "aacd520e548346b86775a03c4951502c49c5911047b7cf0694e7588f71b4e559",
       "description_sha256": "882218159cdc8f0a202e0cc5fc342e67ceaab3fe5108c0de0a6a80be39367216",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -48275,12 +48283,11 @@
       "capability_topic_unresolved": false
     },
     "62bd726a-1e61-54a9-8205-0d3536d6120c": {
-      "input_sha256": "1146ad6014226525a424bf420c97fdfeb20a3635c15f2746a030b1bb234140e3",
-      "description_sha256": "bbf7d68f858091d4420aef5e94b7c053098c26cf5e49dda6b9da41dd04d2d805",
-      "use_cases_sha256": "5c30153740451447aa2e9f0ca38210843f98fade8c4fb3b4187709fa7f781af3",
+      "input_sha256": "a347e3176c9688dd9d3d46b2b6d936ebfe3636ec4f1ab29a142003a0efb6a38a",
+      "description_sha256": "997013dab627eb137a65796c52598b62b1f6d5ef2f4da5cccf246041f54c2d35",
+      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
-        "agent development",
-        "software engineering"
+        "agent development"
       ],
       "capability_topic_unresolved": false
     },

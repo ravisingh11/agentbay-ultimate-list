@@ -6,8 +6,8 @@
 
 3 listings · Page 1 of 1
 
-- **Meta Faiss** — [Website](<https://faiss.ai>) · [GitHub](<https://github.com/facebookresearch/faiss>) · **License: MIT** · Stars: not recorded · **Meta · Official source** — Meta Faiss is listed as a tool. Its catalogue topics include data storage and retrieval.
-- **MongoDB MCP Server** — [Website](<https://github.com/mongodb-js/mongodb-mcp-server>) · [GitHub](<https://github.com/mongodb-js/mongodb-mcp-server>) · **License: Apache-2.0** · **★ 1,151** (as of 2026-10-25) · **MongoDB · Official source** — MongoDB MCP Server is listed as a tool. Its catalogue topics include data storage and retrieval, data analysis, and MCP tool integration.
+- **Meta Faiss** — [Website](<https://faiss.ai>) · [GitHub](<https://github.com/facebookresearch/faiss>) · **License: MIT** · **★ 41,268** (as of 2026-11-08) · **Meta · Official source** — Meta Faiss is listed as a tool. Its catalogue topics include data storage and retrieval.
+- **MongoDB MCP Server** — [Website](<https://github.com/mongodb-js/mongodb-mcp-server>) · [GitHub](<https://github.com/mongodb-js/mongodb-mcp-server>) · **License: Apache-2.0** · **★ 1,154** (as of 2026-10-31) · **MongoDB · Official source** — MongoDB MCP Server is listed as a tool. Its catalogue topics include data storage and retrieval, data analysis, and MCP tool integration.
 - **Redis MCP Server** — [Website](<https://redis.io/docs/latest/integrate/redis-mcp/>) · [GitHub](<https://github.com/redis/mcp-redis>) · **License: MIT** · Stars: not recorded · **Redis · Official source** — Redis MCP Server is listed as a tool. Its catalogue topics include data storage and retrieval, agent memory and context, and MCP tool integration.
 
 [Projects and tools index](README.md) · [Home](../README.md)

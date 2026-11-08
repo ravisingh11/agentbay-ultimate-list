@@ -56,6 +56,8 @@ Refresh reads AgentBay's published catalogue, enrichment, repository metadata an
 
 Upstream absence is not an automatic removal. A maintainer reviews a dead link, archive state, rights request or other reason and records an explicit exclusion in `data/curation.json`. Likewise, an upstream metadata update cannot erase a correction recorded here. A contribution does not automatically publish to the AgentBay website; maintainers can separately adopt it there. Recommendations and curation on AgentBay.io are not synchronized back into this repository. Imports transfer supported listing facts, not website recommendation rankings, favorites, notes or personal collections. Repository curation remains the reviewed additions, corrections and exclusions in `data/curation.json`. A local refresh is not a GitHub commit or push.
 
+The README displays the date of the last successful catalogue refresh from `sync-manifest.json`. Regenerating the README alone preserves that date. The website finder tracks its own index refresh.
+
 If live APIs are unavailable, ordinary refresh fails before writing. A maintainer can deliberately choose the deployed static snapshots:
 
 ```sh
