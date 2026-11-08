@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md)
 
-148 listings · Page 1 of 1
+149 listings · Page 1 of 1
 
 - **ad-audience-targeting** — [Website](<https://github.com/mbfinotti/advertising-skills>) · [GitHub](<https://github.com/mbfinotti/advertising-skills>) · **License: MIT** · Stars: not recorded — ad-audience-targeting is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **adelaidasofia/claude-deconstruct** — [Website](<https://github.com/adelaidasofia/claude-deconstruct>) · [GitHub](<https://github.com/adelaidasofia/claude-deconstruct>) · **License: MIT** · Stars: not recorded — adelaidasofia/claude-deconstruct is listed as an agent-skill repository. Its catalogue topics include marketing and outreach.
@@ -27,6 +27,7 @@
 - **chillerno1/kskills** — [Website](<https://github.com/chillerno1/kskills>) · [GitHub](<https://github.com/chillerno1/kskills>) · **License: MIT** · Stars: not recorded — chillerno1/kskills is listed as an agent-skill repository. Its catalogue topics include marketing and outreach and browser workflows.
 - **co-marketing** — [Website](<https://github.com/coreyhaines31/marketingskills>) · [GitHub](<https://github.com/coreyhaines31/marketingskills>) · **License: MIT** · **★ 56,189** (as of 2026-10-23) — co-marketing is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **codebywater/WB-OZON-AI-TEAM** — [Website](<https://github.com/codebywater/wb-ozon-ai-team>) · [GitHub](<https://github.com/codebywater/wb-ozon-ai-team>) · **License: MIT** · Stars: not recorded — codebywater/WB-OZON-AI-TEAM is listed as an agent-skill repository. Its catalogue topics include marketing and outreach, search optimization, and financial workflows.
+- **competitive-ads-extractor** — [Website](<https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md>) · [GitHub](<https://github.com/ComposioHQ/awesome-claude-skills>) · **License: Unknown** · **★ 79,027** (as of 2026-11-08) — competitive-ads-extractor is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **coreyhaines31/copy-editing** — [Website](<https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing>) · [GitHub](<https://github.com/coreyhaines31/marketingskills>) · **License: MIT** · **★ 56,189** (as of 2026-10-23) — coreyhaines31/copy-editing is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **coreyhaines31/copywriting** — [Website](<https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting>) · [GitHub](<https://github.com/coreyhaines31/marketingskills>) · **License: MIT** · **★ 56,189** (as of 2026-10-23) — coreyhaines31/copywriting is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **coreyhaines31/cro** — [Website](<https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro>) · [GitHub](<https://github.com/coreyhaines31/marketingskills>) · **License: MIT** · **★ 56,189** (as of 2026-10-23) — coreyhaines31/cro is listed as an agent skill. Its catalogue topics include marketing and outreach.

@@ -32,7 +32,7 @@ Counts below are listings in this repository, including repository-level entries
 | [Inngest](https://www.inngest.com/) | 15 |
 | [JetBrains](https://www.jetbrains.com/) | 300 |
 | [Meta](https://ai.meta.com/) | 231 |
-| [Microsoft](https://www.microsoft.com/) | 3,545 |
+| [Microsoft](https://www.microsoft.com/) | 3,554 |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | 50 |
 | [MongoDB](https://www.mongodb.com/) | 49 |
 | [NVIDIA](https://www.nvidia.com/) | 1,516 |

@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](planning-and-project-management-c7d267-1.md) · [Next →](planning-and-project-management-c7d267-3.md)
 
-589 listings · Page 2 of 3
+591 listings · Page 2 of 3
 
 - **gootf/halt-long-horizon-tasks** — [Website](<https://github.com/gootf/halt-long-horizon-tasks>) · [GitHub](<https://github.com/gootf/halt-long-horizon-tasks>) · **License: MIT** · Stars: not recorded — gootf/halt-long-horizon-tasks is listed as an agent-skill repository. Its catalogue topics include project planning, data analysis, and monitoring and operations.
 - **GrillerGeek/guildhall** — [Website](<https://github.com/grillergeek/guildhall>) · [GitHub](<https://github.com/grillergeek/guildhall>) · **License: MIT** · Stars: not recorded — GrillerGeek/guildhall is listed as an agent-skill repository. Its catalogue topics include project planning and software engineering.

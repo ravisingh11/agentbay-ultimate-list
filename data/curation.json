@@ -3283,7 +3283,7 @@
     {
       "id": "community:e6f576c7-53f5-50cf-8c83-62c9d3da9df0",
       "fields": {
-        "name": "FBOSS Link Log Analysis — AgentBay adaptation (Meta upstream)",
+        "name": "FBOSS Link Log Analysis \u2014 AgentBay adaptation (Meta upstream)",
         "type": "Skill",
         "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-link-log-analysis/SKILL.md",
         "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
@@ -3331,7 +3331,7 @@
     {
       "id": "community:ec44fd7f-3625-511e-982b-86a37bd7c1a6",
       "fields": {
-        "name": "FBOSS QSFP Log Analysis — AgentBay adaptation (Meta upstream)",
+        "name": "FBOSS QSFP Log Analysis \u2014 AgentBay adaptation (Meta upstream)",
         "type": "Skill",
         "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/1e90c03a368edf62eeed9c252604f7356b6fc588/skills/agentbay-fboss-qsfp-log-analysis/SKILL.md",
         "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
@@ -3461,7 +3461,7 @@
     {
       "id": "community:41791f30-8516-5a60-8912-6a86f1892ba1",
       "fields": {
-        "name": "OpenZL Benchmark Scenarios — AgentBay adaptation (Meta upstream)",
+        "name": "OpenZL Benchmark Scenarios \u2014 AgentBay adaptation (Meta upstream)",
         "type": "Skill",
         "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/71b0133f67eff90cacd85bae84e5b826a8568b3d/skills/agentbay-openzl-benchmark-scenarios/SKILL.md",
         "repository_url": "https://github.com/ravisingh11/agentbay-ultimate-list",
@@ -3503,6 +3503,2598 @@
           "url": "https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/.claude/skills/unitbench-scenarios/SKILL.md",
           "checked_at": "2026-11-01T17:38:03.518573+00:00",
           "note": "Meta Platforms, Inc. and affiliates are upstream authors; AgentBay maintains this adaptation."
+        }
+      ]
+    },
+    {
+      "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+      "fields": {
+        "name": "implement",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "Azure Developer CLI",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob e4e422fe22428fc6e0d505c2d2549bb17e92e813 and SHA-256 1974083e2ffc5f485e212cb2fea83e93508441bb9de643f4d36d3830312a7ccf. Execute scoped Spec2Cloud tasks, initialize a chosen AZD template and synchronize task status; requires existing specification/planning context, confirmed environment settings and permission before overwrites. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+      "fields": {
+        "name": "plan",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Planning and project management"
+        ],
+        "tags": [
+          "Azure",
+          "Architecture",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob d9423866c3ca124e2772f0da1e8e454af5dd9101 and SHA-256 c5d6ae5ef85f24f000f1203aa4ca352252e70cddf9355bb761fcbdad3ff959d5. Prepare technical and Azure environment plans from an existing specification; can query Azure account/resource state and request additional skill installation, so it is not an offline-only planner. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+      "fields": {
+        "name": "specify",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Planning and project management"
+        ],
+        "tags": [
+          "Requirements",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 8bb351c9173ebea7be8b5b33b644cdadd1267587 and SHA-256 4d85c7143d63ca03b33bb23c2e1a80aee7b911f214e2fa8b49e848d7335d7473. Create feature requirements and measurable success criteria using the Spec2Cloud constitution and specification template; does not implement or deploy the feature. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:df7849ba-62eb-5e9a-89ae-98a86fe54479",
+      "fields": {
+        "name": "architecture-decision",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/architecture-decision/SKILL.md",
+        "repository_url": "https://github.com/Azure/agent-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "Bicep",
+          "Architecture",
+          "Infrastructure as code",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 1201,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/architecture-decision/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/architecture-decision/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 7ed909aa3757fd1c2cf1015d75f2d004672f09b0 and SHA-256 8e6ab73450801c8ef5bea1990e9befc562e464f5f8502da432519197dd0e010b. Record infrastructure architecture choices for the AI Landing Zone, comparing alternatives, identity/networking, cost and reversibility; requires relevant engineering references and current Azure guidance. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:316247e6-e449-5a50-8acd-0f5c3f28c1c3",
+      "fields": {
+        "name": "documentation-consistency",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/documentation-consistency/SKILL.md",
+        "repository_url": "https://github.com/Azure/agent-landing-zone",
+        "categories": [
+          "Documents and knowledge"
+        ],
+        "tags": [
+          "Azure",
+          "Bicep",
+          "Documentation",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 1201,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/documentation-consistency/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/documentation-consistency/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 433342e18e36045f3d45883f7618eeceb9214be6 and SHA-256 2fb2163c7fd8018ff6b6853a523897f79ce266bd18fd58e64512a41e744402aa. Align AI Landing Zone infrastructure documentation with shipped Bicep parameters, topology and deployment behavior; coordinated external documentation PRs remain separately authorized. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:3e856a5f-db75-52db-88cc-fef2df7ad9a5",
+      "fields": {
+        "name": "engineering-principles",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/engineering-principles/SKILL.md",
+        "repository_url": "https://github.com/Azure/agent-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "Bicep",
+          "Infrastructure as code",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 1201,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/engineering-principles/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/engineering-principles/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 9cc27a2d8812de16d776354be553f3ee75b09194 and SHA-256 8686d3a3178f2b40d0bc4ae230a9d4f84959387975033c8f15f3e8cd37e1eaeb. Apply AI Landing Zone infrastructure design, security and validation principles; compilation is not deployment/isolation proof, and live provisioning requires an approved scope. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+      "fields": {
+        "name": "azure-typespec-author",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "TypeSpec",
+          "API",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob d455890fc20fb3806afbb4232092cad730ee37db and SHA-256 8eef41a880470a0c33a40e9fc58b2122e4285daf9b774077a07e2c70745574d9. Author Azure TypeSpec ARM/data-plane specifications with mandatory validation; requires the azure-sdk-mcp knowledge and validation tools plus TypeSpec compilation, and excludes SDK generation or package release. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+      "fields": {
+        "name": "markdown-token-optimizer",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Documents and knowledge"
+        ],
+        "tags": [
+          "Markdown",
+          "Token optimization",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 1a273fe8a019b6cf928e97914332c6556d65ca52 and SHA-256 12757b3287a5eb4924a6875a2d9f7d9f02d4aa92d34424d0eb2f97ee892cdb2c. Inspect Markdown token usage and propose reductions while preserving meaning; suggestions only, with no automatic modification or code-optimization claim. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+      "fields": {
+        "name": "skill-authoring",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Agent Skills",
+          "Skill authoring",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 435dcd7f34e1765d91b682c11fdcce2cb092f30b and SHA-256 b487a1ff62d74cd3ee5f563a9a8607b324ffb1bcd89b57f79158e889e9245753. Author and validate agent-skill structure and metadata using the documented conventions and waza CLI; source declares copilot-chat compatibility, with no broader runtime execution claim. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        }
+      ]
+    },
+    {
+      "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+      "fields": {
+        "name": "changelog-generator",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Documents and knowledge"
+        ],
+        "tags": [
+          "Git",
+          "Release notes",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 72919de07da6d02a7824309529aefde94a2109dd; SHA-256 0fdde1fc7ed062a82fd7ba98057f5d471c5d1905bfe2ddc4eeb213450cb00c18. Instructions for deriving categorized release-note drafts from selected Git commits and reviewing the generated wording before publication. No verified runtime or accuracy guarantee. Do not repeat upstream time-saving or example performance claims. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+      "fields": {
+        "name": "competitive-ads-extractor",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Sales and marketing"
+        ],
+        "tags": [
+          "Advertising",
+          "Competitive research",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob d1a173971d8baa969d80caf51ae73a5efa4c084f; SHA-256 c9bc0f711936ee058858c938c14ac2b52fc0241cde766eff7aca020e9874f157. Instructions for collecting publicly available competitor advertising examples and organizing their visible messaging and creative themes. Visible ad-library examples do not establish conversions, performance, proven effectiveness or audience targeting. Do not turn upstream illustrative metrics or examples into observed facts. Access rights and platform availability were not tested. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:e23d6374-fe71-53ca-aba9-15dc7476f220",
+      "fields": {
+        "name": "ably-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 4bb303e5e9e30891170a01739f9387780f4d6cd0; SHA-256 d969544a1e9c145c480c67746c7e45fb1ffee8065122ddfedafafb454972d20b. Generic instruction wrapper for discovering Ably toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:a66acdea-15b5-5062-b9fe-0f75bda0d364",
+      "fields": {
+        "name": "abstract-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob a816a76f993c99f4ae2bdbe9126630f3315ca80a; SHA-256 df50052f4cdf387822dd97c349882a94c7c7323eae7ea7919ea27cd9f8a18ee9. Generic instruction wrapper for discovering Abstract toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:133ba651-dc01-5825-a1f1-019311ab3e5f",
+      "fields": {
+        "name": "abuselpdb-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 00bd03ff06b862de505b6ed387685427682a4a0a; SHA-256 9880765523be1bc037b50a85d828841e7f90b19572ebec1558db6ff211f6ca2a. Generic instruction wrapper for discovering Abuselpdb toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Preserve upstream Abuselpdb spelling; target-service identity was not silently normalized to another brand. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:773bc611-de35-515f-9fa8-cf138d68083d",
+      "fields": {
+        "name": "abyssale-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 0f1879105609aafd16d4140e5d4878cf962bd654; SHA-256 b3518bd67cfe438a15ac0a3e0ba0311e261ee57b225749acac49e0a5132201bc. Generic instruction wrapper for discovering Abyssale toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:a5509a70-2522-57b5-90a7-dee2d454d869",
+      "fields": {
+        "name": "accelo-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 5252a206155128ad02e5663a07935a7fdd791948; SHA-256 8fbe90e17c3ed8877faf1d954e13df4513ac2b434418b584b2a9afaba7fe39e2. Generic instruction wrapper for discovering Accelo toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:eac26594-68e2-589c-b205-0a0c9dbb9cb0",
+      "fields": {
+        "name": "accredible-certificates-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob ff5e3adf4290a6178a62ea7b90262829d4b35d42; SHA-256 fb4e9268f8f285b6aa60fc3ea8227b9509e2cb0407a2de515416b7781dff54aa. Generic instruction wrapper for discovering Accredible Certificates toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:ed4841a0-7a0a-5f0e-84e8-b614da81ead6",
+      "fields": {
+        "name": "acculynx-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob aaf807126d08fe29f2f930e134db17563c6f74a0; SHA-256 fe1aa711aecc092d7630719d7ade9b27109ee54362aa32be63d089829cee0656. Generic instruction wrapper for discovering Acculynx toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:ab525ed7-724c-539d-8f79-898a1fad2f93",
+      "fields": {
+        "name": "active-campaign-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 427deceb0bb9279b49b9c6ce3577196bd02f52ba; SHA-256 3b380fd5647324ef1f38ba0291c1caf9211515411f479b7d71bda56811b39a7f. Generic instruction wrapper for discovering ActiveCampaign toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:0fb638d8-e01d-5a77-981f-6748f5f0bdf6",
+      "fields": {
+        "name": "addresszen-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 7772925739ce4eac8c7a4e864d532d3bdc672bf9; SHA-256 fdce4eb90870d21c71c70f002958d5108fa010b82bbad634d35a4fdee285585f. Generic instruction wrapper for discovering Addresszen toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:12dc00de-fec1-56f4-a9e1-c2b9334e0120",
+      "fields": {
+        "name": "adobe-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob e4dad77cd0d3539a750c3781c8244c053c935da9; SHA-256 0b3b6a986570da043d599076e3fa0fbcafe8097280c9bbeeaabc57395fddac56. Generic instruction wrapper for discovering Adobe toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:99362249-c64e-5e1f-bbc3-8baee3f8f4ed",
+      "fields": {
+        "name": "adrapid-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob a509990bc487a315c3197f914635525d9629e65f; SHA-256 89a60eaf710461c24bfbaa529e27b0e366cbe335061571720f9612212c5059d4. Generic instruction wrapper for discovering Adrapid toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:9b4770b1-a3ad-5007-a37b-36a07949e956",
+      "fields": {
+        "name": "adyntel-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 19a35858f92dd0084ced7b00677f004664315e56; SHA-256 69cacc09bfff96eef4240df6cb69d84c41e6438e5e69b3013b89752b7d2f2a3b. Generic instruction wrapper for discovering Adyntel toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:0e24b56d-972c-5bfa-a118-f503e0dbd3cb",
+      "fields": {
+        "name": "aero-workflow-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 45292fd57fe1cbf8b9838da9d9143415a79868b8; SHA-256 71f6b8942934c0a81034f863599a1b7d830ea55f8a048c400b66533a1fccd39a. Generic instruction wrapper for discovering Aero Workflow toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:eb49f2d4-b336-556d-9eca-bb0bea613c56",
+      "fields": {
+        "name": "aeroleads-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob be1792a1eaf7569ae3ad77285d4f09f475d9f97b; SHA-256 8b06b8035df7ac7e63c5bc9d4a04a7ad776890da87af49bcc1527aedb8a3a0d7. Generic instruction wrapper for discovering Aeroleads toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:31c19a29-0eb1-5ca3-81c3-d215e749922d",
+      "fields": {
+        "name": "affinda-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob cbc7349d01a65db50760b57111302a88a4632b84; SHA-256 6924224b6edad3a25e57687c4e17e3bd08a2e0381da28236346a8b45fff0d32e. Generic instruction wrapper for discovering Affinda toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:9b88de28-d6f4-5386-8a9d-101e045730f6",
+      "fields": {
+        "name": "affinity-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob f043530155dd28d36d4b55b7c3361d8916095c52; SHA-256 3bd3e83f34862c69832789458cbc2878feda6f662ea96fc50bba77c8f40e3be3. Generic instruction wrapper for discovering Affinity toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:da0b2b11-3706-5a7e-a300-70202c9b63dc",
+      "fields": {
+        "name": "agencyzoom-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 0e25772680027d3fffeb7e4af72400f3c65cea19; SHA-256 0867abafe8330bb3f70ee67b715c9bbaa00bf41d5dd97f455ca4b5b6ac54ae75. Generic instruction wrapper for discovering Agencyzoom toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:fd258d8c-c013-511a-8cf6-ff585a5e06a0",
+      "fields": {
+        "name": "agent-mail-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 6236ffb6c861369804d1bf8ed6f5179c16dddf8d; SHA-256 72bdf3b3772f233618de52af4b298f7c2aee32a6193c6dfb8d787eed4e4a592c. Generic instruction wrapper for discovering Agent Mail toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:03813503-e92f-5fe3-a06f-5f9a1e74f064",
+      "fields": {
+        "name": "agentql-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 94dfa4787687e7676e00005def0f81ab632030f9; SHA-256 95bfb9254094a1f00bdbb8458f502c3742077fa3ec387b11629f1cd9512e3d5a. Generic instruction wrapper for discovering Agentql toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:5f3c39bb-2065-5068-835e-309039c5789b",
+      "fields": {
+        "name": "agenty-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 8779fa95953aadc072b8f780a531a391aa719d07; SHA-256 fb70ccac42697970d75a00c53a0b13bf28cc9d8f227ba60fdcfcc52207862e7b. Generic instruction wrapper for discovering Agenty toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:ecb3b6a9-24f7-508b-bfdb-a12d9a746e3d",
+      "fields": {
+        "name": "agiled-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob b10aa916120928b3cd1ed42493cf6e71af18db8d; SHA-256 1f52da15b96fade935f6f8e6e7fa900d9dafd6942f1112751fb937f743ce900f. Generic instruction wrapper for discovering Agiled toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:8523bc77-6c8c-5f4a-b49e-295843c97303",
+      "fields": {
+        "name": "agility-cms-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 77b5ba3127d589c90029b2be7182aeb96434544a; SHA-256 e299b8a31683729174fceae7ebbeb08ea614e9eeeeeef06da650f3b0e88adab6. Generic instruction wrapper for discovering Agility CMS toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:f5a827d2-2a4e-5c6b-9ced-02c215fa9c2e",
+      "fields": {
+        "name": "ai-ml-api-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 2ccf6e51c9671b31ee0edf5b90a46f97481c3619; SHA-256 4a03c3519e8f01f2440a69c1147e37e82ebf83bb7512bd0769de52938188625d. Generic instruction wrapper for discovering AI ML API toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:e3e6d8f5-03eb-5b04-8c0b-315bdc975c48",
+      "fields": {
+        "name": "aivoov-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 595479a59b36a97050275b794dbfb6422e8bed05; SHA-256 316e8fda32eda2ca1f4fb39963971dd95d42230c96cb6058b8ac73472c7cf7ef. Generic instruction wrapper for discovering Aivoov toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:9b9c78d7-365b-5afa-a5e8-ed6fa48a1bba",
+      "fields": {
+        "name": "alchemy-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob dfc0fee665fec30a477512f2c615e98301e4b4bc; SHA-256 5d718ddde46970b8e39f33bcf4af4442510127b05371156eae838de6c981a0be. Generic instruction wrapper for discovering Alchemy toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:1fa3f068-a68c-557d-84ef-3fddf03362f5",
+      "fields": {
+        "name": "algodocs-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 24f614468eb146faba80c901e9746ac3f1632c88; SHA-256 62896f53f8a67a302c08dcb5a4c11b9aab524bac30d400347b2d488f82448c51. Generic instruction wrapper for discovering Algodocs toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:770d54fd-266f-58a0-a7c0-aab2d06e43cd",
+      "fields": {
+        "name": "algolia-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob da6db4501a256e60d86fe0f9d6ba72bdd75ae453; SHA-256 a808760f480045fa20b82da38087a93eb37fc0729cadce8cbbc6e0acddb02737. Generic instruction wrapper for discovering Algolia toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:a73c842b-9377-533c-80dd-9b86a3b7699b",
+      "fields": {
+        "name": "all-images-ai-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob a0a1a409604a9b3eeac1d397b41998f81b428bf8; SHA-256 f4153fb1fe632b8db07b3e4a31f18355f04f4e21991b6874dbd6e50e64e6e02b. Generic instruction wrapper for discovering All Images AI toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:5a6c4dd7-bbcc-5a17-bbde-833261c6c182",
+      "fields": {
+        "name": "alpha-vantage-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 77f34bdd38446c54de9aa0e1f4df8b6eab27d83a; SHA-256 58f493b81fa95d1f6fb45f72bbaaca2178bf1dc11625defb9976c6c1a1232060. Generic instruction wrapper for discovering Alpha Vantage toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:e901ce35-04a3-5a42-9028-fb3d699af77d",
+      "fields": {
+        "name": "altoviz-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob e79a144a5f4e753136db3e0cc86456e577e1d57d; SHA-256 24655f58965afe19c25ff48fcc430b93df8a5074f079aa0b09498e446f0393e8. Generic instruction wrapper for discovering Altoviz toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:49cb2d25-dfa6-587a-a640-4e858c1d3023",
+      "fields": {
+        "name": "alttext-ai-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 8d17105b60c258c83bb0750e06dee70e392f19f2; SHA-256 ff1ae837b6538418cee0c07813a7e3b39feb211a54b30999c580b337acd8fdb1. Generic instruction wrapper for discovering Alttext AI toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:25b83450-6b4f-5cb8-b9a4-b6b77923ceeb",
+      "fields": {
+        "name": "amara-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 8f47bfeb40a897d0d6f4b85a453532dd40f5e656; SHA-256 96a77a904bd0a5daecfa9e1b86d5dc6afe383c148d4244e0478b44b1652a1d95. Generic instruction wrapper for discovering Amara toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:5bb6d2c5-7e8a-5022-8961-a177d25aedf3",
+      "fields": {
+        "name": "amazon-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 06de21f92312990730ae350a46041cfbfcaaf194; SHA-256 df43848764ae817de8a7032277cc4ece51a0ba08ff1963ac96ea821e2b012dc1. Generic instruction wrapper for discovering Amazon toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:962c8226-a28c-53ed-a965-caebe35b830a",
+      "fields": {
+        "name": "ambee-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob f9130811bc66668476812f7a4e7fc3d11a9971a0; SHA-256 c8410df8aa58d762255796d58f9521fc45ddaced32af404d16d083bf189df621. Generic instruction wrapper for discovering Ambee toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:593256f2-4798-5aae-a0db-65709d9cf81b",
+      "fields": {
+        "name": "ambient-weather-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob e2bc52555ff37bdbd1ef1c0956bfa35d67a76773; SHA-256 de3269c29d04a5cc50ca76d6213096ce882fecf2c73d0c0a93144d747cb51f1b. Generic instruction wrapper for discovering Ambient Weather toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        }
+      ]
+    },
+    {
+      "id": "community:25fd0b62-f2e5-5da7-95d6-062a4f2a5ee2",
+      "fields": {
+        "name": "amcards-automation",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Automation"
+        ],
+        "tags": [
+          "Composio",
+          "Rube MCP",
+          "MCP",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 0938670b411f234ee98d5ae1dc9c759fb1e29dc3; SHA-256 be0f7939b298300aa525f52995c6e333daab697462c64e22632ad2a75d4849c8. Generic instruction wrapper for discovering Amcards toolkit tools, checking an active connection and invoking dynamically discovered schemas through Rube MCP. Requires available Rube MCP and an ACTIVE authenticated target-service connection. No specific API action, connector availability, free/no-auth access, account permissions or execution outcome was verified. The upstream no-API-key setup wording does not eliminate connection authorization. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
         }
       ]
     }
