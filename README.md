@@ -43,7 +43,9 @@ Here is what matters when choosing a skill:
 
 These are useful signals, not a security certification. Official ownership does not establish that every skill was audited; popularity does not establish task fit. Independent maintainers can produce excellent work too.
 
-**Explore 23,024 listings: 22,667 skills and 357 projects and tools across 9,159 GitHub repositories.**
+**Explore 23,025 listings: 22,668 skills and 357 projects and tools across 9,159 GitHub repositories.**
+
+Catalogue refreshed **November 8, 2026**. [Refresh details](sync-manifest.json).
 
 ## Quick start
 

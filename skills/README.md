@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,667 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,668 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md)
 
@@ -27,6 +27,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | Design | 66 | [Page 1](design-a77de8.md) |
 | design-media | 74 | [Page 1](design-media-2c7713.md) |
 | dev-programming | 50 | [Page 1](dev-programming-3b6153.md) |
+| Developer tools | 1 | [Page 1](developer-tools-47c213.md) |
 | Development and Testing | 37 | [Page 1](development-and-testing-5d22d1.md) |
 | Documents and knowledge | 1,189 | [Page 1](documents-and-knowledge-09e32e-1.md) · [Page 2](documents-and-knowledge-09e32e-2.md) · [Page 3](documents-and-knowledge-09e32e-3.md) · [Page 4](documents-and-knowledge-09e32e-4.md) · [Page 5](documents-and-knowledge-09e32e-5.md) · [Page 6](documents-and-knowledge-09e32e-6.md) |
 | education | 4 | [Page 1](education-68bf01.md) |

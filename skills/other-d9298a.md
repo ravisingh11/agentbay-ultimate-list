@@ -6,7 +6,7 @@
 
 2 listings · Page 1 of 1
 
-- **discord** — [Website](<https://github.com/openclaw/openclaw/blob/main/.agents/skills/claw-score/references/completeness/discord.md>) · [GitHub](<https://github.com/openclaw/openclaw>) · **License: Unknown** · **★ 392,853** (as of 2026-10-23) — discord is listed as an agent skill. Its catalogue topics include specialized workflows.
-- **ultracave** — [Website](<https://github.com/juliusbrussee/caveman>) · [GitHub](<https://github.com/juliusbrussee/caveman>) · **License: Apache-2.0** · Stars: not recorded — ultracave is listed as an agent skill. Its catalogue topics include specialized workflows.
+- **discord** — [Website](<https://github.com/openclaw/openclaw/blob/main/.agents/skills/claw-score/references/completeness/discord.md>) · [GitHub](<https://github.com/openclaw/openclaw>) · **License: Unknown** · **★ 393,494** (as of 2026-10-31) — discord is listed as an agent skill. Its catalogue topics include specialized workflows.
+- **ultracave** — [Website](<https://github.com/juliusbrussee/caveman>) · [GitHub](<https://github.com/juliusbrussee/caveman>) · **License: Apache-2.0** · **★ 118,232** (as of 2026-11-08) — ultracave is listed as an agent skill. Its catalogue topics include specialized workflows.
 
 [Skills index](README.md) · [Home](../README.md)

@@ -7,8 +7,8 @@
 4 listings · Page 1 of 1
 
 - **24/7 AI Chatbot** — [Website](<https://github.com/nirdiamant/genai_agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb>) · [GitHub](<https://github.com/nirdiamant/genai_agents>) · **License: Unknown** · Stars: not recorded — 24/7 AI Chatbot is listed as an agent example. Its catalogue topics include specialized workflows.
-- **Lina Egyptian Medical Chatbot** — [Website](<https://github.com/dina-khalid/lina-egyptian-medical-chatbot>) · [GitHub](<https://github.com/dina-khalid/lina-egyptian-medical-chatbot>) · **License: Unknown** · Stars: not recorded — Lina Egyptian Medical Chatbot is listed as an agent example. Its catalogue topics include specialized workflows.
+- **Lina Egyptian Medical Chatbot** — [Website](<https://github.com/dina-khalid/lina-egyptian-medical-chatbot>) · [GitHub](<https://github.com/dina-khalid/lina-egyptian-medical-chatbot>) · **License: Unknown** · **★ 3** (as of 2026-11-08) — Lina Egyptian Medical Chatbot is listed as an agent example. Its catalogue topics include specialized workflows.
 - **Product Recommendation Agent** — [Website](<https://github.com/microsoft/recai>) · [GitHub](<https://github.com/microsoft/recai>) · **License: Unknown** · Stars: not recorded · **Microsoft · Official source** — Product Recommendation Agent is listed as an agent example. Its catalogue topics include specialized workflows.
-- **Virtual AI Tutor** — [Website](<https://github.com/hqanhh/edugpt>) · [GitHub](<https://github.com/hqanhh/edugpt>) · **License: MIT** · Stars: not recorded — Virtual AI Tutor is listed as an agent example. Its catalogue topics include specialized workflows.
+- **Virtual AI Tutor** — [Website](<https://github.com/hqanhh/edugpt>) · [GitHub](<https://github.com/hqanhh/edugpt>) · **License: MIT** · **★ 224** (as of 2026-11-08) — Virtual AI Tutor is listed as an agent example. Its catalogue topics include specialized workflows.
 
 [Projects and tools index](README.md) · [Home](../README.md)

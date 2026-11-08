@@ -6,6 +6,6 @@
 
 1 listings · Page 1 of 1
 
-- **📚 Study Partner** — [Website](<https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/study_partner.py>) · [GitHub](<https://github.com/agno-agi/agno>) · **License: Apache-2.0** · **★ 42,850** (as of 2026-10-21) — 📚 Study Partner is listed as an agent example. Its catalogue topics include learning workflows and Agno-related agent work.
+- **📚 Study Partner** — [Website](<https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/study_partner.py>) · [GitHub](<https://github.com/agno-agi/agno>) · **License: Apache-2.0** · **★ 43,102** (as of 2026-11-08) — 📚 Study Partner is listed as an agent example. Its catalogue topics include learning workflows and Agno-related agent work.
 
 [Projects and tools index](README.md) · [Home](../README.md)
