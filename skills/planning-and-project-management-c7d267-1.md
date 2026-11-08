@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](planning-and-project-management-c7d267-2.md)
 
-589 listings · Page 1 of 3
+591 listings · Page 1 of 3
 
 - **0trm/gallop** — [Website](<https://github.com/0trm/gallop>) · [GitHub](<https://github.com/0trm/gallop>) · **License: MIT** · Stars: not recorded — 0trm/gallop is listed as an agent-skill repository. Its catalogue topics include project planning, agent development, and software engineering.
 - **0x61A/fullstack-pro-max** — [Website](<https://github.com/0x61a/fullstack-pro-max>) · [GitHub](<https://github.com/0x61a/fullstack-pro-max>) · **License: MIT** · Stars: not recorded — 0x61A/fullstack-pro-max is listed as an agent-skill repository. Its catalogue topics include project planning, software engineering, and data analysis.

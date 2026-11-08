@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 23024,
+  "entry_count": 23071,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -1585,6 +1585,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:e23d6374-fe71-53ca-aba9-15dc7476f220": {
+      "input_sha256": "73a975d384930114a4080ebeac12fcddb64625cbf5b544d2343c56f6fef9c343",
+      "description_sha256": "a9494a2331a0ae71ce9a6757e1a2443442b30935945e9cde49f8270f973ed280",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "13706e11-4500-5769-841d-dfcda9a925de": {
       "input_sha256": "21e62dc8c5122b995de688199706a69ae363ae6b9865cde66a2e6b1955fc59d2",
       "description_sha256": "dc47bd111fb657305c88a98d2bacd7dc8ba7307c745a30fc12d12841997d76ca",
@@ -1668,6 +1678,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:a66acdea-15b5-5062-b9fe-0f75bda0d364": {
+      "input_sha256": "c6662c3168597d72944f9449b62de6e8f9dfcda8de0743b519d82f116ec15b5c",
+      "description_sha256": "2bf460d8702b2a8f5b2426e76289b8df32f2635388c3a93532e99c21650f88be",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "14fd21ef-4b37-59f5-aec0-04cdec37c2bf": {
       "input_sha256": "3465880c4d54e3ba45b9ae1abdf9ac3e718092bac65877d9df9733ec095a209e",
       "description_sha256": "0c7c042b66b7fc12ce7a2515b66bc3197f0ec2e1f5324b8315cd3d10d8527eb0",
@@ -1718,6 +1738,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:133ba651-dc01-5825-a1f1-019311ab3e5f": {
+      "input_sha256": "c9db92d04e2cf07ba81ba95bfc5fffdf967f4a13c789f24d09f33a72d2a4b250",
+      "description_sha256": "7758ed210aac60baec1393a7ea677b4648872c12a9baee7c16bbd04030237d39",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "6b88a06a-cf9f-5d01-b0e6-051b590ffe2e": {
       "input_sha256": "15c4f05292bbcd4676db12db50414409266bea33ff18eb905f9f177ccb184f78",
       "description_sha256": "e6b49800e07239538e6b5766d224e65ee326bcb2955e7465e628af1462222055",
@@ -1746,6 +1776,16 @@
         "security and privacy",
         "monitoring and operations",
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:773bc611-de35-515f-9fa8-cf138d68083d": {
+      "input_sha256": "ebb3215ba8046be399ae55e3caec9f825130fe5f537c63c5797639b20682fdc6",
+      "description_sha256": "07b105e4c4cc3f48d4127c40c9536ae69bee3b40d350b32e300580434febd247",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -1822,6 +1862,16 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
+    },
+    "community:a5509a70-2522-57b5-90a7-dee2d454d869": {
+      "input_sha256": "522db594a03982c4fa1f2252c4a7d77cd91431246735733c8369544d202eecc5",
+      "description_sha256": "594e854f47c056e39a0a4d9443e8a603aebc91528fea6662b67fc5f6b052b94e",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
     },
     "1936cf69-b4c9-5f09-913e-32c0891e3511": {
       "input_sha256": "576de44045ad39365b29286e7fbf060cf0ec3ca091101e2f30f1a4276e67916e",
@@ -2098,12 +2148,32 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:eac26594-68e2-589c-b205-0a0c9dbb9cb0": {
+      "input_sha256": "32b38f5fa97bf6336d54822e97a237414a2cb1423e2749f4963d69df9f41b6e3",
+      "description_sha256": "e27dfa886b7322703331b97c78548bec69f993ea044a0620d69442ba37aee65d",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "acf7cd1b-72f9-5e42-ac5a-d74e5ca61180": {
       "input_sha256": "c8b64de52568e3ddf9ed4e927f0d5dd31fa21787980ff569db8763496ef301ea",
       "description_sha256": "811b831c77add960898d4f7999517bec05198e9d6dd3a5457360383abc12540b",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:ed4841a0-7a0a-5f0e-84e8-b614da81ead6": {
+      "input_sha256": "801f939c21b8ac9fd613909c652130d324d1779f275b72d719077dbf63678b09",
+      "description_sha256": "afa5b09b6cdefa760e1e03ae076935a8f125b8f652f4da3afe58f348c61aa2bd",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -2415,6 +2485,16 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:ab525ed7-724c-539d-8f79-898a1fad2f93": {
+      "input_sha256": "6dde3c1c0d9005113875723f2ddaf650b70a70a756e64d242dfb9c36a7fd5234",
+      "description_sha256": "e490985c187a908d807174bdc705fe132624c6f94708609e85bd31093a662896",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -4376,6 +4456,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:0fb638d8-e01d-5a77-981f-6748f5f0bdf6": {
+      "input_sha256": "10623860462d5e13a0574e5e6f90c2fb7e6dceab5a9c03c6553763964d165cc2",
+      "description_sha256": "924b2e3d9c327afcaea86c4c6b17482684c8880fa749382255574a4754ff2af1",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "78779b75-075f-5abe-970c-352878081c46": {
       "input_sha256": "0d209d1ace45620457aa840b55990aad95a59bc62c38e4fb14e1bd311c4af119",
       "description_sha256": "2a1b1daec3c16fa4880580c396b3731611e202a095e8de32c547d216cf33f9f7",
@@ -5159,6 +5249,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:12dc00de-fec1-56f4-a9e1-c2b9334e0120": {
+      "input_sha256": "4b08f8184035eef8d5ca24559ef6ead68d44b90c8ed617dec3de1173ddce4e0a",
+      "description_sha256": "04fbd9e993a568cb8b8d697d71ffef3caf772195e19175dae5270187117dd309",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "7f213933-1cb2-5f10-9129-e3f94c59df78": {
       "input_sha256": "5a4ce24a08e043efdcec9d311e960f9cff2618f938ce7bd26b3bf2a9cf981205",
       "description_sha256": "402d8e60d3bef204c42492c22624497bde762ab13f37d8379e49fd5cdfe1d5bc",
@@ -5327,6 +5427,16 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:99362249-c64e-5e1f-bbc3-8baee3f8f4ed": {
+      "input_sha256": "b04c5e08fda29f4fccfb2bd57595aefae21e18d62277642234e772f0e5caba69",
+      "description_sha256": "d6451af81e92a73a84544c1cd92be6add54fcbf891fefd3774fb379afd486d67",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -5621,6 +5731,16 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:9b4770b1-a3ad-5007-a37b-36a07949e956": {
+      "input_sha256": "2e26ee6271ee2065c0b83d72c28d7b97fb7225645f46d4d9ba2bdf20e28daf25",
+      "description_sha256": "52d77d50801ec0f7a463b869ea6f45428e6f665b3e746b50d19023e0e1ccc554",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "49dd4640-8778-5dc7-8d1c-ef9dd4d602e4": {
       "input_sha256": "37c77827a12633ccb024bfcf08828d1f7746ed208b2534dc3ca1bb1ed7d6c349",
       "description_sha256": "9ce47329088fbc4882a39d18f677ef8c1b2fc7252e1eda713ac8c970edc91f32",
@@ -5701,6 +5821,26 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
+    },
+    "community:0e24b56d-972c-5bfa-a118-f503e0dbd3cb": {
+      "input_sha256": "0199d36c07e89d968483e8b96250aae92f794321b2bfc2dde523a8314864f6af",
+      "description_sha256": "5645497beb91a148d44d0b8671755226e6a8350140f7906118a69d668f4c9d5a",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:eb49f2d4-b336-556d-9eca-bb0bea613c56": {
+      "input_sha256": "80a7f1cae195d3b05d6244a91a7a8c917b4c77ee0d73d06ff5ea801f13151a40",
+      "description_sha256": "e5e5c15cc1f9986875290f85d4decf2a8beb1d4a9f21a66bdee5b93145fa1a2d",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
     },
     "70631d58-30d7-5d6b-986f-7a0764408025": {
       "input_sha256": "9f71c5a32b4f174056014b45d06178398d1b77e825c2f39b33dae1f5bb1f9c63",
@@ -5801,6 +5941,26 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:31c19a29-0eb1-5ca3-81c3-d215e749922d": {
+      "input_sha256": "46ca7f4da277c39c1626fb725bdcf15408d613d151026d51e35144e76820b50d",
+      "description_sha256": "b1417b79e728afacad46ac9a981de2759b9a0834cca20ce7b148fdd9f6ed115d",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:9b88de28-d6f4-5386-8a9d-101e045730f6": {
+      "input_sha256": "33fab4897f600a05089ed944b29da54c7cd151da1a6c40cf1b135b3d720c4e3c",
+      "description_sha256": "cf3583778a7189351a4023992d6401e98bee97c97df56f4b7c5edb42492c4e7a",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "cef64aff-24cc-54ed-b501-cfce753eec3e": {
       "input_sha256": "a1637a4bf5715f4a820c3c600552adfcc7fd4d8bb2371ce7364e3544f9abe262",
       "description_sha256": "4a0b1961b19788e62ec1a6646ae110410ba6974a97e0687f73624a9729cd9932",
@@ -5900,6 +6060,16 @@
         "agent development",
         "software engineering",
         "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:da0b2b11-3706-5a7e-a300-70202c9b63dc": {
+      "input_sha256": "ca346ff3d1e7b8062b30367d4bb65e33921c788c07bb0d9f90c2c10150eccaef",
+      "description_sha256": "1200fab6454591884141b995fad241754a7a39d349c69185721a6c2a48ab37fd",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -6687,6 +6857,16 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:fd258d8c-c013-511a-8cf6-ff585a5e06a0": {
+      "input_sha256": "621bc6c3f84917c19d05f1b5ea469b5bb6e7d60378c7b790e7cc5cb231367c7a",
+      "description_sha256": "ce7e84389441cc27908a5061062f18484237ab38f835ac127f4a859050da2bc1",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -7929,6 +8109,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:03813503-e92f-5fe3-a06f-5f9a1e74f064": {
+      "input_sha256": "fa40a50c267496425f766cc18435effa48e9fb9df208ef26e16782ca81548b42",
+      "description_sha256": "2de1a1d5b0b7bb28e4d9ebeab230f5932642f5d64f07f0f1813e88bc736e3eb7",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "a5682ee0-701f-526b-9ecf-b469d54e96ed": {
       "input_sha256": "93cd931d398b916f236a670839853ea398c633e9803bf0d138ceb2a032fd24ea",
       "description_sha256": "36de24c893d110f683f63fca809dc5a600786259dc4f76432e57871106acd092",
@@ -8298,6 +8488,36 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:5f3c39bb-2065-5068-835e-309039c5789b": {
+      "input_sha256": "f47c7be4d00914f7f0425c5b5db2f3111e959538b4ae018f26c545ce6f203761",
+      "description_sha256": "25db645a039487ea6a59463ba110ba4e9e51a7363bebf65e360c17dd5ee9a745",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:ecb3b6a9-24f7-508b-bfdb-a12d9a746e3d": {
+      "input_sha256": "33da33db6d65cdd8694c41ce720c8b220998388c414431ca2030cdc3317e9636",
+      "description_sha256": "43c0defb17c7b197cc6958906daf7aabd710b1474905d5be1dbaeb8a9577c873",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:8523bc77-6c8c-5f4a-b49e-295843c97303": {
+      "input_sha256": "eb871bc8e7a09690816853924bb482a29138c3141a55207033143de91e15a68c",
+      "description_sha256": "888559df7bdc4a3ceae8507ae8f212d5463b14dfa598df10ed9cae5583a6e5ee",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -9194,6 +9414,16 @@
       "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
       "topics": [
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:f5a827d2-2a4e-5c6b-9ced-02c215fa9c2e": {
+      "input_sha256": "1b2321890a9b167ef3847ddd3ff110468038da8ca63fc7a8113226c861a72692",
+      "description_sha256": "6e6542bf604edf29040844990aae23eeaf80b738fdb1f8645d7ed3fedf920045",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -10721,6 +10951,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:e3e6d8f5-03eb-5b04-8c0b-315bdc975c48": {
+      "input_sha256": "91666bbbdcc2e8c07e098d9633eec2edbc9a475f512b0b3ea73098778e39a812",
+      "description_sha256": "b1969d65ac38b9af3975f6b4f8156874671bfba2685b71824619e09f217c0520",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "7d85f279-d360-58df-aa44-b70d5f2f19ec": {
       "input_sha256": "fcbe1959d0bf77aa5bce75999b2ae3b650cd30d1e20430ff84f0e7dbb6c9dfcc",
       "description_sha256": "1061d04cdbfadb9f3e7bda6c4973c7d5135a5f2d878f0eb788c035bee0032011",
@@ -11186,6 +11426,16 @@
       "topics": [
         "document and knowledge workflows",
         "security and privacy"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:9b9c78d7-365b-5afa-a5e8-ed6fa48a1bba": {
+      "input_sha256": "5a7f6e27722cfc2f200a87e6da8e1d0807b4931d3f821eda7ef391306d870d1c",
+      "description_sha256": "f8ceb1457c9b50e44d78fb7764889c6b9083cc521132b545c169e81631273a2f",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -11662,6 +11912,26 @@
         "information research",
         "agent development",
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:1fa3f068-a68c-557d-84ef-3fddf03362f5": {
+      "input_sha256": "898862fa7837f5713f6597e04317ee414e16949a45094fd00967933452b19e3e",
+      "description_sha256": "78bd6a82f06d51cf8df01aa758df24ab62bb985e73e94a7a6b736850e73e31f8",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:770d54fd-266f-58a0-a7c0-aab2d06e43cd": {
+      "input_sha256": "6dc59ee69c78de5a12673e9ec1ca9f20fa32fd7642c659121144b5b4ba92d678",
+      "description_sha256": "da045562109da87e27cbc965234141a0dbdf01b64b15520e2bfc280f6639ad75",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -14442,6 +14712,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:a73c842b-9377-533c-80dd-9b86a3b7699b": {
+      "input_sha256": "395b526828b397ea7fee3a70ae26255245835825b9b1be19a70d8a65d8d9b298",
+      "description_sha256": "7182817adcf0bfdca717b7e10b906b3cb2ad1ba4cc94cd634ce8cc77feaa2392",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "bf762d11-bd9d-567d-bd81-98a810678478": {
       "input_sha256": "2298c59c9b486760b606fb130c6e03399bdbb50f7a3590644d81df7cb702030c",
       "description_sha256": "a1934f8b768352b1069a442de11852bd2aa29cf497a64733182df6b167bfd19d",
@@ -14655,6 +14935,16 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:5a6c4dd7-bbcc-5a17-bbde-833261c6c182": {
+      "input_sha256": "6364bbe774466c9e91804d3da8fdf1c6d0a147ea788af7bf09481eddecd54b59",
+      "description_sha256": "59abeab7067e3c6172df1a3b7cb35e801f09a5cd14dd6c59695d2e756e6f8199",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "e1106e97-f5e1-50f1-8e92-02a6269a9689": {
       "input_sha256": "ace552737fa21200545ba9b20dfdf8de5c2871d43ac96adbfd58877880848ed3",
       "description_sha256": "6ef637f82877735a949f25e3c989c19fac5cf732f3885cc9ae084036a9cc4fdf",
@@ -14747,12 +15037,32 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:e901ce35-04a3-5a42-9028-fb3d699af77d": {
+      "input_sha256": "a4f73ce2f8d19d13843673a7d3c714fd9a6601d770acfbc4581e04fc780f9e5e",
+      "description_sha256": "279fd05a4b7d0b168d1a7f0a269709976b817a73985a89ab384b3cfa31fb046a",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "8d31ef33-7cc5-5d54-939b-5659ab158890": {
       "input_sha256": "bf296e7ed4e49661adc3aeb2a40a9438b43ae287515c9cd44167d7873d4010fe",
       "description_sha256": "30d7638810428cbb749252207092a534a6f92fabada77ff4671de2e3753e8527",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:49cb2d25-dfa6-587a-a640-4e858c1d3023": {
+      "input_sha256": "2f72cf09d4d771fc6c5b96136cb34ea5359c21fbad6558295e08ecfc6305c1d5",
+      "description_sha256": "91757699711cd154b477793dbac7bcf251639eedbe60a9e1daf4f063f4ec5fcc",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -14866,6 +15176,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:25b83450-6b4f-5cb8-b9a4-b6b77923ceeb": {
+      "input_sha256": "3a065df884a2004e59bd0e8fed0b7632c23e275a73450418d16f52c23f000788",
+      "description_sha256": "3801dfd43f68557799ff39bc9b752df72c0a9117d41c77d22919370fa786993f",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "35471f90-4643-5d63-ab05-5d800cb18656": {
       "input_sha256": "0245041c493cc2fc2adc75df63e9b261c9b40000c10bc893d111ee55125ac85c",
       "description_sha256": "c5e07a7bbab1f902599f21e465164acf70a8026c70c26cd261ecb7d02ada4f5f",
@@ -14935,6 +15255,16 @@
       "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
       "topics": [
         "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:5bb6d2c5-7e8a-5022-8961-a177d25aedf3": {
+      "input_sha256": "d20563ad578dc4aea43b5932e72bdab34ded5164cd3f4dab5464fb0ae13d0b77",
+      "description_sha256": "b5bc16938836a6667946ef72db91dac0f9dbe42ef1fdb08c7c487e384aec1c75",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -15090,6 +15420,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:962c8226-a28c-53ed-a965-caebe35b830a": {
+      "input_sha256": "5b89ef4f6e9a9db5a889f4b6d0ec14b795a7f108fcceb473f665b4bfec818c59",
+      "description_sha256": "aac7fea90d858ca8bc2abfa89839fa5448d911573bd954e08e1b53989f487918",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "eb3b5e8a-1a6f-5e2a-8058-a76495d10109": {
       "input_sha256": "621b15ac645ed528bb9fdc003ba8aff67ed2a80858ead05bffe67271fb7c4e63",
       "description_sha256": "fcdafb7c8d0c3a6cb5acea8cb61efdbf3865ee8aba16d5921fe83e93e8ad89ed",
@@ -15116,6 +15456,16 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:593256f2-4798-5aae-a0db-65709d9cf81b": {
+      "input_sha256": "96f481ddc841fd4801a7b8c7d291af4c53b70ee9901e2c5976e88294fac46708",
+      "description_sha256": "b48002a1e11e04fa383c4c24d57b2d10ca48e989aff1256dbe8932dd649544a6",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -15193,6 +15543,16 @@
       "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
       "topics": [
         "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:25fd0b62-f2e5-5da7-95d6-062a4f2a5ee2": {
+      "input_sha256": "78fd607eb62e2f40fa24f105f9f7aa05572c171fd9ba9c097b6595318651a9b7",
+      "description_sha256": "9969eda8c59f6dda8712bc1a7759c1d4ec2db6feaeb8addc1e5ee4f842af2f2d",
+      "use_cases_sha256": "90e412d3181e674ade216806bcb8367e5e812855fddc9abe5bf644b8741ef5e1",
+      "topics": [
+        "workflow automation",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -19063,6 +19423,15 @@
     },
     "7b43b47d-9a68-5bad-96ee-9e71eeca179e": {
       "input_sha256": "bf2d63de5eaa9b9ed41d0a937412435a2525177a60301108901362b574d7ba4e",
+      "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:df7849ba-62eb-5e9a-89ae-98a86fe54479": {
+      "input_sha256": "534644a2c1ef390279498b134608a09534a5f5bca3c8d91989fa9bcce4cbeaea",
       "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -27135,6 +27504,15 @@
     "a9dce550-2d74-583b-b708-09261e9f461c": {
       "input_sha256": "db5eff06742b9f8cce42e6707655c1b3edadfc6ac75b6f51dc6e4121737fc8ae",
       "description_sha256": "914b47fb417a02c6b37234d8332df2ebcf8763058957b434af447f74d55f28b4",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:c3952608-07b5-578c-aab3-2460a5e5a018": {
+      "input_sha256": "7c74aeac435e5d84c474705ce1f17959ff15003dea9b23f2d06e4622085deaac",
+      "description_sha256": "b4ed8dccf750c089173ad27c524d0020fa28cc030e1e6161d925d24e1c3ef5a5",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -38841,6 +39219,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5": {
+      "input_sha256": "5cc2d9a0c17edf1bb1977bdfbcb623baf7c9239fe020f733ddd92ef1fb9902c6",
+      "description_sha256": "3da9818c59d55a1109e920cab711a93e8797c3dda07a27cbef91bab2f31e4917",
+      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
+      "topics": [
+        "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
     "41576738-8f12-50dc-a12f-657b74d54978": {
       "input_sha256": "937d31db007c02e71587680aeabf83cebac2641a715e275e535bbce1393db71b",
       "description_sha256": "13b5edb7d1d8433b22e5b4f59f790af77bb854672f01ac935c9e0c5be7c92826",
@@ -45262,6 +45649,15 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
+    },
+    "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9": {
+      "input_sha256": "97d738cfdae1e92ce0092229d98f61166bcc993886cd7001b563ad2779541c32",
+      "description_sha256": "0f1b95fb703c9d0c2a9e11a61fb60ab0fc60fa41a2d35a66405f19854f45beac",
+      "use_cases_sha256": "cc6676f1e7501d135bfcf36c366008cb99987b70c1e3675039e7f578d67a2a0f",
+      "topics": [
+        "marketing and outreach"
+      ],
+      "capability_topic_unresolved": false
     },
     "275c17ee-3242-5440-b6b8-948503d77b23": {
       "input_sha256": "9b08552cecc3206ebd0cd8f7890e309593a34de38f003d85434fcb39ab633284",
@@ -64767,6 +65163,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:316247e6-e449-5a50-8acd-0f5c3f28c1c3": {
+      "input_sha256": "3b48723d86a20c504922297973c19e33b4f5b3b94d8c57a8c98e8c1c3b2d8c98",
+      "description_sha256": "3b8149ad0eb08aefffc5e7e0bee4ab59841794ec07ea8af39a2bcc2ac9edbe95",
+      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
+      "topics": [
+        "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
     "64f6120b-482d-5fab-bd2b-785b0892f4ea": {
       "input_sha256": "dd04decbad1f332e99da4fb237ab329282761b1d2cc0d20aa09c9fa07567e711",
       "description_sha256": "271226ad29502b2fb8ef2178296bd2ab36a9caa240f2afa3195edd0651807132",
@@ -70162,6 +70567,15 @@
     },
     "b01c0fc8-2693-587a-a6b7-9da8f29e3efd": {
       "input_sha256": "ece6744e35a846c4c4097df6a53ea06560ee1b1c48ddc06eed345473f4d7c845",
+      "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:3e856a5f-db75-52db-88cc-fef2df7ad9a5": {
+      "input_sha256": "9ac82ab46661eaef46e1666c9b240ee30cfa07eb4bcb6ec16d5c71f5063f9f5b",
       "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -95774,6 +96188,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8": {
+      "input_sha256": "72cda1dc49a70be794ec14dcd2bcf0015626caba50edac19aba5191c92d24442",
+      "description_sha256": "eb36e21a91d017e2e912d6b832d148f9f39286495681f4d079a3d9cc9aa3046e",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "e40992de-0158-54e1-a777-f660abbe0f64": {
       "input_sha256": "26e9bfd980eeed3453021e8743de1d4d89e9ace7feea50714bae9e3d53a0b02a",
       "description_sha256": "eb36e21a91d017e2e912d6b832d148f9f39286495681f4d079a3d9cc9aa3046e",
@@ -116139,6 +116562,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:499d2423-28d2-5a62-9668-39a20dab0e32": {
+      "input_sha256": "171bcb0dbc9296e4180ee7c91339de6d2512043c1a58d75cc69d148d12c16052",
+      "description_sha256": "cccc653d97b2e738f2a23d78a56383bd8517dd5585d596fa0e0a03f69346f48d",
+      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
+      "topics": [
+        "document and knowledge workflows"
       ],
       "capability_topic_unresolved": false
     },
@@ -142633,6 +143065,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5": {
+      "input_sha256": "deb67d0a848ba19eafd77c39fdadd3611a0dee12312e9ce51cf11f7048ad6162",
+      "description_sha256": "6c6a9fa44524efed31dbe889062e985ff7f5d0c71672e66d33c0619d519b9718",
+      "use_cases_sha256": "71871dd56957d3e937d9a491fefd0bbc8142ad4b8cf5886e25587a0369bb7b2b",
+      "topics": [
+        "project planning"
       ],
       "capability_topic_unresolved": false
     },
@@ -172308,6 +172749,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a": {
+      "input_sha256": "6deef36a201b9d9725af9257a6580aa3655fbc319aa19e14fa736ad9e3d94bf3",
+      "description_sha256": "0f7d992511d95e1294203d841568113b5d83f0f830387d03d67767e9ce7c7216",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "cea40c3e-b6b8-5324-9ba0-8a0ba73ff4f5": {
       "input_sha256": "2b293ea2755bc6080a6cd1e941602773412300959e2f0117fa5a3e1d7b3fabaf",
       "description_sha256": "bd038e5d1f716a248718214495caa320ae18c92bc6bd91ee3fe3b5e171ca681d",
@@ -175436,6 +175886,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:42de2fde-2388-5b6f-a5a1-c2cce824c602": {
+      "input_sha256": "d294fd430733187f7ef2236330f3f16861120afb5656fa245b2d51abd5956af7",
+      "description_sha256": "bd4bee0d0ce0a5e62e0ba0444eb2ee477a36881fe4f280847624deb3486dc8fd",
+      "use_cases_sha256": "71871dd56957d3e937d9a491fefd0bbc8142ad4b8cf5886e25587a0369bb7b2b",
+      "topics": [
+        "project planning"
       ],
       "capability_topic_unresolved": false
     },

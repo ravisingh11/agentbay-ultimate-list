@@ -5533,6 +5533,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:e23d6374-fe71-53ca-aba9-15dc7476f220",
+    "name": "ably-automation",
+    "description": "ably-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "13706e11-4500-5769-841d-dfcda9a925de",
     "name": "abm9111/vigil",
     "description": "abm9111/vigil is listed as an agent-skill repository. Its catalogue topics include software engineering.",
@@ -5843,6 +5874,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:a66acdea-15b5-5062-b9fe-0f75bda0d364",
+    "name": "abstract-automation",
+    "description": "abstract-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "14fd21ef-4b37-59f5-aec0-04cdec37c2bf",
     "name": "ABTdomain/domainkits-plugins",
     "description": "ABTdomain/domainkits-plugins is listed as an agent-skill repository. Its catalogue topics include information research, security and privacy, and MCP tool integration.",
@@ -6028,6 +6090,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:133ba651-dc01-5825-a1f1-019311ab3e5f",
+    "name": "abuselpdb-automation",
+    "description": "abuselpdb-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "6b88a06a-cf9f-5d01-b0e6-051b590ffe2e",
     "name": "Abwor9658/social-media-skills",
     "description": "Abwor9658/social-media-skills is listed as an agent-skill repository. Its catalogue topics include social-media workflows.",
@@ -6141,6 +6234,37 @@
     "agentbay_url": "https://agentbay.io/?project=12a314d9-e576-5f52-b897-482897ab9cbb#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:773bc611-de35-515f-9fa8-cf138d68083d",
+    "name": "abyssale-automation",
+    "description": "abyssale-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -6370,6 +6494,37 @@
     "github_stars_checked_at": "2026-10-25T01:51:44.210098+00:00",
     "recommended": false,
     "preferred_provider": "NVIDIA"
+  },
+  {
+    "id": "community:a5509a70-2522-57b5-90a7-dee2d454d869",
+    "name": "accelo-automation",
+    "description": "accelo-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "1936cf69-b4c9-5f09-913e-32c0891e3511",
@@ -7232,6 +7387,37 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:eac26594-68e2-589c-b205-0a0c9dbb9cb0",
+    "name": "accredible-certificates-automation",
+    "description": "accredible-certificates-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "acf7cd1b-72f9-5e42-ac5a-d74e5ca61180",
     "name": "accrual-schedule",
     "description": "accrual-schedule is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -7258,6 +7444,37 @@
     "github_stars_checked_at": "2026-10-25T05:49:38.815031+00:00",
     "recommended": false,
     "preferred_provider": "Anthropic"
+  },
+  {
+    "id": "community:ed4841a0-7a0a-5f0e-84e8-b614da81ead6",
+    "name": "acculynx-automation",
+    "description": "acculynx-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "0a16cfbe-554b-537d-86b5-cae4f157cd18",
@@ -8232,6 +8449,37 @@
     "github_stars_checked_at": "2026-10-25T04:55:56.600242+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:ab525ed7-724c-539d-8f79-898a1fad2f93",
+    "name": "active-campaign-automation",
+    "description": "active-campaign-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "060268b0-51bc-56d9-a105-d9e13e184822",
@@ -14362,6 +14610,37 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:0fb638d8-e01d-5a77-981f-6748f5f0bdf6",
+    "name": "addresszen-automation",
+    "description": "addresszen-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "78779b75-075f-5abe-970c-352878081c46",
     "name": "addsumtech/job-hunt",
     "description": "addsumtech/job-hunt is listed as an agent-skill repository. Its catalogue topics include browser workflows, information research, and document and knowledge workflows.",
@@ -16952,6 +17231,37 @@
     "preferred_provider": "Adobe"
   },
   {
+    "id": "community:12dc00de-fec1-56f4-a9e1-c2b9334e0120",
+    "name": "adobe-automation",
+    "description": "adobe-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "7f213933-1cb2-5f10-9129-e3f94c59df78",
     "name": "adobe-batch-edit-photos",
     "description": "adobe-batch-edit-photos is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -17482,6 +17792,37 @@
     "github_stars_checked_at": "2026-10-25T04:55:04.136319+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:99362249-c64e-5e1f-bbc3-8baee3f8f4ed",
+    "name": "adrapid-automation",
+    "description": "adrapid-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "85a793f4-8818-582f-9f5e-a99c63eb60ff",
@@ -18418,6 +18759,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:9b4770b1-a3ad-5007-a37b-36a07949e956",
+    "name": "adyntel-automation",
+    "description": "adyntel-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "49dd4640-8778-5dc7-8d1c-ef9dd4d602e4",
     "name": "aEboli/zhongguose-palette",
     "description": "aEboli/zhongguose-palette is listed as an agent-skill repository. Its catalogue topics include information research.",
@@ -18686,6 +19058,68 @@
     "agentbay_url": "https://agentbay.io/?project=3efd2fd1-2bf6-558b-888a-0aa49f10d618#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:0e24b56d-972c-5bfa-a118-f503e0dbd3cb",
+    "name": "aero-workflow-automation",
+    "description": "aero-workflow-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:eb49f2d4-b336-556d-9eca-bb0bea613c56",
+    "name": "aeroleads-automation",
+    "description": "aeroleads-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -19037,6 +19471,68 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:31c19a29-0eb1-5ca3-81c3-d215e749922d",
+    "name": "affinda-automation",
+    "description": "affinda-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:9b88de28-d6f4-5386-8a9d-101e045730f6",
+    "name": "affinity-automation",
+    "description": "affinity-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "cef64aff-24cc-54ed-b501-cfce753eec3e",
     "name": "afinit-com/the-world-skills",
     "description": "afinit-com/the-world-skills is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.",
@@ -19376,6 +19872,37 @@
     "agentbay_url": "https://agentbay.io/?project=97fdd1bf-468c-5726-8e98-792c903ce76e#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:da0b2b11-3706-5a7e-a300-70202c9b63dc",
+    "name": "agencyzoom-automation",
+    "description": "agencyzoom-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -21817,6 +22344,37 @@
     "github_stars_checked_at": "2026-10-25T04:51:12.555392+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:fd258d8c-c013-511a-8cf6-ff585a5e06a0",
+    "name": "agent-mail-automation",
+    "description": "agent-mail-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "e198b475-fe59-56a5-aa29-b5759184731f",
@@ -25670,6 +26228,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:03813503-e92f-5fe3-a06f-5f9a1e74f064",
+    "name": "agentql-automation",
+    "description": "agentql-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "a5682ee0-701f-526b-9ecf-b469d54e96ed",
     "name": "agentrel/skills",
     "description": "agentrel/skills is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and MCP tool integration.",
@@ -26855,6 +27444,99 @@
     "agentbay_url": "https://agentbay.io/?project=5d661e92-5b47-5f71-b842-fabf2fb02791#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:5f3c39bb-2065-5068-835e-309039c5789b",
+    "name": "agenty-automation",
+    "description": "agenty-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:ecb3b6a9-24f7-508b-bfdb-a12d9a746e3d",
+    "name": "agiled-automation",
+    "description": "agiled-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:8523bc77-6c8c-5f4a-b49e-295843c97303",
+    "name": "agility-cms-automation",
+    "description": "agility-cms-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -29776,6 +30458,37 @@
     "agentbay_url": "https://agentbay.io/?project=6c415830-6ace-5c3b-b495-df65db4c0a8f#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:f5a827d2-2a4e-5c6b-9ced-02c215fa9c2e",
+    "name": "ai-ml-api-automation",
+    "description": "ai-ml-api-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -34596,6 +35309,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:e3e6d8f5-03eb-5b04-8c0b-315bdc975c48",
+    "name": "aivoov-automation",
+    "description": "aivoov-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "7d85f279-d360-58df-aa44-b70d5f2f19ec",
     "name": "aiworkskills/wechat-article-skills",
     "description": "aiworkskills/wechat-article-skills is listed as an agent-skill repository. Its catalogue topics include social-media workflows.",
@@ -36212,6 +36956,37 @@
     "agentbay_url": "https://agentbay.io/?project=bd57680d-f104-58ff-a4db-4f3193c19b7d#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:9b9c78d7-365b-5afa-a5e8-ed6fa48a1bba",
+    "name": "alchemy-automation",
+    "description": "alchemy-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -37950,6 +38725,68 @@
     "agentbay_url": "https://agentbay.io/?project=f9bd681a-89b5-593a-a39f-bdd6797aa4ac#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:1fa3f068-a68c-557d-84ef-3fddf03362f5",
+    "name": "algodocs-automation",
+    "description": "algodocs-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:770d54fd-266f-58a0-a7c0-aab2d06e43cd",
+    "name": "algolia-automation",
+    "description": "algolia-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -46192,6 +47029,37 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:a73c842b-9377-533c-80dd-9b86a3b7699b",
+    "name": "all-images-ai-automation",
+    "description": "all-images-ai-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "bf762d11-bd9d-567d-bd81-98a810678478",
     "name": "All-The-Vibes/TokenMasterX",
     "description": "All-The-Vibes/TokenMasterX is listed as an agent-skill repository. Its catalogue topics include monitoring and operations, agent memory and context, and software engineering.",
@@ -46934,6 +47802,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:5a6c4dd7-bbcc-5a17-bbde-833261c6c182",
+    "name": "alpha-vantage-automation",
+    "description": "alpha-vantage-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "e1106e97-f5e1-50f1-8e92-02a6269a9689",
     "name": "alphafold-skill",
     "description": "alphafold-skill is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -47253,6 +48152,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:e901ce35-04a3-5a42-9028-fb3d699af77d",
+    "name": "altoviz-automation",
+    "description": "altoviz-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "8d31ef33-7cc5-5d54-939b-5659ab158890",
     "name": "alts-brief",
     "description": "alts-brief is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -47279,6 +48209,37 @@
     "github_stars_checked_at": "2026-10-25T05:49:36.875661+00:00",
     "recommended": false,
     "preferred_provider": "Anthropic"
+  },
+  {
+    "id": "community:49cb2d25-dfa6-587a-a640-4e858c1d3023",
+    "name": "alttext-ai-automation",
+    "description": "alttext-ai-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "5d26b151-97a0-52e7-bc71-3ad44df7bd95",
@@ -47679,6 +48640,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:25b83450-6b4f-5cb8-b9a4-b6b77923ceeb",
+    "name": "amara-automation",
+    "description": "amara-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "35471f90-4643-5d63-ab05-5d800cb18656",
     "name": "Amazon Bedrock AgentCore CLI",
     "description": "Amazon Bedrock AgentCore CLI is listed as a tool. Its catalogue topics include deployment and cloud operations and agent development.",
@@ -47889,6 +48881,37 @@
     "github_stars_checked_at": "2026-10-24T16:06:54.815485+00:00",
     "recommended": false,
     "preferred_provider": "Amazon Web Services"
+  },
+  {
+    "id": "community:5bb6d2c5-7e8a-5022-8961-a177d25aedf3",
+    "name": "amazon-automation",
+    "description": "amazon-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "4ce95df2-a31b-5927-bee2-2bd152c2d891",
@@ -48344,6 +49367,37 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:962c8226-a28c-53ed-a965-caebe35b830a",
+    "name": "ambee-automation",
+    "description": "ambee-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "eb3b5e8a-1a6f-5e2a-8058-a76495d10109",
     "name": "amberlburch/flowsmith",
     "description": "amberlburch/flowsmith is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and design workflows.",
@@ -48438,6 +49492,37 @@
     "github_stars_checked_at": "2026-10-25T05:49:25.202936+00:00",
     "recommended": false,
     "preferred_provider": "NVIDIA"
+  },
+  {
+    "id": "community:593256f2-4798-5aae-a0db-65709d9cf81b",
+    "name": "ambient-weather-automation",
+    "description": "ambient-weather-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "0a300b5d-27f1-5061-a8c3-e69bbd83dadc",
@@ -48678,6 +49763,37 @@
     "github_stars_checked_at": "2026-10-25T01:51:44.210098+00:00",
     "recommended": false,
     "preferred_provider": "NVIDIA"
+  },
+  {
+    "id": "community:25fd0b62-f2e5-5da7-95d6-062a4f2a5ee2",
+    "name": "amcards-automation",
+    "description": "amcards-automation is listed as an agent skill. Its catalogue topics include workflow automation and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Composio",
+      "Rube MCP",
+      "MCP",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "35db92d2-b434-513d-85a8-4e5048dce196",
@@ -61411,6 +62527,38 @@
     "agentbay_url": "https://agentbay.io/?project=7b43b47d-9a68-5bad-96ee-9e71eeca179e#catalog",
     "github_stars": 1187,
     "github_stars_checked_at": "2026-10-25T04:53:58.726335+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:df7849ba-62eb-5e9a-89ae-98a86fe54479",
+    "name": "architecture-decision",
+    "description": "architecture-decision is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/architecture-decision/SKILL.md",
+    "repository_url": "https://github.com/Azure/agent-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "Bicep",
+      "Architecture",
+      "Infrastructure as code",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 1201,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -87167,6 +88315,37 @@
     "agentbay_url": "https://agentbay.io/?project=a9dce550-2d74-583b-b708-09261e9f461c#catalog",
     "github_stars": 134,
     "github_stars_checked_at": "2026-10-25T04:50:33.930390+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+    "name": "azure-typespec-author",
+    "description": "azure-typespec-author is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "TypeSpec",
+      "API",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -125405,6 +126584,35 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+    "name": "changelog-generator",
+    "description": "changelog-generator is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Git",
+      "Release notes",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "41576738-8f12-50dc-a12f-657b74d54978",
     "name": "changelog-video",
     "description": "changelog-video is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
@@ -145978,6 +147186,35 @@
     "agentbay_url": "https://agentbay.io/?project=a3dd06f2-6085-596f-b486-9ad804040d04#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+    "name": "competitive-ads-extractor",
+    "description": "competitive-ads-extractor is listed as an agent skill. Its catalogue topics include marketing and outreach.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Sales and marketing"
+    ],
+    "tags": [
+      "Advertising",
+      "Competitive research",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize marketing-related workflows"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -207880,6 +209117,37 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:316247e6-e449-5a50-8acd-0f5c3f28c1c3",
+    "name": "documentation-consistency",
+    "description": "documentation-consistency is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/documentation-consistency/SKILL.md",
+    "repository_url": "https://github.com/Azure/agent-landing-zone",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Azure",
+      "Bicep",
+      "Documentation",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 1201,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "64f6120b-482d-5fab-bd2b-785b0892f4ea",
     "name": "documentation-coverage",
     "description": "documentation-coverage is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
@@ -225676,6 +226944,37 @@
     "agentbay_url": "https://agentbay.io/?project=b01c0fc8-2693-587a-a6b7-9da8f29e3efd#catalog",
     "github_stars": 1187,
     "github_stars_checked_at": "2026-10-25T04:53:58.726335+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:3e856a5f-db75-52db-88cc-fef2df7ad9a5",
+    "name": "engineering-principles",
+    "description": "engineering-principles is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/engineering-principles/SKILL.md",
+    "repository_url": "https://github.com/Azure/agent-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "Bicep",
+      "Infrastructure as code",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned infra/LICENSE and repository LICENSE are MIT; no nearer skill license. Listing covers the linked infrastructure instructions, not Azure service terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 1201,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -309022,6 +310321,37 @@
     "preferred_provider": "Adobe"
   },
   {
+    "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+    "name": "implement",
+    "description": "implement is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "Azure Developer CLI",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "e40992de-0158-54e1-a777-f660abbe0f64",
     "name": "implement",
     "description": "implement is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -377730,6 +379060,36 @@
     "agentbay_url": "https://agentbay.io/?project=a6458179-b104-5341-8a36-95764e6d6cba#catalog",
     "github_stars": 134,
     "github_stars_checked_at": "2026-10-25T04:50:33.930390+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+    "name": "markdown-token-optimizer",
+    "description": "markdown-token-optimizer is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Markdown",
+      "Token optimization",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -463983,6 +465343,37 @@
     "github_stars_checked_at": "2026-10-24T16:08:46.748602+00:00",
     "recommended": false,
     "preferred_provider": "Snowflake"
+  },
+  {
+    "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+    "name": "plan",
+    "description": "plan is listed as an agent skill. Its catalogue topics include project planning.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Planning and project management"
+    ],
+    "tags": [
+      "Azure",
+      "Architecture",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support project-coordination tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "d7f257df-31d9-5ebd-83f3-6052fe874c58",
@@ -560238,6 +561629,36 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+    "name": "skill-authoring",
+    "description": "skill-authoring is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Agent Skills",
+      "Skill authoring",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "cea40c3e-b6b8-5324-9ba0-8a0ba73ff4f5",
     "name": "skill-authoring-best-practices",
     "description": "skill-authoring-best-practices is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -570571,6 +571992,36 @@
     "agentbay_url": "https://agentbay.io/?project=9486e3fc-46d1-57fc-bf7b-b78992d706a3#catalog",
     "github_stars": 38,
     "github_stars_checked_at": "2026-10-25T04:48:26.696698+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+    "name": "specify",
+    "description": "specify is listed as an agent skill. Its catalogue topics include project planning.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Planning and project management"
+    ],
+    "tags": [
+      "Requirements",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support project-coordination tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },

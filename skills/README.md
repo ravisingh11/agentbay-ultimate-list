@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,667 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,714 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md)
 
@@ -14,7 +14,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | ai-agent | 47 | [Page 1](ai-agent-c1f78a.md) |
 | Audio and speech | 170 | [Page 1](audio-and-speech-52451d.md) |
 | Authentication | 94 | [Page 1](authentication-b9d906.md) |
-| Automation | 39 | [Page 1](automation-6d65ed.md) |
+| Automation | 75 | [Page 1](automation-6d65ed.md) |
 | Browser automation | 217 | [Page 1](browser-automation-84a93a-1.md) · [Page 2](browser-automation-84a93a-2.md) |
 | business-ops | 27 | [Page 1](business-ops-da5664.md) |
 | Content creation | 280 | [Page 1](content-creation-c8909b-1.md) · [Page 2](content-creation-c8909b-2.md) |
@@ -28,7 +28,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | design-media | 74 | [Page 1](design-media-2c7713.md) |
 | dev-programming | 50 | [Page 1](dev-programming-3b6153.md) |
 | Development and Testing | 37 | [Page 1](development-and-testing-5d22d1.md) |
-| Documents and knowledge | 1,189 | [Page 1](documents-and-knowledge-09e32e-1.md) · [Page 2](documents-and-knowledge-09e32e-2.md) · [Page 3](documents-and-knowledge-09e32e-3.md) · [Page 4](documents-and-knowledge-09e32e-4.md) · [Page 5](documents-and-knowledge-09e32e-5.md) · [Page 6](documents-and-knowledge-09e32e-6.md) |
+| Documents and knowledge | 1,192 | [Page 1](documents-and-knowledge-09e32e-1.md) · [Page 2](documents-and-knowledge-09e32e-2.md) · [Page 3](documents-and-knowledge-09e32e-3.md) · [Page 4](documents-and-knowledge-09e32e-4.md) · [Page 5](documents-and-knowledge-09e32e-5.md) · [Page 6](documents-and-knowledge-09e32e-6.md) |
 | education | 4 | [Page 1](education-68bf01.md) |
 | Finance | 46 | [Page 1](finance-eab762.md) |
 | Image generation | 183 | [Page 1](image-generation-612bd3.md) |
@@ -43,18 +43,18 @@ Each listing appears once under its primary category. Categories, tags and compl
 | n8n Automation | 5 | [Page 1](n8n-automation-515747.md) |
 | office-efficiency | 30 | [Page 1](office-efficiency-8e2cb1.md) |
 | other | 2 | [Page 1](other-d9298a.md) |
-| Planning and project management | 589 | [Page 1](planning-and-project-management-c7d267-1.md) · [Page 2](planning-and-project-management-c7d267-2.md) · [Page 3](planning-and-project-management-c7d267-3.md) |
+| Planning and project management | 591 | [Page 1](planning-and-project-management-c7d267-1.md) · [Page 2](planning-and-project-management-c7d267-2.md) · [Page 3](planning-and-project-management-c7d267-3.md) |
 | Product Management Skills by Pawel Huryn | 59 | [Page 1](product-management-skills-by-pawel-huryn-cedcfc.md) |
 | Product Manager Skills by Dean Peters | 39 | [Page 1](product-manager-skills-by-dean-peters-75a3fb.md) |
 | Productivity and Collaboration | 12 | [Page 1](productivity-and-collaboration-9d84d6.md) |
 | professional | 6 | [Page 1](professional-cd340d.md) |
 | Research and search | 1,250 | [Page 1](research-and-search-d4bae4-1.md) · [Page 2](research-and-search-d4bae4-2.md) · [Page 3](research-and-search-d4bae4-3.md) · [Page 4](research-and-search-d4bae4-4.md) · [Page 5](research-and-search-d4bae4-5.md) · [Page 6](research-and-search-d4bae4-6.md) · [Page 7](research-and-search-d4bae4-7.md) |
-| Sales and marketing | 148 | [Page 1](sales-and-marketing-072784.md) |
+| Sales and marketing | 149 | [Page 1](sales-and-marketing-072784.md) |
 | Search optimization | 33 | [Page 1](search-optimization-06110c.md) |
 | Security and privacy | 306 | [Page 1](security-and-privacy-65f61c-1.md) · [Page 2](security-and-privacy-65f61c-2.md) |
 | Security Skills by Trail of Bits Team | 14 | [Page 1](security-skills-by-trail-of-bits-team-5cf3ad.md) |
 | Social media | 176 | [Page 1](social-media-96726f.md) |
-| Software development | 11,632 | [Page 1](software-development-e36077-1.md) · [Page 2](software-development-e36077-2.md) · [Page 3](software-development-e36077-3.md) · [Page 4](software-development-e36077-4.md) · [Page 5](software-development-e36077-5.md) · [Page 6](software-development-e36077-6.md) · [Page 7](software-development-e36077-7.md) · [Page 8](software-development-e36077-8.md) · [Page 9](software-development-e36077-9.md) · [Page 10](software-development-e36077-10.md) · [Page 11](software-development-e36077-11.md) · [Page 12](software-development-e36077-12.md) · [Page 13](software-development-e36077-13.md) · [Page 14](software-development-e36077-14.md) · [Page 15](software-development-e36077-15.md) · [Page 16](software-development-e36077-16.md) · [Page 17](software-development-e36077-17.md) · [Page 18](software-development-e36077-18.md) · [Page 19](software-development-e36077-19.md) · [Page 20](software-development-e36077-20.md) · [Page 21](software-development-e36077-21.md) · [Page 22](software-development-e36077-22.md) · [Page 23](software-development-e36077-23.md) · [Page 24](software-development-e36077-24.md) · [Page 25](software-development-e36077-25.md) · [Page 26](software-development-e36077-26.md) · [Page 27](software-development-e36077-27.md) · [Page 28](software-development-e36077-28.md) · [Page 29](software-development-e36077-29.md) · [Page 30](software-development-e36077-30.md) · [Page 31](software-development-e36077-31.md) · [Page 32](software-development-e36077-32.md) · [Page 33](software-development-e36077-33.md) · [Page 34](software-development-e36077-34.md) · [Page 35](software-development-e36077-35.md) · [Page 36](software-development-e36077-36.md) · [Page 37](software-development-e36077-37.md) · [Page 38](software-development-e36077-38.md) · [Page 39](software-development-e36077-39.md) · [Page 40](software-development-e36077-40.md) · [Page 41](software-development-e36077-41.md) · [Page 42](software-development-e36077-42.md) · [Page 43](software-development-e36077-43.md) · [Page 44](software-development-e36077-44.md) · [Page 45](software-development-e36077-45.md) · [Page 46](software-development-e36077-46.md) · [Page 47](software-development-e36077-47.md) · [Page 48](software-development-e36077-48.md) · [Page 49](software-development-e36077-49.md) · [Page 50](software-development-e36077-50.md) · [Page 51](software-development-e36077-51.md) · [Page 52](software-development-e36077-52.md) · [Page 53](software-development-e36077-53.md) · [Page 54](software-development-e36077-54.md) · [Page 55](software-development-e36077-55.md) · [Page 56](software-development-e36077-56.md) · [Page 57](software-development-e36077-57.md) · [Page 58](software-development-e36077-58.md) · [Page 59](software-development-e36077-59.md) |
+| Software development | 11,637 | [Page 1](software-development-e36077-1.md) · [Page 2](software-development-e36077-2.md) · [Page 3](software-development-e36077-3.md) · [Page 4](software-development-e36077-4.md) · [Page 5](software-development-e36077-5.md) · [Page 6](software-development-e36077-6.md) · [Page 7](software-development-e36077-7.md) · [Page 8](software-development-e36077-8.md) · [Page 9](software-development-e36077-9.md) · [Page 10](software-development-e36077-10.md) · [Page 11](software-development-e36077-11.md) · [Page 12](software-development-e36077-12.md) · [Page 13](software-development-e36077-13.md) · [Page 14](software-development-e36077-14.md) · [Page 15](software-development-e36077-15.md) · [Page 16](software-development-e36077-16.md) · [Page 17](software-development-e36077-17.md) · [Page 18](software-development-e36077-18.md) · [Page 19](software-development-e36077-19.md) · [Page 20](software-development-e36077-20.md) · [Page 21](software-development-e36077-21.md) · [Page 22](software-development-e36077-22.md) · [Page 23](software-development-e36077-23.md) · [Page 24](software-development-e36077-24.md) · [Page 25](software-development-e36077-25.md) · [Page 26](software-development-e36077-26.md) · [Page 27](software-development-e36077-27.md) · [Page 28](software-development-e36077-28.md) · [Page 29](software-development-e36077-29.md) · [Page 30](software-development-e36077-30.md) · [Page 31](software-development-e36077-31.md) · [Page 32](software-development-e36077-32.md) · [Page 33](software-development-e36077-33.md) · [Page 34](software-development-e36077-34.md) · [Page 35](software-development-e36077-35.md) · [Page 36](software-development-e36077-36.md) · [Page 37](software-development-e36077-37.md) · [Page 38](software-development-e36077-38.md) · [Page 39](software-development-e36077-39.md) · [Page 40](software-development-e36077-40.md) · [Page 41](software-development-e36077-41.md) · [Page 42](software-development-e36077-42.md) · [Page 43](software-development-e36077-43.md) · [Page 44](software-development-e36077-44.md) · [Page 45](software-development-e36077-45.md) · [Page 46](software-development-e36077-46.md) · [Page 47](software-development-e36077-47.md) · [Page 48](software-development-e36077-48.md) · [Page 49](software-development-e36077-49.md) · [Page 50](software-development-e36077-50.md) · [Page 51](software-development-e36077-51.md) · [Page 52](software-development-e36077-52.md) · [Page 53](software-development-e36077-53.md) · [Page 54](software-development-e36077-54.md) · [Page 55](software-development-e36077-55.md) · [Page 56](software-development-e36077-56.md) · [Page 57](software-development-e36077-57.md) · [Page 58](software-development-e36077-58.md) · [Page 59](software-development-e36077-59.md) |
 | Software testing | 29 | [Page 1](software-testing-a19c6d.md) |
 | Specialized Domains | 14 | [Page 1](specialized-domains-c5db52.md) |
 | Storage | 1 | [Page 1](storage-49a25f.md) |

@@ -42,6 +42,12 @@ Rendering uses the accepted catalogue plus maintained curation. It makes no netw
 
 Descriptions and use cases are regenerated under the original-summary policy. All six exports, the browsing pages, aliases, provenance and manifest update together. Writes refuse symlinked targets, unowned output files and unexpected output paths. Only obsolete pages recorded as generated and still bearing their generated marker can be removed.
 
+## November 8, 2026: reviewed weekly proposal
+
+The recovered weekly proposal adds 47 individual listings: nine Microsoft-source skills and 38 Composio-source skills. Their curation entries retain stable IDs, pinned file URLs, observed metadata and review evidence. The 89 previously curated additions are preserved. No linked skill was executed during listing review.
+
+Three candidates were deferred: Composio’s `artifacts-builder` duplicates the existing canonical Anthropic listing, while Spec2Cloud’s `deploy` and `verify` have unresolved dry-run wording versus the deployment commands shown. They are not accepted listings from this batch. Composio license fields remain unknown where no applicable license file was verified; a README declaration alone is not a verified license grant. Its generic automation entries require the documented Rube MCP connection and authorization, and their listing does not establish tool availability or task execution.
+
 ## Import catalogue updates from AgentBay
 
 Python 3.9+ and curl are required; no website checkout, credentials or third-party Python packages are needed:
