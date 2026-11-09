@@ -78,9 +78,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "86eaadce0209ca424cd5f9b327aaa4489c12265e",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "resource",
+        "note": "Adobe now publishes closely matching supporting documentation; it is not a standalone skill.",
+        "source": {
+          "repository": "adobe/react-spectrum-charts",
+          "path": ".agents/skills/s2-donut/references/binary.md",
+          "commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "blob": "4e5a210d93ae0047b5cbdf432aae86b36415fa32"
+        },
+        "evidence": "https://github.com/adobe/react-spectrum-charts/compare/2cdd6ae6503d4a132b00212f31f42a5180b5dc3f...d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab"
       }
     },
@@ -163,9 +170,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "ff566e4476fe5b72009f6672a9ff2058aacfcc47",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "resource",
+        "note": "Adobe now publishes closely matching supporting documentation; it is not a standalone skill.",
+        "source": {
+          "repository": "adobe/react-spectrum-charts",
+          "path": ".agents/skills/s2-donut/references/metric-labels.md",
+          "commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "blob": "7ec7e56a9a2b22fd5d276e218fc9654a66e76c40"
+        },
+        "evidence": "https://github.com/adobe/react-spectrum-charts/compare/2cdd6ae6503d4a132b00212f31f42a5180b5dc3f...d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab"
       }
     },
@@ -179,9 +193,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "fd939193fde05243ddbcd6bb20910a6caf318fa9",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "resource",
+        "note": "Adobe now publishes closely matching supporting documentation; it is not a standalone skill.",
+        "source": {
+          "repository": "adobe/react-spectrum-charts",
+          "path": ".agents/skills/s2-donut/references/regular.md",
+          "commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "blob": "5e49602690969d4746b3cced21902735ae241a17"
+        },
+        "evidence": "https://github.com/adobe/react-spectrum-charts/compare/2cdd6ae6503d4a132b00212f31f42a5180b5dc3f...d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab"
       }
     },
@@ -288,8 +309,9 @@
       "old_blob": "734cac27868f41fbce9bbe507b0cf938128fcd56",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Anthropic retired this skill and states it has no official replacement.",
+        "evidence": "https://github.com/anthropics/claude-code/commit/10a5141d2d12b5a089a5fbb5f24af3fd345a34d2",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "0ed94698aa0aeee471465fc9c867c2e8434c4d68"
       }
     },
@@ -303,9 +325,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "aacf418b25be873d625dca5f534783adddd94b9e",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS replaced the earlier workshop with a new Amazon Quick Desktop workshop; other agent bundles are no longer provided.",
+        "source": {
+          "repository": "aws-samples/sample-aidlc-discovery",
+          "path": "skills/aidlc-discovery/SKILL.md",
+          "commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "blob": "ed30e8192647b172c8e9d91bab59dcb8679f0e91"
+        },
+        "evidence": "https://github.com/aws-samples/sample-aidlc-discovery/commit/f343b73d54897e7e648c301980b3cede792dbe88",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b"
       }
     },
@@ -319,9 +348,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "33acea51ab2d92619be5a1d27722200fed0e8cc2",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS replaced the earlier workshop with a new Amazon Quick Desktop workshop; other agent bundles are no longer provided.",
+        "source": {
+          "repository": "aws-samples/sample-aidlc-discovery",
+          "path": "skills/aidlc-discovery/SKILL.md",
+          "commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "blob": "ed30e8192647b172c8e9d91bab59dcb8679f0e91"
+        },
+        "evidence": "https://github.com/aws-samples/sample-aidlc-discovery/commit/f343b73d54897e7e648c301980b3cede792dbe88",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b"
       }
     },
@@ -335,9 +371,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "9810c14a9f2c252b0ac6b4d54a28526e21efe616",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS replaced the earlier workshop with a new Amazon Quick Desktop workshop; other agent bundles are no longer provided.",
+        "source": {
+          "repository": "aws-samples/sample-aidlc-discovery",
+          "path": "skills/aidlc-discovery/SKILL.md",
+          "commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "blob": "ed30e8192647b172c8e9d91bab59dcb8679f0e91"
+        },
+        "evidence": "https://github.com/aws-samples/sample-aidlc-discovery/commit/f343b73d54897e7e648c301980b3cede792dbe88",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b"
       }
     },
@@ -351,9 +394,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "5cca0f0a41213f0dd62312887a2b2d00f3953e74",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS replaced the earlier workshop with a new Amazon Quick Desktop workshop; other agent bundles are no longer provided.",
+        "source": {
+          "repository": "aws-samples/sample-aidlc-discovery",
+          "path": "skills/aidlc-discovery/SKILL.md",
+          "commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "blob": "ed30e8192647b172c8e9d91bab59dcb8679f0e91"
+        },
+        "evidence": "https://github.com/aws-samples/sample-aidlc-discovery/commit/f343b73d54897e7e648c301980b3cede792dbe88",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b"
       }
     },
@@ -367,9 +417,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "281086712615a43a9daf6d0c34e9744630d3c7f0",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS replaced the earlier workshop with a new Amazon Quick Desktop workshop; other agent bundles are no longer provided.",
+        "source": {
+          "repository": "aws-samples/sample-aidlc-discovery",
+          "path": "skills/aidlc-discovery/SKILL.md",
+          "commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "blob": "ed30e8192647b172c8e9d91bab59dcb8679f0e91"
+        },
+        "evidence": "https://github.com/aws-samples/sample-aidlc-discovery/commit/f343b73d54897e7e648c301980b3cede792dbe88",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e0a730077f7a30de70efd9900677b3e9c7e02b3b"
       }
     },
@@ -383,9 +440,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "37e92e7b77056a88ffeadbb58cae5e6a623bbb37",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "AWS removed the steering workflow; its current apex skill routes to the new runbooks.",
+        "source": {
+          "repository": "aws-samples/sample-apex-skills",
+          "path": "skills/apex/SKILL.md",
+          "commit": "6fb0e9765bb5980a8643eea157a09979ad8f194a",
+          "blob": "69ef551db9ae69c193519a1b82f696261272eb9f"
+        },
+        "evidence": "https://github.com/aws-samples/sample-apex-skills/commit/e263a296ce5a4f50ab9950b29a34b5da570aae72",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "3ab6c5dd31e7910e2faed03010acf4af434cc94a"
       }
     },
@@ -514,9 +578,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "5e761dd8af314af94b0fbce63911f830acac4533",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "This active AWS Samples file matches the earlier skill byte for byte. The original publisher removed its copy.",
+        "source": {
+          "repository": "aws-samples/sample-FAST-applications",
+          "path": "samples/aws-specialist-agent/skills/agent-toolkit-for-aws/routing-traffic-with-route53-and-cloudfront/SKILL.md",
+          "commit": "202377c793b971e302a7bcef9fefb89642fa3a8d",
+          "blob": "5e761dd8af314af94b0fbce63911f830acac4533"
+        },
+        "evidence": "https://github.com/aws/agent-toolkit-for-aws/commit/bb650731099fcc5be4df00f76df1d0701273fed6",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "e1380e15b6b91f7c7a4e20e9357bd77828e32037"
       }
     },
@@ -914,8 +985,9 @@
       "old_blob": "64a9e825449173961bd379e85c373145c8089dcc",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "The publisher retired this skill after its evaluation found no gain.",
+        "evidence": "https://github.com/garrytan/gstack/commit/ef99eb5a55d7e36a69df04654229f811a17e87c5",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "89856f3b3a8a8f616f52e297120927cd54ea8ff1"
       }
     },
@@ -930,8 +1002,9 @@
       "old_blob": "829476f9b3ebc73f0fa7e00e0ec3d7a2e2948264",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "The publisher retired this skill after its evaluation found no gain.",
+        "evidence": "https://github.com/garrytan/gstack/commit/ef99eb5a55d7e36a69df04654229f811a17e87c5",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "89856f3b3a8a8f616f52e297120927cd54ea8ff1"
       }
     },
@@ -1025,9 +1098,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "d84752876b6d602e852143452a190b9d3a495ed0",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "google/skills_lint.dart",
+          "path": ".agents/skills/check-downstream-consumers/SKILL.md",
+          "commit": "54745ba3240a6f317647d90e1e8fa8a55918328d",
+          "blob": "46aae815b3dcf53e77e083c76e3196c25c465db5"
+        },
+        "evidence": "https://github.com/google/skills_lint.dart/commit/7b83b4793f39c16251659a827d883805995b4411",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1041,9 +1121,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "a4921a529000ddbfa6c98360dbc0b68f11fc4d4a",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "source": {
+          "repository": "flutter/agent-plugins",
+          "path": "skills/dart-add-unit-test/SKILL.md",
+          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+          "blob": "a4921a529000ddbfa6c98360dbc0b68f11fc4d4a"
+        },
+        "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1057,9 +1144,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "60dad77533dc0a98b7f4a8363ac1b56d589d353a",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "source": {
+          "repository": "flutter/agent-plugins",
+          "path": "skills/dart-collect-coverage/SKILL.md",
+          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+          "blob": "60dad77533dc0a98b7f4a8363ac1b56d589d353a"
+        },
+        "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1073,9 +1167,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "3daf8944c0ff9c537eef4d9943f9139cd9853b6c",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "source": {
+          "repository": "flutter/agent-plugins",
+          "path": "skills/dart-migrate-to-checks-package/SKILL.md",
+          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+          "blob": "3daf8944c0ff9c537eef4d9943f9139cd9853b6c"
+        },
+        "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1089,9 +1190,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "40d6553c2b793dcfc68521fb28770dc9b31731ea",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "GoogleCloudPlatform/data-agent-kit-plugin",
+          "path": "skills/bigquery-optimization/SKILL.md",
+          "commit": "6f4818a4c5253574b9923e5bd1747eab0ad8e957",
+          "blob": "548d5725fdf18f6ad0f7a8050cd0cfda6c5d242f"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/commit/8d66587b4068dc3465bedb601c0b32cbaabcd5ab",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "6f4818a4c5253574b9923e5bd1747eab0ad8e957"
       }
     },
@@ -1168,8 +1276,9 @@
       "old_blob": "4229ff4330c2801565c5f7e0587057b4064f8d68",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Google removed these client-specific setup and preference skills; the old preference file is no longer read.",
+        "evidence": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/commit/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "f48330673c1933fbdd7d82eff71e44fe9cfc4fb1"
       }
     },
@@ -1184,8 +1293,9 @@
       "old_blob": "2986a727aa136daac9848f0c24bcf9cb8627f641",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Google removed these client-specific setup and preference skills; the old preference file is no longer read.",
+        "evidence": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/commit/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "f48330673c1933fbdd7d82eff71e44fe9cfc4fb1"
       }
     },
@@ -1200,8 +1310,9 @@
       "old_blob": "275c6d15705939646dbdcea59a86fdc6f271c1f7",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Google removed these client-specific setup and preference skills; the old preference file is no longer read.",
+        "evidence": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/commit/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "f48330673c1933fbdd7d82eff71e44fe9cfc4fb1"
       }
     },
@@ -1216,8 +1327,9 @@
       "old_blob": "1ee7ce0b6252ef612bf8741037fec0e17b325456",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Google removed these client-specific setup and preference skills; the old preference file is no longer read.",
+        "evidence": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/commit/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "f48330673c1933fbdd7d82eff71e44fe9cfc4fb1"
       }
     },
@@ -1231,9 +1343,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "5f8d93edf75a4f2feaffaf0b2abf47be0e5348f7",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google replaced this skill with cloud-operator. This indexed file is byte-identical to the new plugin source.",
+        "source": {
+          "repository": "google/skills",
+          "path": "skills/cloud/cloud-operator/SKILL.md",
+          "commit": "2194d3b8b1f31975fef2f1a0ae6b9ab55bd7ceee",
+          "blob": "04fc60e48e5dbf83ac00ce5f0f2a6e80d1049c2e"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/commit/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f48330673c1933fbdd7d82eff71e44fe9cfc4fb1"
       }
     },
@@ -1247,9 +1366,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "f3757709d12ff27df6b594c93e90d547c51316d4",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google renamed this skill with a genai-factory prefix and revised its instructions.",
+        "source": {
+          "repository": "GoogleCloudPlatform/genai-factory",
+          "path": ".agents/skills/genai-factory-cloud-run-and-load-balancers/SKILL.md",
+          "commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "blob": "061717590f4b43fa18cdd20498cc87768c031bd3"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/genai-factory/commit/4b92311346400781d1e97cfc0222ddf591afa8a7",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7"
       }
     },
@@ -1263,9 +1389,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "cd06f5014cdea59c94d6f66b03b9bcc5719a372e",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google renamed this skill with a genai-factory prefix and revised its instructions.",
+        "source": {
+          "repository": "GoogleCloudPlatform/genai-factory",
+          "path": ".agents/skills/genai-factory-discovery-engine-and-gecx/SKILL.md",
+          "commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "blob": "124229738e70481e420e723f4e78039b011dc3fd"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/genai-factory/commit/4b92311346400781d1e97cfc0222ddf591afa8a7",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7"
       }
     },
@@ -1279,9 +1412,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "806be59bf49caf44cbe73262144158e7eb176d6a",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google renamed this skill with a genai-factory prefix and revised its instructions.",
+        "source": {
+          "repository": "GoogleCloudPlatform/genai-factory",
+          "path": ".agents/skills/genai-factory-model-armor/SKILL.md",
+          "commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "blob": "6db518112d6fa9719621c1e6c15b1d88ad3b122a"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/genai-factory/commit/4b92311346400781d1e97cfc0222ddf591afa8a7",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7"
       }
     },
@@ -1295,9 +1435,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "4149271b183a2001d153c2ccc9afdd4ff58f8c1f",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google renamed this skill with a genai-factory prefix and revised its instructions.",
+        "source": {
+          "repository": "GoogleCloudPlatform/genai-factory",
+          "path": ".agents/skills/genai-factory-operations-and-teardown/SKILL.md",
+          "commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "blob": "7978e44422ba54b74b4b51729617930797a5c0f3"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/genai-factory/commit/4b92311346400781d1e97cfc0222ddf591afa8a7",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7"
       }
     },
@@ -1311,9 +1458,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "966f8cc8fddfd60087e48e2aed40fc05b8feaae2",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Google renamed this skill with a genai-factory prefix and revised its instructions.",
+        "source": {
+          "repository": "GoogleCloudPlatform/genai-factory",
+          "path": ".agents/skills/genai-factory-prerequisites-and-fast/SKILL.md",
+          "commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "blob": "3f658c5fd83ea74d20c82a915c0dafffab80f728"
+        },
+        "evidence": "https://github.com/GoogleCloudPlatform/genai-factory/commit/4b92311346400781d1e97cfc0222ddf591afa8a7",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "4c94dbfd92498ed380eb554e46fd0ad3db8cedf7"
       }
     },
@@ -2090,7 +2244,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "d5096a30c4edd5e8a6ff75215974b92457e24e05"
+      "old_blob": "d5096a30c4edd5e8a6ff75215974b92457e24e05",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "gap-check",
@@ -2110,7 +2271,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "19307371ab5c4ce80a5d73452dee15454df103ea"
+      "old_blob": "19307371ab5c4ce80a5d73452dee15454df103ea",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "readiness-pack",
@@ -2130,7 +2298,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "082ca46f9b60a48618b0f5e42d41ebdfb807c446"
+      "old_blob": "082ca46f9b60a48618b0f5e42d41ebdfb807c446",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "scope-map",
@@ -2150,7 +2325,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "7ec518c234b62d3905dbfceeffdb598530e860ba"
+      "old_blob": "7ec518c234b62d3905dbfceeffdb598530e860ba",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "contradiction-flag",
@@ -2170,7 +2352,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "bb2f6046d3c89bef8465e64081cc9ac0d8823caf"
+      "old_blob": "bb2f6046d3c89bef8465e64081cc9ac0d8823caf",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "insight-brief",
@@ -2190,7 +2379,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "99eb982ab450b8c41ed9ae8aa3c625447bc30211"
+      "old_blob": "99eb982ab450b8c41ed9ae8aa3c625447bc30211",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "provenance-check",
@@ -2210,7 +2406,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "b14270b37931f36532ca5c1d3c7fe49955be5662"
+      "old_blob": "b14270b37931f36532ca5c1d3c7fe49955be5662",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "research-retrieve",
@@ -2230,7 +2433,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "a8e36495b33e34a13c1dfdf8593eb987820f0c26"
+      "old_blob": "a8e36495b33e34a13c1dfdf8593eb987820f0c26",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "trend-compare",
@@ -2250,7 +2460,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "f96e39918a74ee3ebb2cd2948438e1100699d1b8"
+      "old_blob": "f96e39918a74ee3ebb2cd2948438e1100699d1b8",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "context-assemble",
@@ -2270,7 +2487,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "57dc36f128043f9f1f85f473055df7b56a4b1a55"
+      "old_blob": "57dc36f128043f9f1f85f473055df7b56a4b1a55",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/customer-service-order-support/context-assemble/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "ef815fce42446fb1964a7337647ef8fd5bf930b6"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "handoff-packet",
@@ -2290,7 +2521,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "c634f6000aa6bca6e82cf449da49e670a8a1b080"
+      "old_blob": "c634f6000aa6bca6e82cf449da49e670a8a1b080",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/customer-service-order-support/handoff-packet/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "87d57a20fffa66f2d5703f0b994d41690ae6401b"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "inquiry-intake",
@@ -2310,7 +2555,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "815c1c69f0b3ec3bf229f37233e1ef66c0e1b915"
+      "old_blob": "815c1c69f0b3ec3bf229f37233e1ef66c0e1b915",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/customer-service-order-support/inquiry-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "11e83f54c3d405e932db5877cab3a838373ebfd8"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "knowledge-retrieve",
@@ -2330,7 +2589,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "eb337f8712e4fd0557dfa5ac91271269e0f9d084"
+      "old_blob": "eb337f8712e4fd0557dfa5ac91271269e0f9d084",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/customer-service-order-support/knowledge-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "c53681cadc090a61405c6226239ca10158cc974f"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "resolution-draft",
@@ -2350,7 +2623,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1f3c08f4e4fc4e19dbc0a3615341728523a8658f"
+      "old_blob": "1f3c08f4e4fc4e19dbc0a3615341728523a8658f",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/customer-service-order-support/resolution-draft/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "64132869e1040c78f00e539d90ac578ee26e6368"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "bom-impact",
@@ -2370,7 +2657,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "91a05bba4edc160a0af5263be2c01bc484c9ade1"
+      "old_blob": "91a05bba4edc160a0af5263be2c01bc484c9ade1",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "ecn-draft",
@@ -2390,7 +2684,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "bc3f25e67174aa6d6fce4612fd323ae58fb8190e"
+      "old_blob": "bc3f25e67174aa6d6fce4612fd323ae58fb8190e",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "ecr-ingest",
@@ -2410,7 +2711,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "3e3601abc3607f91c443a3e3754b8e50b69a5d4f"
+      "old_blob": "3e3601abc3607f91c443a3e3754b8e50b69a5d4f",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "standards-check",
@@ -2430,7 +2738,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "8a8caab2edb7f238b184f950c6b128e43f15456a"
+      "old_blob": "8a8caab2edb7f238b184f950c6b128e43f15456a",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "criticality-rank",
@@ -2450,7 +2765,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "65de9e598f56c307ab4d5f92f8ae505d6ed1ebd8"
+      "old_blob": "65de9e598f56c307ab4d5f92f8ae505d6ed1ebd8",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/maintenance-triage/criticality-rank/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "828fccf842ad52f276f743486bcf3c1dff9e57b1"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "failure-mode-rank",
@@ -2470,7 +2799,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "3445c0905c154cddf47387a09439ea77a9147b71"
+      "old_blob": "3445c0905c154cddf47387a09439ea77a9147b71",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/maintenance-triage/failure-mode-rank/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "0d11baac6f5d4c187793756682356052e6d33625"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "fault-intake",
@@ -2490,7 +2833,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "d9aa4f458ba5be69ca81bce031210b99beaeeb28"
+      "old_blob": "d9aa4f458ba5be69ca81bce031210b99beaeeb28",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/maintenance-triage/fault-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "05b1bb7955ca97e1b7672fceb253cf9d8676c96c"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "history-retrieve",
@@ -2510,7 +2867,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "a19e5e2e1c90f173d14ce5c16fd7e74f22952c7b"
+      "old_blob": "a19e5e2e1c90f173d14ce5c16fd7e74f22952c7b",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/maintenance-triage/history-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "345c9a3255504b1634d1fb14fb87296d216d5084"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "work-order-update",
@@ -2530,7 +2901,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "6ed004dd67aed16f565a3d1458b8f96177069c7b"
+      "old_blob": "6ed004dd67aed16f565a3d1458b8f96177069c7b",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/maintenance-triage/work-order-update/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "841d5ac177361ae2c6949175bdd21fc95cddc99f"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "exception-route",
@@ -2550,7 +2935,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "ff0f3c98d2774c4b7ef22c586a800325c73f6662"
+      "old_blob": "ff0f3c98d2774c4b7ef22c586a800325c73f6662",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "line-normalize",
@@ -2570,7 +2962,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "fad4db941d3eb32d6eb94653c754214dbf7374a0"
+      "old_blob": "fad4db941d3eb32d6eb94653c754214dbf7374a0",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "order-ingest",
@@ -2590,7 +2989,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "4115d24fba1ceb2ac003148f9472c48aa898e181"
+      "old_blob": "4115d24fba1ceb2ac003148f9472c48aa898e181",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "order-validate",
@@ -2610,7 +3016,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "3d67cc188f3fb90351d2c9951ad30cdce54623cb"
+      "old_blob": "3d67cc188f3fb90351d2c9951ad30cdce54623cb",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "response-draft",
@@ -2630,7 +3043,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "9d7783d53bd2999189b5fc74e41e5e754c98e7e2"
+      "old_blob": "9d7783d53bd2999189b5fc74e41e5e754c98e7e2",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "attribute-normalize",
@@ -2650,7 +3070,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1176deb083c84106549c79354164a46ef18d1e9a"
+      "old_blob": "1176deb083c84106549c79354164a46ef18d1e9a",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/product-content-catalog-enrichment/attribute-normalize/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "533830acc48e83b1f92f78efb0d64d8af17a8ffc"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "claim-check",
@@ -2670,7 +3104,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "397848dfb3ec7c385425d72a92ec8f152dabcdcf"
+      "old_blob": "397848dfb3ec7c385425d72a92ec8f152dabcdcf",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/product-content-catalog-enrichment/claim-check/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "d90d57b782d78eebb44deb181d819e90c02ba365"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "content-draft",
@@ -2690,7 +3138,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "d1ce6141e1f823bd38a52088326aaca44ebf0f3e"
+      "old_blob": "d1ce6141e1f823bd38a52088326aaca44ebf0f3e",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/product-content-catalog-enrichment/content-draft/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "5af2dd989b077fee5d20e68dadf9c4b78b393bce"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "gap-score",
@@ -2710,7 +3172,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "4b94f6c0f8539acdb066f4b81b7a61d1915697a3"
+      "old_blob": "4b94f6c0f8539acdb066f4b81b7a61d1915697a3",
+      "review": {
+        "status": "candidate",
+        "note": "Microsoft published a similar completeness-scoring skill in the refreshed plugin; the relationship is inferred from the descriptions. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/product-content-catalog-enrichment/completeness-score/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "7b688f449d4378668fa447ec8f6a9d648428a2f0"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "source-ingest",
@@ -2730,7 +3206,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "fa15873f93b477f306c5f37c9735d3e53997333d"
+      "old_blob": "fa15873f93b477f306c5f37c9735d3e53997333d",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/product-content-catalog-enrichment/source-ingest/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "fb77678ce1c59b0cafe3f57d5ef81cb37f32f2d8"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "capacity-check",
@@ -2750,7 +3240,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "946bfdd0b996f8fbc76a1de3db2367a0afc5d523"
+      "old_blob": "946bfdd0b996f8fbc76a1de3db2367a0afc5d523",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "demand-pull",
@@ -2770,7 +3267,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "cda0f40ce2f5bac8c02f528eefd234a2350132ef"
+      "old_blob": "cda0f40ce2f5bac8c02f528eefd234a2350132ef",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "schedule-optimize",
@@ -2790,7 +3294,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "fbf56cc02500b5448d8e3f25d47e7273b57a8206"
+      "old_blob": "fbf56cc02500b5448d8e3f25d47e7273b57a8206",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "shift-plan-draft",
@@ -2810,7 +3321,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "a36a16d214d57305c93f42d99facc124ed23fbfd"
+      "old_blob": "a36a16d214d57305c93f42d99facc124ed23fbfd",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "capa-build",
@@ -2830,7 +3348,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "b94190f8c5f5bb3a400c9f3ec49ceda9f18ab051"
+      "old_blob": "b94190f8c5f5bb3a400c9f3ec49ceda9f18ab051",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "closure-check",
@@ -2850,7 +3375,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "4314ff5ab70de4816c167a70199ab51d10975268"
+      "old_blob": "4314ff5ab70de4816c167a70199ab51d10975268",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "eightd-draft",
@@ -2870,7 +3402,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1686bb6edf05f75302a4cacfaca4713ca2806446"
+      "old_blob": "1686bb6edf05f75302a4cacfaca4713ca2806446",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "ncr-intake",
@@ -2890,7 +3429,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "d758b2b251c72773f8fa0154b83303f7853678d8"
+      "old_blob": "d758b2b251c72773f8fa0154b83303f7853678d8",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "root-cause-analyze",
@@ -2910,7 +3456,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "28396fdb6b766998015723c3859f5b28ea30402a"
+      "old_blob": "28396fdb6b766998015723c3859f5b28ea30402a",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "defect-grade",
@@ -2930,7 +3483,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "c7cc770278c3692564dba00378fa73cf26861486"
+      "old_blob": "c7cc770278c3692564dba00378fa73cf26861486",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/quality-inspection/defect-grade/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "ec72c6310aa23a99edb43e2da4c3692c028e21fa"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "ncr-draft",
@@ -2950,7 +3517,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "2bd68d9bd8cfb6c8c2adfd7c1a403f4fac282b2a"
+      "old_blob": "2bd68d9bd8cfb6c8c2adfd7c1a403f4fac282b2a",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/quality-inspection/ncr-draft/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "fdd7784f0d5c031ba54b7a0f7340ed54cf72e913"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "spec-ingest",
@@ -2970,7 +3551,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "7692d18559105b4e2499947980e8d2cd56312446"
+      "old_blob": "7692d18559105b4e2499947980e8d2cd56312446",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/quality-inspection/spec-ingest/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "02f4bb6e4c05ddb679546c8d67eeed2384a575e1"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "tolerance-check",
@@ -2990,7 +3585,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "b4d80145358f1c10bd4985e523adb2197be6bad7"
+      "old_blob": "b4d80145358f1c10bd4985e523adb2197be6bad7",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/quality-inspection/tolerance-check/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "0e0f49d961d1926a6be360d49fc8ced873135f27"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "action-register",
@@ -3010,7 +3619,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "a9f74c3e4c4b48fea5b8bca6bbfc3b540a2939e5"
+      "old_blob": "a9f74c3e4c4b48fea5b8bca6bbfc3b540a2939e5",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "gap-score",
@@ -3030,7 +3646,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "de3121b45011e9473d60f48b88643287e1278a47"
+      "old_blob": "de3121b45011e9473d60f48b88643287e1278a47",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "standard-retrieve",
@@ -3050,7 +3673,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "4fd521087896e9e54017a654a00682737bde9879"
+      "old_blob": "4fd521087896e9e54017a654a00682737bde9879",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "visit-prep",
@@ -3070,7 +3700,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "7a40db3fcef8ccffd61aaed60cff5d24f4e386e6"
+      "old_blob": "7a40db3fcef8ccffd61aaed60cff5d24f4e386e6",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "visit-report",
@@ -3090,7 +3727,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "add5ac5140eb796eaeb9a27d4bf1e985d8ac7c04"
+      "old_blob": "add5ac5140eb796eaeb9a27d4bf1e985d8ac7c04",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "case-packet",
@@ -3110,7 +3754,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "538a7cd251b2344e7a29fc056196eec4337b5574"
+      "old_blob": "538a7cd251b2344e7a29fc056196eec4337b5574",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/returns-refund-case/case-packet/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "6641d713b7519767fb4efd125dc24a5480edd12a"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "eligibility-check",
@@ -3130,7 +3788,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "ef253b9534bab5a963f187bce90a205122d108fa"
+      "old_blob": "ef253b9534bab5a963f187bce90a205122d108fa",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/returns-refund-case/eligibility-check/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "ae6833eef39a8a1d062cd6d16aeecae276367f10"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "policy-retrieve",
@@ -3150,7 +3822,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "bc96ca9e72e896c02dc4ce59ccb32d0eb56be12f"
+      "old_blob": "bc96ca9e72e896c02dc4ce59ccb32d0eb56be12f",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/returns-refund-case/policy-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "7c4700b7700b5eaeaddd4a426cae148455c34915"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "reason-classify",
@@ -3170,7 +3856,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "29034488f2194bc5f9549eaeaba7635484a39754"
+      "old_blob": "29034488f2194bc5f9549eaeaba7635484a39754",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/returns-refund-case/reason-classify/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "eb51a7f0b0e5e296c9d2c1099fb48977d519561c"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "return-intake",
@@ -3190,7 +3890,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "597fc187911c5fc4ef4757b0118082cfc8cbaee9"
+      "old_blob": "597fc187911c5fc4ef4757b0118082cfc8cbaee9",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/returns-refund-case/return-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "273681bc73cd3fddb7cf9665fddd5b215b4c15ae"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "ehs-knowledge-retrieve",
@@ -3210,7 +3924,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "599f26d8ba1fbb1bb95093d0a30dae4a2114e8c9"
+      "old_blob": "599f26d8ba1fbb1bb95093d0a30dae4a2114e8c9",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "incident-intake",
@@ -3230,7 +3951,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "bf5079b61551406ce333f79a53554b23f198ef17"
+      "old_blob": "bf5079b61551406ce333f79a53554b23f198ef17",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "incident-writeup",
@@ -3250,7 +3978,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "c1fd50030f7546311e52643d8bcb7bac68572664"
+      "old_blob": "c1fd50030f7546311e52643d8bcb7bac68572664",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "routing-notify",
@@ -3270,7 +4005,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "16459380e9823c92f9c728c0a9854625363d319e"
+      "old_blob": "16459380e9823c92f9c728c0a9854625363d319e",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "severity-recordability",
@@ -3290,7 +4032,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "b33f2e407de6689cbc52a98200aed8f065032f2e"
+      "old_blob": "b33f2e407de6689cbc52a98200aed8f065032f2e",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "answer-draft",
@@ -3310,7 +4059,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1b339b4b3afd24e4fa750f97872730c464d56af5"
+      "old_blob": "1b339b4b3afd24e4fa750f97872730c464d56af5",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-associate-assist/answer-draft/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "2291a3456dde8d451d9cb5bc9ed3332a340cfd21"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "policy-retrieve",
@@ -3330,7 +4093,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "2a25b7626cce95768c2c77532605b2476c946a80"
+      "old_blob": "2a25b7626cce95768c2c77532605b2476c946a80",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-associate-assist/policy-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "a416124a8e40932461304bd8ceaa96a0f6c71e36"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "product-compare",
@@ -3350,7 +4127,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "bf01e0d7cc74e12d9d3ac0f1cb999d47f81155bb"
+      "old_blob": "bf01e0d7cc74e12d9d3ac0f1cb999d47f81155bb",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-associate-assist/product-compare/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "dc250540c91db42f4c9f1d07c3ff9f63cc77bbca"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "promo-check",
@@ -3370,7 +4161,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "2c2e491880c21ba5415781c2d9395e527aaedd8e"
+      "old_blob": "2c2e491880c21ba5415781c2d9395e527aaedd8e",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-associate-assist/promo-check/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "a3418e2a278ce088c6fc7b7c12b8d3d004954a88"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "question-intake",
@@ -3390,7 +4195,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "7c76135043ec98c26cf37dbb2d1e72ba0c569c6c"
+      "old_blob": "7c76135043ec98c26cf37dbb2d1e72ba0c569c6c",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-associate-assist/question-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "31078af3f318acef88a90ecee829de277c4c9d26"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "brief-draft",
@@ -3410,7 +4229,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "19f20d87a11a80f2b834bf5cfd2a3ae9a065b637"
+      "old_blob": "19f20d87a11a80f2b834bf5cfd2a3ae9a065b637",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-task-promotion-execution/brief-draft/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "b347bd28cfea157ec598feedac9bebb670cf0c5c"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "exception-raise",
@@ -3430,7 +4263,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "7aa02b271a8e7ca938775288c23737a507ea8ce8"
+      "old_blob": "7aa02b271a8e7ca938775288c23737a507ea8ce8",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-task-promotion-execution/exception-raise/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "5a1780258a6002c64967ad3ac429e59845ad8248"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "pack-ingest",
@@ -3450,7 +4297,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1356776bfb21d81aac5240f942e713ef010056ce"
+      "old_blob": "1356776bfb21d81aac5240f942e713ef010056ce",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-task-promotion-execution/pack-ingest/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "5344d46661bead211f2aa0f771eef78a9dd2166e"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "readiness-check",
@@ -3470,7 +4331,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "9c2f9ca9c6c2221725c8fa19f73afd6e43a8b5a3"
+      "old_blob": "9c2f9ca9c6c2221725c8fa19f73afd6e43a8b5a3",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-task-promotion-execution/readiness-check/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "ef78d4c18f1fbba2f85f7239306c5279c5e9f02e"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "store-map",
@@ -3490,7 +4365,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "67fd5a303a3602e07a3141048b85840791c5a030"
+      "old_blob": "67fd5a303a3602e07a3141048b85840791c5a030",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/store-task-promotion-execution/store-map/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "518a8ea1d1144df3fd24ad970e12d72a807a3ae2"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "disruption-intake",
@@ -3510,7 +4399,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "f98eefee4dd89b73204689b3222179a537ee0963"
+      "old_blob": "f98eefee4dd89b73204689b3222179a537ee0963",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/supplier-disruption/disruption-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "a06014a975f9d4e4d5e9e155fc2d17613ec68174"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "disruption-writeup",
@@ -3530,7 +4433,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1c1005cf04a0267b764be2bc74ec74809cb83b68"
+      "old_blob": "1c1005cf04a0267b764be2bc74ec74809cb83b68",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/supplier-disruption/disruption-writeup/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "dc0dcf4f93c59c07a1ba875d963935a658eaf561"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "mitigation-recommend",
@@ -3550,7 +4467,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "f8ff772d3465aef7c5f513a5b6649e5e6b4951d1"
+      "old_blob": "f8ff772d3465aef7c5f513a5b6649e5e6b4951d1",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/supplier-disruption/mitigation-recommend/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "f084f63611e7666cbd6240781ef2905c9c4dda4d"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "shortage-impact-map",
@@ -3570,7 +4501,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "eeabbd66f31509826b21efdfafbb697d191bf8a1"
+      "old_blob": "eeabbd66f31509826b21efdfafbb697d191bf8a1",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/supplier-disruption/shortage-impact-map/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "490d084ee50beed1c435b676f44d1f906892a464"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "supply-knowledge-retrieve",
@@ -3590,7 +4535,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "71af7988ffb8c5129e87adf345e6e4ca7e09735d"
+      "old_blob": "71af7988ffb8c5129e87adf345e6e4ca7e09735d",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/supplier-disruption/supply-knowledge-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "b98cf22a8b2149225bc371c388656c49d8b1e1ee"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "avl-compare",
@@ -3610,7 +4569,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "0cd0f718347e6253ba8956d5444e38717e708c68"
+      "old_blob": "0cd0f718347e6253ba8956d5444e38717e708c68",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "dossier-ingest",
@@ -3630,7 +4596,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "861cb89999e7e2dab120ab96abd7a8871fb666c1"
+      "old_blob": "861cb89999e7e2dab120ab96abd7a8871fb666c1",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "qualification-memo",
@@ -3650,7 +4623,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "f7c1348fd36ebb06d70985c4084de58f088c8160"
+      "old_blob": "f7c1348fd36ebb06d70985c4084de58f088c8160",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "risk-score",
@@ -3670,7 +4650,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "579dc22edeae2b0f5a76f647c61929215385feeb"
+      "old_blob": "579dc22edeae2b0f5a76f647c61929215385feeb",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "issue-cluster",
@@ -3690,7 +4677,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "766bab57ce6604e3002b1b554a55b97dde36289a"
+      "old_blob": "766bab57ce6604e3002b1b554a55b97dde36289a",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "record-pull",
@@ -3710,7 +4704,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "1e40786f301f77492b00ed745d7a2699b8c710ec"
+      "old_blob": "1e40786f301f77492b00ed745d7a2699b8c710ec",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "review-pack",
@@ -3730,7 +4731,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "660e51a4d0b0ccce46876c69ce53968e3feb4163"
+      "old_blob": "660e51a4d0b0ccce46876c69ce53968e3feb4163",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "scorecard-roll",
@@ -3750,7 +4758,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "30de1380dd9085d93ec86de5a966a0e9762e04d9"
+      "old_blob": "30de1380dd9085d93ec86de5a966a0e9762e04d9",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "term-retrieve",
@@ -3770,7 +4785,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "a84ab4a07c6a51e8f97981eb475bbb4015aa3895"
+      "old_blob": "a84ab4a07c6a51e8f97981eb475bbb4015aa3895",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "claim-ingest",
@@ -3790,7 +4812,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "f783f027a996a4c1180dbeb4b66ce538d3a1d6ae"
+      "old_blob": "f783f027a996a4c1180dbeb4b66ce538d3a1d6ae",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "claim-match",
@@ -3810,7 +4839,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "60a4fbba24bb25920564377430373d86dc456f04"
+      "old_blob": "60a4fbba24bb25920564377430373d86dc456f04",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "dispute-packet",
@@ -3830,7 +4866,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "0fa7305b3eca170e9c12eedba7f226d5eac31801"
+      "old_blob": "0fa7305b3eca170e9c12eedba7f226d5eac31801",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "term-retrieve",
@@ -3850,7 +4893,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "9c05603eac3e385afee30afd5e2e9c9e47886ac0"
+      "old_blob": "9c05603eac3e385afee30afd5e2e9c9e47886ac0",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "validity-classify",
@@ -3870,7 +4920,14 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "761fe6b8c1d28ddb99a0216e13a84f9355364714"
+      "old_blob": "761fe6b8c1d28ddb99a0216e13a84f9355364714",
+      "review": {
+        "status": "unavailable",
+        "note": "Microsoft retired this plugin. The separately published related source has conflicting license notices.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/bccfd47040c50fd750524caff04756c904d691db",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "knowledge-retrieve",
@@ -3890,7 +4947,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "67e47179dd4e8a7735c265a84ff6cb16778625e8"
+      "old_blob": "67e47179dd4e8a7735c265a84ff6cb16778625e8",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/work-order-assist/knowledge-retrieve/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "95574d1a82b7ba7aa80c1e1a4ccf067d70605b3e"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "parts-readiness",
@@ -3910,7 +4981,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "420c3f52778c13921483696da73c441039e0098d"
+      "old_blob": "420c3f52778c13921483696da73c441039e0098d",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/work-order-assist/parts-readiness/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "8b9bc657bad32d2d961a87536dc43b8981428c3c"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "similar-work-rank",
@@ -3930,7 +5015,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "55db5bdfd35bf0b1293f8217d23ad1871d53148f"
+      "old_blob": "55db5bdfd35bf0b1293f8217d23ad1871d53148f",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/work-order-assist/similar-work-rank/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "7f5b1ab2b41d1920324ecf0b940fe2dd5f5d068e"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "wo-intake",
@@ -3950,7 +5049,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "b7eeee7b02b1fb9ed3af33e901729a3d3ac471d0"
+      "old_blob": "b7eeee7b02b1fb9ed3af33e901729a3d3ac471d0",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/work-order-assist/wo-intake/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "3c3bf1f3a085e5cf16dd798de6f73411e8472bb8"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "work-order-writeup",
@@ -3970,7 +5083,21 @@
         "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
         "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
       },
-      "old_blob": "0fa7edaf6eaffae81d9e0fdebb8c1e5b096b49fd"
+      "old_blob": "0fa7edaf6eaffae81d9e0fdebb8c1e5b096b49fd",
+      "review": {
+        "status": "available",
+        "note": "Microsoft publishes an updated version of this skill. Its license remains unclear.",
+        "source": {
+          "repository": "microsoft/cat-agent-skills",
+          "path": "submissions/work-order-assist/work-order-writeup/SKILL.md",
+          "commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
+          "blob": "9a0bd5db7439b5112a937ba2604f59c12289b4ec"
+        },
+        "license_notice": "The skill says Proprietary; the repository says MIT. Publisher clarification is needed before installation.",
+        "evidence": "https://github.com/microsoft/cat-agent-skills/commit/8c989edba697e7e521ff9cccb998e5175ee18fd0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
+        "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192"
+      }
     },
     {
       "name": "foundry-agent",
@@ -3982,9 +5109,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "810edcf1bf8aec00d530f2651aa1d217bec81eba",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "Microsoft publishes a FoundryX CLI skill with the same description and related instructions. Its relationship to the removed file is inferred; inspect the current skill.",
+        "source": {
+          "repository": "microsoft/FoundryX",
+          "path": "skills/foundry-agent/SKILL.md",
+          "commit": "aab49fd2ba817fe84e73efbbdeb7d12a915e254e",
+          "blob": "c6a056b966e8d15abcea56426ead5fd4ece428ce"
+        },
+        "evidence": "https://github.com/microsoft/foundry-dev-tools/commit/ceb6a32c5ec383387c3bf9c1f38d243225b9fcc2",
+        "checked_at": "2026-11-09T17:22:34.349503+00:00",
         "checked_commit": "bba484bffc275cc9640f61b7b7357be0f943e16b"
       }
     },
@@ -4037,9 +5171,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "f1adb95b211e000a4ce6af2aa0df1add2a46d55b",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/glintlabs",
+          "path": "skills/analyze-survey/SKILL.md",
+          "commit": "4fac6cd704a0e930717c3002041f378e159de38d",
+          "blob": "c638f4776b09bbab3bdbb7d1c4f59ae68d2d89e1"
+        },
+        "evidence": "https://github.com/microsoft/glintlabs/commit/c5537a55733ff21690b153d4b329e7189d064a62",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "4fac6cd704a0e930717c3002041f378e159de38d"
       }
     },
@@ -4053,9 +5194,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "ff2744291f0edbfdc1f73e7cb06fa37465f0ecac",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Microsoft retired the PowerPoint skill and replaced it with HVE Slides.",
+        "source": {
+          "repository": "microsoft/hve-core",
+          "path": ".github/skills/experimental/hve-slides/SKILL.md",
+          "commit": "f425e943bf228052a23e6bc4810b5faef030314f",
+          "blob": "afc0744f54a4bb96791b4a65802674afcc539dbb"
+        },
+        "evidence": "https://github.com/microsoft/hve-core/commit/a7bbf4587d54ac5c9b1222c19e8baaeeb3d93da2",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "f425e943bf228052a23e6bc4810b5faef030314f"
       }
     },
@@ -4093,8 +5241,9 @@
       "old_blob": "0a01134d5f926e5ab0291a97ed7d1b4a7637615a",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Microsoft removed this generic workflow skill and moved repository-specific rules into its instructions.",
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4109,8 +5258,9 @@
       "old_blob": "b8211c47c1d0d1ca4dc704d124320015c47f72e0",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Microsoft removed this generic workflow skill and moved repository-specific rules into its instructions.",
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4125,8 +5275,9 @@
       "old_blob": "d0aa93973366eb91ba528f1e1ef42e4210026b96",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Microsoft removed this generic workflow skill and moved repository-specific rules into its instructions.",
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4140,9 +5291,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "4db56f0db54f2adfd8aa7519b7eed507cc844920",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-collect-benchmarks/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "23edfe6c3ba14e32db344f2b8594aa1fdabf5c74"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4156,9 +5314,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "a515a0443a00b77723f6ce0fd7d0fdc854d253f3",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-triage-ci-run/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "1e188c364f5b7955abdd039e3c2d08bfecb3cbb1"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4172,9 +5337,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "8be12c92a487bd3bd7c1f4776073821c4a21677e",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-run-microvm/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "387c9f05263ba86c38660061ebfe801bdf1b734b"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4188,9 +5360,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "40447a358201f4a374626d98391e0cd0e71305df",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-prepare-host/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "7afaabbf775fbbd6a8a56c969b1725590c8f6a07"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4204,9 +5383,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "9c7d6b667f05483c259dbf386535017f8d65fa58",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-promote-openvmm-pin/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "d3f7854cac041adb9645efc7eaa1451d9c729316"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4220,9 +5406,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "274e5bf3ff09d16563cf5e1025a5708611509d94",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "microsoft/nvx",
+          "path": ".github/skills/nvx-run-microvm/SKILL.md",
+          "commit": "733a7031e655e4f904a8640cadefd9f50646b946",
+          "blob": "387c9f05263ba86c38660061ebfe801bdf1b734b"
+        },
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4237,8 +5430,9 @@
       "old_blob": "0da72ff42f7f40e430f0cab708063f4311816611",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Microsoft removed this generic workflow skill and moved repository-specific rules into its instructions.",
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4253,8 +5447,9 @@
       "old_blob": "d3f95a0d1a7a28bab65b1a5dd811e4e1feb91d6b",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "Microsoft removed this generic workflow skill and moved repository-specific rules into its instructions.",
+        "evidence": "https://github.com/microsoft/nvx/commit/a7f249f213e39214468cc90394d2999016565aa1",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "8ebadbd3dae07b77beae3e701ce47ad9bbdca54e"
       }
     },
@@ -4338,9 +5533,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "5ae562180de383c5e0acbaa350346e2a1a33cc95",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Microsoft retired the preview and published WorkIQ 3. The stable skill has different instructions and requirements.",
+        "source": {
+          "repository": "microsoft/work-iq",
+          "path": "plugins/workiq/skills/workiq/SKILL.md",
+          "commit": "72c889460aa7ac6d7ed3bb02179332abafc963d4",
+          "blob": "19ef582297e54ae841291f0305b67664e59fa588"
+        },
+        "evidence": "https://github.com/microsoft/work-iq/commit/e5e97fa94a38bff3e98570be8d7cffca7af4e8e1",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "72c889460aa7ac6d7ed3bb02179332abafc963d4"
       }
     },
@@ -4528,9 +5730,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "9f2efd0d3f713ed43ada37490ec61cccf0927dee",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "resource",
+        "note": "NVIDIA moved closely matching guidance into contributing documentation; it is not a standalone skill.",
+        "source": {
+          "repository": "NVIDIA-NeMo/RL",
+          "path": "skills/contributing/references/details/removing-outdated-config.md",
+          "commit": "61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "blob": "9b9384888f967158b687b49044e016c71661bbb2"
+        },
+        "evidence": "https://github.com/NVIDIA-NeMo/RL/commit/74b28c3b6aefcbd3e9c422773fefbf5580d37cf0",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "61bc275da39d4a3d8b87368cfba7ef333ea61bea"
       }
     },
@@ -4544,9 +5753,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "4bb4aef515d487f5c6e3fb4b39904009bb33a98b",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/DeepStream",
+          "path": "skills/amc-run-auto-calibration/SKILL.md",
+          "commit": "2a77198174b5d815a57c9ebd1bfd89ca7700ccb2",
+          "blob": "61ea7d449a97d9a06f94c6fb2a922200448e57b5"
+        },
+        "evidence": "https://github.com/NVIDIA/DeepStream/commit/36173158bbd7b26b2104cd5962d7f0d9e9095515",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "2a77198174b5d815a57c9ebd1bfd89ca7700ccb2"
       }
     },
@@ -4560,9 +5776,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "a88d2b8ce506306615e6e4f26406b53241469ac8",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/DeepStream",
+          "path": "skills/amc-run-auto-calibration/SKILL.md",
+          "commit": "2a77198174b5d815a57c9ebd1bfd89ca7700ccb2",
+          "blob": "61ea7d449a97d9a06f94c6fb2a922200448e57b5"
+        },
+        "evidence": "https://github.com/NVIDIA/DeepStream/commit/36173158bbd7b26b2104cd5962d7f0d9e9095515",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "2a77198174b5d815a57c9ebd1bfd89ca7700ccb2"
       }
     },
@@ -4624,9 +5847,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "6d6c02fea0c3817c6d61ed4cc9f1a523e7b91cca",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/asset-harvester",
+          "path": "skills/asset-harvester/SKILL.md",
+          "commit": "b45e5dec6d23751682f44ff2225ac9aa23d564a3",
+          "blob": "4a41ded5432aa46a9444ca362e94cb617ecb6d67"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4640,9 +5870,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "6d1159c7895865475972feafea6aa7b9c36588b8",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/ncore",
+          "path": "skills/ncore-data-conversion/SKILL.md",
+          "commit": "e0e7609f3f503af61e7a4fa612897e2282a69de1",
+          "blob": "2a7d01c464a2232ddfe0b1d383682c386fa42de1"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4656,9 +5893,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "f076a92af455bec12c588352e0ba55dfcf84ad2c",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/NuRec",
+          "path": "skills/nurec/SKILL.md",
+          "commit": "ffce3667841691c7fe2ca763c5c10e2949c8ca0e",
+          "blob": "433ccb9f2d4680ceaf2fc9a0a555f3db213c2daa"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4672,9 +5916,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "150b48782bc3ea062f4d0ce271274d13127100c7",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/harmonizer",
+          "path": "skills/harmonizer/SKILL.md",
+          "commit": "826c1998796e024bc82c9843b3ec515c50737573",
+          "blob": "22636ef73b151e1911169b610b31d9a2c459283b"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4688,9 +5939,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "8fdb4de28c8bac1408c368bc47096d9112179687",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "The publisher replaced or consolidated the former skill. This is the current skill; check its scope and requirements.",
+        "source": {
+          "repository": "NVIDIA/skills",
+          "path": "skills/physical-ai-neural-reconstruction/SKILL.md",
+          "commit": "fce3cca4170be75e82c64920654d56ee2811b005",
+          "blob": "ba8c63dff92c3c4828a9bef746ea81684a34a7b4"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4704,9 +5962,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "911a5470ea205f0fb57409afbfdc6d2e377fec1d",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "invalid",
+        "note": "NVIDIA identifies this current file as the replacement, but its description is 1,064 characters; the skill specification allows at most 1,024.",
+        "source": {
+          "repository": "NVIDIA/NuRec",
+          "path": "skills/physical-ai-datasets/SKILL.md",
+          "commit": "ffce3667841691c7fe2ca763c5c10e2949c8ca0e",
+          "blob": "b1f03267a5f321da91444d1cd6adde52f3a8a213"
+        },
+        "evidence": "https://github.com/NVIDIA/nurec-skills/commit/1724dcefe663a8c421cee66d5e179a18005c0094",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "28fdd9c83cc2952dd265f33012c813d662e2ed90"
       }
     },
@@ -4720,9 +5985,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "9fde7859baa00548de6eb92cf4dcd4dd3ec4c06f",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4736,9 +6008,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "2de8cae940872024dff9149800781106bbb327f9",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4752,9 +6031,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "dca79ee785955f83e48372af7151bb5885afba0c",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4768,9 +6054,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "7e8e11481099a4406e19f7ce32a106aebf2d7319",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4784,9 +6077,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "228d86b7106dae10f2406f08005305dff4311dd4",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4800,9 +6100,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "b43dbb43a62a038895e1bea8cfbd51483a9aa811",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4816,9 +6123,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "ded8982f63ccf729554eeaf2fc104c039bc7f0da",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4832,9 +6146,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "2e14c273c088dbad8f2f0db6870403cb35e0cffe",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4848,9 +6169,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "54c7cf70081d39f070ac1fa8c4ccae9a7b0ac559",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4864,9 +6192,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "483a60214648c0698e0e81159d984738f8d739a3",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4880,9 +6215,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "270e9f7c8168494291227052d4ed95bc185f8b5d",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4896,9 +6238,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "1c4ac1c0b841cbcb702369c7109cc9a3e038a209",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4912,9 +6261,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "b39f1d37ec7df52b630e15d81e3aa4f83862e274",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4928,9 +6284,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "b30348d59a47c83708fd932573dbf128acea2863",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "NVIDIA consolidated the earlier skills into this toolkit. Check the new skill for the specific task.",
+        "source": {
+          "repository": "NVIDIA/nvalchemi-toolkit",
+          "path": "skills/nvalchemi-toolkit/SKILL.md",
+          "commit": "f1cb0b544078b47327f835781ae95de4a2355b78",
+          "blob": "50c0f481b73fe531a11056a4cb0b7a19a03d147c"
+        },
+        "evidence": "https://github.com/NVIDIA/nvalchemi-toolkit/commit/b48c773bdcf3408d6da416b129c716610a7ed5e0",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "f1cb0b544078b47327f835781ae95de4a2355b78"
       }
     },
@@ -4961,8 +6324,9 @@
       "old_blob": "0ea27b1b97094c11ef80a81ddce991d3eaec8d20",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -4977,8 +6341,9 @@
       "old_blob": "8ae1ff10aa79a41b2a7808984a76da251769a4b8",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -4993,8 +6358,9 @@
       "old_blob": "cf149cd62d00ee62a9fbb1a47bef8d1f7ebdb09d",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5009,8 +6375,9 @@
       "old_blob": "5c92a031f7749ea4007fb45f4220822e06f09bb0",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5025,8 +6392,9 @@
       "old_blob": "8a5839ab09304bfbb2a627ea74d789ab7d88f1ee",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5057,8 +6425,9 @@
       "old_blob": "109dff3e32bde0670cf1137327065e8b23d8c6f8",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5073,8 +6442,9 @@
       "old_blob": "a96e5ec862875442d86026ca2055305db80190c4",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5089,8 +6459,9 @@
       "old_blob": "ed23c37960ebb9ce7a3305f4d3e52d4a981b694e",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5121,8 +6492,9 @@
       "old_blob": "ba809436b844903e7e1e13b3047523c9d455cf66",
       "review": {
         "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "note": "NVIDIA removed this skill after its upstream DOCA source was deleted.",
+        "evidence": "https://github.com/NVIDIA/skills/commit/c0116e9fdf372a6630b316ce55882e8111d83291",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "c53d9f26eadc2a625ae813a591adbe624227d8cb"
       }
     },
@@ -5152,9 +6524,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "76b5d783c71446158655ae3e89e161c87f120245",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "available",
+        "note": "Redis replaced the old skill with a group of Iris skills. Start with add-redis-iris and check the other related skills.",
+        "source": {
+          "repository": "redis/agent-skills",
+          "path": "plugins/redis-development/skills/add-redis-iris/SKILL.md",
+          "commit": "74708dab4b3f81a9845803c3f642a4f7d443af69",
+          "blob": "bc63ae7c380903750286edcbc17101e5a6904ab7"
+        },
+        "evidence": "https://github.com/redis/agent-skills/commit/baac7d66798587a19b9aa2c644f83c1db11762a2",
+        "checked_at": "2026-11-09T17:11:11.848477+00:00",
         "checked_commit": "74708dab4b3f81a9845803c3f642a4f7d443af69"
       }
     },
@@ -5168,9 +6547,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "41d71e425eaef10171e52b3991a944b4eeefb060",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "The publisher moved this plugin to an independent repository that is not enrolled under AgentBay’s current source criteria. Its file matches the earlier skill byte for byte.",
+        "source": {
+          "repository": "grebmann1/zcc-plugin-salesforce",
+          "path": "skills/salesforce-constitution/SKILL.md",
+          "commit": "95a51c4fe85998db547242b2f893ee3b79c5001f",
+          "blob": "41d71e425eaef10171e52b3991a944b4eeefb060"
+        },
+        "evidence": "https://github.com/salesforce/zana/commit/ec6b0308d8804397123b3183e6c4dc6f5210a413",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "02a07172c9a1b2992a9c67e8729abc099bb55fc4"
       }
     },
@@ -5184,9 +6570,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "cb07c757945a25b64da5c8dfaace866c252d0802",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "The publisher moved this plugin to an independent repository that is not enrolled under AgentBay’s current source criteria. The current file has changed; inspect it before use.",
+        "source": {
+          "repository": "grebmann1/zcc-plugin-salesforce",
+          "path": "skills/salesforce-dx/SKILL.md",
+          "commit": "95a51c4fe85998db547242b2f893ee3b79c5001f",
+          "blob": "5a485489623a38700acd926840df7382cc75bae0"
+        },
+        "evidence": "https://github.com/salesforce/zana/commit/ec6b0308d8804397123b3183e6c4dc6f5210a413",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "02a07172c9a1b2992a9c67e8729abc099bb55fc4"
       }
     },
@@ -5200,9 +6593,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "d8e559c06d16bdb95990ce70753a540d588eaa2d",
       "review": {
-        "status": "unavailable",
-        "note": "No current standalone match was found in this repository. A move elsewhere has not been confirmed.",
-        "checked_at": "2026-11-09T15:51:15.584279+00:00",
+        "status": "candidate",
+        "note": "The publisher moved this plugin to an independent repository that is not enrolled under AgentBay’s current source criteria. Its file matches the earlier skill byte for byte.",
+        "source": {
+          "repository": "grebmann1/zcc-plugin-salesforce",
+          "path": "skills/salesforce-toolkit/SKILL.md",
+          "commit": "95a51c4fe85998db547242b2f893ee3b79c5001f",
+          "blob": "d8e559c06d16bdb95990ce70753a540d588eaa2d"
+        },
+        "evidence": "https://github.com/salesforce/zana/commit/ec6b0308d8804397123b3183e6c4dc6f5210a413",
+        "checked_at": "2026-11-09T17:17:32.599972+00:00",
         "checked_commit": "02a07172c9a1b2992a9c67e8729abc099bb55fc4"
       }
     },

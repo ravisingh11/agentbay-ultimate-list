@@ -731,7 +731,11 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
             if not isinstance(review, dict) or review.get('status') not in ('available', 'resource', 'invalid', 'candidate', 'unavailable') or not isinstance(review.get('note'), str) or not re.fullmatch(r'[a-f0-9]{40}', review.get('checked_commit', '')) or not isinstance(review.get('checked_at'), str):
                 raise ValueError('Invalid source review')
             line += ' · '+md(review['note'])+' ('+md(review['checked_at'][:10])+' UTC)'
-            for field, label in (('source', {'available': 'Current skill', 'resource': 'Publisher’s current file', 'invalid': 'Publisher’s current file', 'candidate': 'Same-named skill'}.get(review['status'], 'Current file')), ('parent', 'Parent skill')):
+            if review.get('license_notice'):
+                if not isinstance(review['license_notice'], str):
+                    raise ValueError('Invalid license notice')
+                line += ' · '+md(review['license_notice'])
+            for field, label in (('source', {'available': 'Current skill', 'resource': 'Publisher’s current file', 'invalid': 'Publisher’s current file', 'candidate': 'Possible related skill'}.get(review['status'], 'Current file')), ('parent', 'Parent skill')):
                 source = review.get(field)
                 if not source:
                     if field == 'source' and review['status'] != 'unavailable':
@@ -744,7 +748,7 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
                     raise ValueError('Invalid reviewed source')
                 from urllib.parse import quote, unquote, urlsplit
                 url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
-                if (review['status'] == 'available' and field == 'source') or field == 'parent':
+                if (review['status'] == 'available' and field == 'source' and not review.get('license_notice')) or field == 'parent':
                     def source_key(value):
                         parts = unquote(urlsplit(value).path).strip('/').split('/')
                         return (('/'.join(parts[:2]).casefold(), '/'.join(parts[4:]))
