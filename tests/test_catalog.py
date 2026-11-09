@@ -198,6 +198,31 @@ class MaintenanceTests(unittest.TestCase):
         self.assertEqual(page.count('Identical skill at original source'), 7)
         self.assertEqual(page.count('Related source, not verified equivalent'), 95)
 
+    def test_source_reviews_preserve_current_skills_and_explain_exclusions(self):
+        import sys
+        sys.path.insert(0, str(SCRIPT.parent))
+        import finder_candidates
+        root = SCRIPT.parent.parent
+        disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
+        skills = catalog.read_json(root/'skills/catalog.json')
+        reviews = [row['review'] for row in disabled if row.get('review')]
+        self.assertEqual(len(reviews), 174)
+        counts = {status: sum(r['status'] == status for r in reviews)
+                  for status in ('available', 'resource', 'invalid', 'candidate', 'unavailable')}
+        self.assertEqual(counts, {'available': 43, 'resource': 13, 'invalid': 2, 'candidate': 3, 'unavailable': 113})
+        keys = [finder_candidates.component(row['website_url']) for row in skills]
+        for review in reviews:
+            if review['status'] == 'available':
+                source = review['source']
+                self.assertEqual(keys.count((source['repository'].casefold(), source['path'])), 1)
+            if review['status'] == 'invalid':
+                source = review['source']
+                self.assertNotIn((source['repository'].casefold(), source['path']), keys)
+                self.assertIn('invalid YAML', review['note'])
+        page = (root/'skills/disabled.md').read_text()
+        self.assertIn('Publisher’s current file', page)
+        self.assertIn('supporting documentation', page)
+
     def test_write_preserves_unowned_generated_name(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory);(root/'skills').mkdir()

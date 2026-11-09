@@ -228,3 +228,5 @@ were already represented. The old source paths remain marked disabled; the
 original-source entries are listed separately. Related sources for 95 former
 Microsoft gallery paths are linked for inspection, not automatically listed:
 their skill files say Proprietary while their repository is marked MIT.
+
+The November 9 unavailable-path review traced 43 current skills to publisher renames and added their verified sources to the public catalogue, along with one parent skill. It keeps the original unavailable paths as history and records when a publisher moved a former skill into a supporting file or command. Two current AWS files have malformed YAML metadata and remain excluded. Same-name matches without a confirmed move remain candidates. Microsoft-linked alternatives with conflicting skill and repository license terms remain unapproved. See the generated [unavailable paths](../skills/disabled.md) for the outcome of each record.

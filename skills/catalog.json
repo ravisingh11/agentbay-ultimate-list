@@ -58504,6 +58504,29 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:0e7a7c1a-c1f4-569e-81fa-cbc881525532",
+    "name": "ar-loop",
+    "description": "ar-loop is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/autoresearch-agent/skills/ar-loop/SKILL.md",
+    "repository_url": "https://github.com/alirezarezvani/claude-skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 29521,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "94bf259c-0946-5c0d-bc6a-342b433d3517",
     "name": "ar-policy-builder",
     "description": "ar-policy-builder is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -85297,6 +85320,29 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:1ce9a9e2-748b-56ba-9a6d-9b1f0fbc584b",
+    "name": "azure-typespec-sdk-naming",
+    "description": "azure-typespec-sdk-naming is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/138c2d8c15de963008ae598333cbf3b80019a3b0/.github/skills/azure-typespec-sdk-naming/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 134,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "2979e88f-eace-50f5-b1dd-d175008e9307",
     "name": "azure-upgrade",
     "description": "azure-upgrade is listed as an agent skill. Its catalogue topics include security and privacy.",
@@ -105626,6 +105672,558 @@
     "preferred_provider": "Sentry"
   },
   {
+    "id": "community:7b518c17-36d6-54dd-8c5b-eb7a2370008e",
+    "name": "buc-add-content-via-extension-point",
+    "description": "buc-add-content-via-extension-point is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-content-via-extension-point/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:b58aa577-1a50-59d7-ba9e-55ef497182e6",
+    "name": "buc-add-custom-action",
+    "description": "buc-add-custom-action is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-action/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:6fe6d002-e738-5179-8986-d0a42dc14703",
+    "name": "buc-add-custom-hotkeys",
+    "description": "buc-add-custom-hotkeys is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-hotkeys/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:ade00ef5-56c2-59fa-b86f-3c2aab0816f0",
+    "name": "buc-add-custom-tab",
+    "description": "buc-add-custom-tab is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-tab/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:64b9e2fd-8325-5c78-8c3e-591b41113d64",
+    "name": "buc-call-apis",
+    "description": "buc-call-apis is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-call-apis/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:a66d373e-d97c-5b99-81c5-17f12cb5a1ab",
+    "name": "buc-configure-generated-assets",
+    "description": "buc-configure-generated-assets is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-generated-assets/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:8361c5d3-e096-5929-a4e3-1e6985ad37c8",
+    "name": "buc-configure-getpage-templates",
+    "description": "buc-configure-getpage-templates is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-configure-getpage-templates/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:8736ed83-3904-5325-9464-e60e1bee4751",
+    "name": "buc-configure-table-export",
+    "description": "buc-configure-table-export is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-table-export/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:730009f8-013a-5ffe-ac28-9f173f0fe165",
+    "name": "buc-create-new-app",
+    "description": "buc-create-new-app is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-create-new-app/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:ce7d45ae-bf26-5b83-848d-8e3a803b9893",
+    "name": "buc-customize-by-overrides",
+    "description": "buc-customize-by-overrides is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-by-overrides/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:cd47b1bf-a24c-5d51-b0a7-69a3dce3b3f2",
+    "name": "buc-customize-field-details",
+    "description": "buc-customize-field-details is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-field-details/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:74a8069c-d373-5b1b-a7a6-145e4f48fd34",
+    "name": "buc-customize-login-page",
+    "description": "buc-customize-login-page is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-login-page/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:5863f422-6e2f-5291-a4e1-53ce724afe20",
+    "name": "buc-customize-search-fields",
+    "description": "buc-customize-search-fields is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-customize-search-fields/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:074f1d4e-c81d-5521-b5a8-1b4c86ec98d7",
+    "name": "buc-customize-table-config",
+    "description": "buc-customize-table-config is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-table-config/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:f991aecb-1532-5841-822d-04859defa5fe",
+    "name": "buc-generate-dashboard",
+    "description": "buc-generate-dashboard is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-generate-dashboard/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:1ec49623-1f22-591e-ac73-5c227175a8df",
+    "name": "buc-generate-search-panel",
+    "description": "buc-generate-search-panel is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-panel/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:a5ae53aa-0ac0-543e-acdf-ce35fe8817d0",
+    "name": "buc-generate-search-result",
+    "description": "buc-generate-search-result is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-result/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:865b5140-db04-5025-9293-85e2f4c96660",
+    "name": "buc-generate-summary-component",
+    "description": "buc-generate-summary-component is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-summary-component/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:74f2d8fd-cdd4-5d83-b8d6-63138c4c86ce",
+    "name": "buc-generate-table-component",
+    "description": "buc-generate-table-component is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-table-component/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:1254bbaf-72fb-5c4c-bd8e-5748c74638c0",
+    "name": "buc-inject-custom-html-js",
+    "description": "buc-inject-custom-html-js is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-inject-custom-html-js/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:234af592-913b-52c4-bf7b-eaaec356fd61",
+    "name": "buc-prepare-module-customization",
+    "description": "buc-prepare-module-customization is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-prepare-module-customization/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:ed93ab8b-62d2-59cc-9ca5-f124dcac9b68",
+    "name": "buc-register-customization",
+    "description": "buc-register-customization is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-register-customization/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:1372c244-721a-5bd6-aed2-97edcb55c51a",
+    "name": "buc-resolve-config-placement",
+    "description": "buc-resolve-config-placement is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-resolve-config-placement/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
+    "id": "community:a69979b5-cb2c-56e1-91a2-07e803390ac8",
+    "name": "buc-wire-custom-assets",
+    "description": "buc-wire-custom-assets is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-wire-custom-assets/SKILL.md",
+    "repository_url": "https://github.com/IBM/oms-reference-customizations",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "IBM"
+  },
+  {
     "id": "957a97f9-f713-588f-9639-90f317a26307",
     "name": "buck2-rule-basics",
     "description": "buck2-rule-basics is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -118100,6 +118698,29 @@
     "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
+  },
+  {
+    "id": "community:7338e5ff-84da-559c-abe9-744bb9412bfd",
+    "name": "care-and-returns",
+    "description": "care-and-returns is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/care-and-returns/SKILL.md",
+    "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 12,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Amazon Web Services"
   },
   {
     "id": "fd229b0a-22b4-5237-8872-0ecd1f2c9ff9",
@@ -143679,6 +144300,29 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:9b0d661f-4b92-5788-aeb6-a98e4c0554af",
+    "name": "component-accessibility-specification",
+    "description": "component-accessibility-specification is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/adobe/spectrum-web-components/blob/6d781e92f452f6dc48d90297de444366db037cc1/.ai/skills/component-accessibility-specification/SKILL.md",
+    "repository_url": "https://github.com/adobe/spectrum-web-components",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 1577,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Adobe"
+  },
+  {
     "id": "a01e5590-3bb7-5578-9666-f278e52ee7a0",
     "name": "component-design",
     "description": "component-design is listed as an agent skill. Its catalogue topics include content workflows.",
@@ -147922,6 +148566,29 @@
     "agentbay_url": "https://agentbay.io/?project=b0158e5a-4632-597f-9813-4426dc28f9bf#catalog",
     "github_stars": 41,
     "github_stars_checked_at": "2026-10-25T05:49:07.295365+00:00",
+    "recommended": false,
+    "preferred_provider": "Google"
+  },
+  {
+    "id": "community:5cd42d24-f3a5-561f-b37a-db54db7900e3",
+    "name": "context-engineering-generation-guide",
+    "description": "context-engineering-generation-guide is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/GoogleCloudPlatform/db-context-enrichment/blob/ffddc117c533bd3390b60c632c57dd9240fca4b7/plugin/skills/context-engineering-generation-guide/SKILL.md",
+    "repository_url": "https://github.com/GoogleCloudPlatform/db-context-enrichment",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 43,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
     "recommended": false,
     "preferred_provider": "Google"
   },
@@ -159770,6 +160437,29 @@
     "github_stars_checked_at": "2026-10-24T16:08:54.352547+00:00",
     "recommended": false,
     "preferred_provider": "Model Context Protocol"
+  },
+  {
+    "id": "community:91c56231-1852-5bb2-bf58-7dd1b376aec6",
+    "name": "create-migration",
+    "description": "create-migration is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/GoogleCloudPlatform/database-migration/blob/eac68df93311c2083fb7b553f0a472a6b7ddd997/skills/create-migration/SKILL.md",
+    "repository_url": "https://github.com/GoogleCloudPlatform/database-migration",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "Apache-2.0",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 4,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Google"
   },
   {
     "id": "77438ca7-f7e3-5b75-83e5-48d00a42ef40",
@@ -226860,6 +227550,29 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:b7c6766f-df30-514f-97bc-63283853605e",
+    "name": "evidence",
+    "description": "evidence is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/evidence/SKILL.md",
+    "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 12,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Amazon Web Services"
+  },
+  {
     "id": "9c771090-39b3-584d-afc2-0762d70d5b67",
     "name": "evidence-before-after",
     "description": "evidence-before-after is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -237438,6 +238151,29 @@
     "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
+  },
+  {
+    "id": "community:9473cd7b-16e7-5eab-8b20-82783db81647",
+    "name": "field-briefing",
+    "description": "field-briefing is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/field-briefing/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/fibey",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 3,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "3d378ec6-3818-5238-862e-e2e908777d62",
@@ -295863,6 +296599,29 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:12db344a-f2dd-56bd-b0ca-fb2ac1a21906",
+    "name": "hve-slides",
+    "description": "hve-slides is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/microsoft/hve-core/blob/f425e943bf228052a23e6bc4810b5faef030314f/.github/skills/experimental/hve-slides/SKILL.md",
+    "repository_url": "https://github.com/microsoft/hve-core",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 1607,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "336330c7-f8d1-5e86-a51f-426696d6ebe6",
     "name": "hwajongpark/fact-drift",
     "description": "hwajongpark/fact-drift is listed as an agent-skill repository. Its catalogue topics include software engineering.",
@@ -311194,6 +311953,29 @@
     "github_stars_checked_at": "2026-10-25T05:49:36.904895+00:00",
     "recommended": false,
     "preferred_provider": "Anthropic"
+  },
+  {
+    "id": "community:3b818097-dd92-57c6-a2d2-919910bf498e",
+    "name": "inventory-lookup",
+    "description": "inventory-lookup is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/inventory-lookup/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/fibey",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 3,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "e6461bc4-7310-597b-a49e-ba82b3abaf96",
@@ -340433,6 +341215,29 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:dbc3e85b-e444-58df-8d07-671324484448",
+    "name": "knowledge-retrieval",
+    "description": "knowledge-retrieval is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/knowledge-retrieval/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/fibey",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 3,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "81aab55e-84c8-5e77-a29e-e4db5acbf4a2",
     "name": "knowledge-source-router",
     "description": "knowledge-source-router is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -365346,6 +366151,29 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:1a001573-258e-528e-ae45-bc82e49c5b44",
+    "name": "makers",
+    "description": "makers is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/makers/SKILL.md",
+    "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 12,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Amazon Web Services"
+  },
+  {
     "id": "2f172d9e-1471-5bc0-88b4-a7bf281a106a",
     "name": "makidav/clinical-assistant",
     "description": "makidav/clinical-assistant is listed as an agent-skill repository. Its catalogue topics include project planning, information research, and document and knowledge workflows.",
@@ -380294,6 +381122,29 @@
     "preferred_provider": "Google"
   },
   {
+    "id": "community:9c9f99ef-ef04-5e4f-bac1-7918900ad279",
+    "name": "meta-research",
+    "description": "meta-research is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/research/meta-research/skills/meta-research/SKILL.md",
+    "repository_url": "https://github.com/alirezarezvani/claude-skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 29521,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "8ef48190-ac40-5951-a2a1-cdbb7817f393",
     "name": "meta-review-protocol",
     "description": "meta-review-protocol is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -382838,6 +383689,29 @@
     "github_stars_checked_at": "2026-10-25T05:50:25.081469+00:00",
     "recommended": false,
     "preferred_provider": "GitHub"
+  },
+  {
+    "id": "community:880941d1-6145-505f-888b-c91c947c5f4f",
+    "name": "microsoft-events",
+    "description": "microsoft-events is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/microsoft/Build-CLI/blob/768c8c8c9d54115901fe499bd923a93c5e464413/skills/microsoft-events/SKILL.md",
+    "repository_url": "https://github.com/microsoft/Build-CLI",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 294,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "1e092121-d0d2-572d-ab9b-7967e01ba641",
@@ -460528,6 +461402,29 @@
     "github_stars_checked_at": "2026-10-25T05:49:25.451430+00:00",
     "recommended": false,
     "preferred_provider": "Neon"
+  },
+  {
+    "id": "community:ee190594-cbc7-5452-949f-dc9f3b8f94e8",
+    "name": "postgres-dependency-bump",
+    "description": "postgres-dependency-bump is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/vercel-labs/postgresbuild/blob/dc4418ffc018d6ae0d1ae908c0a28833cf0a5d8e/.automations/dependency-bumps/skills/postgres-dependency-bump/SKILL.md",
+    "repository_url": "https://github.com/vercel-labs/postgresbuild",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 2,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Vercel"
   },
   {
     "id": "f28be08b-c123-57d6-a179-c54bdbf3b685",
@@ -550021,6 +550918,29 @@
     "preferred_provider": "JetBrains"
   },
   {
+    "id": "community:16476941-71ad-58dc-ac18-353511e22ddc",
+    "name": "skill-retro",
+    "description": "skill-retro is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/skill-retro/skills/skill-retro/SKILL.md",
+    "repository_url": "https://github.com/alirezarezvani/claude-skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 29521,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "43999b13-d6ca-5cf2-807a-196ff4a72019",
     "name": "skill-reviewer",
     "description": "skill-reviewer is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -576441,6 +577361,29 @@
     "github_stars_checked_at": "2026-10-25T05:49:09.381709+00:00",
     "recommended": false,
     "preferred_provider": "Google"
+  },
+  {
+    "id": "community:2b458f26-0338-5b3a-b308-9f63eeaeea64",
+    "name": "sync-teams-samples-to-agents-sdk",
+    "description": "sync-teams-samples-to-agents-sdk is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/microsoft/Agents/blob/8f74d93e8a8b4ef9c86825bfd40d7a319187f908/automation/teams-sample-sync/skills/sync-teams-samples-to-agents-sdk/SKILL.md",
+    "repository_url": "https://github.com/microsoft/Agents",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 1105,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "bceb86b7-8642-58a1-8598-8b622ea707e3",
@@ -646844,6 +647787,52 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:979a4ecf-ab2f-5fb8-8ddc-f67643b1bf8d",
+    "name": "work-order-management",
+    "description": "work-order-management is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-management/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/fibey",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 3,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:6bef1f7a-c5cc-575d-bd1a-63cdb76b8a93",
+    "name": "work-order-preparation",
+    "description": "work-order-preparation is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-preparation/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/fibey",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "MIT",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "agentbay_url": "",
+    "github_stars": 3,
+    "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "38f37448-24a8-56c4-8882-aa3560f1cfd9",
     "name": "workbook-generator",
     "description": "workbook-generator is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -658214,6 +659203,29 @@
     "agentbay_url": "https://agentbay.io/?project=026bca44-d8ab-5c73-9709-aa3df8f58a2b#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:2d8d5b02-d14a-504d-97ba-4191c133d2ba",
+    "name": "yichen-asr",
+    "description": "yichen-asr is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/mcncarl/yichen-skills/blob/c9f47ecbcda513c0ce160bb55bfaf01060765053/yichen-asr/SKILL.md",
+    "repository_url": "https://github.com/mcncarl/yichen-skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T16:06:19.699751+00:00",
+    "agentbay_url": "",
+    "github_stars": 5213,
+    "github_stars_checked_at": "2026-11-09T16:06:19.699751+00:00",
     "recommended": false,
     "preferred_provider": ""
   },
