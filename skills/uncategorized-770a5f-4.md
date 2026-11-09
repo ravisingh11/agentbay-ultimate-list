@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-3.md) · [Next →](uncategorized-770a5f-5.md)
 
-3,366 listings · Page 4 of 17
+3,357 listings · Page 4 of 17
 
 - **bsromero/graph\_pec** — [Website](<https://github.com/bsromero/graph_pec>) · [GitHub](<https://github.com/bsromero/graph_pec>) · **License: MIT** · Stars: not recorded — bsromero/graph\_pec is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
 - **build-dashboard** — [Website](<https://github.com/anthropics/knowledge-work-plugins>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — build-dashboard is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.

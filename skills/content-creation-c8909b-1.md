@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](content-creation-c8909b-2.md)
 
-280 listings · Page 1 of 2
+279 listings · Page 1 of 2
 
 - **acn-go-design-boundaries** — [Website](<https://github.com/Azure/azure-container-networking/blob/d1a23e9f9b03f0815ac1a3ed95b02c65a0161782/.github/skills/acn-go-design-boundaries/SKILL.md>) · [GitHub](<https://github.com/Azure/azure-container-networking>) · **License: MIT** · **★ 437** (as of 2026-10-25) · **Microsoft · Official source** — acn-go-design-boundaries is listed as an agent skill. Its catalogue topics include content workflows.
 - **adk-unit-design** — [Website](<https://github.com/google/adk-python/blob/12c7bed7661ccf942f0f6d3b62bed22a23ea0a85/.agents/skills/adk-unit-design/SKILL.md>) · [GitHub](<https://github.com/google/adk-python>) · **License: Apache-2.0** · **★ 21,993** (as of 2026-10-25) · **Google · Official source** — adk-unit-design is listed as an agent skill. Its catalogue topics include content workflows.

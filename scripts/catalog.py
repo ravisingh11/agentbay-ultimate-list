@@ -594,7 +594,7 @@ def render_browse(rows, manifest):
                  'Each listing appears once under its primary category. Categories, tags and complete records remain in the downloads. Stars are cached repository counts with observation dates. Official source denotes verified publisher ownership. It is not a quality or security review.', '',
                  '| Category | Listings | Browse |', '| --- | ---: | --- |']
         if group == 'skills':
-            index[6:6] = ['[Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md)', '']
+            index[6:6] = ['[Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)', '']
         for label, items in category_groups(members):
             pages = [items[i:i+PAGE_SIZE] for i in range(0, len(items), PAGE_SIZE)]
             paths = [f'{group}/{category_slug(label)}'+(f'-{i+1}' if len(pages)>1 else '')+'.md' for i in range(len(pages))]
@@ -701,6 +701,12 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
     derived, groups = split_exports(rows)
     outputs.update(derived)
     outputs.update(render_browse(rows, manifest))
+    disabled = read_json(root/'data/disabled-skills.json')['skills']
+    lines = [GENERATED, '', '# Disabled skills', '', '[Skills](README.md)', '',
+             'These paths were absent from the inspected publisher revision. They are excluded from the available catalogue while reviewed.', '']
+    for item in disabled:
+        lines.append('- **Disabled** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'`')
+    outputs['skills/disabled.md'] = ('\n'.join(lines+[''])).encode()
     outputs['provenance/descriptions.json'] = json_bytes(summarize_catalog(rows)[1])
     outputs['provenance/aliases.json'] = json_bytes({'schema_version': 1,
         'rule': 'Same repository, source URL, name and type; category/tag metadata retained on the surviving ID.',
@@ -710,7 +716,7 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
         'update_policy': 'Add and update upstream entries, preserve reviewed local changes and absent records; removals require curation.',
         'entry_count': len(rows), 'unique_repository_count': len({repo_key(r['repository_url']).casefold() for r in rows}),
         'catalogue_license': {'spdx_id':'MIT','path':'LICENSE','scope_notice':'LICENSING.md'},
-        'inputs': {name: {'sha256': sha((root/name).read_bytes())} for name in (CURATION,POLICY)},
+        'inputs': {name: {'sha256': sha((root/name).read_bytes())} for name in (CURATION,POLICY,'data/disabled-skills.json')},
         'description_policy': {'version':SUMMARY_POLICY,'provenance':'provenance/descriptions.json','source_prose_reused':False},
         'preferred_providers': {'source':POLICY,'provider_count':len(PREFERRED_PROVIDERS['providers'])},
         'derived_exports': groups, 'duplicate_id_aliases':len(aliases),

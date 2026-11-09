@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](security-and-privacy-65f61c-2.md)
 
-306 listings · Page 1 of 2
+305 listings · Page 1 of 2
 
 - **7cubit/cybersecurity** — [Website](<https://github.com/7cubit/cybersecurity>) · [GitHub](<https://github.com/7cubit/cybersecurity>) · **License: MIT** · Stars: not recorded — 7cubit/cybersecurity is listed as an agent-skill repository. Its catalogue topics include security and privacy and software engineering.
 - **Aarvion-AI/stackwise-skills** — [Website](<https://github.com/aarvion-ai/stackwise-skills>) · [GitHub](<https://github.com/aarvion-ai/stackwise-skills>) · **License: MIT** · Stars: not recorded — Aarvion-AI/stackwise-skills is listed as an agent-skill repository. Its catalogue topics include security and privacy, monitoring and operations, and software engineering.
@@ -99,7 +99,6 @@
 - **dlectronique/adhd-tools-marketplace** — [Website](<https://github.com/dlectronique/adhd-tools-marketplace>) · [GitHub](<https://github.com/dlectronique/adhd-tools-marketplace>) · **License: MIT** · Stars: not recorded — dlectronique/adhd-tools-marketplace is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **dmitriy-iliyov/java-agent-skills** — [Website](<https://github.com/dmitriy-iliyov/java-agent-skills>) · [GitHub](<https://github.com/dmitriy-iliyov/java-agent-skills>) · **License: MIT** · Stars: not recorded — dmitriy-iliyov/java-agent-skills is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **doca-argus** — [Website](<https://github.com/NVIDIA/skills/blob/main/skills/doca-argus/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/skills>) · **License: Unknown** · **★ 3,719** (as of 2026-10-25) · **NVIDIA · Official source** — doca-argus is listed as an agent skill. Its catalogue topics include security and privacy and deployment and cloud operations.
-- **doca-flow-grpc-server** — [Website](<https://github.com/NVIDIA/skills/blob/main/skills/doca-flow-grpc-server/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/skills>) · **License: Unknown** · **★ 3,719** (as of 2026-10-25) · **NVIDIA · Official source** — doca-flow-grpc-server is listed as an agent skill. Its catalogue topics include security and privacy.
 - **Dodera-Software/claude-plugins** — [Website](<https://github.com/dodera-software/claude-plugins>) · [GitHub](<https://github.com/dodera-software/claude-plugins>) · **License: MIT** · Stars: not recorded — Dodera-Software/claude-plugins is listed as an agent-skill repository. Its catalogue topics include security and privacy and audio and speech workflows.
 - **duchopj5b2bw4-byte/devpack-pro** — [Website](<https://github.com/duchopj5b2bw4-byte/devpack-pro>) · [GitHub](<https://github.com/duchopj5b2bw4-byte/devpack-pro>) · **License: MIT** · Stars: not recorded — duchopj5b2bw4-byte/devpack-pro is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **durchnull/heal-suite** — [Website](<https://github.com/durchnull/heal-suite>) · [GitHub](<https://github.com/durchnull/heal-suite>) · **License: MIT** · Stars: not recorded — durchnull/heal-suite is listed as an agent-skill repository. Its catalogue topics include security and privacy and software engineering.
@@ -206,5 +205,6 @@
 - **ooooooooooooooooooop/personal-ai** — [Website](<https://github.com/ooooooooooooooooooop/personal-ai>) · [GitHub](<https://github.com/ooooooooooooooooooop/personal-ai>) · **License: MIT** · Stars: not recorded — ooooooooooooooooooop/personal-ai is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **opefyre/auditsmith** — [Website](<https://github.com/opefyre/auditsmith>) · [GitHub](<https://github.com/opefyre/auditsmith>) · **License: MIT** · Stars: not recorded — opefyre/auditsmith is listed as an agent-skill repository. Its catalogue topics include security and privacy, monitoring and operations, and deployment and cloud operations.
 - **openai/security-best-practices** — [Website](<https://github.com/openai/skills>) · [GitHub](<https://github.com/openai/skills>) · **License: Unknown** · **★ 28,289** (as of 2026-10-25) · **OpenAI · Official source** — openai/security-best-practices is listed as an agent skill. Its catalogue topics include security and privacy.
+- **OR13/skills** — [Website](<https://github.com/or13/skills>) · [GitHub](<https://github.com/or13/skills>) · **License: Apache-2.0** · Stars: not recorded — OR13/skills is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](security-and-privacy-65f61c-2.md)
