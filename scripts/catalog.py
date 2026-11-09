@@ -702,10 +702,31 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
     outputs.update(derived)
     outputs.update(render_browse(rows, manifest))
     disabled = read_json(root/'data/disabled-skills.json')['skills']
-    lines = [GENERATED, '', '# Disabled skills', '', '[Skills](README.md)', '',
-             'These paths were absent from the inspected publisher revision. They are excluded from the available catalogue while reviewed.', '']
+    lines = [GENERATED, '', '# Unavailable source paths', '', '[Skills](README.md)', '',
+             'These paths were absent from the inspected publisher revision and are excluded from search. A skill may still exist at another source.', '']
     for item in disabled:
-        lines.append('- **Disabled** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'`')
+        line = '- **Disabled path** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'`'
+        alternate = item.get('replacement')
+        if alternate:
+            if not isinstance(alternate, dict):
+                raise ValueError('Invalid replacement source')
+            repo, path, commit = alternate.get('repository', ''), alternate.get('path', ''), alternate.get('commit', '')
+            if not all(isinstance(value, str) for value in (repo, path, commit)) or not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo) or not re.fullmatch(r'[a-f0-9]{40}', commit) or not (path == 'SKILL.md' or path.endswith('/SKILL.md')) or path.startswith('/') or '..' in path.split('/') or alternate.get('kind') not in ('exact', 'related'):
+                raise ValueError('Invalid replacement source')
+            blob, previous = alternate.get('blob', ''), item.get('old_blob', '')
+            if not isinstance(blob, str) or not isinstance(previous, str) or not re.fullmatch(r'[a-f0-9]{40}', blob) or not re.fullmatch(r'[a-f0-9]{40}', previous) or (alternate['kind'] == 'exact' and blob != previous):
+                raise ValueError('Invalid replacement evidence')
+            if alternate['kind'] == 'related' and not isinstance(alternate.get('license_notice'), str):
+                raise ValueError('Related source needs its license warning')
+            from urllib.parse import quote
+            url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
+            if alternate['kind'] == 'exact' and not any(row['website_url'] == url for row in rows):
+                raise ValueError('Exact replacement missing from the catalogue')
+            label = 'Identical skill at original source' if alternate['kind'] == 'exact' else 'Related source, not verified equivalent'
+            line += ' · ['+label+'](<'+link_url(url)+'>)'
+            if alternate['kind'] == 'related':
+                line += ' · '+md(alternate.get('license_notice', 'Review source license before use.'))
+        lines.append(line)
     outputs['skills/disabled.md'] = ('\n'.join(lines+[''])).encode()
     outputs['provenance/descriptions.json'] = json_bytes(summarize_catalog(rows)[1])
     outputs['provenance/aliases.json'] = json_bytes({'schema_version': 1,

@@ -304,7 +304,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/architecture-decision/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "7ed909aa3757fd1c2cf1015d75f2d004672f09b0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "7ed909aa3757fd1c2cf1015d75f2d004672f09b0"
     },
     {
       "name": "deployment-operations",
@@ -313,7 +323,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/deployment-operations/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "55868fba24b0ca0edb09fb2458772393d3f23857",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "55868fba24b0ca0edb09fb2458772393d3f23857"
     },
     {
       "name": "documentation-consistency",
@@ -322,7 +342,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/documentation-consistency/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "433342e18e36045f3d45883f7618eeceb9214be6",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "433342e18e36045f3d45883f7618eeceb9214be6"
     },
     {
       "name": "engineering-principles",
@@ -331,7 +361,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/engineering-principles/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "9cc27a2d8812de16d776354be553f3ee75b09194",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "9cc27a2d8812de16d776354be553f3ee75b09194"
     },
     {
       "name": "iac-validation",
@@ -340,7 +380,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/iac-validation/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "22601b33628eb2c0684b20d33e2a0280b05d16a0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "22601b33628eb2c0684b20d33e2a0280b05d16a0"
     },
     {
       "name": "release-management",
@@ -349,7 +399,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/release-management/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "ef801a08d1afa5d17726026437f1da443079e3a2",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "ef801a08d1afa5d17726026437f1da443079e3a2"
     },
     {
       "name": "terraform-parity-proposal",
@@ -358,7 +418,17 @@
       "old_commit": "a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88",
       "checked_commit": "b92a8a090647a158b934c2cc73b3a8df75d862a6",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "exact",
+        "repository": "Azure/bicep-ptn-aiml-landing-zone",
+        "path": ".github/skills/terraform-parity-proposal/SKILL.md",
+        "commit": "97e2375b89dcda4900d75aac9e7ffb7b20cce165",
+        "blob": "9adb76426393e250d8442a275673b27f724ef205",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json"
+      },
+      "old_blob": "9adb76426393e250d8442a275673b27f724ef205"
     },
     {
       "name": "azsdk-common-typespec-naming",
@@ -961,7 +1031,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/audit-readiness/skills/evidence-gather/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "2cd395f7fc8a112872a09ddf6522361897f54c66",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "d5096a30c4edd5e8a6ff75215974b92457e24e05"
     },
     {
       "name": "gap-check",
@@ -970,7 +1051,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/audit-readiness/skills/gap-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "fd554669554820a2e7b200898484365683958946",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "19307371ab5c4ce80a5d73452dee15454df103ea"
     },
     {
       "name": "readiness-pack",
@@ -979,7 +1071,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/audit-readiness/skills/readiness-pack/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "256ef751b2b434e9b0376e7999dd6091a949b176",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "082ca46f9b60a48618b0f5e42d41ebdfb807c446"
     },
     {
       "name": "scope-map",
@@ -988,7 +1091,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/audit-readiness/skills/scope-map/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "2dba53f185d5d41279b0e59b9b6e6fc87d9723d1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "7ec518c234b62d3905dbfceeffdb598530e860ba"
     },
     {
       "name": "contradiction-flag",
@@ -997,7 +1111,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/consumer-market-insight-synthesis/skills/contradiction-flag/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "00a51245ee0d5644df27274b911bfb94a4e15dd0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "bb2f6046d3c89bef8465e64081cc9ac0d8823caf"
     },
     {
       "name": "insight-brief",
@@ -1006,7 +1131,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/consumer-market-insight-synthesis/skills/insight-brief/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "9bd10d9f9d8e3fa66f8e8bfc1b2a8741afcaa84b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "99eb982ab450b8c41ed9ae8aa3c625447bc30211"
     },
     {
       "name": "provenance-check",
@@ -1015,7 +1151,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/consumer-market-insight-synthesis/skills/provenance-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "09d758ddd47ccba7291277240239835b4b80fa7e",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "b14270b37931f36532ca5c1d3c7fe49955be5662"
     },
     {
       "name": "research-retrieve",
@@ -1024,7 +1171,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/consumer-market-insight-synthesis/skills/research-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "fe858aafc54cd0f6f9feff1b248a3bdb11db4141",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "a8e36495b33e34a13c1dfdf8593eb987820f0c26"
     },
     {
       "name": "trend-compare",
@@ -1033,7 +1191,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/consumer-market-insight-synthesis/skills/trend-compare/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "23cca790e5a111fc8c6e1eaa3176a6f6af38c417",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "f96e39918a74ee3ebb2cd2948438e1100699d1b8"
     },
     {
       "name": "context-assemble",
@@ -1042,7 +1211,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/customer-service-order-support/skills/context-assemble/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "6d3b419aa122552a5faf9f36d33357ac909dcf34",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "57dc36f128043f9f1f85f473055df7b56a4b1a55"
     },
     {
       "name": "handoff-packet",
@@ -1051,7 +1231,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/customer-service-order-support/skills/handoff-packet/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c57a53a4a15d3e49696b79af9b2ba98642b8d71a",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "c634f6000aa6bca6e82cf449da49e670a8a1b080"
     },
     {
       "name": "inquiry-intake",
@@ -1060,7 +1251,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/customer-service-order-support/skills/inquiry-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "bf26fd7a0c1cca4fa953f463ed36075d9c3755a1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "815c1c69f0b3ec3bf229f37233e1ef66c0e1b915"
     },
     {
       "name": "knowledge-retrieve",
@@ -1069,7 +1271,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/customer-service-order-support/skills/knowledge-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "93da9c557502b1151e6d89c757fbb3839834fcd8",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "eb337f8712e4fd0557dfa5ac91271269e0f9d084"
     },
     {
       "name": "resolution-draft",
@@ -1078,7 +1291,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/customer-service-order-support/skills/resolution-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "b8608315237b20c11a5187d1a0f25a74e5ea67d1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1f3c08f4e4fc4e19dbc0a3615341728523a8658f"
     },
     {
       "name": "bom-impact",
@@ -1087,7 +1311,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/engineering-change-bom/skills/bom-impact/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "00c7770e2f097969e742313ab1b6ed4dff0ab65b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "91a05bba4edc160a0af5263be2c01bc484c9ade1"
     },
     {
       "name": "ecn-draft",
@@ -1096,7 +1331,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/engineering-change-bom/skills/ecn-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "1797abbc839db1fd6e976b6d3c0306951e242ada",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "bc3f25e67174aa6d6fce4612fd323ae58fb8190e"
     },
     {
       "name": "ecr-ingest",
@@ -1105,7 +1351,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/engineering-change-bom/skills/ecr-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "db72dda6a7658bd5bf933e4b9684dde8a1f5a9d8",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "3e3601abc3607f91c443a3e3754b8e50b69a5d4f"
     },
     {
       "name": "standards-check",
@@ -1114,7 +1371,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/engineering-change-bom/skills/standards-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c638293e4b5fa9fa0d3ed7f828388e630aa6e80b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "8a8caab2edb7f238b184f950c6b128e43f15456a"
     },
     {
       "name": "criticality-rank",
@@ -1123,7 +1391,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/maintenance-triage/skills/criticality-rank/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "eef48344f94896a30f79bacd82abf6c6dc6bf019",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "65de9e598f56c307ab4d5f92f8ae505d6ed1ebd8"
     },
     {
       "name": "failure-mode-rank",
@@ -1132,7 +1411,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/maintenance-triage/skills/failure-mode-rank/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c1fd964832bf78a6c0537197209c4f213d66b39b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "3445c0905c154cddf47387a09439ea77a9147b71"
     },
     {
       "name": "fault-intake",
@@ -1141,7 +1431,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/maintenance-triage/skills/fault-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "12612a8094c7b9f6124ae91d0cc8c2ea8a897b32",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "d9aa4f458ba5be69ca81bce031210b99beaeeb28"
     },
     {
       "name": "history-retrieve",
@@ -1150,7 +1451,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/maintenance-triage/skills/history-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "7ef77a60888c53e515c237b4ca603eb23a1cd60f",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "a19e5e2e1c90f173d14ce5c16fd7e74f22952c7b"
     },
     {
       "name": "work-order-update",
@@ -1159,7 +1471,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/maintenance-triage/skills/work-order-update/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c48dadf9b06e05f5f7ca87ef43fcf7ad825365c1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "6ed004dd67aed16f565a3d1458b8f96177069c7b"
     },
     {
       "name": "exception-route",
@@ -1168,7 +1491,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/order-intake-o2c-exception/skills/exception-route/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "20c9b713de110502743e44778799371320bd0c6b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "ff0f3c98d2774c4b7ef22c586a800325c73f6662"
     },
     {
       "name": "line-normalize",
@@ -1177,7 +1511,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/order-intake-o2c-exception/skills/line-normalize/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "7b0df29826a2133bdb00ea5f798d68bc8f91e1a3",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "fad4db941d3eb32d6eb94653c754214dbf7374a0"
     },
     {
       "name": "order-ingest",
@@ -1186,7 +1531,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/order-intake-o2c-exception/skills/order-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "d3991de9b6982948e77cb73ef6d8118d7c068079",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "4115d24fba1ceb2ac003148f9472c48aa898e181"
     },
     {
       "name": "order-validate",
@@ -1195,7 +1551,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/order-intake-o2c-exception/skills/order-validate/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "5d607de5b7f32942fc25f891d5ece19bde07f116",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "3d67cc188f3fb90351d2c9951ad30cdce54623cb"
     },
     {
       "name": "response-draft",
@@ -1204,7 +1571,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/order-intake-o2c-exception/skills/response-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "18bd7b83662fdc9a2e30d05254c255694e7856d8",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "9d7783d53bd2999189b5fc74e41e5e754c98e7e2"
     },
     {
       "name": "attribute-normalize",
@@ -1213,7 +1591,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/product-content-catalog-enrichment/skills/attribute-normalize/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "665ba1c241f79540f99fd40b8f4a448f29b49c36",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1176deb083c84106549c79354164a46ef18d1e9a"
     },
     {
       "name": "claim-check",
@@ -1222,7 +1611,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/product-content-catalog-enrichment/skills/claim-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "870e84aad9eb2b21f19cbf3dfab6340792f9b0de",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "397848dfb3ec7c385425d72a92ec8f152dabcdcf"
     },
     {
       "name": "content-draft",
@@ -1231,7 +1631,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/product-content-catalog-enrichment/skills/content-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "5a0f3b81a21fd836fedd03135e838e3854a62a3a",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "d1ce6141e1f823bd38a52088326aaca44ebf0f3e"
     },
     {
       "name": "gap-score",
@@ -1240,7 +1651,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/product-content-catalog-enrichment/skills/gap-score/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "3ec1a1ebf2fa4338c5923932307effe821408e15",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "4b94f6c0f8539acdb066f4b81b7a61d1915697a3"
     },
     {
       "name": "source-ingest",
@@ -1249,7 +1671,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/product-content-catalog-enrichment/skills/source-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "22af6ae25497ce3afa0cd262721d440728cd33aa",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "fa15873f93b477f306c5f37c9735d3e53997333d"
     },
     {
       "name": "capacity-check",
@@ -1258,7 +1691,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/production-planning/skills/capacity-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "2f0cafc64b3a07fd5af40fa957f55dcbe904af13",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "946bfdd0b996f8fbc76a1de3db2367a0afc5d523"
     },
     {
       "name": "demand-pull",
@@ -1267,7 +1711,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/production-planning/skills/demand-pull/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "4d7d0cf51f1a2c57b675d060f3705c21febbeed4",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "cda0f40ce2f5bac8c02f528eefd234a2350132ef"
     },
     {
       "name": "schedule-optimize",
@@ -1276,7 +1731,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/production-planning/skills/schedule-optimize/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "e1d95f549c54eb34899f888d72cda86bdedf87e4",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "fbf56cc02500b5448d8e3f25d47e7273b57a8206"
     },
     {
       "name": "shift-plan-draft",
@@ -1285,7 +1751,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/production-planning/skills/shift-plan-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "7ae49eec569258d921d4907592f0add77e162c48",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "a36a16d214d57305c93f42d99facc124ed23fbfd"
     },
     {
       "name": "capa-build",
@@ -1294,7 +1771,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-incident-capa/skills/capa-build/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "4824bcf33a012d9835b89ed2c4bcdeb4d4400353",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "b94190f8c5f5bb3a400c9f3ec49ceda9f18ab051"
     },
     {
       "name": "closure-check",
@@ -1303,7 +1791,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-incident-capa/skills/closure-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "f6831673b4995dc0deef899a24aa6380de078176",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "4314ff5ab70de4816c167a70199ab51d10975268"
     },
     {
       "name": "eightd-draft",
@@ -1312,7 +1811,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-incident-capa/skills/eightd-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "40cff96fcfbf50a3e07f2002b1dd2954d981943d",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1686bb6edf05f75302a4cacfaca4713ca2806446"
     },
     {
       "name": "ncr-intake",
@@ -1321,7 +1831,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-incident-capa/skills/ncr-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "bb9cf7929d9ffca58d5f7fe5e570c9e2cb3e9a00",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "d758b2b251c72773f8fa0154b83303f7853678d8"
     },
     {
       "name": "root-cause-analyze",
@@ -1330,7 +1851,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-incident-capa/skills/root-cause-analyze/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "285ef0b7f4b8b19ceb5adb1d4a89310289616dc6",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "28396fdb6b766998015723c3859f5b28ea30402a"
     },
     {
       "name": "defect-grade",
@@ -1339,7 +1871,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-inspection/skills/defect-grade/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "3fa7bcd4fb62fd5ce078188d339340ef7f7ebd15",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "c7cc770278c3692564dba00378fa73cf26861486"
     },
     {
       "name": "ncr-draft",
@@ -1348,7 +1891,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-inspection/skills/ncr-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "70cb4bb5aebe01540598437693d91d23147434e4",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "2bd68d9bd8cfb6c8c2adfd7c1a403f4fac282b2a"
     },
     {
       "name": "spec-ingest",
@@ -1357,7 +1911,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-inspection/skills/spec-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "1ddc99ed9b49a38f8845dc9c927963375769e3a1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "7692d18559105b4e2499947980e8d2cd56312446"
     },
     {
       "name": "tolerance-check",
@@ -1366,7 +1931,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/quality-inspection/skills/tolerance-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "8488bfae7774f67289e47e7eafbbf602053abad7",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "b4d80145358f1c10bd4985e523adb2197be6bad7"
     },
     {
       "name": "action-register",
@@ -1375,7 +1951,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/retail-execution-perfect-store/skills/action-register/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "074064f47e499ccce46ecdbd3bc8a2253c436b0d",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "a9f74c3e4c4b48fea5b8bca6bbfc3b540a2939e5"
     },
     {
       "name": "gap-score",
@@ -1384,7 +1971,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/retail-execution-perfect-store/skills/gap-score/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "9823dd1a99aa2e193bdb2fd221c2a7806b6bd502",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "de3121b45011e9473d60f48b88643287e1278a47"
     },
     {
       "name": "standard-retrieve",
@@ -1393,7 +1991,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/retail-execution-perfect-store/skills/standard-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "dde6e1186d59e684a29d2b956cfd985f18aec2fc",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "4fd521087896e9e54017a654a00682737bde9879"
     },
     {
       "name": "visit-prep",
@@ -1402,7 +2011,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/retail-execution-perfect-store/skills/visit-prep/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "aa09268d0cf487b149e4fa9c91d8012784a722d8",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "7a40db3fcef8ccffd61aaed60cff5d24f4e386e6"
     },
     {
       "name": "visit-report",
@@ -1411,7 +2031,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/retail-execution-perfect-store/skills/visit-report/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "0b5b60dcb6b5d1269942b8a86facf670e44c672f",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "add5ac5140eb796eaeb9a27d4bf1e985d8ac7c04"
     },
     {
       "name": "case-packet",
@@ -1420,7 +2051,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/returns-refund-case/skills/case-packet/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c691bdb140db3e43d81699612883b84c80c17d88",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "538a7cd251b2344e7a29fc056196eec4337b5574"
     },
     {
       "name": "eligibility-check",
@@ -1429,7 +2071,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/returns-refund-case/skills/eligibility-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "f1c79320e7a9de0fcd2ba2d68f0e4f030b7547de",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "ef253b9534bab5a963f187bce90a205122d108fa"
     },
     {
       "name": "policy-retrieve",
@@ -1438,7 +2091,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/returns-refund-case/skills/policy-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "8ea9328aa703aa6b8643d9d2d37f9bb5667bee1b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "bc96ca9e72e896c02dc4ce59ccb32d0eb56be12f"
     },
     {
       "name": "reason-classify",
@@ -1447,7 +2111,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/returns-refund-case/skills/reason-classify/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "5f256c15f16a6d57630699faa4cb6709a3a18052",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "29034488f2194bc5f9549eaeaba7635484a39754"
     },
     {
       "name": "return-intake",
@@ -1456,7 +2131,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/returns-refund-case/skills/return-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "7ce5a9e3307f4e662071508a4f28cb3c3170be65",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "597fc187911c5fc4ef4757b0118082cfc8cbaee9"
     },
     {
       "name": "ehs-knowledge-retrieve",
@@ -1465,7 +2151,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/safety-incident/skills/ehs-knowledge-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "9ce137c7ba4228822c995b51689887b1a501df61",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "599f26d8ba1fbb1bb95093d0a30dae4a2114e8c9"
     },
     {
       "name": "incident-intake",
@@ -1474,7 +2171,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/safety-incident/skills/incident-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "1291766e3539b2aaea7ba7c9c6633eb6263c9fb4",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "bf5079b61551406ce333f79a53554b23f198ef17"
     },
     {
       "name": "incident-writeup",
@@ -1483,7 +2191,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/safety-incident/skills/incident-writeup/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "8affc56f953ee30e0001fffc0534b6adbc32324c",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "c1fd50030f7546311e52643d8bcb7bac68572664"
     },
     {
       "name": "routing-notify",
@@ -1492,7 +2211,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/safety-incident/skills/routing-notify/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "6250f9664c560ddfb45ed803540c6b53d427b5a0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "16459380e9823c92f9c728c0a9854625363d319e"
     },
     {
       "name": "severity-recordability",
@@ -1501,7 +2231,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/safety-incident/skills/severity-recordability/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "e41d7950ccf9eda1adb630d0880d23d868c9c5c0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "b33f2e407de6689cbc52a98200aed8f065032f2e"
     },
     {
       "name": "answer-draft",
@@ -1510,7 +2251,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-associate-assist/skills/answer-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "4aeb15fc9bdcb1fc36325376ac7ea85fd4fc1c2d",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1b339b4b3afd24e4fa750f97872730c464d56af5"
     },
     {
       "name": "policy-retrieve",
@@ -1519,7 +2271,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-associate-assist/skills/policy-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "9ae9a2da3744d38429844662592d0529d6b097fb",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "2a25b7626cce95768c2c77532605b2476c946a80"
     },
     {
       "name": "product-compare",
@@ -1528,7 +2291,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-associate-assist/skills/product-compare/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "65d79bdc0248fe195d3910a9b6ca941b025d1daf",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "bf01e0d7cc74e12d9d3ac0f1cb999d47f81155bb"
     },
     {
       "name": "promo-check",
@@ -1537,7 +2311,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-associate-assist/skills/promo-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "f87b811b2670cb72cedce8e2c22d5dcfdc4fe050",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "2c2e491880c21ba5415781c2d9395e527aaedd8e"
     },
     {
       "name": "question-intake",
@@ -1546,7 +2331,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-associate-assist/skills/question-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "e3d3aa526603899bf96c69f1427bd8d2e178c1d7",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "7c76135043ec98c26cf37dbb2d1e72ba0c569c6c"
     },
     {
       "name": "brief-draft",
@@ -1555,7 +2351,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-task-promotion-execution/skills/brief-draft/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "e48ddcf5dff81e9235abec4cf023d3b97afe2306",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "19f20d87a11a80f2b834bf5cfd2a3ae9a065b637"
     },
     {
       "name": "exception-raise",
@@ -1564,7 +2371,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-task-promotion-execution/skills/exception-raise/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "dcc683d610fa37036f78b4f73749e02a805056b0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "7aa02b271a8e7ca938775288c23737a507ea8ce8"
     },
     {
       "name": "pack-ingest",
@@ -1573,7 +2391,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-task-promotion-execution/skills/pack-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "016fcdf2bb5bb077dd773c5bd8b5108aac0f5548",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1356776bfb21d81aac5240f942e713ef010056ce"
     },
     {
       "name": "readiness-check",
@@ -1582,7 +2411,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-task-promotion-execution/skills/readiness-check/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "a9d6a54408e92af4f7bd6da5ae8fead0319f2a0c",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "9c2f9ca9c6c2221725c8fa19f73afd6e43a8b5a3"
     },
     {
       "name": "store-map",
@@ -1591,7 +2431,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/store-task-promotion-execution/skills/store-map/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "6f5d878ef87c0867865aac339693e6befff4a078",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "67fd5a303a3602e07a3141048b85840791c5a030"
     },
     {
       "name": "disruption-intake",
@@ -1600,7 +2451,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-disruption/skills/disruption-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "1bc2585000959e0b07f7be02fa7039da65a319bb",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "f98eefee4dd89b73204689b3222179a537ee0963"
     },
     {
       "name": "disruption-writeup",
@@ -1609,7 +2471,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-disruption/skills/disruption-writeup/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "416a2a3ff64ef7a0c2712c121b2bb460a61c4290",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1c1005cf04a0267b764be2bc74ec74809cb83b68"
     },
     {
       "name": "mitigation-recommend",
@@ -1618,7 +2491,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-disruption/skills/mitigation-recommend/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "faa46abefb654716e649d0956bcf85cde2d0eefa",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "f8ff772d3465aef7c5f513a5b6649e5e6b4951d1"
     },
     {
       "name": "shortage-impact-map",
@@ -1627,7 +2511,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-disruption/skills/shortage-impact-map/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "d03d91bb0ac4a24909fee098750ab90088261589",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "eeabbd66f31509826b21efdfafbb697d191bf8a1"
     },
     {
       "name": "supply-knowledge-retrieve",
@@ -1636,7 +2531,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-disruption/skills/supply-knowledge-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "bd2f1f6293bc06241df581a1f17a70aca31f5c15",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "71af7988ffb8c5129e87adf345e6e4ca7e09735d"
     },
     {
       "name": "avl-compare",
@@ -1645,7 +2551,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-qualification/skills/avl-compare/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "ff5147dab14fe9070f1360ed3f5f96c3b7da7e3f",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "0cd0f718347e6253ba8956d5444e38717e708c68"
     },
     {
       "name": "dossier-ingest",
@@ -1654,7 +2571,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-qualification/skills/dossier-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "014473a874a80157ef4881d049e6f9e7405644a9",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "861cb89999e7e2dab120ab96abd7a8871fb666c1"
     },
     {
       "name": "qualification-memo",
@@ -1663,7 +2591,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-qualification/skills/qualification-memo/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "dbfa91de8d05aad5e2f78a357d22e0163ff0e3e0",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "f7c1348fd36ebb06d70985c4084de58f088c8160"
     },
     {
       "name": "risk-score",
@@ -1672,7 +2611,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/supplier-qualification/skills/risk-score/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "4468bdb292a7353f6f41db123bd244c454e77cd1",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "579dc22edeae2b0f5a76f647c61929215385feeb"
     },
     {
       "name": "issue-cluster",
@@ -1681,7 +2631,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/supplier-vendor-performance/skills/issue-cluster/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "76494cd29cfcba7d99e4490226de49122bab0f3d",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "766bab57ce6604e3002b1b554a55b97dde36289a"
     },
     {
       "name": "record-pull",
@@ -1690,7 +2651,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/supplier-vendor-performance/skills/record-pull/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c197d77249720ce22f317e0d69e01001a06754be",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "1e40786f301f77492b00ed745d7a2699b8c710ec"
     },
     {
       "name": "review-pack",
@@ -1699,7 +2671,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/supplier-vendor-performance/skills/review-pack/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "2309fd818284dee76cebd2a0c65fb66cbf6d12d9",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "660e51a4d0b0ccce46876c69ce53968e3feb4163"
     },
     {
       "name": "scorecard-roll",
@@ -1708,7 +2691,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/supplier-vendor-performance/skills/scorecard-roll/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "a3b5486285af6bfd29f0907b01bdc69bf3439067",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "30de1380dd9085d93ec86de5a966a0e9762e04d9"
     },
     {
       "name": "term-retrieve",
@@ -1717,7 +2711,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/supplier-vendor-performance/skills/term-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "03e3f90f5cfed4b3be2a9f490386056f879fe14e",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "a84ab4a07c6a51e8f97981eb475bbb4015aa3895"
     },
     {
       "name": "claim-ingest",
@@ -1726,7 +2731,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/trade-promotion-deduction-recovery/skills/claim-ingest/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "f9b8394686262528e7995522b9a7ae921fbad6ec",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "f783f027a996a4c1180dbeb4b66ce538d3a1d6ae"
     },
     {
       "name": "claim-match",
@@ -1735,7 +2751,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/trade-promotion-deduction-recovery/skills/claim-match/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "7263b79ea5f035c79f47284c950c594223fd82ae",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "60a4fbba24bb25920564377430373d86dc456f04"
     },
     {
       "name": "dispute-packet",
@@ -1744,7 +2771,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/trade-promotion-deduction-recovery/skills/dispute-packet/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "1351b966f353c9288ef7fb18cd31f28eca7d4976",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "0fa7305b3eca170e9c12eedba7f226d5eac31801"
     },
     {
       "name": "term-retrieve",
@@ -1753,7 +2791,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/trade-promotion-deduction-recovery/skills/term-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "d0ab3b70b6db24bada1cc6a2c3bfae3c36f55c5b",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "9c05603eac3e385afee30afd5e2e9c9e47886ac0"
     },
     {
       "name": "validity-classify",
@@ -1762,7 +2811,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/retail-and-cpg/trade-promotion-deduction-recovery/skills/validity-classify/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "48c109503aa2e0959b4388ced13bba172db0d598",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "761fe6b8c1d28ddb99a0216e13a84f9355364714"
     },
     {
       "name": "knowledge-retrieve",
@@ -1771,7 +2831,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/work-order-assist/skills/knowledge-retrieve/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "c505cb1d823778e94a008013191fb698aa91cd24",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "67e47179dd4e8a7735c265a84ff6cb16778625e8"
     },
     {
       "name": "parts-readiness",
@@ -1780,7 +2851,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/work-order-assist/skills/parts-readiness/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "e7520d0784f29481ab9d6332b5b4486e5957a8a7",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "420c3f52778c13921483696da73c441039e0098d"
     },
     {
       "name": "similar-work-rank",
@@ -1789,7 +2871,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/work-order-assist/skills/similar-work-rank/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "36c8cbcb01e1663779b17a6211807ac5a45cb52c",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "55db5bdfd35bf0b1293f8217d23ad1871d53148f"
     },
     {
       "name": "wo-intake",
@@ -1798,7 +2891,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/work-order-assist/skills/wo-intake/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "18dd864770ae50cf1cdfb6ed66ef7ac5d389e039",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "b7eeee7b02b1fb9ed3af33e901729a3d3ac471d0"
     },
     {
       "name": "work-order-writeup",
@@ -1807,7 +2911,18 @@
       "old_commit": "3678d23ad8fb8d098c428302a98044ac9514d5a1",
       "checked_commit": "c739e95c35d12a999691ab076c3d4c3095bf8192",
       "checked_at": "2026-11-09T04:49:53.939605+00:00",
-      "reason": "Path absent from the inspected publisher revision."
+      "reason": "Path absent from the inspected publisher revision.",
+      "replacement": {
+        "kind": "related",
+        "repository": "SravaniSeethi/industry-templates",
+        "path": "submissions/manufacturing/work-order-assist/skills/work-order-writeup/SKILL.md",
+        "commit": "f1c9caaf7ab25fec87fe26bf5bd22c513b9ee287",
+        "blob": "9af2c766e063b09d42c0862c59d2d66439acdddf",
+        "checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "provenance": "https://github.com/microsoft/cat-agent-skills/blob/c739e95c35d12a999691ab076c3d4c3095bf8192/README.md",
+        "license_notice": "The related skill file says Proprietary; its repository is marked MIT. Review the terms before use."
+      },
+      "old_blob": "0fa7edaf6eaffae81d9e0fdebb8c1e5b096b49fd"
     },
     {
       "name": "foundry-agent",

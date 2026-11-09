@@ -61191,6 +61191,35 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:fcb3849a-2eb1-5347-9745-e19044616759",
+    "name": "architecture-decision",
+    "description": "architecture-decision is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/architecture-decision/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "4e048878-de03-516d-aef1-902a42ccfb87",
     "name": "architecture-decision-records",
     "description": "architecture-decision-records is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
@@ -190807,6 +190836,35 @@
     "preferred_provider": "Amazon Web Services"
   },
   {
+    "id": "community:862931ec-a7fc-5b5c-9705-1497639529c7",
+    "name": "deployment-operations",
+    "description": "deployment-operations is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/deployment-operations/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "5d3c2fcd-9c02-584b-8f64-7ea590c85797",
     "name": "deployment-pipelines-authoring-cli",
     "description": "deployment-pipelines-authoring-cli is listed as an agent skill. Its catalogue topics include deployment and cloud operations.",
@@ -206040,6 +206098,35 @@
     "agentbay_url": "https://agentbay.io/?project=cd9daca6-11f6-506b-8177-6ed50295906d#catalog",
     "github_stars": 10,
     "github_stars_checked_at": "2026-10-25T04:51:06.697990+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:6e3ed74d-cfab-5180-837d-49e6363f1841",
+    "name": "documentation-consistency",
+    "description": "documentation-consistency is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/documentation-consistency/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -223588,6 +223675,35 @@
     "agentbay_url": "https://agentbay.io/?project=b01c0fc8-2693-587a-a6b7-9da8f29e3efd#catalog",
     "github_stars": 1187,
     "github_stars_checked_at": "2026-10-25T04:53:58.726335+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:7dd36052-423d-56dc-8e69-ec7c1a15c370",
+    "name": "engineering-principles",
+    "description": "engineering-principles is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/engineering-principles/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -301665,6 +301781,35 @@
     "github_stars_checked_at": "2026-10-25T05:49:55.445256+00:00",
     "recommended": false,
     "preferred_provider": "Amazon Web Services"
+  },
+  {
+    "id": "community:4ce793e6-041a-59f1-9ab5-7b9a1c962071",
+    "name": "iac-validation",
+    "description": "iac-validation is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/iac-validation/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "36f6c2ed-d648-5057-a66f-3382634278e7",
@@ -498968,6 +499113,35 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:f14f523c-7268-5ac3-b65e-75209128d31c",
+    "name": "release-management",
+    "description": "release-management is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/release-management/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "77a23e47-fb78-5de9-a6a0-3ee740b20f70",
     "name": "release-note-generation",
     "description": "release-note-generation is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -594822,6 +594996,35 @@
     "github_stars_checked_at": "2026-10-25T05:49:07.284115+00:00",
     "recommended": false,
     "preferred_provider": "Google"
+  },
+  {
+    "id": "community:c57dcb40-879a-5bec-b369-7c967656013b",
+    "name": "terraform-parity-proposal",
+    "description": "terraform-parity-proposal is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/terraform-parity-proposal/SKILL.md",
+    "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Microsoft",
+      "Azure",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "repository",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "agentbay_url": "",
+    "github_stars": 19,
+    "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "f126bba3-637f-5d69-b348-01dbb56dee38",

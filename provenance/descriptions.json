@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22858,
+  "entry_count": 22865,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -18991,6 +18991,15 @@
     },
     "7b43b47d-9a68-5bad-96ee-9e71eeca179e": {
       "input_sha256": "bf2d63de5eaa9b9ed41d0a937412435a2525177a60301108901362b574d7ba4e",
+      "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:fcb3849a-2eb1-5347-9745-e19044616759": {
+      "input_sha256": "85e64b956d42f9f51158092abd5b629321b17dea7828cd2fb1d9676fccf2ace5",
       "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -59406,6 +59415,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:862931ec-a7fc-5b5c-9705-1497639529c7": {
+      "input_sha256": "18fe21c09ba1f18dc491176cebe06f532462a203b309c3e38d80c0c35eca3c07",
+      "description_sha256": "cc8bb4ae4cc9699e4db949e9fb412ad383b912c007d8ac62f3bfd4fb2980ba73",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "5d3c2fcd-9c02-584b-8f64-7ea590c85797": {
       "input_sha256": "0fa9048befc105cb2d9cd049c5c8fa80a06ed306a99c53091dfd5bcd322464f8",
       "description_sha256": "f44ea5adb0cfb1620db93ae5c7a067dfe7f99973db04fd7e9ef72ffdf15e074e",
@@ -64168,6 +64186,15 @@
       "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
       "topics": [
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:6e3ed74d-cfab-5180-837d-49e6363f1841": {
+      "input_sha256": "d16f035ce8228f886a9352b2b6160f64a82a0002265ba2de656cb4439c27fdb8",
+      "description_sha256": "9f81048a5649789f575f03352aeae65c644c8fdd9e24a4dfade72d2a34dbf824",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -69485,6 +69512,15 @@
     },
     "b01c0fc8-2693-587a-a6b7-9da8f29e3efd": {
       "input_sha256": "ece6744e35a846c4c4097df6a53ea06560ee1b1c48ddc06eed345473f4d7c845",
+      "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:7dd36052-423d-56dc-8e69-ec7c1a15c370": {
+      "input_sha256": "fdada07f309b4f1e29519dfbc26ea7bb5ff37479b39ddbee18c8e713ae83b677",
       "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -93534,6 +93570,15 @@
     "b1cc2c6a-139b-5b04-a178-42412461e885": {
       "input_sha256": "1025e8609b3c7eea30d69610d9ec3ab91da736a44eaa6bb0d2085a684dd582f9",
       "description_sha256": "b1523dac76150d25f8b277780dbba0246d88038cf5fd87c4f271700eb89b1c11",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:4ce793e6-041a-59f1-9ab5-7b9a1c962071": {
+      "input_sha256": "0ee3d1ec77d8c935b155c5f15c819f5be021134e047c32c867d9b339f45c0cae",
+      "description_sha256": "63f7f1751631ecf4e0d0f585cf99898fe0bab3dfcac615791cc1c5b81142ef4a",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -153518,6 +153563,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:f14f523c-7268-5ac3-b65e-75209128d31c": {
+      "input_sha256": "d4a75f69dae0d243640b490de807efeec50ed1138540557b962a73d59500a834",
+      "description_sha256": "2c1a45ce5b7eba315f2dde43a94d7227199a09c281008ae9e2644d4344209372",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "77a23e47-fb78-5de9-a6a0-3ee740b20f70": {
       "input_sha256": "810a1e23d9a6918ad158a5ec069f9a161505dc8dbe787d48bec318f4141a4ab4",
       "description_sha256": "bda9d84e9fad89bd400bd1f1dff626903e2a10964d9a70506061bc32c2ed742e",
@@ -182836,6 +182890,15 @@
       "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
       "topics": [
         "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:c57dcb40-879a-5bec-b369-7c967656013b": {
+      "input_sha256": "b4d831ba909f622dcb48f327f76fff36fa523193388b957883db4b0733125811",
+      "description_sha256": "a276362102deb843f2cca4c42270c18e0e42026f70abd17f341ca4be4ec5785d",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },

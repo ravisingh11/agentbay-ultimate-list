@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-8.md) · [Next →](software-development-e36077-10.md)
 
-11,495 listings · Page 9 of 58
+11,502 listings · Page 9 of 58
 
+- **bloom-skip** — [Website](<https://github.com/Snowflake-Labs/cocoplus/blob/bcd40f716c216f73034da43fc141417242ae495a/.cortex/skills/cocobloom/bloom-skip/SKILL.md>) · [GitHub](<https://github.com/Snowflake-Labs/cocoplus>) · **License: MIT** · **★ 726** (as of 2026-10-24) · **Snowflake · Official source** — bloom-skip is listed as an agent skill. Its catalogue topics include software engineering.
 - **BlueprintOS/analysis-to-delivery** — [Website](<https://github.com/blueprintos/analysis-to-delivery>) · [GitHub](<https://github.com/blueprintos/analysis-to-delivery>) · **License: MIT** · Stars: not recorded — BlueprintOS/analysis-to-delivery is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and data analysis.
 - **bmad-code-review** — [Website](<https://github.com/bmad-code-org/bmad-method>) · [GitHub](<https://github.com/bmad-code-org/bmad-method>) · **License: MIT** · Stars: not recorded — bmad-code-review is listed as an agent skill. Its catalogue topics include software engineering.
 - **board-config** — [Website](<https://github.com/microsoft/devsquad-copilot/blob/e2c84da4ee46376ec1180b0ff607a547287330f3/.github/plugins/devsquad/skills/board-config/SKILL.md>) · [GitHub](<https://github.com/microsoft/devsquad-copilot>) · **License: MIT** · **★ 50** (as of 2026-10-25) · **Microsoft · Official source** — board-config is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **bump-sdk** — [Website](<https://github.com/databricks/cli/blob/edebd84f7ae040a07b646c06b806d79c5f12f842/.agents/skills/bump-sdk/SKILL.md>) · [GitHub](<https://github.com/databricks/cli>) · **License: Unknown** · **★ 414** (as of 2026-10-24) · **Databricks · Official source** — bump-sdk is listed as an agent skill. Its catalogue topics include software engineering.
 - **bump-sdk-version** — [Website](<https://github.com/salesforce/AgentforceMobileSDK-ReactNative/blob/7d8f21d3faa5a3868be5f39f2c67640fc934df95/.claude/skills/bump-sdk-version/SKILL.md>) · [GitHub](<https://github.com/salesforce/AgentforceMobileSDK-ReactNative>) · **License: Apache-2.0** · **★ 10** (as of 2026-10-24) · **Salesforce · Official source** — bump-sdk-version is listed as an agent skill. Its catalogue topics include software engineering.
 - **bump-sentry-dependency** — [Website](<https://github.com/getsentry/sentry/blob/9f79f84e4787cb35c5c322be0f4dc0967e1c6463/.agents/skills/bump-sentry-dependency/SKILL.md>) · [GitHub](<https://github.com/getsentry/sentry>) · **License: Unknown** · **★ 45,639** (as of 2026-10-24) · **Sentry · Official source** — bump-sentry-dependency is listed as an agent skill. Its catalogue topics include software engineering.
-- **bump-serverless-env-version** — [Website](<https://github.com/databricks/cli/blob/edebd84f7ae040a07b646c06b806d79c5f12f842/.agents/skills/bump-serverless-env-version/SKILL.md>) · [GitHub](<https://github.com/databricks/cli>) · **License: Unknown** · **★ 414** (as of 2026-10-24) · **Databricks · Official source** — bump-serverless-env-version is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-8.md) · [Next →](software-development-e36077-10.md)

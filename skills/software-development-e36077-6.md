@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-5.md) · [Next →](software-development-e36077-7.md)
 
-11,495 listings · Page 6 of 58
+11,502 listings · Page 6 of 58
 
+- **autoship** — [Website](<https://github.com/vercel-labs/autoship/blob/aeadbaa1d8c8209e3de508c7e6999b843cd274d8/skills/autoship/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/autoship>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **Vercel · Official source** — autoship is listed as an agent skill. Its catalogue topics include software engineering.
 - **auver/maven-code-graph** — [Website](<https://github.com/auver/maven-code-graph>) · [GitHub](<https://github.com/auver/maven-code-graph>) · **License: MIT** · Stars: not recorded — auver/maven-code-graph is listed as an agent-skill repository. Its catalogue topics include software engineering and monitoring and operations.
 - **auYeCoding/radish-plugins** — [Website](<https://github.com/auyecoding/radish-plugins>) · [GitHub](<https://github.com/auyecoding/radish-plugins>) · **License: MIT** · Stars: not recorded — auYeCoding/radish-plugins is listed as an agent-skill repository. Its catalogue topics include software engineering and security and privacy.
 - **AvatarSD/KiSkill** — [Website](<https://github.com/avatarsd/kiskill>) · [GitHub](<https://github.com/avatarsd/kiskill>) · **License: MIT** · Stars: not recorded — AvatarSD/KiSkill is listed as an agent-skill repository. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **azure-ai-projects-java** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-java/skills/azure-ai-projects-java/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-projects-java is listed as an agent skill. Its catalogue topics include software engineering.
 - **azure-ai-projects-py** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-python/skills/azure-ai-projects-py/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-projects-py is listed as an agent skill. Its catalogue topics include software engineering.
 - **azure-ai-projects-ts** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-typescript/skills/azure-ai-projects-ts/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-projects-ts is listed as an agent skill. Its catalogue topics include software engineering.
-- **azure-ai-textanalytics-py** — [Website](<https://github.com/microsoft/skills/blob/2130750147dee0311215099ddf36647ba1e0f006/.github/plugins/azure-sdk-python/skills/azure-ai-textanalytics-py/SKILL.md>) · [GitHub](<https://github.com/microsoft/skills>) · **License: MIT** · **★ 3,145** (as of 2026-10-25) · **Microsoft · Official source** — azure-ai-textanalytics-py is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-5.md) · [Next →](software-development-e36077-7.md)

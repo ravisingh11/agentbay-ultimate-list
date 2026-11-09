@@ -3505,6 +3505,286 @@
           "note": "Meta Platforms, Inc. and affiliates are upstream authors; AgentBay maintains this adaptation."
         }
       ]
+    },
+    {
+      "id": "community:fcb3849a-2eb1-5347-9745-e19044616759",
+      "fields": {
+        "name": "architecture-decision",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/architecture-decision/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/architecture-decision/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:862931ec-a7fc-5b5c-9705-1497639529c7",
+      "fields": {
+        "name": "deployment-operations",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/deployment-operations/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/deployment-operations/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:6e3ed74d-cfab-5180-837d-49e6363f1841",
+      "fields": {
+        "name": "documentation-consistency",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/documentation-consistency/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/documentation-consistency/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:7dd36052-423d-56dc-8e69-ec7c1a15c370",
+      "fields": {
+        "name": "engineering-principles",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/engineering-principles/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/engineering-principles/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:4ce793e6-041a-59f1-9ab5-7b9a1c962071",
+      "fields": {
+        "name": "iac-validation",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/iac-validation/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/iac-validation/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:f14f523c-7268-5ac3-b65e-75209128d31c",
+      "fields": {
+        "name": "release-management",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/release-management/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/release-management/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
+    },
+    {
+      "id": "community:c57dcb40-879a-5bec-b369-7c967656013b",
+      "fields": {
+        "name": "terraform-parity-proposal",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/terraform-parity-proposal/SKILL.md",
+        "repository_url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Microsoft",
+          "Azure",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "repository",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T15:01:31.417482+00:00",
+        "github_stars": 19,
+        "github_stars_checked_at": "2026-11-09T15:01:31.417482+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone/blob/97e2375b89dcda4900d75aac9e7ffb7b20cce165/.github/skills/terraform-parity-proposal/SKILL.md",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified pinned SKILL.md bytes, Git blob and matching previous indexed content in the original source."
+        },
+        {
+          "url": "https://github.com/Azure/bicep-ptn-aiml-landing-zone",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "Verified public active Azure-owned repository and repository-level MIT license; the skill frontmatter does not state a separate license."
+        },
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/blob/b92a8a090647a158b934c2cc73b3a8df75d862a6/manifest.json",
+          "checked_at": "2026-11-09T15:01:31.417482+00:00",
+          "note": "The umbrella project identifies this repository and commit as its infrastructure source."
+        }
+      ]
     }
   ],
   "corrections": [
