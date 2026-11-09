@@ -46,7 +46,7 @@ Its release metadata marks it `candidate_only`; it is not an approved publicatio
 
 The optional [smoke runner](../scripts/smoke_installer.py) creates a disposable Docker container with Node.js and a pinned Codex CLI. It extracts the repository quick-start command from the README and substitutes the staged candidate folder for its GitHub URL, preserving the selected skill and agent. This tests the candidate package without supplying private GitHub credentials to CI. Test the real authenticated GitHub URL separately at the candidate commit before claiming that route passed.
 
-The full run supplies a read-only snapshot of the committed `skills/catalog.json` and `data/preferred-providers.json`, with their source revision and hashes. Codex receives the task-based HTML review prompt from the guide, without a desired skill name. A pass requires observed catalogue and registry access, an installed official upstream skill matching its pinned source, a reported matching catalogue ID and revision, native discovery, and the three expected HTML findings. The snapshot exercises repository context without mounting GitHub credentials; it does not establish that live authentication works in that container.
+The full run supplies a read-only snapshot of the committed `skills/catalog.json`, `data/preferred-providers.json`, and `data/disabled-skills.json`, with their source revision and hashes. Codex receives the task-based HTML review prompt from the guide, without a desired skill name. A pass requires observed catalogue and registry access, an installed official upstream skill matching its pinned source, a reported matching catalogue ID and revision, native discovery, and the three expected HTML findings. The snapshot exercises repository context without mounting GitHub credentials; it does not establish that live authentication works in that container.
 
 ```sh
 python3 scripts/smoke_installer.py --output ../agentbay-first-use-check
@@ -56,7 +56,7 @@ Docker must be running, and the output must be under a Docker-shared directory. 
 
 The output contains source hashes, catalogue provenance, runtime versions, native `skills/list` results, the Codex execution trace and a pass/fail receipt. A pass also requires matching installed bytes, evidence that both installed skill instructions were read and an unchanged HTML fixture. These behavioral checks are separate from the ordinary offline catalogue CI checks.
 
-The snapshot also includes `sync-manifest.json` from that same commit. For a real network retrieval check outside the model container, use `scripts/catalogue_context.py` as described in the [public-release procedure](public-release.md#verify-the-real-github-route). This separately tests public HTTPS or existing authorized GitHub access, verifies catalogue/publisher checksums and never executes catalogue content.
+The snapshot also includes `sync-manifest.json` from that same commit. For a real network retrieval check outside the model container, use `scripts/catalogue_context.py` as described in the [public-release procedure](public-release.md#verify-the-real-github-route). This separately tests public HTTPS or existing authorized GitHub access, verifies the three data checksums and never executes catalogue content.
 
 CI runs the credential-free installation/discovery portion in a separate job:
 

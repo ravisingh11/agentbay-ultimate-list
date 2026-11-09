@@ -8,8 +8,8 @@ AgentBay finds and verifies skills for your task using its curated repository ca
 
 There are three separate pieces:
 
-1. **AgentBay Skill Installer:** its `SKILL.md` tells Codex how to find, verify, install and use a suitable skill. This first-party MD contains the workflow; it reads the repository catalogue and publisher registry when needed.
-2. **The catalogue:** listings and source links that help with discovery. The installer searches this repository's `skills/catalog.json`, including our reviewed additions and corrections, and uses `data/preferred-providers.json` to identify official owners. It reads both at one recorded revision. It searches the data locally and loads only relevant candidate details into context; you do not need to read thousands of listings yourself.
+1. **AgentBay Skill Installer:** its `SKILL.md` tells Codex how to find, verify, install and use a suitable skill. This first-party MD contains the workflow; it reads the catalogue and source reviews when needed.
+2. **The catalogue:** listings and source links that help with discovery. The installer searches `skills/catalog.json`, uses `data/preferred-providers.json` to identify official owners, and checks `data/disabled-skills.json` for reviewed unavailable paths and license notices. It reads them at one recorded revision. It searches the data locally and loads only relevant candidate details into context; you do not need to read thousands of listings yourself.
 3. **Individual skills:** the actual `SKILL.md` files and any companion scripts or resources maintained by their publishers, often on GitHub. When you ask to install or use one, AgentBay retrieves the selected skill package from that upstream source, then reads and applies it. Installing AgentBay alone does not install those other skills.
 
 For example, an HTML review can start with this GitHub MD, use AgentBay's catalogue to locate a relevant listing, then fetch the selected publisher's actual skill. AgentBay's generated summaries are search aids; the installer reads the upstream instructions to establish task fit. An explicit official source can be inspected directly if the catalogue lacks it.
@@ -42,13 +42,13 @@ Choose one scope and one source. Check the installer listing and existing files 
 
 ## Repository access and version pinning
 
-When the repository is public, installation and catalogue retrieval work without a GitHub account. AgentBay resolves one commit and downloads its catalogue, publisher registry and manifest over public HTTPS, then verifies the recorded checksums. GitHub CLI is optional for public access. While it remains private, use the authorized access described below.
+When the repository is public, installation and catalogue retrieval work without a GitHub account. AgentBay resolves one commit and downloads its catalogue, publisher registry, source reviews and manifest over public HTTPS, then verifies the recorded checksums. GitHub CLI is optional for public access. While it remains private, use the authorized access described below.
 
 The repository command in the install guide is the primary installation route. It installs the maintained MD from `main`. For private access, use an existing Git, GitHub CLI or SSH sign-in with access to `ravisingh11/agentbay-ultimate-list`; see the Skills CLI's [private repository instructions](https://github.com/vercel-labs/skills/blob/a80e4c9d12d607631249d4d7d059f835d4b2f13a/docs/commands.md#private-repositories).
 
 For reproducible installation, replace `main` in the command with an approved full commit SHA. To test an unmerged PR, use that PR's exact head commit. Pinning an older release also pins its older workflow; it does not pick up these repository-first instructions automatically.
 
-At use time, the skill reads the catalogue and publisher registry from an existing verified checkout or retrieves both at one resolved repository commit. With a private repo, keep authorized access available in the environment where Codex runs. A local installation does not grant a remote environment access. If the catalogue cannot be read, the skill reports that limitation and may use the public finder as an explicitly disclosed fallback; that does not establish a search of repository curation.
+At use time, the skill reads the catalogue, publisher registry and unavailable-path reviews from an existing verified checkout or retrieves them at one resolved repository commit. With a private repo, keep authorized access available in the environment where Codex runs. A local installation does not grant a remote environment access. If the catalogue cannot be read, the skill reports that limitation and may use the public finder as an explicitly disclosed fallback; that does not establish a search of repository curation.
 
 Installation access and catalogue access are separate checks. The installer command can use existing Git/SSH credentials. The MD's on-demand private catalogue example uses GitHub CLI: make `gh` available and sign in with `gh auth login`, or provide Codex with a verified catalogue checkout/snapshot. Git credentials alone do not make an unavailable `gh` command work. A full repository checkout is optional when using the API route.
 
@@ -104,6 +104,8 @@ A catalogue listing may represent a skill, repository or collection; it does not
 ## Match skills to your project
 
 Run AgentBay from the project or package you want help with. It reads relevant declared Ground Truth when present and checks key facts against current files. Otherwise it scans a few local manifests, configs or source files. The shortlist explains which project facts shaped the recommendation and flags prerequisites it could not verify. For a task without a project, describe the tools and constraints in your prompt.
+
+For each choice, look for the task fit, requirements, limitations and pinned source. AgentBay checks reviewed license notices and stops before installation when the applicable terms conflict or are unclear. A disabled old path does not by itself rule out a current replacement.
 
 ## Match the task, including direction
 

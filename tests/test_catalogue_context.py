@@ -12,8 +12,8 @@ REV='a'*40
 def fixture():
     row={key:'' for key in context.catalog.FIELDS}
     row.update(id='skill-one',name='Example skill',description='Example metadata',type='Skill',repository_url='https://github.com/example/skills',categories=['Software development'],tags=[],use_cases=[],repository_archived=False,recommended=False,repository_status_checked_at=None,github_stars=None,github_stars_checked_at=None)
-    payloads={'skills/catalog.json':json.dumps([row]).encode(),'data/preferred-providers.json':json.dumps({'providers':[{'name':'Example','github_owners':['example'],'homepage_url':'https://example.com'}]}).encode()}
-    payloads['sync-manifest.json']=json.dumps({'files':{'skills/catalog.json':{'sha256':context.digest(payloads['skills/catalog.json']),'bytes':len(payloads['skills/catalog.json'])}},'inputs':{'data/preferred-providers.json':{'sha256':context.digest(payloads['data/preferred-providers.json'])}}}).encode()
+    payloads={'skills/catalog.json':json.dumps([row]).encode(),'data/preferred-providers.json':json.dumps({'providers':[{'name':'Example','github_owners':['example'],'homepage_url':'https://example.com'}]}).encode(),'data/disabled-skills.json':json.dumps({'skills':[]}).encode()}
+    payloads['sync-manifest.json']=json.dumps({'files':{'skills/catalog.json':{'sha256':context.digest(payloads['skills/catalog.json']),'bytes':len(payloads['skills/catalog.json'])}},'inputs':{name:{'sha256':context.digest(payloads[name])} for name in ('data/preferred-providers.json','data/disabled-skills.json')}}).encode()
     return payloads
 
 class ContextTests(unittest.TestCase):
@@ -26,7 +26,7 @@ class ContextTests(unittest.TestCase):
             self.assertTrue(url.startswith(prefix));return payloads[url.removeprefix(prefix)]
         def forbidden(*args,**kwargs):raise AssertionError('Public mode invoked GitHub CLI')
         raw,source=context.load('public',http=http,github=forbidden)
-        self.assertEqual(raw,payloads);self.assertEqual(source['source_revision'],REV);self.assertEqual(source['access_mode'],'public_https');self.assertEqual(len(calls),4)
+        self.assertEqual(raw,payloads);self.assertEqual(source['source_revision'],REV);self.assertEqual(source['access_mode'],'public_https');self.assertEqual(len(calls),5)
         with tempfile.TemporaryDirectory() as d:
             output=pathlib.Path(d).resolve()/'snapshot';context.save(output,raw,source)
             self.assertEqual((output/'skills/catalog.json').read_bytes(),payloads['skills/catalog.json'])
@@ -40,7 +40,7 @@ class ContextTests(unittest.TestCase):
             calls.append(endpoint)
             if endpoint.endswith('/commits/main'):return json.dumps({'sha':REV}).encode()
             self.assertTrue(raw);name=endpoint.split('/contents/',1)[1].split('?')[0];self.assertTrue(endpoint.endswith('?ref='+REV));return payloads[name]
-        _,source=context.load('auto',http=unavailable,github=github);self.assertEqual(source['access_mode'],'authenticated_github_cli');self.assertEqual(len(calls),4)
+        _,source=context.load('auto',http=unavailable,github=github);self.assertEqual(source['access_mode'],'authenticated_github_cli');self.assertEqual(len(calls),5)
         calls.clear()
         with self.assertRaises(ValueError):context.load('public',http=unavailable,github=github)
         self.assertFalse(calls)
@@ -49,9 +49,16 @@ class ContextTests(unittest.TestCase):
         payloads=fixture();calls=[]
         def http(url):calls.append(url);return payloads[url.split('/'+REV+'/',1)[1]]
         def forbidden(*args,**kwargs):raise AssertionError('Invalid metadata triggered authentication')
-        context.load('public',REV,http=http,github=forbidden);self.assertEqual(len(calls),3);self.assertTrue(all('api.github.com' not in x for x in calls))
+        context.load('public',REV,http=http,github=forbidden);self.assertEqual(len(calls),4);self.assertTrue(all('api.github.com' not in x for x in calls))
         payloads['skills/catalog.json']+=b' '
         with self.assertRaisesRegex(ValueError,'checksum mismatch'):context.load('auto',REV,http=http,github=forbidden)
+
+    def test_unavailable_review_snapshot_must_match_manifest(self):
+        payloads=fixture()
+        payloads['data/disabled-skills.json']+=b' '
+        def http(url):return payloads[url.split('/'+REV+'/',1)[1]]
+        with self.assertRaisesRegex(ValueError,'checksum mismatch: data/disabled-skills.json'):
+            context.load('public',REV,http=http)
 
     def test_invalid_revision_and_symlink_output_are_rejected(self):
         with self.assertRaises(ValueError):context.load('public','main',http=lambda u:None)
