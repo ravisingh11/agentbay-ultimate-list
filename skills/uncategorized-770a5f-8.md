@@ -4,8 +4,11 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-7.md) · [Next →](uncategorized-770a5f-9.md)
 
-3,420 listings · Page 8 of 18
+3,423 listings · Page 8 of 18
 
+- **gsd-ns-ideate** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-ns-ideate is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
+- **gsd-sketch** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-sketch is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
+- **gsd-surface** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-surface is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **gsd-update** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-update is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **Gstack** — [Website](<https://github.com/garrytan/gstack>) · [GitHub](<https://github.com/garrytan/gstack>) · **License: Unknown** · **★ 137,365** (as of 2026-10-23) — Gstack is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **Gu-ZT/skills** — [Website](<https://github.com/gu-zt/skills>) · [GitHub](<https://github.com/gu-zt/skills>) · **License: Unknown** · Stars: not recorded — Gu-ZT/skills is listed as an agent-skill repository. Its catalogue topics include MCP tool integration.
@@ -203,8 +206,5 @@
 - **Instagram Reels** — [Website](<https://github.com/CellCog/skills/blob/main/skills/instagram-reels-tiktok-cellcog/SKILL.md>) · [GitHub](<https://github.com/CellCog/skills>) · **License: Unknown** · Stars: not recorded — Instagram Reels is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **instagram-api** — [Website](<https://github.com/fetcher-sh/fetcher-skills>) · [GitHub](<https://github.com/fetcher-sh/fetcher-skills>) · **License: MIT** · Stars: not recorded — instagram-api is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **instavm/coderunner** — [Website](<https://github.com/instavm/coderunner>) · [GitHub](<https://github.com/instavm/coderunner>) · **License: Apache-2.0** · Stars: not recorded — instavm/coderunner is listed as an agent-skill repository. Its catalogue topics include MCP tool integration.
-- **Institut-du-Numerique-Responsable/green-claude** — [Website](<https://github.com/institut-du-numerique-responsable/green-claude>) · [GitHub](<https://github.com/institut-du-numerique-responsable/green-claude>) · **License: Unknown** · Stars: not recorded — Institut-du-Numerique-Responsable/green-claude is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
-- **instrument-events** — [Website](<https://github.com/amplitude/mcp-marketplace>) · [GitHub](<https://github.com/amplitude/mcp-marketplace>) · **License: MIT** · Stars: not recorded — instrument-events is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
-- **Instruments Profiling** — [Website](<https://github.com/steipete/agent-scripts/blob/main/skills/instruments-profiling/SKILL.md>) · [GitHub](<https://github.com/steipete/agent-scripts>) · **License: Unknown** · Stars: not recorded — Instruments Profiling is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-7.md) · [Next →](uncategorized-770a5f-9.md)

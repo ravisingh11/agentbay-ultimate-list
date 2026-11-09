@@ -4,8 +4,11 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-6.md) · [Next →](uncategorized-770a5f-8.md)
 
-3,420 listings · Page 7 of 18
+3,423 listings · Page 7 of 18
 
+- **flutter/flutter-working-with-databases** — [Website](<https://github.com/flutter/skills>) · [GitHub](<https://github.com/flutter/skills>) · **License: BSD-3-Clause** · Stars: not recorded — flutter/flutter-working-with-databases is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
+- **fly0pants/admapix** — [Website](<https://github.com/fly0pants/admapix>) · [GitHub](<https://github.com/fly0pants/admapix>) · **License: Unknown** · Stars: not recorded — fly0pants/admapix is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
+- **fonzi-ai/talent** — [Website](<https://github.com/fonzi-ai/talent>) · [GitHub](<https://github.com/fonzi-ai/talent>) · **License: Unknown** · Stars: not recorded — fonzi-ai/talent is listed as an agent-skill repository. Its catalogue topics include MCP tool integration.
 - **foreverse-app/character-card-skills** — [Website](<https://github.com/foreverse-app/character-card-skills>) · [GitHub](<https://github.com/foreverse-app/character-card-skills>) · **License: MIT** · Stars: not recorded — foreverse-app/character-card-skills is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
 - **ForgeyClap/Forge-Core** — [Website](<https://github.com/forgeyclap/forge-core>) · [GitHub](<https://github.com/forgeyclap/forge-core>) · **License: MIT** · Stars: not recorded — ForgeyClap/Forge-Core is listed as an agent-skill repository. Its catalogue topics include workflow automation.
 - **forrestneo/strong-mindset** — [Website](<https://github.com/forrestneo/strong-mindset>) · [GitHub](<https://github.com/forrestneo/strong-mindset>) · **License: MIT** · Stars: not recorded — forrestneo/strong-mindset is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
@@ -203,8 +206,5 @@
 - **gsd-explore** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-explore is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **gsd-extract-learnings** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-extract-learnings is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **gsd-next** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-next is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
-- **gsd-ns-ideate** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-ns-ideate is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
-- **gsd-sketch** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-sketch is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
-- **gsd-surface** — [Website](<https://github.com/open-gsd/gsd-core>) · [GitHub](<https://github.com/open-gsd/gsd-core>) · **License: MIT** · **★ 10,738** (as of 2026-10-21) — gsd-surface is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-6.md) · [Next →](uncategorized-770a5f-8.md)

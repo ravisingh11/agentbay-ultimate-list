@@ -209,7 +209,7 @@ class MaintenanceTests(unittest.TestCase):
         self.assertEqual(len(reviews), 269)
         counts = {status: sum(r['status'] == status for r in reviews)
                   for status in ('available', 'resource', 'invalid', 'candidate', 'unavailable')}
-        self.assertEqual(counts, {'available': 132, 'resource': 17, 'invalid': 3, 'candidate': 11, 'unavailable': 106})
+        self.assertEqual(counts, {'available': 135, 'resource': 17, 'invalid': 3, 'candidate': 8, 'unavailable': 106})
         keys = [finder_candidates.component(row['website_url']) for row in skills]
         for review in reviews:
             if review['status'] == 'available':

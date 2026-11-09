@@ -43,7 +43,7 @@ Here is what matters when choosing a skill:
 
 [See how we check sources, review instructions and test examples](docs/skill-vetting.md).
 
-**Explore 22,928 listings: 22,571 skills and 357 projects and tools across 9,155 GitHub repositories.**
+**Explore 22,931 listings: 22,574 skills and 357 projects and tools across 9,156 GitHub repositories.**
 
 ## Quick start
 

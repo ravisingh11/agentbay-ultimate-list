@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,571 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,574 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)
 
@@ -59,6 +59,6 @@ Each listing appears once under its primary category. Categories, tags and compl
 | Specialized Domains | 14 | [Page 1](specialized-domains-c5db52.md) |
 | Storage | 1 | [Page 1](storage-49a25f.md) |
 | Video creation | 80 | [Page 1](video-creation-f6c4c1.md) |
-| Uncategorized | 3,420 | [Page 1](uncategorized-770a5f-1.md) · [Page 2](uncategorized-770a5f-2.md) · [Page 3](uncategorized-770a5f-3.md) · [Page 4](uncategorized-770a5f-4.md) · [Page 5](uncategorized-770a5f-5.md) · [Page 6](uncategorized-770a5f-6.md) · [Page 7](uncategorized-770a5f-7.md) · [Page 8](uncategorized-770a5f-8.md) · [Page 9](uncategorized-770a5f-9.md) · [Page 10](uncategorized-770a5f-10.md) · [Page 11](uncategorized-770a5f-11.md) · [Page 12](uncategorized-770a5f-12.md) · [Page 13](uncategorized-770a5f-13.md) · [Page 14](uncategorized-770a5f-14.md) · [Page 15](uncategorized-770a5f-15.md) · [Page 16](uncategorized-770a5f-16.md) · [Page 17](uncategorized-770a5f-17.md) · [Page 18](uncategorized-770a5f-18.md) |
+| Uncategorized | 3,423 | [Page 1](uncategorized-770a5f-1.md) · [Page 2](uncategorized-770a5f-2.md) · [Page 3](uncategorized-770a5f-3.md) · [Page 4](uncategorized-770a5f-4.md) · [Page 5](uncategorized-770a5f-5.md) · [Page 6](uncategorized-770a5f-6.md) · [Page 7](uncategorized-770a5f-7.md) · [Page 8](uncategorized-770a5f-8.md) · [Page 9](uncategorized-770a5f-9.md) · [Page 10](uncategorized-770a5f-10.md) · [Page 11](uncategorized-770a5f-11.md) · [Page 12](uncategorized-770a5f-12.md) · [Page 13](uncategorized-770a5f-13.md) · [Page 14](uncategorized-770a5f-14.md) · [Page 15](uncategorized-770a5f-15.md) · [Page 16](uncategorized-770a5f-16.md) · [Page 17](uncategorized-770a5f-17.md) · [Page 18](uncategorized-770a5f-18.md) |
 
 [MIT License](../LICENSE) · [License scope](../LICENSING.md)

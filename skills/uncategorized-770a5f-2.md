@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-1.md) · [Next →](uncategorized-770a5f-3.md)
 
-3,420 listings · Page 2 of 18
+3,423 listings · Page 2 of 18
 
 - **Alibabacloud Mongodb Instances Manage** — [Website](<https://github.com/aliyun/alibabacloud-aiops-skills/blob/master/skills/database/mongodb/alibabacloud-mongodb-instances-manage/SKILL.md>) · [GitHub](<https://github.com/aliyun/alibabacloud-aiops-skills>) · **License: Unknown** · Stars: not recorded — Alibabacloud Mongodb Instances Manage is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **Alibabacloud Mse Nacos Inspection** — [Website](<https://github.com/aliyun/alibabacloud-aiops-skills/blob/master/skills/playbooks/trouboper/alibabacloud-mse-nacos-inspection/SKILL.md>) · [GitHub](<https://github.com/aliyun/alibabacloud-aiops-skills>) · **License: Unknown** · Stars: not recorded — Alibabacloud Mse Nacos Inspection is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.

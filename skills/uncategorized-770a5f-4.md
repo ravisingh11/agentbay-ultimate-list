@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-3.md) · [Next →](uncategorized-770a5f-5.md)
 
-3,420 listings · Page 4 of 18
+3,423 listings · Page 4 of 18
 
 - **browserbase/ui-test** — [Website](<https://github.com/browserbase/skills>) · [GitHub](<https://github.com/browserbase/skills>) · **License: Unknown** · **★ 3,742** (as of 2026-10-25) · **Browserbase · Official source** — browserbase/ui-test is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **browserwing** — [Website](<https://github.com/browserwing/browserwing>) · [GitHub](<https://github.com/browserwing/browserwing>) · **License: Unknown** · Stars: not recorded — browserwing is listed as an agent skill. Its catalogue topics include browser workflows.

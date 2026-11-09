@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22928,
+  "entry_count": 22931,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -54355,6 +54355,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:68af65be-b6f2-5e41-853f-56659088c013": {
+      "input_sha256": "289159d86ed2f7f10d6255a64e54bedb12a04561c80cd55d3665a7d0a69c3997",
+      "description_sha256": "182268c1a2108211876c66bc557a9b1c6ddde9b1ffc443a3d8ce5e90df7d6a1b",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "cc5a444c-4310-57d2-8aef-581e599dd081": {
       "input_sha256": "d103558728de697141dd70ce471dc53c20588685a90fef95f639fea3f0e14779",
       "description_sha256": "021b6a9e74f4e687e809c2c7bc274ca79eb17e80af2954c4a7dd71c5aa106b55",
@@ -54372,6 +54379,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:eec9947e-da2b-59d5-9015-f901e0bde448": {
+      "input_sha256": "d0de43b026e32b470be4527b3034fbc21dc0100631a1637917bfe7bbbf323395",
+      "description_sha256": "6772383a3d668e1b1249262010353d3fcdd06fc784f6f4b7021bb50556107dc4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "aa6cdd53-d726-5eba-8da8-d1bc8a49679c": {
       "input_sha256": "14fb1ff87e4c179c8c382bbdeddb0e97cd6c282e371de9eaef834fb7cbaf8457",
@@ -54399,6 +54413,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:9e217b4c-576d-5896-8a18-612d4bad28a3": {
+      "input_sha256": "6f72b0e7c76c1c4e7f6760243192afa83f0231cc950c583384efbeb00642f81e",
+      "description_sha256": "07b0229a134f30fa62c749b3add157450aa578a417ccdc062c33145b75400fb3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "286b15f9-75e8-5f0d-b66b-d4b8d24065ab": {
       "input_sha256": "4d9e2821e1d8e5fabab495a2cdc46f85c5329e36f8a41ac746a1fff702021c8d",

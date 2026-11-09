@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-2.md) · [Next →](uncategorized-770a5f-4.md)
 
-3,420 listings · Page 3 of 18
+3,423 listings · Page 3 of 18
 
 - **apollographql/apollo-client** — [Website](<https://github.com/apollographql/skills>) · [GitHub](<https://github.com/apollographql/skills>) · **License: MIT** · Stars: not recorded — apollographql/apollo-client is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **apollographql/apollo-connectors** — [Website](<https://github.com/apollographql/skills>) · [GitHub](<https://github.com/apollographql/skills>) · **License: MIT** · Stars: not recorded — apollographql/apollo-connectors is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
