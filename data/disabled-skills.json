@@ -1121,16 +1121,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "a4921a529000ddbfa6c98360dbc0b68f11fc4d4a",
       "review": {
-        "status": "candidate",
-        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "status": "available",
+        "note": "The Dart team publishes an identical skill in its official repository.",
         "source": {
-          "repository": "flutter/agent-plugins",
+          "repository": "dart-lang/skills",
           "path": "skills/dart-add-unit-test/SKILL.md",
-          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+          "commit": "fa691671fda391ea1d1f8c7ae61bddc03348ec85",
           "blob": "a4921a529000ddbfa6c98360dbc0b68f11fc4d4a"
         },
         "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
-        "checked_at": "2026-11-09T17:17:32.599972+00:00",
+        "checked_at": "2026-11-09T20:06:44.267033+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1144,16 +1144,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "60dad77533dc0a98b7f4a8363ac1b56d589d353a",
       "review": {
-        "status": "candidate",
-        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "status": "available",
+        "note": "The Dart team publishes an identical skill in its official repository.",
         "source": {
-          "repository": "flutter/agent-plugins",
+          "repository": "dart-lang/skills",
           "path": "skills/dart-collect-coverage/SKILL.md",
-          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+          "commit": "fa691671fda391ea1d1f8c7ae61bddc03348ec85",
           "blob": "60dad77533dc0a98b7f4a8363ac1b56d589d353a"
         },
         "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
-        "checked_at": "2026-11-09T17:17:32.599972+00:00",
+        "checked_at": "2026-11-09T20:06:44.267033+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },
@@ -1167,16 +1167,16 @@
       "reason": "Path absent from the inspected publisher revision.",
       "old_blob": "3daf8944c0ff9c537eef4d9943f9139cd9853b6c",
       "review": {
-        "status": "candidate",
-        "note": "An identical file is available in Flutter’s public repository. The repository is not enrolled under AgentBay’s current source criteria.",
+        "status": "available",
+        "note": "The Dart team publishes the current skill with a correction to its code example.",
         "source": {
-          "repository": "flutter/agent-plugins",
+          "repository": "dart-lang/skills",
           "path": "skills/dart-migrate-to-checks-package/SKILL.md",
-          "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
-          "blob": "3daf8944c0ff9c537eef4d9943f9139cd9853b6c"
+          "commit": "fa691671fda391ea1d1f8c7ae61bddc03348ec85",
+          "blob": "fb3925169c1cfd3a6b3bb376fdfd048b5ca774ad"
         },
         "evidence": "https://github.com/google/skills_lint.dart/commit/14373fa5d25fa6bb8af9085e92d65591cd86b71f",
-        "checked_at": "2026-11-09T17:17:32.599972+00:00",
+        "checked_at": "2026-11-09T20:06:44.267033+00:00",
         "checked_commit": "54745ba3240a6f317647d90e1e8fa8a55918328d"
       }
     },

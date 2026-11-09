@@ -5738,6 +5738,114 @@
           "note": "Inspected current repository identity, activity, counts and repository license metadata."
         }
       ]
+    },
+    {
+      "id": "community:68af65be-b6f2-5e41-853f-56659088c013",
+      "fields": {
+        "name": "dart-add-unit-test",
+        "type": "Skill",
+        "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-add-unit-test/SKILL.md",
+        "repository_url": "https://github.com/dart-lang/skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "BSD-3-Clause",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+        "github_stars": 549,
+        "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-add-unit-test/SKILL.md",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/dart-lang/skills",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/flutter/website/blob/main/sites/docs/src/content/ai/tools.md",
+          "checked_at": "2026-11-09T20:06:44.267033+00:00",
+          "note": "Flutter documentation identifies dart-lang/skills as the official Dart skills repository; Dart is a Google project."
+        }
+      ]
+    },
+    {
+      "id": "community:eec9947e-da2b-59d5-9015-f901e0bde448",
+      "fields": {
+        "name": "dart-collect-coverage",
+        "type": "Skill",
+        "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-collect-coverage/SKILL.md",
+        "repository_url": "https://github.com/dart-lang/skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "BSD-3-Clause",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+        "github_stars": 549,
+        "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-collect-coverage/SKILL.md",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/dart-lang/skills",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/flutter/website/blob/main/sites/docs/src/content/ai/tools.md",
+          "checked_at": "2026-11-09T20:06:44.267033+00:00",
+          "note": "Flutter documentation identifies dart-lang/skills as the official Dart skills repository; Dart is a Google project."
+        }
+      ]
+    },
+    {
+      "id": "community:9e217b4c-576d-5896-8a18-612d4bad28a3",
+      "fields": {
+        "name": "dart-migrate-to-checks-package",
+        "type": "Skill",
+        "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-migrate-to-checks-package/SKILL.md",
+        "repository_url": "https://github.com/dart-lang/skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "BSD-3-Clause",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+        "github_stars": 549,
+        "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-migrate-to-checks-package/SKILL.md",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/dart-lang/skills",
+          "checked_at": "2026-11-09T20:07:48.170874+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/flutter/website/blob/main/sites/docs/src/content/ai/tools.md",
+          "checked_at": "2026-11-09T20:06:44.267033+00:00",
+          "note": "Flutter documentation identifies dart-lang/skills as the official Dart skills repository; Dart is a Google project."
+        }
+      ]
     }
   ],
   "corrections": [

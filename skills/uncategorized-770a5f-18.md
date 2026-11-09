@@ -4,8 +4,11 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-17.md)
 
-3,420 listings · Page 18 of 18
+3,423 listings · Page 18 of 18
 
+- **zekker6/claude-code-channel-matrix** — [Website](<https://github.com/zekker6/claude-code-channel-matrix>) · [GitHub](<https://github.com/zekker6/claude-code-channel-matrix>) · **License: Unknown** · Stars: not recorded — zekker6/claude-code-channel-matrix is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
+- **Zenetusken/consolidate-memory** — [Website](<https://github.com/zenetusken/consolidate-memory>) · [GitHub](<https://github.com/zenetusken/consolidate-memory>) · **License: MIT** · Stars: not recorded — Zenetusken/consolidate-memory is listed as an agent-skill repository. Its catalogue topics include agent memory and context.
+- **ZephyrDeng/ego-jev** — [Website](<https://github.com/zephyrdeng/ego-jev>) · [GitHub](<https://github.com/zephyrdeng/ego-jev>) · **License: MIT** · Stars: not recorded — ZephyrDeng/ego-jev is listed as an agent-skill repository. Its catalogue topics include browser workflows.
 - **Zephyrex21/claude-leetcode-helper** — [Website](<https://github.com/zephyrex21/claude-leetcode-helper>) · [GitHub](<https://github.com/zephyrex21/claude-leetcode-helper>) · **License: Unknown** · Stars: not recorded — Zephyrex21/claude-leetcode-helper is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.
 - **zero/zero** — [Website](<https://github.com/officialzeroxyz/zero-plugins/blob/main/plugins/zero/skills/zero/skill.md>) · [GitHub](<https://github.com/officialzeroxyz/zero-plugins>) · **License: Unknown** · Stars: not recorded — zero/zero is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **zero/zero-gemini** — [Website](<https://github.com/officialzeroxyz/zero-plugins/tree/main/plugins/zero-gemini>) · [GitHub](<https://github.com/officialzeroxyz/zero-plugins>) · **License: Unknown** · Stars: not recorded — zero/zero-gemini is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.

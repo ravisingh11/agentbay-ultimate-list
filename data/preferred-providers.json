@@ -130,7 +130,8 @@
         "googleworkspace",
         "googlecloudplatform",
         "googleapis",
-        "firebase"
+        "firebase",
+        "dart-lang"
       ],
       "homepage_url": "https://www.google.com/"
     },

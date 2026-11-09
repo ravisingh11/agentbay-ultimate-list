@@ -26,7 +26,7 @@ Counts below are listings in this repository, including repository-level entries
 | [Expo](https://expo.dev/) | 36 |
 | [Firecrawl](https://www.firecrawl.dev/) | 42 |
 | [GitHub](https://github.com/) | 636 |
-| [Google](https://www.google.com/) | 1,047 |
+| [Google](https://www.google.com/) | 1,050 |
 | [Hugging Face](https://huggingface.co/) | 110 |
 | [IBM](https://www.ibm.com/) | 158 |
 | [Inngest](https://www.inngest.com/) | 15 |

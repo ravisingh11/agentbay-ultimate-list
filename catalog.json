@@ -174875,6 +174875,29 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:68af65be-b6f2-5e41-853f-56659088c013",
+    "name": "dart-add-unit-test",
+    "description": "dart-add-unit-test is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-add-unit-test/SKILL.md",
+    "repository_url": "https://github.com/dart-lang/skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "BSD-3-Clause",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+    "agentbay_url": "",
+    "github_stars": 549,
+    "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00",
+    "recommended": false,
+    "preferred_provider": "Google"
+  },
+  {
     "id": "cc5a444c-4310-57d2-8aef-581e599dd081",
     "name": "dart-best-practices",
     "description": "dart-best-practices is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -174927,6 +174950,29 @@
     "agentbay_url": "https://agentbay.io/?project=616909cb-9f0b-5186-b247-6cd760c1921c#catalog",
     "github_stars": 6,
     "github_stars_checked_at": "2026-10-25T05:50:36.865475+00:00",
+    "recommended": false,
+    "preferred_provider": "Google"
+  },
+  {
+    "id": "community:eec9947e-da2b-59d5-9015-f901e0bde448",
+    "name": "dart-collect-coverage",
+    "description": "dart-collect-coverage is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-collect-coverage/SKILL.md",
+    "repository_url": "https://github.com/dart-lang/skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "BSD-3-Clause",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+    "agentbay_url": "",
+    "github_stars": 549,
+    "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00",
     "recommended": false,
     "preferred_provider": "Google"
   },
@@ -175011,6 +175057,29 @@
     "agentbay_url": "https://agentbay.io/?project=4e514a16-9e84-534a-ba13-8f90b7cb6bb4#catalog",
     "github_stars": 6,
     "github_stars_checked_at": "2026-10-25T05:50:36.865475+00:00",
+    "recommended": false,
+    "preferred_provider": "Google"
+  },
+  {
+    "id": "community:9e217b4c-576d-5896-8a18-612d4bad28a3",
+    "name": "dart-migrate-to-checks-package",
+    "description": "dart-migrate-to-checks-package is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
+    "type": "Skill",
+    "website_url": "https://github.com/dart-lang/skills/blob/fa691671fda391ea1d1f8c7ae61bddc03348ec85/skills/dart-migrate-to-checks-package/SKILL.md",
+    "repository_url": "https://github.com/dart-lang/skills",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "use_cases": [],
+    "license": "BSD-3-Clause",
+    "license_scope": "Repository license; skill-specific terms need review",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-09T20:07:48.170874+00:00",
+    "agentbay_url": "",
+    "github_stars": 549,
+    "github_stars_checked_at": "2026-11-09T20:07:48.170874+00:00",
     "recommended": false,
     "preferred_provider": "Google"
   },
