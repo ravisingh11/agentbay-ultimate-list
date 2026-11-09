@@ -219,3 +219,12 @@ A later refresh does not automatically restore a disabled path. Before
 restoring it, inspect the current publisher, path, instructions and relevant
 companion files, then update the disabled registry and curation together.
 Moved, changed or inaccessible sources need their own review.
+
+
+The November 9 source review recovered seven Azure infrastructure skills from
+the original repository named in the umbrella project’s pinned manifest. Their
+file blobs match the former indexed copies, and the ten other matching files
+were already represented. The old source paths remain marked disabled; the
+original-source entries are listed separately. Related sources for 95 former
+Microsoft gallery paths are linked for inspection, not automatically listed:
+their skill files say Proprietary while their repository is marked MIT.

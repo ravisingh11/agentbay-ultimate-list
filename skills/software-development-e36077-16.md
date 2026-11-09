@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-15.md) · [Next →](software-development-e36077-17.md)
 
-11,495 listings · Page 16 of 58
+11,502 listings · Page 16 of 58
 
+- **CrowdStrike/foundry-skills** — [Website](<https://github.com/crowdstrike/foundry-skills>) · [GitHub](<https://github.com/crowdstrike/foundry-skills>) · **License: MIT** · Stars: not recorded — CrowdStrike/foundry-skills is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and deployment and cloud…
 - **crusty-old-engineer** — [Website](<https://github.com/microsoft/amplifier-bundle-skills/blob/2f58408a879535df36da5c92d2b073f49271ade4/skills/crusty-old-engineer/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-bundle-skills>) · **License: MIT** · **★ 12** (as of 2026-10-25) · **Microsoft · Official source** — crusty-old-engineer is listed as an agent skill. Its catalogue topics include software engineering.
 - **csd-assessment-report** — [Website](<https://github.com/Azure/git-ape/blob/0f7e3ef2b327eded343c24143f9dc53b23e419c1/.github/community-skills/csd-assessment-report/SKILL.md>) · [GitHub](<https://github.com/Azure/git-ape>) · **License: MIT** · **★ 279** (as of 2026-10-25) · **Microsoft · Official source** — csd-assessment-report is listed as an agent skill. Its catalogue topics include software engineering.
 - **csharp-async** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/csharp-async/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — csharp-async is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **debug** — [Website](<https://github.com/NVIDIA/Model-Optimizer/blob/3c423a9f165b3744e38c5e1e9929b4f15081c413/plugins/modelopt/skills/debug/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/Model-Optimizer>) · **License: Apache-2.0** · **★ 5,429** (as of 2026-10-25) · **NVIDIA · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 - **debug** — [Website](<https://github.com/aws-samples/sample-agent-greenhouse/blob/4f5b12e614554c885414732460bfb36c08701cf9/src/platform_agent/plato/skills/debug/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-agent-greenhouse>) · **License: MIT-0** · **★ 21** (as of 2026-10-25) · **Amazon Web Services · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 - **debug** — [Website](<https://github.com/microsoft/vscode-team-kit/blob/602b75ae9c96c9fddda51c1c9dd24f0106d369c3/debug/skills/debug/SKILL.md>) · [GitHub](<https://github.com/microsoft/vscode-team-kit>) · **License: MIT** · **★ 63** (as of 2026-10-25) · **Microsoft · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
-- **debug** — [Website](<https://github.com/openai/symphony/blob/be10a1b79df723d6d7612b5651c8522704dafb2e/.codex/skills/debug/SKILL.md>) · [GitHub](<https://github.com/openai/symphony>) · **License: Apache-2.0** · **★ 27,808** (as of 2026-10-25) · **OpenAI · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-15.md) · [Next →](software-development-e36077-17.md)

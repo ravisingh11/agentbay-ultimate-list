@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-1.md) · [Next →](software-development-e36077-3.md)
 
-11,495 listings · Page 2 of 58
+11,502 listings · Page 2 of 58
 
 - **add-ollama-provider** — [Website](<https://github.com/microsoft/amplifier-app-nanoclaw/blob/161ffbb52dd1d732d6527fd1282e933841a7ec40/.claude/skills/add-ollama-provider/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-app-nanoclaw>) · **License: MIT** · **★ 5** (as of 2026-10-25) · **Microsoft · Official source** — add-ollama-provider is listed as an agent skill. Its catalogue topics include software engineering.
 - **add-ollama-tool** — [Website](<https://github.com/microsoft/amplifier-app-nanoclaw/blob/161ffbb52dd1d732d6527fd1282e933841a7ec40/.claude/skills/add-ollama-tool/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-app-nanoclaw>) · **License: MIT** · **★ 5** (as of 2026-10-25) · **Microsoft · Official source** — add-ollama-tool is listed as an agent skill. Its catalogue topics include software engineering.

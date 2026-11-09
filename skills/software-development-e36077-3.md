@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-2.md) · [Next →](software-development-e36077-4.md)
 
-11,495 listings · Page 3 of 58
+11,502 listings · Page 3 of 58
 
 - **ai-pdlc-navigator** — [Website](<https://github.com/aws-samples/sample-claude-code-agents-for-product-teams/blob/55797ac5ec31797af12d50e199377c4d7e00d060/.claude/skills/ai-pdlc-navigator/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-claude-code-agents-for-product-teams>) · **License: MIT-0** · **★ 10** (as of 2026-10-25) · **Amazon Web Services · Official source** — ai-pdlc-navigator is listed as an agent skill. Its catalogue topics include software engineering.
 - **ai-plan** — [Website](<https://github.com/awslabs/ai-skills/blob/ae9c42cbc429a35f90f75b6b71da5bca256eaefd/skills/research/ai-plan/SKILL.md>) · [GitHub](<https://github.com/awslabs/ai-skills>) · **License: MIT-0** · **★ 2** (as of 2026-10-25) · **Amazon Web Services · Official source** — ai-plan is listed as an agent skill. Its catalogue topics include software engineering.

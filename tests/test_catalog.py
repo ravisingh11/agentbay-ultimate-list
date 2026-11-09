@@ -178,6 +178,26 @@ class MaintenanceTests(unittest.TestCase):
                 catalog.write_outputs({'README.md':b'new','skills/README.md':b'new'},{},root)
             self.assertFalse((root/'README.md').exists())
 
+    def test_recovered_sources_and_historical_labels_are_consistent(self):
+        root = SCRIPT.parent.parent
+        disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
+        skills = catalog.read_json(root/'skills/catalog.json')
+        restored = [r for r in disabled if r.get('replacement', {}).get('kind') == 'exact']
+        related = [r for r in disabled if r.get('replacement', {}).get('kind') == 'related']
+        self.assertEqual(len(restored), 7)
+        self.assertEqual(len(related), 95)
+        for entry in restored:
+            source = entry['replacement']
+            self.assertEqual(entry['old_blob'], source['blob'])
+            url = 'https://github.com/'+source['repository']+'/blob/'+source['commit']+'/'+source['path']
+            self.assertEqual(sum(row['website_url'] == url for row in skills), 1)
+        for entry in related:
+            self.assertNotEqual(entry['old_blob'], entry['replacement']['blob'])
+            self.assertIn('Proprietary', entry['replacement']['license_notice'])
+        page = (root/'skills/disabled.md').read_text()
+        self.assertEqual(page.count('Identical skill at original source'), 7)
+        self.assertEqual(page.count('Related source, not verified equivalent'), 95)
+
     def test_write_preserves_unowned_generated_name(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory);(root/'skills').mkdir()

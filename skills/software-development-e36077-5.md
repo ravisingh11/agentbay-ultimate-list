@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-4.md) · [Next →](software-development-e36077-6.md)
 
-11,495 listings · Page 5 of 58
+11,502 listings · Page 5 of 58
 
+- **arize-prompt-optimization** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/arize-prompt-optimization/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — arize-prompt-optimization is listed as an agent skill. Its catalogue topics include software engineering.
 - **arize-trace** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/arize-trace/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — arize-trace is listed as an agent skill. Its catalogue topics include software engineering.
 - **Ark0N/Codeman** — [Website](<https://github.com/ark0n/codeman>) · [GitHub](<https://github.com/ark0n/codeman>) · **License: MIT** · Stars: not recorded — Ark0N/Codeman is listed as an agent-skill repository. Its catalogue topics include software engineering and deployment and cloud operations.
 - **arminzou/dotbrain** — [Website](<https://github.com/arminzou/dotbrain>) · [GitHub](<https://github.com/arminzou/dotbrain>) · **License: MIT** · Stars: not recorded — arminzou/dotbrain is listed as an agent-skill repository. Its catalogue topics include software engineering and agent memory and context.
@@ -205,6 +206,5 @@
 - **autopilot-pr-review-worker** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-pr-review-worker/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-pr-review-worker is listed as an agent skill. Its catalogue topics include software engineering.
 - **autopilot-pr-triage-scheduler** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-pr-triage-scheduler/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-pr-triage-scheduler is listed as an agent skill. Its catalogue topics include software engineering.
 - **autopilot-pr-triage-worker** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-pr-triage-worker/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-pr-triage-worker is listed as an agent skill. Its catalogue topics include software engineering.
-- **autoship** — [Website](<https://github.com/vercel-labs/autoship/blob/aeadbaa1d8c8209e3de508c7e6999b843cd274d8/skills/autoship/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/autoship>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **Vercel · Official source** — autoship is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-4.md) · [Next →](software-development-e36077-6.md)

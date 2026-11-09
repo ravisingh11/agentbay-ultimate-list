@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-11.md) · [Next →](software-development-e36077-13.md)
 
-11,495 listings · Page 12 of 58
+11,502 listings · Page 12 of 58
 
+- **clerk-testing** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-testing/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-testing is listed as an agent skill. Its catalogue topics include software engineering.
 - **clerk-vue-patterns** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-vue-patterns/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-vue-patterns is listed as an agent skill. Its catalogue topics include software engineering.
 - **clerk-webhooks** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-webhooks/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-webhooks is listed as an agent skill. Its catalogue topics include software engineering.
 - **cli-channel-debugging** — [Website](<https://github.com/microsoft/aspire/blob/2828085ec5829e1bd6ce80d416db45c19634891e/.agents/skills/cli-channel-debugging/SKILL.md>) · [GitHub](<https://github.com/microsoft/aspire>) · **License: MIT** · **★ 6,381** (as of 2026-10-25) · **Microsoft · Official source** — cli-channel-debugging is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **cohort-compare** — [Website](<https://github.com/NVIDIA/dgx-spark-playbooks/blob/30883150541743d580c9c347700c6ac99fc396d2/nvidia/playbook-healthcare-agent/assets/skills/cohort-compare/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/dgx-spark-playbooks>) · **License: Apache-2.0** · **★ 1,456** (as of 2026-10-25) · **NVIDIA · Official source** — cohort-compare is listed as an agent skill. Its catalogue topics include software engineering.
 - **cold-call-prep** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/law-student/skills/cold-call-prep/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — cold-call-prep is listed as an agent skill. Its catalogue topics include software engineering.
 - **cold-start-interview** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/ai-governance-legal/skills/cold-start-interview/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — cold-start-interview is listed as an agent skill. Its catalogue topics include software engineering.
-- **coldteadotai/abide** — [Website](<https://github.com/coldteadotai/abide>) · [GitHub](<https://github.com/coldteadotai/abide>) · **License: MIT** · Stars: not recorded — coldteadotai/abide is listed as an agent-skill repository. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-11.md) · [Next →](software-development-e36077-13.md)

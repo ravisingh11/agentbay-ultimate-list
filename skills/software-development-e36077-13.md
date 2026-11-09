@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-12.md) · [Next →](software-development-e36077-14.md)
 
-11,495 listings · Page 13 of 58
+11,502 listings · Page 13 of 58
 
+- **coldteadotai/abide** — [Website](<https://github.com/coldteadotai/abide>) · [GitHub](<https://github.com/coldteadotai/abide>) · **License: MIT** · Stars: not recorded — coldteadotai/abide is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **coldteadotai/pr-lens** — [Website](<https://github.com/coldteadotai/pr-lens>) · [GitHub](<https://github.com/coldteadotai/pr-lens>) · **License: MIT** · Stars: not recorded — coldteadotai/pr-lens is listed as an agent-skill repository. Its catalogue topics include software engineering and monitoring and operations.
 - **colincalnan/sdd** — [Website](<https://github.com/colincalnan/sdd>) · [GitHub](<https://github.com/colincalnan/sdd>) · **License: MIT** · Stars: not recorded — colincalnan/sdd is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **collect-credentials** — [Website](<https://github.com/databrickslabs/lakeflow-community-connectors/blob/70d16606fb2a7c32e9965af0c9c9452a0172008e/.claude/skills/collect-credentials/SKILL.md>) · [GitHub](<https://github.com/databrickslabs/lakeflow-community-connectors>) · **License: Unknown** · **★ 72** (as of 2026-10-25) · **Databricks · Official source** — collect-credentials is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **content-quality-auditor** — [Website](<https://github.com/microsoft/cat-agent-skills/blob/5c8cad25a6f1f01fd9bc922080fb8aae5bb420be/submissions/content-quality-auditor/SKILL.md>) · [GitHub](<https://github.com/microsoft/cat-agent-skills>) · **License: MIT** · **★ 89** (as of 2026-10-25) · **Microsoft · Official source** — content-quality-auditor is listed as an agent skill. Its catalogue topics include software engineering.
 - **content-redirect** — [Website](<https://github.com/microsoft/vscode-docs/blob/a03090533810eb02e5b9a2a650e2a3df32192b42/.github/skills/content-redirect/SKILL.md>) · [GitHub](<https://github.com/microsoft/vscode-docs>) · **License: Unknown** · **★ 6,675** (as of 2026-10-25) · **Microsoft · Official source** — content-redirect is listed as an agent skill. Its catalogue topics include software engineering.
 - **content-review** — [Website](<https://github.com/microsoft/frontier-agentic-devops-rvas/blob/32ef75dfd2776d02ef6f5a9b2c0e0e32eedd2c19/.agents/skills/content-review/SKILL.md>) · [GitHub](<https://github.com/microsoft/frontier-agentic-devops-rvas>) · **License: MIT** · **★ 9** (as of 2026-10-25) · **Microsoft · Official source** — content-review is listed as an agent skill. Its catalogue topics include software engineering.
-- **content-strategy** — [Website](<https://github.com/anthropics/knowledge-work-plugins/blob/33d3dea41a341b341d4f5da2e8801ae0c89be2b8/small-business/skills/content-strategy/SKILL.md>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — content-strategy is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-12.md) · [Next →](software-development-e36077-14.md)
