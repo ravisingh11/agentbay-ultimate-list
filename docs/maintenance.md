@@ -205,3 +205,17 @@ provenance and reproducible download are separate from official Meta sources.
 Only this package is selected; the other eight remain excluded in
 `data/adapted-openzl-review.json`. No Finder, provider or website design policy
 change is attached to this publication.
+
+## Disabled skill paths
+
+`data/disabled-skills.json` records finder paths absent from a complete
+publisher tree at a checked revision. The generated
+[Disabled skills](../skills/disabled.md) page labels each path. Corresponding
+individual catalogue entries have evidence-backed exclusions in
+`data/curation.json`, so they stay out of the installer catalogue and
+generated active skill pages.
+
+A later refresh does not automatically restore a disabled path. Before
+restoring it, inspect the current publisher, path, instructions and relevant
+companion files, then update the disabled registry and curation together.
+Moved, changed or inaccessible sources need their own review.
