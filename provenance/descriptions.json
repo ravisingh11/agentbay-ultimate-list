@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22909,
+  "entry_count": 22928,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -3801,6 +3801,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:cfad654b-8bac-5f8d-8389-01380d8fdc9b": {
+      "input_sha256": "b01d3a1dc91c4dcc7666cd757e75f9e39b34cca7d7a13d51332ae929a7c67c23",
+      "description_sha256": "34c09097b862fe7b4d1adc96a3b2d1ab0e03d8395539d9f91cd291551fb6aabd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "f49ba45d-fcbf-512e-912d-cdf56a0e765d": {
       "input_sha256": "98373213395cbffe56434b4e2a2f364748f81bd966a0a37bc8a7d6af36a0bbea",
@@ -9972,6 +9979,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:b5e322ee-2a08-5127-b9b0-80fdf63fd321": {
+      "input_sha256": "ee7d5644347dd7a97ad9b07ebfda5224ab3d36f7230d36158460f28bea17f0e8",
+      "description_sha256": "859c8751c277bdeb59fa35a5c9f54abad1676601de9e0d9951563e4edfd6cae7",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "8eac7998-6657-58ba-b52a-017afefedd71": {
       "input_sha256": "7f949c14ff3eb345f15984e42d40bf21cd5aa3e51b4203bfdad6fd3cdd084599",
       "description_sha256": "b1d9c1773dbeadd65d5756c05709a93fb5535a1d41b0b5142e352de815c927c3",
@@ -15085,6 +15099,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:ddc33d8d-04a6-54e5-80b2-eea5d9b648e0": {
+      "input_sha256": "9f0f996970c0dc61b5c61f27e3b39ac217945b326dcc264b1e967b4671fce4ae",
+      "description_sha256": "3097962d4f1ae2b4523bbe84f8cdd0acf1f9a49d52460e25659b4fa06ec4bd56",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "59aa8881-a0d0-5539-9f62-cddfd1aad2fa": {
       "input_sha256": "b0f3541761c3d5d35cd4d51ebf161bcf7554a24512946f19a79faecfb64594bc",
       "description_sha256": "b7304427ef40c38fced4abd721f53d5dbf37d56af0d91148dec66bc58f9e31d4",
@@ -17349,6 +17370,13 @@
         "document and knowledge workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:7887bdd8-8022-52b4-9dd5-99eb655c9890": {
+      "input_sha256": "fae5fb9ed0a17aba9eccb633ccb63408f38e91e8d7b095ebb62f2cb354636b95",
+      "description_sha256": "a1cf52f2cd08e135d08a4c444efc141b57da5a30fd8f8d085bf5397146c8b0ca",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "1a11bc4e-da31-5b57-a831-73068d1dd918": {
       "input_sha256": "ad5c53d910b86d167ac2ac8c749c6269c4eb983c3c28ccd720daa6b767cffc82",
@@ -30059,6 +30087,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:d3ccf6f2-c83f-5b12-b549-0e99fca58a66": {
+      "input_sha256": "afe72311c8094d5c3a458d575d477c72497c890ffe01fe05c45e007d61f1cb5a",
+      "description_sha256": "e372526315533b25c2759044a3f993ed70818bbc3637157ff0b31a73fe09bebe",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "d4c8e4a1-e7bc-50c5-83cc-db3c87f6c7ba": {
       "input_sha256": "d4046956be5093890d31a9b0fc6dc03e13b6e26fe924777fba670fd942e23b46",
       "description_sha256": "563a91edc0a93abee3da25657d171964baf0df17996cf248412e9f8e143a4064",
@@ -41846,6 +41881,13 @@
         "deployment and cloud operations"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:09594fff-3d36-505d-832e-6a4b9bc2a836": {
+      "input_sha256": "5ca9b34f6c16ca9c2aaf2f8c5f99bf17833ee413495558da905ae7c7b4d8bd1e",
+      "description_sha256": "e8fbcaf827f05a31341a99606c07a135ad21cb988e19c14d372a8e61015120b0",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "052bf7ed-989a-5205-979e-7f2ac99d89c5": {
       "input_sha256": "4ed5679899b3011691a48e214a28dfad6c6092d283d1754ddc727ad09a0d773e",
@@ -78112,6 +78154,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:49dbf7e9-e3fa-5e5d-aded-c7713da5daf8": {
+      "input_sha256": "0f86c49da088452411f6ea34893afc6732d4687bea236f177456c47d78b5f722",
+      "description_sha256": "97b317b991928d49f40da1f0c969399936045f3e74429a7da7b2044ce650bcb3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "022cd9c5-a99f-5b1c-b1fb-ddc7cd263d68": {
       "input_sha256": "09b34e671753fae52861491f6d7e5881fbdad68e79800828660b4143904dca74",
       "description_sha256": "ac6b601e36b5b3d962b22205f00d492e2aff5c4d831c574c5def2da38a63e6ea",
@@ -81473,6 +81522,41 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:7fafa309-ab4f-5424-8f64-a71d43c21ee3": {
+      "input_sha256": "6a6835a42d4e78b55381bfad9785a15c9804fca25113320b7ad561d876aeea7b",
+      "description_sha256": "e23f79f20d8db23f655f40c4dd1c142c2bc2ff652208bea3bd77b212586b1c78",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:43f9e5fc-99a1-556a-9418-3d272b9b4aec": {
+      "input_sha256": "b22f25c52b32f4dbade3ff2e696942fad7c9e31903e39aa1039b7e056d52a5f1",
+      "description_sha256": "3b1cc3d53d2f003c56ccc03585d59c5bdaa9a526cc041f1339fce8f6d7c613cf",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:357ffbfa-9f2d-56e9-90a0-b32e67f6101d": {
+      "input_sha256": "6414e42897638acf7905fc54a416383ec8a025929b0ab024d336d3c94d6c12ba",
+      "description_sha256": "01a080a7e914798ecb4161eb13450fa803fa0cb4ac6cc25a5f8d3440134ef1e2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:692239fe-f9a7-54c0-beb3-ece4468c8713": {
+      "input_sha256": "305c8fbdd996448aa19b51fb21a40c1e0cb1c9dbba4b7e943686c486b9097ebf",
+      "description_sha256": "68da4482d7b5772c7b0c535fe554bf2b20dd77b02f4300837d5d2a582129fc60",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:68bc246d-49af-59e1-88c6-5d1643be4870": {
+      "input_sha256": "18122ef8c8730ed46457f42454fad4d40b1347533ddd304d5163a8d51c7ed64c",
+      "description_sha256": "b18e019942e216eddf1480f1b37001d17370917c110850dfc9f8f1d5adb9e3f2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "d8967d48-baeb-5626-a3ec-8a6f0d298b34": {
       "input_sha256": "f801e00c2b8228539bedf9981d344438cff1638e30e9dab051fb762b25de9dc3",
@@ -131920,6 +132004,13 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:e430d56a-b0c0-545b-94a8-b6597c08a581": {
+      "input_sha256": "3096348d7feeb6700a249178938b1e87b08b97d62d71230e75c216742c742523",
+      "description_sha256": "e6066ef7769a915ccb0a00309327908dfe5b2a3f96b3ce681f6ee70dde2fa753",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "fa63ba4d-2cbf-5f30-94be-f6f287c6546c": {
       "input_sha256": "d746a1427d21e3e4da20edcaf807a6248cf705f1d3441f49dbc01ef217f5f107",
       "description_sha256": "4471d4749d449805d02364f7b30bb6b50a9672438ebcf7224427014cff3ea5b3",
@@ -132074,6 +132165,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:c74a0145-466d-5c7b-851d-dd04a4a0c8d3": {
+      "input_sha256": "8c047df02471993d02b3c07fd807b6909de4775c2d60592b4703040a518cc7b4",
+      "description_sha256": "a6c8e26fb696ac0819dca4f0a38d0f6e1c2bee4fecab10e2fd3d8c1b03355163",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "755efea6-b0ed-5c58-99af-df497f12bf15": {
       "input_sha256": "e9c44434dedc04828520ac12eca779c3796651306731ae603d9cc54ea716fb37",
@@ -132663,6 +132761,41 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:60d027d1-96ed-5cb8-adae-474bd09f68c6": {
+      "input_sha256": "fd3fdda738609618edf4de81f2c9113f63e8f747f1b2bf0a6e614a0a3843a6de",
+      "description_sha256": "ce1d6068a2345ced863b5a22df9704da8d913a67c4e632dd16b13d8e2af2b146",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:152f3fe8-d564-5e67-96ab-e80705755066": {
+      "input_sha256": "1fae09bcb78cfceb52854e06210a696dc653fe73c9e6412fb9053175dbb92ee0",
+      "description_sha256": "2a97973721bb9320c6295f8795417424598555199a4dda369c70b007d32f48bd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:96390cdb-2dee-5500-8dc7-48d41d92b0c4": {
+      "input_sha256": "16cadeca40a38f8dcf123c3d77bec006e4ae147f63b7cbf7fce6f2e50051ff2d",
+      "description_sha256": "1dc71d445368c049571c30204789e99632aa99b85337870b8c825402dec5c0fb",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:798d3675-2ac6-5c95-8971-bb5c7c7a8da3": {
+      "input_sha256": "6d613f96af6169cc4f4c967dd5680494e939e09c52a8dbd510201edcf07d982b",
+      "description_sha256": "27bd425043e7bf670d69ba8b504a5747032ded272fbe02d58e28c8c895d489f8",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:c1a4cef0-0d9f-5692-ae6f-5148fec26612": {
+      "input_sha256": "8e52e54c1601d41a56a5054970b8a9d61363bafbf33bc62080efe50aace9adff",
+      "description_sha256": "17838bf0f39784ec1081bfdbe84840126ef5dc0c1bf57057c173caf7e6205277",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "ef40ecfe-674d-57e3-97e4-c1c1c4ac612a": {
       "input_sha256": "fad031425aa2072aaf0f1dc853bf317a22914f05634e66cbc8a559f626e3436c",

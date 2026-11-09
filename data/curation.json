@@ -5149,6 +5149,595 @@
           "note": "Inspected current repository identity, activity, counts and repository license metadata."
         }
       ]
+    },
+    {
+      "id": "community:d3ccf6f2-c83f-5b12-b549-0e99fca58a66",
+      "fields": {
+        "name": "bigquery-optimization",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/blob/6f4818a4c5253574b9923e5bd1747eab0ad8e957/skills/bigquery-optimization/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 249,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/blob/6f4818a4c5253574b9923e5bd1747eab0ad8e957/skills/bigquery-optimization/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:7fafa309-ab4f-5424-8f64-a71d43c21ee3",
+      "fields": {
+        "name": "genai-factory-cloud-run-and-load-balancers",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-cloud-run-and-load-balancers/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/genai-factory",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 183,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-cloud-run-and-load-balancers/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:43f9e5fc-99a1-556a-9418-3d272b9b4aec",
+      "fields": {
+        "name": "genai-factory-discovery-engine-and-gecx",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-discovery-engine-and-gecx/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/genai-factory",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 183,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-discovery-engine-and-gecx/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:357ffbfa-9f2d-56e9-90a0-b32e67f6101d",
+      "fields": {
+        "name": "genai-factory-model-armor",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-model-armor/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/genai-factory",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 183,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-model-armor/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:692239fe-f9a7-54c0-beb3-ece4468c8713",
+      "fields": {
+        "name": "genai-factory-operations-and-teardown",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-operations-and-teardown/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/genai-factory",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 183,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-operations-and-teardown/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:68bc246d-49af-59e1-88c6-5d1643be4870",
+      "fields": {
+        "name": "genai-factory-prerequisites-and-fast",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-prerequisites-and-fast/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/genai-factory",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 183,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/blob/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7/.agents/skills/genai-factory-prerequisites-and-fast/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:ddc33d8d-04a6-54e5-80b2-eea5d9b648e0",
+      "fields": {
+        "name": "amc-run-auto-calibration",
+        "type": "Skill",
+        "website_url": "https://github.com/NVIDIA/DeepStream/blob/2a77198174b5d815a57c9ebd1bfd89ca7700ccb2/skills/amc-run-auto-calibration/SKILL.md",
+        "repository_url": "https://github.com/NVIDIA/DeepStream",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 315,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/DeepStream/blob/2a77198174b5d815a57c9ebd1bfd89ca7700ccb2/skills/amc-run-auto-calibration/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/NVIDIA/DeepStream",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:e430d56a-b0c0-545b-94a8-b6597c08a581",
+      "fields": {
+        "name": "nurec",
+        "type": "Skill",
+        "website_url": "https://github.com/NVIDIA/NuRec/blob/ffce3667841691c7fe2ca763c5c10e2949c8ca0e/skills/nurec/SKILL.md",
+        "repository_url": "https://github.com/NVIDIA/NuRec",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 35,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/NuRec/blob/ffce3667841691c7fe2ca763c5c10e2949c8ca0e/skills/nurec/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/NVIDIA/NuRec",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:c74a0145-466d-5c7b-851d-dd04a4a0c8d3",
+      "fields": {
+        "name": "nvalchemi-toolkit",
+        "type": "Skill",
+        "website_url": "https://github.com/NVIDIA/nvalchemi-toolkit/blob/f1cb0b544078b47327f835781ae95de4a2355b78/skills/nvalchemi-toolkit/SKILL.md",
+        "repository_url": "https://github.com/NVIDIA/nvalchemi-toolkit",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 204,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/blob/f1cb0b544078b47327f835781ae95de4a2355b78/skills/nvalchemi-toolkit/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:b5e322ee-2a08-5127-b9b0-80fdf63fd321",
+      "fields": {
+        "name": "aidlc-discovery",
+        "type": "Skill",
+        "website_url": "https://github.com/aws-samples/sample-aidlc-discovery/blob/e0a730077f7a30de70efd9900677b3e9c7e02b3b/skills/aidlc-discovery/SKILL.md",
+        "repository_url": "https://github.com/aws-samples/sample-aidlc-discovery",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT-0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 21,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/blob/e0a730077f7a30de70efd9900677b3e9c7e02b3b/skills/aidlc-discovery/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:7887bdd8-8022-52b4-9dd5-99eb655c9890",
+      "fields": {
+        "name": "apex",
+        "type": "Skill",
+        "website_url": "https://github.com/aws-samples/sample-apex-skills/blob/6fb0e9765bb5980a8643eea157a09979ad8f194a/skills/apex/SKILL.md",
+        "repository_url": "https://github.com/aws-samples/sample-apex-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT-0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 96,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-apex-skills/blob/6fb0e9765bb5980a8643eea157a09979ad8f194a/skills/apex/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/aws-samples/sample-apex-skills",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:09594fff-3d36-505d-832e-6a4b9bc2a836",
+      "fields": {
+        "name": "cloud-operator",
+        "type": "Skill",
+        "website_url": "https://github.com/google/skills/blob/2194d3b8b1f31975fef2f1a0ae6b9ab55bd7ceee/skills/cloud/cloud-operator/SKILL.md",
+        "repository_url": "https://github.com/google/skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 23759,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills/blob/2194d3b8b1f31975fef2f1a0ae6b9ab55bd7ceee/skills/cloud/cloud-operator/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/google/skills",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:60d027d1-96ed-5cb8-adae-474bd09f68c6",
+      "fields": {
+        "name": "nvx-collect-benchmarks",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-collect-benchmarks/SKILL.md",
+        "repository_url": "https://github.com/microsoft/nvx",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 830,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-collect-benchmarks/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/nvx",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:152f3fe8-d564-5e67-96ab-e80705755066",
+      "fields": {
+        "name": "nvx-prepare-host",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-prepare-host/SKILL.md",
+        "repository_url": "https://github.com/microsoft/nvx",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 830,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-prepare-host/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/nvx",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:96390cdb-2dee-5500-8dc7-48d41d92b0c4",
+      "fields": {
+        "name": "nvx-promote-openvmm-pin",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-promote-openvmm-pin/SKILL.md",
+        "repository_url": "https://github.com/microsoft/nvx",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 830,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-promote-openvmm-pin/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/nvx",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:798d3675-2ac6-5c95-8971-bb5c7c7a8da3",
+      "fields": {
+        "name": "nvx-run-microvm",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-run-microvm/SKILL.md",
+        "repository_url": "https://github.com/microsoft/nvx",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 830,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-run-microvm/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/nvx",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:c1a4cef0-0d9f-5692-ae6f-5148fec26612",
+      "fields": {
+        "name": "nvx-triage-ci-run",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-triage-ci-run/SKILL.md",
+        "repository_url": "https://github.com/microsoft/nvx",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 830,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/blob/733a7031e655e4f904a8640cadefd9f50646b946/.github/skills/nvx-triage-ci-run/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/nvx",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:cfad654b-8bac-5f8d-8389-01380d8fdc9b",
+      "fields": {
+        "name": "add-redis-iris",
+        "type": "Skill",
+        "website_url": "https://github.com/redis/agent-skills/blob/74708dab4b3f81a9845803c3f642a4f7d443af69/plugins/redis-development/skills/add-redis-iris/SKILL.md",
+        "repository_url": "https://github.com/redis/agent-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:20:46.729280+00:00",
+        "github_stars": 175,
+        "github_stars_checked_at": "2026-11-09T17:20:46.729280+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/redis/agent-skills/blob/74708dab4b3f81a9845803c3f642a4f7d443af69/plugins/redis-development/skills/add-redis-iris/SKILL.md",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/redis/agent-skills",
+          "checked_at": "2026-11-09T17:20:46.729280+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:49dbf7e9-e3fa-5e5d-aded-c7713da5daf8",
+      "fields": {
+        "name": "foundry-agent",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/FoundryX/blob/aab49fd2ba817fe84e73efbbdeb7d12a915e254e/skills/foundry-agent/SKILL.md",
+        "repository_url": "https://github.com/microsoft/FoundryX",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T17:23:11.783713+00:00",
+        "github_stars": 1,
+        "github_stars_checked_at": "2026-11-09T17:23:11.783713+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/FoundryX/blob/aab49fd2ba817fe84e73efbbdeb7d12a915e254e/skills/foundry-agent/SKILL.md",
+          "checked_at": "2026-11-09T17:23:11.783713+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/FoundryX",
+          "checked_at": "2026-11-09T17:23:11.783713+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
     }
   ],
   "corrections": [
