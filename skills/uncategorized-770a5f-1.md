@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](uncategorized-770a5f-2.md)
 
-3,366 listings · Page 1 of 17
+3,357 listings · Page 1 of 17
 
 - **0ss/ship** — [Website](<https://github.com/0ss/ship>) · [GitHub](<https://github.com/0ss/ship>) · **License: MIT** · Stars: not recorded — 0ss/ship is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **0xc000022070/agentic-flake** — [Website](<https://github.com/0xc000022070/agentic-flake>) · [GitHub](<https://github.com/0xc000022070/agentic-flake>) · **License: Unknown** · Stars: not recorded — 0xc000022070/agentic-flake is listed as an agent-skill repository. A specific capability summary has not been established from the available catalogue metadata.

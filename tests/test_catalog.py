@@ -218,6 +218,7 @@ class MaintenanceTests(unittest.TestCase):
             root = pathlib.Path(directory);(root/'data').mkdir()
             (root/catalog.CURATION).write_bytes(catalog.json_bytes(curation()))
             (root/catalog.POLICY).write_bytes(catalog.json_bytes(catalog.PREFERRED_PROVIDERS))
+            (root/'data/disabled-skills.json').write_bytes(catalog.json_bytes({'skills': []}))
             rows, aliases = catalog.normalize([row()])
             first, manifest = catalog.build_outputs(rows,aliases,{},root)
             second, _ = catalog.build_outputs(rows,aliases,manifest,root)

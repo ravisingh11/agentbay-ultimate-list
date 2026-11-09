@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](uncategorized-770a5f-2.md) · [Next →](uncategorized-770a5f-4.md)
 
-3,366 listings · Page 3 of 17
+3,357 listings · Page 3 of 17
 
 - **apollographql/apollo-mcp-server** — [Website](<https://github.com/apollographql/skills>) · [GitHub](<https://github.com/apollographql/skills>) · **License: MIT** · Stars: not recorded — apollographql/apollo-mcp-server is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.
 - **apollographql/apollo-router** — [Website](<https://github.com/apollographql/skills>) · [GitHub](<https://github.com/apollographql/skills>) · **License: MIT** · Stars: not recorded — apollographql/apollo-router is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.

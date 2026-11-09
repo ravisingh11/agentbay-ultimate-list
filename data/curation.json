@@ -7119,6 +7119,1832 @@
           "note": "Verified public active official repository, exact SKILL.md path and Git blob. Retain canonical ID 9b1826ca-bba1-558c-afc1-0b84697ef70d; the website alias preserves saved references."
         }
       ]
+    },
+    {
+      "id": "6453014b-e794-5fd1-8229-7b4171272eac",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/a2aproject/a2a-cli/tree/e39b7869217bc668e57ff1eb94a80676c95cb26c",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: agent-plugin/skills/a2a-cli/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "380f3b26-4569-50dd-8abc-23f160bea0e1",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/horizon-sdv/tree/cbd5a80aaa320b63d0131d6c4d24a5d09be44f38",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: workloads/common/agentic-ai/antigravity/skills/aaos-build/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ae8eb173-c0eb-52eb-a902-be69c1537b0f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/horizon-sdv/tree/cbd5a80aaa320b63d0131d6c4d24a5d09be44f38",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: workloads/common/agentic-ai/antigravity/skills/aaos-cts/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "03b99ea0-b308-5430-ac21-53d95367f3fd",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/spectrum-web-components/tree/6d781e92f452f6dc48d90297de444366db037cc1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .ai/skills/accessibility-migration-analysis/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5b1b0ec3-ea7a-5fea-aeb5-e9c6a71431b8",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/address-pr-comments/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6dc4dbb9-a121-52aa-9135-734f78e94a37",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/DeepStream/tree/2a77198174b5d815a57c9ebd1bfd89ca7700ccb2",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/amc-run-sample-calibration/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "3d5666bf-33b5-5d01-b6c3-4e5e10ea3a64",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/DeepStream/tree/2a77198174b5d815a57c9ebd1bfd89ca7700ccb2",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/amc-setup-calibration-stack/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f59a326c-7621-5be0-9a33-84d3407a7d53",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/glintlabs/tree/4fac6cd704a0e930717c3002041f378e159de38d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/analysis-qa/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a56994ca-9314-50fa-b9a3-621b6ac32247",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/asset-harvester/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6822f9a8-4330-5027-802f-897aae369ffc",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/tree/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/autocloud-operator/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "108cf238-f5ca-5d52-9b82-7380353970cb",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/tree/427315f95f65280360b6e67b6473ab2f31b70043",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/azsdk-common-typespec-naming/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "bc695ad6-7a28-5203-9a78-680276871a9e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/tree/6f4818a4c5253574b9923e5bd1747eab0ad8e957",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/bigquery-sql/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "67a159c5-abf3-5bdd-8590-9666e9361f8a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-add-content-via-extension-point/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "642854c0-ea7f-516e-97d9-96a688df0f90",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-add-custom-action/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "2a638514-150d-59dc-85be-85386c531b9d",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-add-custom-hotkeys/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "20ee19b7-7ac7-53d0-aab6-bc65dd16a576",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-add-custom-tab/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7003144d-f5cd-5956-bf0c-b132f9cb8383",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-call-apis/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "8a770284-28e1-513d-8d67-176a945fa7bf",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-configure-generated-assets/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0cf2254d-da65-5418-8459-85cb2e6c76d3",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-configure-getpage-templates/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "20200811-cc6c-56a4-92b0-15f90db703b9",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-configure-table-export/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0e3338ed-185c-5795-81fb-d76572b940b7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-create-new-app/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "bf117d2c-acb6-5389-85c4-d11063c055c2",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-customize-by-overrides/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "37dbdabd-5c84-5adb-b35e-c620f3e3080e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-customize-field-details/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "76e63849-6fd5-59f2-9421-91367ad0cc17",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-customize-login-page/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "8d5a8c2d-4b51-5f38-bd5e-2853741a5ebf",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-customize-search-fields/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d6e34a58-7820-535d-bb72-279e684f7680",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-customize-table-config/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6dd334d0-8d7f-5f81-a577-cc0d64d35577",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-generate-dashboard/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5864ae9f-7ecf-5268-a22a-29e7b0b94138",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-generate-search-panel/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c4bd5c08-aa10-55ed-816a-546d9d526669",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-generate-search-result/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "14f7b301-e113-5331-90f5-6929052457e0",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-generate-summary-component/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "69b8a0e6-b7c3-5611-a118-25dcbd62040b",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-generate-table-component/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "dd2b8c0a-c968-56a7-92a2-41b417fca6ba",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-inject-custom-html-js/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "dd5d65b3-2f6a-583d-92e0-f6a9387875f7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-prepare-module-customization/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b9d575dc-7e5d-50d5-b3b8-2b81779b2547",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-register-customization/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d74dea9b-1311-5265-bc17-18964eb10eaa",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-resolve-config-placement/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6514b612-d664-53ee-ac68-0a49d072d3ca",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/tree/124c44284e733e4f0d4504caf32f6db01e1401ca",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: orderhub/buc-wire-custom-assets/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c0b25dc1-66a2-5e1f-92ae-3e9be9b5fcad",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nemoclaw-community/tree/17a5af9b7eac0a33cb3a2b2f82bc83585cee8595",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/tools/cae-freecad-agent-harness-optimization/results/final-agent/skills/build-features/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "8f9d5cee-bd59-5c6f-9f2f-9dc478905dc1",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/bobsql/tree/a8add788269bb02113094f7994fea8ad4f4087bb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/build-privatelink-demo/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "75ba4582-6bd4-5f91-8dc3-4b6d1a5b384a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/bobsql/tree/a8add788269bb02113094f7994fea8ad4f4087bb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/build-sqlmcpserver-demo/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "e24c7f54-2a0a-5035-af6c-00f35e247ba6",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/anthropics/claude-code/tree/0ed94698aa0aeee471465fc9c867c2e8434c4d68",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "324857ea-7f5a-5865-9589-9646f161a227",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/tree/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/cloud-run-and-load-balancers/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5449ca53-0b56-5b5c-8a4f-170d0199bae3",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/githubnext/gh-cao/tree/fd69c356b8cf5a3e7a9243570e194e6805606306",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/codebase-model/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "65b78c2d-e523-53f5-b597-10d9079aadd3",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/commit-message/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ee7043d7-7a5b-5f85-b76e-a567136f73f2",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA-NeMo/RL/tree/61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/config-conventions/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "484c64c5-cb99-504e-a428-3c9ed2bd083e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/db-context-enrichment/tree/ffddc117c533bd3390b60c632c57dd9240fca4b7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugin/skills/context-generation-guide/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "72f76342-a785-5d42-afec-ab0f03e9c822",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA-NeMo/RL/tree/61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/copyright/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "2391fb72-16b5-546b-8728-3ff6a2d93b24",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/create-pr/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "bddd3493-726d-5d97-b3f3-4ff1d4a6c3e7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills_lint.dart/tree/54745ba3240a6f317647d90e1e8fa8a55918328d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: third_party/skill-repos/dart-lang-skills/.agents/skills/dart-add-unit-test/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "390d533a-8cb0-56a3-b9a0-d6afe4c15502",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills_lint.dart/tree/54745ba3240a6f317647d90e1e8fa8a55918328d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: third_party/skill-repos/dart-lang-skills/.agents/skills/dart-collect-coverage/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "2fdf4a62-9295-5a06-bd3e-39b1c736b059",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills_lint.dart/tree/54745ba3240a6f317647d90e1e8fa8a55918328d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: third_party/skill-repos/dart-lang-skills/.agents/skills/dart-migrate-to-checks-package/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "fc1092fe-76d0-592a-ae98-2fb9c63fac10",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/skills_lint.dart/tree/54745ba3240a6f317647d90e1e8fa8a55918328d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/dart-skills-lint-integration/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5e3d9290-4386-57e8-a9bc-d00a18b9a27c",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/database-migration/tree/eac68df93311c2083fb7b553f0a472a6b7ddd997",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/database-migration/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "2d05f8ca-8e53-5aaf-b5cf-b728dc3aa61e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/cloudflare/agents/tree/5c33d89791d6a00c6ea64cf7790fa753e3e5cbfd",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/agent-skills/src/skills/debug-plan/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b96d9764-ee11-5807-ba40-f1911cc35845",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/tree/b92a8a090647a158b934c2cc73b3a8df75d862a6",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: infra/.github/skills/deployment-operations/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ed918229-bb07-5c00-8825-b050d5c786db",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/tree/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/discovery-engine-and-gecx/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7d889245-4f0f-5fdc-8ca6-8e4f8bdac962",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/tree/e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/skills/discovery-orchestrator/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "02c7434d-8e3d-5829-876f-066cfed36f24",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-bench-extension/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f6766a3b-1860-5721-850a-0a36b1c33ee4",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-collectx-deployment/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5fd7e8e8-263d-54e6-acd0-3ceef77185ab",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-dpa-hl-tracer/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d2992d51-3525-5f0f-bc8e-75aa322275ab",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-flow-dpa-perf/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "8b41830e-08f8-53c3-9dd7-a0d4727798ae",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-flow-dpa-provider/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "048da6b4-2eac-5e3c-8e52-ea3679d6e060",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-flow-grpc-server/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7f6e23f8-4cc2-57c2-a280-bcba22c97181",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-flow-perf/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "db745097-088d-5cc8-92c8-61d47b13100d",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-gpi/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "fd32d9f5-49b5-5149-b95b-fba1b294d17f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-gpunetio-ib-write-bw/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a5044462-8550-5d8d-ab06-67ca7eade45a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-gpunetio-ib-write-lat/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a294ce9d-c99c-58bd-982d-e1752e0a2ab7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-pcc-ztr-rttcc-algo/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "86430a4b-53f7-5178-8494-9b504c63ba2a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/skills/tree/fce3cca4170be75e82c64920654d56ee2811b005",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/doca-rdmi/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "1833d911-8d0f-57f7-9e5d-bbc08004778a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-advanced-labels/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ec28d4d7-ef9e-5965-9440-d87a7bc1e357",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-benchmark/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c555e9c6-edb5-5eb6-97a5-d1d0826c007a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-binary/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5e57a0a2-e12b-5d7c-9a31-f2c55a62d1ae",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-chart-tokens/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "08ee0bf2-7864-519d-b29f-0124e7b2803a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-direct-labels/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f5089090-34e0-5d26-acb1-c8cb86674d23",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-label-collision/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0c694720-4926-5051-8ebf-309d4afd78a5",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-metric-labels/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "e9b87702-0d98-5f5c-9b8f-bada39e5986d",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/react-spectrum-charts/tree/d86b83628c21e7aa6d7f0cd4c5de880946c9b6ab",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: llm/skills/s2-donut/donut-regular/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6a3c795c-4fbf-50b9-9f38-7e397dde63d3",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/vercel/ai/tree/afc151d0b5db9adfce6e131fbd56e544cbffc577",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/edit-package-readme/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "87f17f1b-d10e-52bf-a5a3-dd16347ab7c8",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA-NeMo/RL/tree/61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/error-handling/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "4f71db37-cef2-57f8-b57d-0b6a186be7b5",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/skills-for-fabric/tree/f8fac110ac3b93e9d1f7b0bd8feac5c6a468ce43",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/fabric-skills/skills/fabriciq-ontology-cli/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "45017aa9-62e3-5c0e-9a42-84fcbd435972",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/tree/584ff324e7cc760040cf8725b874dc3b5c795cb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/fibey/agent/skills/field-briefing/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a26b35b6-9117-5273-bba4-f468e8ab0d91",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/foundry-dev-tools/tree/bba484bffc275cc9640f61b7b7357be0f943e16b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: foundry-agent/skills/foundry-agent/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a5bcc385-662b-5f0a-bdf3-50902221f2a1",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/tree/6f4818a4c5253574b9923e5bd1747eab0ad8e957",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/google-cloud-auth-verification/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "127261cb-51b3-5531-b714-e53136f42e5b",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/frontier-agentic-devops-rvas/tree/5b5523d5cf94fcce617f40bc967cdf1e395a5724",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/grilling/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0b1e70da-0b79-5975-affe-2ed83858ac68",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/hve-core/tree/f425e943bf228052a23e6bc4810b5faef030314f",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/hve-slides/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "cafa65cf-c664-518a-8d51-364a58eb43dc",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/tree/b92a8a090647a158b934c2cc73b3a8df75d862a6",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: infra/.github/skills/iac-validation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "294b6c01-8d4c-5ef6-b404-219fc9c617e9",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/tree/584ff324e7cc760040cf8725b874dc3b5c795cb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/fibey/agent/skills/inventory-lookup/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "23b44c96-04a1-5228-8057-986ad8890678",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/redis/agent-skills/tree/74708dab4b3f81a9845803c3f642a4f7d443af69",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/redis-development/skills/iris-development/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "70f2896e-eade-5e62-a921-188fd3371dd6",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/tree/584ff324e7cc760040cf8725b874dc3b5c795cb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/fibey/agent/skills/knowledge-retrieval/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "18aad178-47cc-5472-911b-6dca90dcdbd7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA-NeMo/RL/tree/61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/linting-and-formatting/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "37e6d2b1-9e40-5fea-aee1-8b48783fa0cc",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/vercel/eve/tree/35fc0786c1b873a3ce8cdf6372674ee771bdfd52",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: packages/eve-code/extension/skills/lookup-agent-run/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c162e8ca-af28-5644-a73f-d6dc8fc9169d",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nemoclaw-community/tree/17a5af9b7eac0a33cb3a2b2f82bc83585cee8595",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/tools/cae-freecad-agent-harness-optimization/results/final-agent/skills/measure-mesh/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "612c0738-0926-55c5-aa32-fd45aa1019aa",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/Build-CLI/tree/768c8c8c9d54115901fe499bd923a93c5e464413",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/microsoft-build/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b286db39-6bb7-53a2-97d0-0af8d23ecf98",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/getsentry/sentry/tree/604aff6cd0628ded078423d456401ff3820d7fda",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/migrate-breadcrumb-list/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5cd8a541-d0e2-59d5-b629-e1b0047b3063",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/tree/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/model-armor/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "1c2f958a-8056-5095-ae81-32afc99022ba",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/ncore/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "fd459d1b-a1a4-584a-8faa-d3ce5381865f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/neondatabase/agent-skills/tree/2b0e2b6f56d2b41c5363049e30e6ab72aa260cce",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/neon-postgres-egress-optimizer/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ddf04acf-81aa-5a64-8f9d-a685b53cc350",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/nre/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f8137eb1-8eae-5a93-8ede-47e533222450",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/nurec-fixer/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "5bd23198-3905-5851-8920-f45fb3375009",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/nurec-index/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "97ac2e0b-2a92-54ae-af28-03a243208f00",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-data-storage/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b25e5f96-18b8-56b8-acdd-b6c060dada4f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-data-structures/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "33ba1aeb-dfcf-52d3-a547-a87ea31f5506",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-distillation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0579fb48-bb72-5a7d-aad1-ebdd214f1ee1",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-distributed/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "e5062076-2250-50a5-890b-d713e89a03ca",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-dynamics-api/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "1ca73392-7173-540c-8219-78936559c229",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-dynamics-hooks/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b781adb7-f757-5d3e-a87d-eb819da6f650",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-dynamics-implementation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d960fc24-ce58-5f9a-ac83-b8e549c81f2f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-fine-tuning/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "28a4f87a-a213-557c-8dd9-ef9e432ab7c7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-loss-api/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c37c0e5a-995e-506b-9e0d-a938b1d29c50",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-mep/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7bc7b17d-788d-5f13-883d-3a61e9b46bcf",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-model-wrapping/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a23f5509-a0c4-5028-b5a9-07c145d456f2",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-reporting/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "3891affc-e33b-56ba-bc96-18165c5fda2a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-training-api/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "28677225-d5d4-5b6f-ba2f-41380ba6ca9c",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nvalchemi-toolkit/tree/f1cb0b544078b47327f835781ae95de4a2355b78",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .claude/skills/nvalchemi-zarr-perf/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "cdfe75f3-81d2-59b0-ae7d-5b19ceaabb1f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-benchmark/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0f686c32-95da-53e0-9940-79d711c8dfbe",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-ci-investigation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "e893bd23-1789-5b70-a04f-3e30e78c31ce",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-debug/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "73989287-de7b-5773-a0c3-e9575f1cf04e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-host-connect/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a1944be3-5813-589e-ba81-756925ddea12",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-openvmm-promote/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "cbcca451-14a2-5f98-953f-f1d1908f3d83",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/nvx-run/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c8e904a0-0451-5916-b000-00c8194edea8",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/skills-for-fabric/tree/f8fac110ac3b93e9d1f7b0bd8feac5c6a468ce43",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/fabric-skills/skills/onelake-catalog-govern-cli/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "1c8d7410-86b4-5ae2-ba5f-d6257c7020e7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/QwenLM/open-computer-use/tree/35f105a857a5c703ec42c0aa5cd0040c50891b80",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/open-computer-use/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "eda83ef0-8d15-5cfb-9d19-c093d49abefb",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/tree/e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/skills/open-questions/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a84c64b4-4820-521e-b4a2-bc0db55bebd6",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/tree/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/operations-and-teardown/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c2e207f6-0c69-5aca-86e1-8921d2f62917",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/github/copilot-app-for-beginners/tree/8cb27928ebfefa978617dd4b7663d4338fc3faeb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/overview-video/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "02e26774-cb85-5cd9-8cb1-3f773739c36c",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/awslabs/agentcore-samples/tree/0144537f541c2ce04a163acbc0dda305522da02e",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: 06-workshops/01-AgentCore-runtime/10-managed-session-storage/persistent-notes/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "14380097-6045-55a9-bef4-03aa8aa1054a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nurec-skills/tree/28fdd9c83cc2952dd265f33012c813d662e2ed90",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/physical-ai-datasets/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6fbf5d98-12d6-57d1-8e03-c0ae7eb25cc9",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/cloudflare/agents/tree/5c33d89791d6a00c6ea64cf7790fa753e3e5cbfd",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/agent-skills/src/skills/pirate-voice/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d4663f56-ee22-5321-9765-614bc71add8b",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/vercel-labs/postgresbuild/tree/dc4418ffc018d6ae0d1ae908c0a28833cf0a5d8e",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .vc/automations/workflows/dependency-bumps/skills/postgres-dependency-bump/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "c1675b7a-e3b4-5aa7-9500-17d6c5cb86ee",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/hve-core/tree/f425e943bf228052a23e6bc4810b5faef030314f",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/experimental/powerpoint/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0f22363d-8cb9-50d6-8e86-3be1f724134a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/tree/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/cloud-operator/antigravity/skills/preferences/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "321d378e-ca18-5abc-a9bc-c3c1486c7f5a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/genai-factory/tree/4c94dbfd92498ed380eb554e46fd0ad3db8cedf7",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/prerequisites-and-fast/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "59a7ee86-9644-52b4-8abe-ca69ea94e45f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/tree/e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/skills/product-discovery/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f29f43cb-1005-58e0-a88b-0410bbc2a5b0",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/rebase-and-validate/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "bbe5c8bc-1e7f-5875-ac87-3ad352ff049b",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/PR-Metrics/tree/4b3f8521280a97e66ed665a5a259c0b430752e20",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/refresh-ci-dependencies/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "f039f18e-2c49-558c-9141-cf08ee8a2fc5",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/tree/b92a8a090647a158b934c2cc73b3a8df75d862a6",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: infra/.github/skills/release-management/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "55de55c8-d4a1-5e15-96d7-008294f6a7ae",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/cloudflare/agents/tree/5c33d89791d6a00c6ea64cf7790fa753e3e5cbfd",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/agent-skills/src/skills/release-notes/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "2aab7fbc-357c-536f-949c-a7f2efe115e1",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA-NeMo/RL/tree/61bc275da39d4a3d8b87368cfba7ef333ea61bea",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/removing-outdated-config/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6e65e11b-ac98-598d-8f59-6fe1e8b930e4",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/doubleml-pipeline/tree/4a2fa881650c17152c7ab1872c22f89c5999ddc2",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/doubleml_pipeline/skills/retail-analytics/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "a2dd9c69-503d-5972-9815-07e57a44a603",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/google/cybernetic-agent-governance-engine/tree/dfacc5650c4f2a54da6c9c7f3a4000b602b7434c",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .agents/skills/review/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7adae8ae-3113-5071-85ba-acfb4a30c776",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/nvx/tree/94584ae51f3e17dc6a25611dca20a181cd4f85c8",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/review-changes/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "46437045-372b-54c7-ab91-190d04a9e142",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws/agent-toolkit-for-aws/tree/e1380e15b6b91f7c7a4e20e9357bd77828e32037",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/specialized-skills/networking-and-content-delivery-skills/routing-traffic-with-route53-and-cloudfront/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "6b8e3e64-3058-5cff-9710-cf17ec57784d",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/bobsql/tree/a8add788269bb02113094f7994fea8ad4f4087bb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/run-privatelink-demo/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d3593370-1444-5322-9e8f-ee369eca988f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/bobsql/tree/a8add788269bb02113094f7994fea8ad4f4087bb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: .github/skills/run-sqlmcpserver-demos/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "d94ce628-49d7-5846-beff-bb28540a641e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/salesforce/zana/tree/02a07172c9a1b2992a9c67e8729abc099bb55fc4",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/salesforce/skills/salesforce-constitution/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "91aa7656-82a4-54ff-af7a-7559c27bd80e",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/salesforce/zana/tree/02a07172c9a1b2992a9c67e8729abc099bb55fc4",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/salesforce/skills/salesforce-dx/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "480d478e-22fc-57e2-a2ff-647dab97a68f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/salesforce/zana/tree/02a07172c9a1b2992a9c67e8729abc099bb55fc4",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/salesforce/skills/salesforce-toolkit/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ed997f45-dcf8-5bd5-ac51-5f5ec7ab192c",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/tree/f48330673c1933fbdd7d82eff71e44fe9cfc4fb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/cloud-operator/antigravity/skills/setup/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7abab48d-4ab5-5109-9a29-3cc30b020fed",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/bobsql/tree/a8add788269bb02113094f7994fea8ad4f4087bb",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: hyperscale-developer/.github/skills/sqlsim/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "46f334cd-abd0-54b6-ac47-59a34d44f9d7",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-apex-skills/tree/6fb0e9765bb5980a8643eea157a09979ad8f194a",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/steering-workflow-creator/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "7746f305-a943-5134-b123-893d0053611a",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/Agents/tree/8f74d93e8a8b4ef9c86825bfd40d7a319187f908",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: automation/teams-sample-sync/skills/sync-teams-dotnet-samples-to-agents-sdk/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "97e7b1ab-d496-5446-be1d-8f6e4539da10",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/tree/e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/skills/tech-discovery/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "3f5b2fc8-5646-50a6-bfaa-9130b30ec86f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/agent-landing-zone/tree/b92a8a090647a158b934c2cc73b3a8df75d862a6",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: infra/.github/skills/terraform-parity-proposal/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "e7b7f92f-c96a-561e-ae1e-b02271a72953",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/cloudflare/agents/tree/5c33d89791d6a00c6ea64cf7790fa753e3e5cbfd",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/agent-skills/src/skills/test-plan/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "59164abd-ddca-5dda-b4a0-3a74e1b26d19",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/tree/3f8a4f7aedd7b2c3a0374808a93fcbf544083b8d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/the-care-card/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "dc5b0d5d-7b27-5379-ab22-4be9a4ee1016",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/tree/3f8a4f7aedd7b2c3a0374808a93fcbf544083b8d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/the-gift-table/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "113f1f2c-e817-5e81-8659-e385f7005602",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/tree/3f8a4f7aedd7b2c3a0374808a93fcbf544083b8d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/the-makers-shelf/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "0a4a5238-9c49-584e-8aca-95ac738ff7e0",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/tree/3f8a4f7aedd7b2c3a0374808a93fcbf544083b8d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/the-packing-list/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "834810f1-a4b8-5448-8e77-ee985f4c4c07",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/tree/3f8a4f7aedd7b2c3a0374808a93fcbf544083b8d",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: skills/the-proof-counter/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "b32634de-74c9-5e1e-933c-fa06d56d6ebe",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/foundry-dev-tools/tree/bba484bffc275cc9640f61b7b7357be0f943e16b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: microsoft-foundry/skills/validate-microsoft-foundry-hosted-agent/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "400c0c66-5022-5fd8-bc49-cc3d01a5fd0f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/NVIDIA/nemoclaw-community/tree/17a5af9b7eac0a33cb3a2b2f82bc83585cee8595",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/tools/cae-freecad-agent-harness-optimization/results/final-agent/skills/verify-model/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "9f991c10-a25a-5fc1-b3ed-7080d9258d79",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-aidlc-discovery/tree/e0a730077f7a30de70efd9900677b3e9c7e02b3b",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/skills/visual-sketch/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "4bbb743d-4c50-5b22-9dc0-49c46af1ff11",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/awslabs/agentcore-samples/tree/0144537f541c2ce04a163acbc0dda305522da02e",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: 06-workshops/01-AgentCore-runtime/01-hosting-agent/06-strands-with-skills/skills/weather-reporter/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "8166006c-4472-582a-bb8e-c91b6ae36041",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/tree/584ff324e7cc760040cf8725b874dc3b5c795cb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/fibey/agent/skills/work-order-management/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "456b21a4-beed-5364-b583-0d6658178274",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/tree/584ff324e7cc760040cf8725b874dc3b5c795cb1",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: src/fibey/agent/skills/work-order-preparation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "aaeed252-d07b-5f6c-97b8-0c2ffb90aa58",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/work-iq/tree/72c889460aa7ac6d7ed3bb02179332abafc963d4",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: plugins/workiq-preview/skills/workiq-preview/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "391745cb-a43a-594b-afa3-04405542f25f",
+      "reason": "Disabled: publisher revision no longer contains the indexed skill path.",
+      "evidence": [
+        {
+          "url": "https://github.com/cloudflare/agents/tree/5c33d89791d6a00c6ea64cf7790fa753e3e5cbfd",
+          "checked_at": "2026-11-09T04:49:53.939605+00:00",
+          "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/assistant/agents/assistant/agents/my-assistant/skills/workspace-digest/SKILL.md"
+        }
+      ]
     }
   ]
 }
