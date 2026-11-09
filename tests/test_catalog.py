@@ -178,6 +178,56 @@ class MaintenanceTests(unittest.TestCase):
                 catalog.write_outputs({'README.md':b'new','skills/README.md':b'new'},{},root)
             self.assertFalse((root/'README.md').exists())
 
+    def test_recovered_sources_and_historical_labels_are_consistent(self):
+        root = SCRIPT.parent.parent
+        disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
+        skills = catalog.read_json(root/'skills/catalog.json')
+        restored = [r for r in disabled if r.get('replacement', {}).get('kind') == 'exact']
+        related = [r for r in disabled if r.get('replacement', {}).get('kind') == 'related']
+        self.assertEqual(len(restored), 7)
+        self.assertEqual(len(related), 95)
+        for entry in restored:
+            source = entry['replacement']
+            self.assertEqual(entry['old_blob'], source['blob'])
+            url = 'https://github.com/'+source['repository']+'/blob/'+source['commit']+'/'+source['path']
+            self.assertEqual(sum(row['website_url'] == url for row in skills), 1)
+        for entry in related:
+            self.assertNotEqual(entry['old_blob'], entry['replacement']['blob'])
+            self.assertIn('Proprietary', entry['replacement']['license_notice'])
+        page = (root/'skills/disabled.md').read_text()
+        self.assertEqual(page.count('Identical skill at original source'), 7)
+        self.assertEqual(page.count('Related source, not verified equivalent'), 95)
+
+    def test_source_reviews_preserve_current_skills_and_explain_exclusions(self):
+        import sys
+        sys.path.insert(0, str(SCRIPT.parent))
+        import finder_candidates
+        root = SCRIPT.parent.parent
+        disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
+        skills = catalog.read_json(root/'skills/catalog.json')
+        reviews = [row['review'] for row in disabled if row.get('review')]
+        self.assertEqual(len(reviews), 269)
+        counts = {status: sum(r['status'] == status for r in reviews)
+                  for status in ('available', 'resource', 'invalid', 'candidate', 'unavailable')}
+        self.assertEqual(counts, {'available': 132, 'resource': 17, 'invalid': 3, 'candidate': 11, 'unavailable': 106})
+        keys = [finder_candidates.component(row['website_url']) for row in skills]
+        for review in reviews:
+            if review['status'] == 'available':
+                source = review['source']
+                expected = 0 if review.get('license_notice') else 1
+                self.assertEqual(keys.count((source['repository'].casefold(), source['path'])), expected)
+            if review['status'] == 'invalid':
+                source = review['source']
+                self.assertNotIn((source['repository'].casefold(), source['path']), keys)
+                self.assertTrue('invalid YAML' in review['note'] or '1,064 characters' in review['note'])
+            if review.get('license_notice'):
+                source = review['source']
+                self.assertNotIn((source['repository'].casefold(), source['path']), keys)
+                self.assertIn('Proprietary', review['license_notice'])
+        page = (root/'skills/disabled.md').read_text()
+        self.assertIn('Publisher’s current file', page)
+        self.assertIn('supporting documentation', page)
+
     def test_write_preserves_unowned_generated_name(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory);(root/'skills').mkdir()
@@ -218,6 +268,7 @@ class MaintenanceTests(unittest.TestCase):
             root = pathlib.Path(directory);(root/'data').mkdir()
             (root/catalog.CURATION).write_bytes(catalog.json_bytes(curation()))
             (root/catalog.POLICY).write_bytes(catalog.json_bytes(catalog.PREFERRED_PROVIDERS))
+            (root/'data/disabled-skills.json').write_bytes(catalog.json_bytes({'skills': []}))
             rows, aliases = catalog.normalize([row()])
             first, manifest = catalog.build_outputs(rows,aliases,{},root)
             second, _ = catalog.build_outputs(rows,aliases,manifest,root)

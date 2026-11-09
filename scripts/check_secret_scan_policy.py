@@ -15,6 +15,22 @@ import tempfile
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 
+def synthetic_sentinel():
+    """Keep fixture entropy high without accidentally generating English stopwords.
+
+    The pinned generic-key detector suppresses common words. Random base64 can
+    contain one by chance, so a healthy detector intermittently rejects the old
+    fixture. Alternating balanced digits/hex letters keeps entropy constant and
+    avoids words and long numeric sequences; the value is generated, not a key.
+    """
+    digits = list('0123456789' * 3)
+    letters = list('abcdef' * 5)
+    random = secrets.SystemRandom()
+    random.shuffle(digits)
+    random.shuffle(letters)
+    return ''.join(digit + letter for digit, letter in zip(digits, letters))
+
+
 def check():
     workflow = (ROOT / '.github/workflows/gitleaks.yml').read_text()
     images = set(re.findall(r'ghcr\.io/gitleaks/gitleaks@sha256:[0-9a-f]{64}', workflow))
@@ -75,7 +91,7 @@ def check():
             raise ValueError('The reviewed CSV names were not narrowly allowed')
 
         # A new credential-like value in the SAME row must still be detected.
-        write_csv('catalog.csv', secrets.token_urlsafe(24))
+        write_csv('catalog.csv', synthetic_sentinel())
         code, findings = scan('new-sentinel')
         if code != 1 or not any(f['RuleID'] == 'generic-api-key' and f['File'] == 'catalog.csv' for f in findings):
             raise ValueError('Default detection failed for a synthetic value in an allowed CSV row')
@@ -88,7 +104,7 @@ def check():
         # Naming fixtures in this helper is allowed; credentials in it are not.
         helper = fixture / 'scripts/check_secret_scan_policy.py'
         helper.parent.mkdir()
-        helper.write_text('api_key = ' + secrets.token_urlsafe(24) + '\n')
+        helper.write_text('api_key = ' + synthetic_sentinel() + '\n')
         code, findings = scan('helper-sentinel')
         if code != 1 or not any(f['RuleID'] == 'generic-api-key' and f['File'] == 'scripts/check_secret_scan_policy.py' for f in findings):
             raise ValueError('The fixture-source exception suppressed a new synthetic value')

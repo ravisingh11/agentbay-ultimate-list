@@ -2,6 +2,9 @@
 
 AgentBay is the primary source and maintainer. This repository publishes a curated, reusable list; it does not ship the website's application code or account data. Website presentation changes do not trigger a catalogue change. Relevant source additions and factual corrections enrich the list through a reviewed import.
 
+See [How AgentBay vets skills](skill-vetting.md) for the public explanation of
+source, instruction and tested-example checks.
+
 ## Repository layout
 
 | Path | Purpose |
@@ -101,3 +104,133 @@ To add a provider, use the [provider nomination form](https://github.com/ravisin
 For a review that names changed or absent upstream records, use `python3 scripts/catalog.py refresh --report ../agentbay-refresh-review.json` with a new output filename outside the checkout. The report resolves aliases and lists new/changed upstream records and records retained despite absence; absence alone is not permission to remove them. Public catalogue schemas and default refresh behavior remain compatible.
 
 The README renderer also maintains the public latest-PR Proof badge and dashboard link. Score publication is a separate, trusted reporting workflow; it does not import website curation, alter catalogue facts or authorize a merge.
+
+## Four-provider catalogue expansion (October 30, 2026)
+
+The owner-approved expansion adds Expo (`expo/skills`), Clerk (`clerk/skills`),
+Convex (`convex/agent-skills`) and Sanity (`sanity-io/agent-toolkit`) to the
+maintained provider registry. Official documentation, pinned commits, file paths,
+Git blob hashes and licensing observations are recorded in
+[`data/provider-expansion-review.json`](../data/provider-expansion-review.json).
+The selection covers 86 consumer-facing skills: 83 new catalogue records and
+three existing Convex source-link corrections that preserve their accepted IDs.
+Two internal Clerk audits, Expo's skill-evaluation harness and Convex's optional
+session-transcript sharing helper are excluded from this selection.
+
+Clerk's selected files declare MIT individually; no repository-wide license is
+inferred. Other licenses retain their recorded skill or repository scope. This
+registry change permits official attribution and the existing popularity
+exemption; it does not certify the instructions or execute them. Website source
+pool enrollment and publication stay separate. After accepting the registry on
+main, generate the website copy and receipt from that exact approved source.
+Existing IDs, reviewed curation, exclusions and installer instructions remain
+intact. The independent website design work is outside this catalogue change.
+
+## Verified source restoration (October 31, 2026)
+
+The owner-approved correction replaces the obsolete `facebook` owner with
+verified `meta` in the official registry. The current `facebook` organization
+has a different, unverified GitHub identity. Explicitly migrate 18 accepted
+repositories and 152 skills to their canonical `meta/*` sources, plus one
+unchanged skill from `Azure/ai-gateway` to `Azure/aigateway`. All 153 existing
+listing IDs, categories, license scopes, exclusions and curation are preserved.
+The maintained corrections retain source evidence across future imports.
+
+[data/source-restoration-review.json](../data/source-restoration-review.json)
+records immutable repository/owner identities, paths, old and new Git pins and
+the changed-instruction review. Eight website sources remain excluded: five
+archived, one inaccessible and two whose indexed instruction paths were removed.
+Historical public catalog records are retained; this is not a claim that those
+eight currently qualify for website discovery. Twelve new Meta paths are not
+selected. No third-party instructions were executed. Website publication uses
+the approved registry revision and its normal direct release gates.
+
+## Pyrefly differential skill (October 31, 2026)
+
+The owner-approved addition selects only `meta/pyrefly`’s
+`.agents/skills/interpret-mypy-primer/SKILL.md`, pinned to the reviewed commit and
+Git blob in [data/pyrefly-primer-review.json](../data/pyrefly-primer-review.json).
+The repository license is MIT. Its public contributor workflow does not require
+Meta-only CI or Phabricator services. No publisher instructions were executed.
+
+The other eleven reviewed Meta paths remain unselected: one operational hold,
+nine upstream metadata problems and one already indexed mirror. Existing IDs,
+curation, explicit exclusions and installer behavior are unchanged. The public
+registry already verifies `meta`; no owner-policy change is needed. Website
+publication remains a separate direct-qualified catalog release.
+
+## Maintained AgentBay adaptations of FBOSS log analysis
+
+The two packages under `skills/agentbay-fboss-link-log-analysis/` and
+`skills/agentbay-fboss-qsfp-log-analysis/` are maintained AgentBay adaptations
+of pinned Meta FBOSS sources. Their own LICENSE, NOTICE and provenance files
+preserve upstream rights and attribution; the general repository MIT license
+does not replace them. They are cataloged under AgentBay adaptation names,
+with Meta credited as upstream, never as Meta official-provider releases.
+
+Edit these maintained package files directly. Rebuild the two downloads with
+`python3 scripts/adapted_fboss.py build`, check with its `check` command, and
+run the unit suite for synthetic-log regression coverage. Catalog additions
+remain maintained in `data/curation.json`; regenerate using `scripts/catalog.py`.
+See [adaptation scope and downloads](adapted-fboss-log-analysis.md). Changes to
+an instruction/helper/reference need fresh behavior and provenance evidence.
+
+The packages accept supplied local logs only. No live device, private CI,
+account operation or external log upload is part of their maintained workflow.
+Their broader-catalog publication does not change the website Finder's
+verified-owner/adoption thresholds or enroll the nine other reviewed paths.
+
+## Brag community skills (November 1, 2026)
+
+The owner-requested addition selects the two canonical `latent-spaces/brag`
+packages, `skills/brag/SKILL.md` and `skills/brag-slim/SKILL.md`, from the exact
+revision in [data/brag-source-review.json](../data/brag-source-review.json).
+Discovery mirrors and the embedded slim handoff are not separate listings.
+The current public active repository meets the unchanged community adoption
+criteria; no official-provider attribution or registry exception is added.
+
+Code/instructions use the repository MIT license. Classic Brag’s bundled music
+has separate CC BY 4.0 attribution requirements and its SFX credits are documented
+upstream. No publisher code or media is copied here. Classic Brag needs Hyperframes
+and FFmpeg; slim uses locally available tools. Static instruction review is not
+a rendering, first-use or cross-agent compatibility certification. The nine
+remaining Meta paths remain review-only and separate site improvements are
+outside this data change.
+
+## OpenZL benchmark adaptation (November 1, 2026)
+
+The owner-approved [AgentBay adaptation](adapted-openzl-benchmark.md) retains
+Meta attribution and its exact upstream BSD license. Its maintained source,
+provenance and reproducible download are separate from official Meta sources.
+Only this package is selected; the other eight remain excluded in
+`data/adapted-openzl-review.json`. No Finder, provider or website design policy
+change is attached to this publication.
+
+## Disabled skill paths
+
+`data/disabled-skills.json` records finder paths absent from a complete
+publisher tree at a checked revision. The generated
+[Disabled skills](../skills/disabled.md) page labels each path. Corresponding
+individual catalogue entries have evidence-backed exclusions in
+`data/curation.json`, so they stay out of the installer catalogue and
+generated active skill pages.
+
+A later refresh does not automatically restore a disabled path. Before
+restoring it, inspect the current publisher, path, instructions and relevant
+companion files, then update the disabled registry and curation together.
+Moved, changed or inaccessible sources need their own review.
+
+
+The November 9 source review recovered seven Azure infrastructure skills from
+the original repository named in the umbrella project’s pinned manifest. Their
+file blobs match the former indexed copies, and the ten other matching files
+were already represented. The old source paths remain marked disabled; the
+original-source entries are listed separately. Related sources for 95 former
+Microsoft gallery paths are linked for inspection, not automatically listed:
+their skill files say Proprietary while their repository is marked MIT.
+
+The November 9 unavailable-path review traced 43 current skills to publisher renames and added their verified sources to the public catalogue, along with one parent skill. It keeps the original unavailable paths as history and records when a publisher moved a former skill into a supporting file or command. Two current AWS files have malformed YAML metadata and remain excluded. Same-name matches without a confirmed move remain candidates. Microsoft-linked alternatives with conflicting skill and repository license terms remain unapproved. See the generated [unavailable paths](../skills/disabled.md) for the outcome of each record.
+
+The November 9 follow-up reviewed the remaining unavailable paths using publisher change history and GitHub source searches, adding verified current sources through the existing eligibility and duplicate checks. NVIDIA documents replacements for its retired NuRec skills; one current replacement exceeds the Agent Skills description limit and remains excluded. Some confirmed third-party sources are linked for inspection but remain outside the installable catalogue when they do not meet the current source criteria.
+
+Among the 95 earlier Microsoft CAT paths, Microsoft still publishes 43 updated same-named files and one related candidate, but those files say Proprietary while the repository says MIT. The publisher retired the other 51 with their plugins. The conflicting current files are not added to the public catalogue until the publisher clarifies the terms; links in the unavailable-path record are for inspection, not a license grant.

@@ -10,38 +10,42 @@ Counts below are listings in this repository, including repository-level entries
 
 | Provider | Catalogue listings |
 | --- | ---: |
-| [Adobe](https://www.adobe.com/) | 341 |
-| [Agent2Agent Project](https://a2a-protocol.org/) | 15 |
-| [Amazon Web Services](https://aws.amazon.com/) | 1,549 |
-| [Anthropic](https://www.anthropic.com/) | 586 |
+| [Adobe](https://www.adobe.com/) | 333 |
+| [Agent2Agent Project](https://a2a-protocol.org/) | 14 |
+| [Amazon Web Services](https://aws.amazon.com/) | 1,540 |
+| [Anthropic](https://www.anthropic.com/) | 585 |
 | [Apple](https://www.apple.com/) | 37 |
 | [Browserbase](https://www.browserbase.com/) | 23 |
 | [ByteDance](https://www.bytedance.com/) | 186 |
-| [Cloudflare](https://www.cloudflare.com/) | 94 |
+| [Clerk](https://clerk.com/) | 20 |
+| [Cloudflare](https://www.cloudflare.com/) | 89 |
+| [Convex](https://www.convex.dev/) | 36 |
 | [Databricks](https://www.databricks.com/) | 198 |
 | [Docker](https://www.docker.com/) | 35 |
 | [ElevenLabs](https://elevenlabs.io/) | 12 |
+| [Expo](https://expo.dev/) | 36 |
 | [Firecrawl](https://www.firecrawl.dev/) | 42 |
-| [GitHub](https://github.com/) | 638 |
-| [Google](https://www.google.com/) | 1,058 |
+| [GitHub](https://github.com/) | 636 |
+| [Google](https://www.google.com/) | 1,047 |
 | [Hugging Face](https://huggingface.co/) | 110 |
 | [IBM](https://www.ibm.com/) | 158 |
 | [Inngest](https://www.inngest.com/) | 15 |
 | [JetBrains](https://www.jetbrains.com/) | 300 |
-| [Meta](https://ai.meta.com/) | 230 |
-| [Microsoft](https://www.microsoft.com/) | 3,545 |
+| [Meta](https://ai.meta.com/) | 231 |
+| [Microsoft](https://www.microsoft.com/) | 3,529 |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | 50 |
 | [MongoDB](https://www.mongodb.com/) | 49 |
-| [Neon](https://neon.com/) | 11 |
-| [NVIDIA](https://www.nvidia.com/) | 1,516 |
+| [NVIDIA](https://www.nvidia.com/) | 1,477 |
+| [Neon](https://neon.com/) | 10 |
 | [OpenAI](https://openai.com/) | 684 |
-| [Qwen](https://qwen.ai/) | 52 |
+| [Qwen](https://qwen.ai/) | 51 |
 | [Redis](https://redis.io/) | 90 |
 | [Resend](https://resend.com/) | 7 |
-| [Salesforce](https://www.salesforce.com/) | 114 |
-| [Sentry](https://sentry.io/) | 371 |
+| [Salesforce](https://www.salesforce.com/) | 111 |
+| [Sanity](https://www.sanity.io/) | 11 |
+| [Sentry](https://sentry.io/) | 370 |
 | [Snowflake](https://www.snowflake.com/) | 461 |
 | [Stripe](https://stripe.com/) | 11 |
 | [Supabase](https://supabase.com/) | 61 |
 | [Trigger.dev](https://trigger.dev/) | 22 |
-| [Vercel](https://vercel.com/) | 353 |
+| [Vercel](https://vercel.com/) | 351 |

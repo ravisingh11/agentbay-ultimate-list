@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [Next →](agent-development-1eeae9-2.md)
 
-1,003 listings · Page 1 of 6
+997 listings · Page 1 of 5
 
 - **0xDarkMatter/claude-mods** — [Website](<https://github.com/0xdarkmatter/claude-mods>) · [GitHub](<https://github.com/0xdarkmatter/claude-mods>) · **License: MIT** · Stars: not recorded — 0xDarkMatter/claude-mods is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and document and knowledge workflows.
 - **1gr14/agents-party** — [Website](<https://github.com/1gr14/agents-party>) · [GitHub](<https://github.com/1gr14/agents-party>) · **License: MIT** · Stars: not recorded — 1gr14/agents-party is listed as an agent-skill repository. Its catalogue topics include agent development.

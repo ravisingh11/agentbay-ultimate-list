@@ -2099,7 +2099,7 @@ def _checkpoint_examples_html(repository: str = "ravisingh11/ai-software-toolkit
   <div class="checkpoint-next"><h4>Next decision</h4><p>{html.escape(example['next'])}</p>
     <a href="{run_url}">Inspect this recorded run <span aria-hidden="true">↗</span></a></div>
 </article>''')
-    history = ("PR #4 and the main commit produced by its merge. These fixed examples are separate from the latest PR scorecard below."
+    history = ("PR #4 and the main commit produced by its merge. These fixed examples are separate from the latest PR scorecard."
                if agentbay else "These runs come from different changes. They are fixed teaching examples, not the latest results for the repository shown on this page.")
     return ('''<section class="checkpoint-gallery" aria-labelledby="checkpoint-examples-title">
   <p class="eyebrow">Separate decisions · separate checks</p>
@@ -2107,7 +2107,7 @@ def _checkpoint_examples_html(repository: str = "ravisingh11/ai-software-toolkit
   <p class="checkpoint-intro">A PR review and verification after merge answer different questions. Each checkpoint below has its own check list, revision and evidence. There is no combined score.</p>
   <p class="checkpoint-history">Historical examples from <strong>''' + repository + '''</strong>. ''' + history + '''</p>
   <div class="checkpoint-grid">''' + ''.join(cards) + '''</div>
-  <p class="checkpoint-boundary">PR findings do not become main results. Main CI does not establish deployment health. These examples never contribute to the live scorecard totals below. Checks remain optional, Core advisory, and lifecycle/polyglot manual.</p>
+  <p class="checkpoint-boundary">PR findings do not become main results. Main CI does not establish deployment health. These examples never contribute to the live scorecard totals. Checks remain optional, Core advisory, and lifecycle/polyglot manual.</p>
 </section>''')
 
 
@@ -2178,7 +2178,7 @@ def _html(metadata: dict[str, Any]) -> str:
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="AI is the accelerant. Assurance is mandatory. AI Software Toolkit connects standards, agent skills, and optional checks to revision-bound evidence. Published PR scorecard for {safe['repository']}: {safe['message']}.">
+  <meta name="description" content="Published PR scorecard for {safe['repository']}: {safe['message']}.">
   <title>Latest PR Scorecard · {safe['repository']}</title>
   <style>{_REPORT_CSS}</style>
 </head>
@@ -2191,38 +2191,9 @@ def _html(metadata: dict[str, Any]) -> str:
   <a class="repo-link" href="https://github.com/{safe['repository']}">View repository <span aria-hidden="true">↗</span></a>
 </div></header>
 <main class="shell">
-  <section class="toolkit-overview" aria-labelledby="toolkit-title">
-    <p class="eyebrow">AI Software Toolkit / standards, skills, and verification</p>
-    <h1 id="toolkit-title">AI is the accelerant.<br>Assurance is mandatory.</h1>
-    <p class="intro">AI turns directives into code faster than ever. Build assurance into
-      the work before changes ship. AI Software Toolkit provides the foundation:
-      clear standards, controlled agent skills, and checks connected to evidence.</p>
-    <p class="overview-promise"><strong>Your directives. Disciplined execution. Evidence before release.</strong></p>
-    <nav class="overview-actions" aria-label="Explore AI Software Toolkit">
-      <a class="button primary" href="https://github.com/ravisingh11/ai-software-toolkit#start-here">Start building assurance <span aria-hidden="true">↗</span></a>
-      <a class="button" href="https://github.com/ravisingh11/ai-software-toolkit/tree/main/skills">Browse skills</a>
-      <a class="button" href="https://github.com/ravisingh11/ai-software-toolkit-reference-app">Explore the reference app</a>
-      <a href="#scorecard">View this repository’s scorecard ↓</a>
-    </nav>
-    <div class="overview-grid">
-      <article class="overview-card"><h2>Define the boundaries</h2>
-        <p>Set expectations before execution. Human-readable standards and reusable
-          agent skills guide planning, implementation, review, security, QA, and release work.</p></article>
-      <article class="overview-card"><h2>Verify the work</h2>
-        <p>Run your build, tests, QA, and scanners against the change. Choose the checks,
-          thresholds, and enforcement that fit your repository’s risks.</p></article>
-      <article class="overview-card"><h2>Demand evidence before release</h2>
-        <p>Proof binds results to the evaluated revision. Inspect passing checks, failures,
-          and missing evidence before making a release decision.</p></article>
-    </div>
-    <p class="adoption-note"><strong>All toolkit checks are optional to adopt.</strong>
-      Installing skills does not run them or make checks required. Your team owns
-      its application, commands, review decisions, and release authority.</p>
-  </section>
-  {_checkpoint_examples_html(metadata['repository'])}
   <section class="scorecard-section" id="scorecard" aria-labelledby="scorecard-title" tabindex="-1">
   <p class="eyebrow">CI evidence / change assessment</p>
-  <h2 class="report-title" id="scorecard-title">Latest PR Scorecard</h2>
+  <h1 class="report-title" id="scorecard-title">Latest PR Scorecard</h1>
   <p class="intro">Latest published PR results for <strong>{safe['repository']}</strong>.</p>
   <p class="stage-context"><strong>Evaluation stage:</strong> {"Lifecycle verification" if metadata["evaluation_stage"] == "lifecycle-verification" else "Pull-request development"}. The catalog offers tools to adopt as your project needs them; it is not a checklist every project must complete.</p>
   {discovery_navigation}
@@ -2267,6 +2238,7 @@ def _html(metadata: dict[str, Any]) -> str:
     <nav class="formats" aria-label="Report formats"><a href="scorecard.json">Summary JSON</a><a href="scorecard.md">Summary Markdown</a></nav>
   </footer>
   </section>
+  {_checkpoint_examples_html(metadata['repository'])}
 </main>
 <script type="text/javascript">{_FRESHNESS_SCRIPT}</script>
 </body></html>

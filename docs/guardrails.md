@@ -138,7 +138,7 @@ Scheduled refresh and provider-discovery tooling lives in the private website re
 
 ## Public latest-PR score
 
-[AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. They are advisory reporting, not a current-main attestation or a rating of the linked third-party skills.
+[AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. The dashboard leads with the latest PR results and retains the PR and merge examples below. These are advisory reports, not a current-main attestation or a rating of the linked third-party skills.
 
 The runtime and optional publisher use the checksum-verified Toolkit v2.3.3 release, pinned to `248d8f02e774e4f75af6ea2de49b466688dfae54`. `toolkit.lock.json` records its upstream file hashes. The repository adds a default-branch-only manual trigger to the pinned publisher workflow; workflow-run and six-hour reconciliation retain the upstream behavior. Future updates must preserve that intentional difference.
 
@@ -175,3 +175,10 @@ default and supports native keyboard navigation. Presentation tests verify sourc
 identity, missing/blocked outcomes and unchanged latest-score JSON. Fresh PR and
 post-merge executions remain separately verifiable in GitHub; a recorded example
 is not a substitute for checking the current change.
+
+The policy regression helper generates balanced, alternating digit/hex-letter
+sentinels. Unconstrained random base64 can accidentally contain an English word
+from the pinned generic-key detector's own stopword list, making its fixture
+intermittently undetectable. Balanced sentinels retain high entropy and avoid
+that ambiguity. The detector, image pin, default rules, exception scope and
+full-history scan remain unchanged; a missed fixture still fails the check.
