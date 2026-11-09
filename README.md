@@ -31,7 +31,7 @@ That is what I want [AgentBay.io](https://agentbay.io/) and this repository to m
 
 These prompts start discovery. After choosing a skill, ask AgentBay to install it, check prerequisites and use it. The linked walkthroughs show concrete examples and checks.
 
-## Where I start: credible sources, visible momentum
+## How we vet skills
 
 My starting point is official sources from companies such as **Anthropic, OpenAI, Google, Microsoft, AWS and Cloudflare**, alongside GitHub projects with visible adoption and maintenance. Established teams often bring documented processes, review practices and continuity that are useful reasons to look at their work first.
 
@@ -41,7 +41,7 @@ Here is what matters when choosing a skill:
 - **A repository worth investigating.** Stars and forks can point to community momentum; recent commits, releases and issue responses help you judge whether that attention comes with ongoing maintenance. Follow the repository link and look at the evidence.
 - **A fit for the job.** AgentBay reads the publisher’s actual skill instructions and checks prerequisites before using a selected skill. The name alone is not enough.
 
-These are useful signals, not a security certification. Official ownership does not establish that every skill was audited; popularity does not establish task fit. Independent maintainers can produce excellent work too.
+[See how we check sources, review instructions and test examples](docs/skill-vetting.md).
 
 **Explore 23,024 listings: 22,667 skills and 357 projects and tools across 9,159 GitHub repositories.**
 

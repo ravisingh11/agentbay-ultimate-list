@@ -2,6 +2,9 @@
 
 AgentBay is the primary source and maintainer. This repository publishes a curated, reusable list; it does not ship the website's application code or account data. Website presentation changes do not trigger a catalogue change. Relevant source additions and factual corrections enrich the list through a reviewed import.
 
+See [How AgentBay vets skills](skill-vetting.md) for the public explanation of
+source, instruction and tested-example checks.
+
 ## Repository layout
 
 | Path | Purpose |
