@@ -3785,6 +3785,1370 @@
           "note": "The umbrella project identifies this repository and commit as its infrastructure source."
         }
       ]
+    },
+    {
+      "id": "community:9473cd7b-16e7-5eab-8b20-82783db81647",
+      "fields": {
+        "name": "field-briefing",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/field-briefing/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/fibey",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 3,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/field-briefing/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/fibey",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:3b818097-dd92-57c6-a2d2-919910bf498e",
+      "fields": {
+        "name": "inventory-lookup",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/inventory-lookup/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/fibey",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 3,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/inventory-lookup/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/fibey",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:dbc3e85b-e444-58df-8d07-671324484448",
+      "fields": {
+        "name": "knowledge-retrieval",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/knowledge-retrieval/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/fibey",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 3,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/knowledge-retrieval/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/fibey",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:979a4ecf-ab2f-5fb8-8ddc-f67643b1bf8d",
+      "fields": {
+        "name": "work-order-management",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-management/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/fibey",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 3,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-management/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/fibey",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:6bef1f7a-c5cc-575d-bd1a-63cdb76b8a93",
+      "fields": {
+        "name": "work-order-preparation",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-preparation/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/fibey",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 3,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/fibey/blob/584ff324e7cc760040cf8725b874dc3b5c795cb1/skills/work-order-preparation/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/fibey",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:1ce9a9e2-748b-56ba-9a6d-9b1f0fbc584b",
+      "fields": {
+        "name": "azure-typespec-sdk-naming",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/138c2d8c15de963008ae598333cbf3b80019a3b0/.github/skills/azure-typespec-sdk-naming/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 134,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/138c2d8c15de963008ae598333cbf3b80019a3b0/.github/skills/azure-typespec-sdk-naming/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:91c56231-1852-5bb2-bf58-7dd1b376aec6",
+      "fields": {
+        "name": "create-migration",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/database-migration/blob/eac68df93311c2083fb7b553f0a472a6b7ddd997/skills/create-migration/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/database-migration",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 4,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/database-migration/blob/eac68df93311c2083fb7b553f0a472a6b7ddd997/skills/create-migration/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/database-migration",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:5cd42d24-f3a5-561f-b37a-db54db7900e3",
+      "fields": {
+        "name": "context-engineering-generation-guide",
+        "type": "Skill",
+        "website_url": "https://github.com/GoogleCloudPlatform/db-context-enrichment/blob/ffddc117c533bd3390b60c632c57dd9240fca4b7/plugin/skills/context-engineering-generation-guide/SKILL.md",
+        "repository_url": "https://github.com/GoogleCloudPlatform/db-context-enrichment",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 43,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/GoogleCloudPlatform/db-context-enrichment/blob/ffddc117c533bd3390b60c632c57dd9240fca4b7/plugin/skills/context-engineering-generation-guide/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/GoogleCloudPlatform/db-context-enrichment",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:64b9e2fd-8325-5c78-8c3e-591b41113d64",
+      "fields": {
+        "name": "buc-call-apis",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-call-apis/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-call-apis/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:8361c5d3-e096-5929-a4e3-1e6985ad37c8",
+      "fields": {
+        "name": "buc-configure-getpage-templates",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-configure-getpage-templates/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-configure-getpage-templates/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:5863f422-6e2f-5291-a4e1-53ce724afe20",
+      "fields": {
+        "name": "buc-customize-search-fields",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-customize-search-fields/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-customize-search-fields/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:f991aecb-1532-5841-822d-04859defa5fe",
+      "fields": {
+        "name": "buc-generate-dashboard",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-generate-dashboard/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/orderhub/buc-generate-dashboard/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:7b518c17-36d6-54dd-8c5b-eb7a2370008e",
+      "fields": {
+        "name": "buc-add-content-via-extension-point",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-content-via-extension-point/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-content-via-extension-point/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:b58aa577-1a50-59d7-ba9e-55ef497182e6",
+      "fields": {
+        "name": "buc-add-custom-action",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-action/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-action/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:6fe6d002-e738-5179-8986-d0a42dc14703",
+      "fields": {
+        "name": "buc-add-custom-hotkeys",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-hotkeys/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-hotkeys/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:ade00ef5-56c2-59fa-b86f-3c2aab0816f0",
+      "fields": {
+        "name": "buc-add-custom-tab",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-tab/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-add-custom-tab/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:a66d373e-d97c-5b99-81c5-17f12cb5a1ab",
+      "fields": {
+        "name": "buc-configure-generated-assets",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-generated-assets/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-generated-assets/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:8736ed83-3904-5325-9464-e60e1bee4751",
+      "fields": {
+        "name": "buc-configure-table-export",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-table-export/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-configure-table-export/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:730009f8-013a-5ffe-ac28-9f173f0fe165",
+      "fields": {
+        "name": "buc-create-new-app",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-create-new-app/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-create-new-app/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:ce7d45ae-bf26-5b83-848d-8e3a803b9893",
+      "fields": {
+        "name": "buc-customize-by-overrides",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-by-overrides/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-by-overrides/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:cd47b1bf-a24c-5d51-b0a7-69a3dce3b3f2",
+      "fields": {
+        "name": "buc-customize-field-details",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-field-details/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-field-details/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:74a8069c-d373-5b1b-a7a6-145e4f48fd34",
+      "fields": {
+        "name": "buc-customize-login-page",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-login-page/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-login-page/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:074f1d4e-c81d-5521-b5a8-1b4c86ec98d7",
+      "fields": {
+        "name": "buc-customize-table-config",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-table-config/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-customize-table-config/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:1ec49623-1f22-591e-ac73-5c227175a8df",
+      "fields": {
+        "name": "buc-generate-search-panel",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-panel/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-panel/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:a5ae53aa-0ac0-543e-acdf-ce35fe8817d0",
+      "fields": {
+        "name": "buc-generate-search-result",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-result/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-search-result/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:865b5140-db04-5025-9293-85e2f4c96660",
+      "fields": {
+        "name": "buc-generate-summary-component",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-summary-component/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-summary-component/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:74f2d8fd-cdd4-5d83-b8d6-63138c4c86ce",
+      "fields": {
+        "name": "buc-generate-table-component",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-table-component/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-generate-table-component/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:1254bbaf-72fb-5c4c-bd8e-5748c74638c0",
+      "fields": {
+        "name": "buc-inject-custom-html-js",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-inject-custom-html-js/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-inject-custom-html-js/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:234af592-913b-52c4-bf7b-eaaec356fd61",
+      "fields": {
+        "name": "buc-prepare-module-customization",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-prepare-module-customization/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-prepare-module-customization/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:ed93ab8b-62d2-59cc-9ca5-f124dcac9b68",
+      "fields": {
+        "name": "buc-register-customization",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-register-customization/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-register-customization/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:1372c244-721a-5bd6-aed2-97edcb55c51a",
+      "fields": {
+        "name": "buc-resolve-config-placement",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-resolve-config-placement/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-resolve-config-placement/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:a69979b5-cb2c-56e1-91a2-07e803390ac8",
+      "fields": {
+        "name": "buc-wire-custom-assets",
+        "type": "Skill",
+        "website_url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-wire-custom-assets/SKILL.md",
+        "repository_url": "https://github.com/IBM/oms-reference-customizations",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 0,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations/blob/124c44284e733e4f0d4504caf32f6db01e1401ca/skills/shared/buc-wire-custom-assets/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/IBM/oms-reference-customizations",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:9b0d661f-4b92-5788-aeb6-a98e4c0554af",
+      "fields": {
+        "name": "component-accessibility-specification",
+        "type": "Skill",
+        "website_url": "https://github.com/adobe/spectrum-web-components/blob/6d781e92f452f6dc48d90297de444366db037cc1/.ai/skills/component-accessibility-specification/SKILL.md",
+        "repository_url": "https://github.com/adobe/spectrum-web-components",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "Apache-2.0",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 1577,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/adobe/spectrum-web-components/blob/6d781e92f452f6dc48d90297de444366db037cc1/.ai/skills/component-accessibility-specification/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/adobe/spectrum-web-components",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:0e7a7c1a-c1f4-569e-81fa-cbc881525532",
+      "fields": {
+        "name": "ar-loop",
+        "type": "Skill",
+        "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/autoresearch-agent/skills/ar-loop/SKILL.md",
+        "repository_url": "https://github.com/alirezarezvani/claude-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 29521,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/autoresearch-agent/skills/ar-loop/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:16476941-71ad-58dc-ac18-353511e22ddc",
+      "fields": {
+        "name": "skill-retro",
+        "type": "Skill",
+        "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/skill-retro/skills/skill-retro/SKILL.md",
+        "repository_url": "https://github.com/alirezarezvani/claude-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 29521,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/engineering/skill-retro/skills/skill-retro/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:9c9f99ef-ef04-5e4f-bac1-7918900ad279",
+      "fields": {
+        "name": "meta-research",
+        "type": "Skill",
+        "website_url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/research/meta-research/skills/meta-research/SKILL.md",
+        "repository_url": "https://github.com/alirezarezvani/claude-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 29521,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills/blob/8f082544116fc0d014188e521ca40304cdfc86b0/research/meta-research/skills/meta-research/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:7338e5ff-84da-559c-abe9-744bb9412bfd",
+      "fields": {
+        "name": "care-and-returns",
+        "type": "Skill",
+        "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/care-and-returns/SKILL.md",
+        "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 12,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/care-and-returns/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:b7c6766f-df30-514f-97bc-63283853605e",
+      "fields": {
+        "name": "evidence",
+        "type": "Skill",
+        "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/evidence/SKILL.md",
+        "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 12,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/evidence/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:1a001573-258e-528e-ae45-bc82e49c5b44",
+      "fields": {
+        "name": "makers",
+        "type": "Skill",
+        "website_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/makers/SKILL.md",
+        "repository_url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 12,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg/blob/59acb3d03f4647d6fb41b8b2aa488cea8d9f03cc/skills/makers/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/aws-samples/sample-pellier-agentic-search-apg",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:2b458f26-0338-5b3a-b308-9f63eeaeea64",
+      "fields": {
+        "name": "sync-teams-samples-to-agents-sdk",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/Agents/blob/8f74d93e8a8b4ef9c86825bfd40d7a319187f908/automation/teams-sample-sync/skills/sync-teams-samples-to-agents-sdk/SKILL.md",
+        "repository_url": "https://github.com/microsoft/Agents",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 1105,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/Agents/blob/8f74d93e8a8b4ef9c86825bfd40d7a319187f908/automation/teams-sample-sync/skills/sync-teams-samples-to-agents-sdk/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/Agents",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:880941d1-6145-505f-888b-c91c947c5f4f",
+      "fields": {
+        "name": "microsoft-events",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/Build-CLI/blob/768c8c8c9d54115901fe499bd923a93c5e464413/skills/microsoft-events/SKILL.md",
+        "repository_url": "https://github.com/microsoft/Build-CLI",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 294,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/Build-CLI/blob/768c8c8c9d54115901fe499bd923a93c5e464413/skills/microsoft-events/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/Build-CLI",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:12db344a-f2dd-56bd-b0ca-fb2ac1a21906",
+      "fields": {
+        "name": "hve-slides",
+        "type": "Skill",
+        "website_url": "https://github.com/microsoft/hve-core/blob/f425e943bf228052a23e6bc4810b5faef030314f/.github/skills/experimental/hve-slides/SKILL.md",
+        "repository_url": "https://github.com/microsoft/hve-core",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 1607,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/microsoft/hve-core/blob/f425e943bf228052a23e6bc4810b5faef030314f/.github/skills/experimental/hve-slides/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/microsoft/hve-core",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:ee190594-cbc7-5452-949f-dc9f3b8f94e8",
+      "fields": {
+        "name": "postgres-dependency-bump",
+        "type": "Skill",
+        "website_url": "https://github.com/vercel-labs/postgresbuild/blob/dc4418ffc018d6ae0d1ae908c0a28833cf0a5d8e/.automations/dependency-bumps/skills/postgres-dependency-bump/SKILL.md",
+        "repository_url": "https://github.com/vercel-labs/postgresbuild",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "MIT",
+        "license_scope": "Repository license; skill-specific terms need review",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:04:59.675023+00:00",
+        "github_stars": 2,
+        "github_stars_checked_at": "2026-11-09T16:04:59.675023+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/vercel-labs/postgresbuild/blob/dc4418ffc018d6ae0d1ae908c0a28833cf0a5d8e/.automations/dependency-bumps/skills/postgres-dependency-bump/SKILL.md",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/vercel-labs/postgresbuild",
+          "checked_at": "2026-11-09T16:04:59.675023+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
+    },
+    {
+      "id": "community:2d8d5b02-d14a-504d-97ba-4191c133d2ba",
+      "fields": {
+        "name": "yichen-asr",
+        "type": "Skill",
+        "website_url": "https://github.com/mcncarl/yichen-skills/blob/c9f47ecbcda513c0ce160bb55bfaf01060765053/yichen-asr/SKILL.md",
+        "repository_url": "https://github.com/mcncarl/yichen-skills",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-09T16:06:19.699751+00:00",
+        "github_stars": 5213,
+        "github_stars_checked_at": "2026-11-09T16:06:19.699751+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/mcncarl/yichen-skills/blob/c9f47ecbcda513c0ce160bb55bfaf01060765053/yichen-asr/SKILL.md",
+          "checked_at": "2026-11-09T16:06:19.699751+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/mcncarl/yichen-skills",
+          "checked_at": "2026-11-09T16:06:19.699751+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        }
+      ]
     }
   ],
   "corrections": [

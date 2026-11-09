@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22865,
+  "entry_count": 22909,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -18635,6 +18635,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:0e7a7c1a-c1f4-569e-81fa-cbc881525532": {
+      "input_sha256": "23eec4aa3369fd9b95fd40766babdd830c2938d8dabf295c5d4d01209895a12b",
+      "description_sha256": "0cea244a220f163e741d08e9731eaff4efbd1acc2789e55d18fee99c60f969f5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "94bf259c-0946-5c0d-bc6a-342b433d3517": {
       "input_sha256": "ed098f31815069275b1203deceaa7b49792fb6acf0f24d5002f4d7c7ff2f4bc1",
       "description_sha256": "00c4119e20c2e09580bb89aaac59ff692bd34a0a85c37b78272032ec416285d9",
@@ -27060,6 +27067,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:1ce9a9e2-748b-56ba-9a6d-9b1f0fbc584b": {
+      "input_sha256": "d61235070aa044c6fe999ffbf36cac1cf631bd76df497a4dcc82d73f4477fa22",
+      "description_sha256": "dd3b49a4ff4383402642d7f9257fa768b8f78813dbcc392456d666b6d4358842",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "2979e88f-eace-50f5-b1dd-d175008e9307": {
       "input_sha256": "f22a045b6d03805815e57ec310eb9efba879c54c79ab1a837ea857501e4004ef",
       "description_sha256": "ba5282b30a02f3e26d4d30e91270fd565e2e6de2668d26d6866f6d00749e6cf1",
@@ -33224,6 +33238,174 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:7b518c17-36d6-54dd-8c5b-eb7a2370008e": {
+      "input_sha256": "ff3a11ffb351382864e34e3462740b15d6a8cf35ce8c22f887031f717270a9f3",
+      "description_sha256": "40428966f6fb24de8ec1aa6dad1b8ef0d3727092f5af455416f6734ffc44942a",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:b58aa577-1a50-59d7-ba9e-55ef497182e6": {
+      "input_sha256": "f35b14d02ada4f91ce6fb19fa6ee37f7651ed19de86dcbcd7b7ac45898e9ae56",
+      "description_sha256": "ae3ffd6765555cdb33f353e3c66481323fea9ee4840cfd50db3280f6cb305fe4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:6fe6d002-e738-5179-8986-d0a42dc14703": {
+      "input_sha256": "fe6afe3accde00e2c63cc930f6ceb2dcc033a6524bf97a61d44d2fb0fd5bbd38",
+      "description_sha256": "698e951496995d8ecfa4ac024ec79a2e6f98678d7ccf8bd224c8c7bd5a1a9201",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:ade00ef5-56c2-59fa-b86f-3c2aab0816f0": {
+      "input_sha256": "d5b065be3653087369bfe47a209d2849c23485fe202af706c32760f1a05d5386",
+      "description_sha256": "8c6ecd25e66d7be5546dcdaa4b52db218f0d87c3ee564c338f8d3d20010137c9",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:64b9e2fd-8325-5c78-8c3e-591b41113d64": {
+      "input_sha256": "f8fda9f95298bdff16bd3ae751810f8adec8326a68bd80e2b9f29350879862ba",
+      "description_sha256": "e18b7ab91f51d79d73a21b86e2cd39ceb8b521d81c82892720f441654343293f",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:a66d373e-d97c-5b99-81c5-17f12cb5a1ab": {
+      "input_sha256": "a80a626c1560348b5386347bcd41ca8b3a63460c9479c9888cbfbf7ba154f08d",
+      "description_sha256": "a21fb92336bbdca62725d32f93040fe4fe8fbc89b61e997c529bc7aaf2676a34",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:8361c5d3-e096-5929-a4e3-1e6985ad37c8": {
+      "input_sha256": "cfdf42af085b366cb7cc20c63d49b9b60781f492e8746eb99ee4e685a8276872",
+      "description_sha256": "bb655f2fdb1758aaff926555f3e4ca64454b050779ba377187ad4450ea79bcd3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:8736ed83-3904-5325-9464-e60e1bee4751": {
+      "input_sha256": "65ea1bfa5e99d61c799f74f92f3f29ceaabb781a872aebae53eb28e5c0d869e1",
+      "description_sha256": "eca150ca770e3cbee662bcdc7067cc565a7780d05de1345c1f47ffd31399f211",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:730009f8-013a-5ffe-ac28-9f173f0fe165": {
+      "input_sha256": "42ee9e4a80bfc11ad300eaed5fff1905cffab7038c6948b973e320ab0a6cbc60",
+      "description_sha256": "84f0b7e033f75dcd435329f07142d9c59dcbb79b8f9ecf7b6fa9bfde526da4c6",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:ce7d45ae-bf26-5b83-848d-8e3a803b9893": {
+      "input_sha256": "5b50d17a94fc3bbb88e2de37a19b170c50508eafa5ffaf8f35c94e249d2df8ed",
+      "description_sha256": "34e11608c01ce020568f02755c1647caa144ce3fcbe5afee3e54a5dcbcc3d679",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:cd47b1bf-a24c-5d51-b0a7-69a3dce3b3f2": {
+      "input_sha256": "e7af2b3f629249da78a2284959a4ed552f3f585948ac31a4021b9fdb3582b56a",
+      "description_sha256": "544544e21c378785881da15ca80bd20f45c8d164fb3fab3a32f82b515d0d64b5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:74a8069c-d373-5b1b-a7a6-145e4f48fd34": {
+      "input_sha256": "3481dca7b94123a4d951b2d8a79ee07394da2c2a49196624ab64b643fbb447b0",
+      "description_sha256": "467d7c356956583f18582b92597c9174c3ef208c7f9e08f14cf66a3cfa465574",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:5863f422-6e2f-5291-a4e1-53ce724afe20": {
+      "input_sha256": "2a7b1e577ce4f1e625310eb880c753821c4809f3df383a8c02e23b613602facf",
+      "description_sha256": "9cd6837a1cbbc520954cc5f2a07d0d201da32a1770f0ba35d91cef1fdb72f478",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:074f1d4e-c81d-5521-b5a8-1b4c86ec98d7": {
+      "input_sha256": "6cd2b3c9678e8908542ca263f6cdf2c34ab353a013679c775866d694240c45d1",
+      "description_sha256": "0027ab8574ede2f9143f52fff4c90e78f82ffc212b24feaefb697339f8d2b269",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:f991aecb-1532-5841-822d-04859defa5fe": {
+      "input_sha256": "1c2f2e754ea0eb0229500fe93addeb3bcb99902cc7ee25497c97b64a31d61cf3",
+      "description_sha256": "9f879e4a9789c779cc53a1840b44bfc7bd0e5dd784cdbe896031c7e152e139ab",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:1ec49623-1f22-591e-ac73-5c227175a8df": {
+      "input_sha256": "13df85715f79720706a9a4240f180d3d2f84a00909e06d9dc0d071e17f761509",
+      "description_sha256": "091169c02f1dcc535b99cd1925044117dc11b5593dbb34533f231b4638b945bd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:a5ae53aa-0ac0-543e-acdf-ce35fe8817d0": {
+      "input_sha256": "86ee5ad19d25517d228826c6b1730877205f943b9fd38ce65e4343616c9b8b1d",
+      "description_sha256": "13b2d436a6c4c31eb34cfa64f41df9336ca4cdb7c6937a9230209f1256414624",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:865b5140-db04-5025-9293-85e2f4c96660": {
+      "input_sha256": "75f4635c8ca765ad704ab77e3b1dd8379c7872d3c989ada1d105cf78c5a58dd9",
+      "description_sha256": "74a9e3e042529b07a12f54efdb0e9c92f3d4ee958f310344b0f8f22bd41563c5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:74f2d8fd-cdd4-5d83-b8d6-63138c4c86ce": {
+      "input_sha256": "e8e3f3d54ee5549a7a46475c766787fee76fa1e0c975538bcc533ad666521560",
+      "description_sha256": "0f73e8a75b91b2baf4fe309b9934f7fa064f54357af7aab561a29286945763e1",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:1254bbaf-72fb-5c4c-bd8e-5748c74638c0": {
+      "input_sha256": "d7590927b932538dce119f545d97e4a8a0bb8e84917b0fea6748daf6d11f1f5b",
+      "description_sha256": "6226b1f463b7454734fb719dd12b8230faa8f6e1dae31ef2555aecf78f126183",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:234af592-913b-52c4-bf7b-eaaec356fd61": {
+      "input_sha256": "4a706d5aa395edd693d9f18efbe37338ef88f3843701f21da11e557a5d56b5d4",
+      "description_sha256": "e014a5a6875c4f1a266f47e63c939e09b653f8540dcae1b9b35a7b82d3c664c2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:ed93ab8b-62d2-59cc-9ca5-f124dcac9b68": {
+      "input_sha256": "965f1f4627e873a79828ce075950548230921bb11ef72c5621ac81e015b3fa80",
+      "description_sha256": "913889b59a56c5100f93557154edbd21e90524a7a37b5572ec369abe3bcf0b25",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:1372c244-721a-5bd6-aed2-97edcb55c51a": {
+      "input_sha256": "63b916dbcea574914b4f99b574013be739c3c1e281f34f2180053b108c252cb8",
+      "description_sha256": "2ed31a68d267ab3c1fae298873ff54b8dc9fa6d850e3ccf163095473972643f9",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:a69979b5-cb2c-56e1-91a2-07e803390ac8": {
+      "input_sha256": "60963fcfef740d11c1ca08d07bc75d550debfac61154c216efd4ea17a5fc37e0",
+      "description_sha256": "2985da90a3397717965ab51a80a1dcffcca9371ea4e008804120d330977db2d5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "957a97f9-f713-588f-9639-90f317a26307": {
       "input_sha256": "ea32cb50d4e1b71f61589b31db8778fce1c831cbd5c33060f3cb4d9ba8d69f46",
       "description_sha256": "cd9bb17cab132b39c0ac5be7350f25889758d1dfb5d9400a16bf81f3abea6798",
@@ -37151,6 +37333,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:7338e5ff-84da-559c-abe9-744bb9412bfd": {
+      "input_sha256": "3ffcbd99b3aad2dae210b222466207007288ad3f18699ee0f55099a894783447",
+      "description_sha256": "090d1e872f26826978bc8e3f5b11d29b6f21028063ce749c1c684ea8800ef3fc",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "fd229b0a-22b4-5237-8872-0ecd1f2c9ff9": {
       "input_sha256": "13f079b6bfce44defac96b483e299339a53d9ffad5bba396810d34a3cd69aced",
@@ -45259,6 +45448,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:9b0d661f-4b92-5788-aeb6-a98e4c0554af": {
+      "input_sha256": "d816350a0acdb68eb3161b06d557e8eefaa92ebdb126706a2e97520d607f8cf9",
+      "description_sha256": "dd6d928b8196244067a91d9a1ff76cf1146dc3573d877a3241dbcb4a47e828df",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "a01e5590-3bb7-5578-9666-f278e52ee7a0": {
       "input_sha256": "d6677b481bd1f938c800c098d0ef50398e675ac825bddac80e9936d90fb9faaa",
       "description_sha256": "19a102b0deee06912062e8f09f8e1ff743e0cc93e0a033b31d4146a1d792248f",
@@ -46650,6 +46846,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:5cd42d24-f3a5-561f-b37a-db54db7900e3": {
+      "input_sha256": "0b169c52f62b225f6c2a46d4bac714fc478d667809b2d9a44f223d3be5ef996e",
+      "description_sha256": "3cc4e43d5a0433cb3d1820252c674a32be73da4f55e34c6887d80f3b6bfd64fa",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "26ce70a4-ff64-5e40-a18a-86f5f397292d": {
       "input_sha256": "ed8640c4ca345ac9d3806755065380bb00e25afb415cee231de57143c7df541b",
@@ -50458,6 +50661,13 @@
         "MCP tool integration"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:91c56231-1852-5bb2-bf58-7dd1b376aec6": {
+      "input_sha256": "51b9ed6c96dbc280a80b12ad2852c50f45616c7fe9a184766eef15c1e1c28c25",
+      "description_sha256": "3151ceb8ac85635397d52b0cb1fc0103a3c542688b1c449df307b5e2fede705c",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "77438ca7-f7e3-5b75-83e5-48d00a42ef40": {
       "input_sha256": "6a5f2d87fd14aa5b9b61a8cf1185232c208b0bb4fdc4144649ea1d95369a2c06",
@@ -71396,6 +71606,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:b7c6766f-df30-514f-97bc-63283853605e": {
+      "input_sha256": "13147b3cf47bfead51fec106e9f6504f47bcfbca595c67555c880282df027380",
+      "description_sha256": "c6c152277d2a04b67e8fedd8c6d912d4be07bc14ab45ffd9ffe871fc883974a1",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "9c771090-39b3-584d-afc2-0762d70d5b67": {
       "input_sha256": "f1ee21f08f715808c10e299bd6eda127af70762f7b07ff063c6917782749d098",
       "description_sha256": "6556f1cab99678fcbb0da0c871479d831132ce9dfd372c248f76d2a11b62d26e",
@@ -74672,6 +74889,13 @@
         "information research"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:9473cd7b-16e7-5eab-8b20-82783db81647": {
+      "input_sha256": "972663792ccf336bc1ef3d27c5da192ea4b077eeff3e431fa8bb02bf9e977800",
+      "description_sha256": "a91836662f6d85762e4c0e68a29758db9efcf1582c152cb71fbb155fbd94498d",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "3d378ec6-3818-5238-862e-e2e908777d62": {
       "input_sha256": "ee8d1eaa80516844d9f433c5abfd8d0da8ec5113886fd3a124755e459ad57bf4",
@@ -92904,6 +93128,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:12db344a-f2dd-56bd-b0ca-fb2ac1a21906": {
+      "input_sha256": "174937a30db44061e2e1be6b6693f1607ade4e9966a62e54da5a87dcf6e36251",
+      "description_sha256": "7a0a96e13f12d7db8837159dace2a1caa1add5fde3fea2b6bf9efbfa518a24d4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "336330c7-f8d1-5e86-a51f-426696d6ebe6": {
       "input_sha256": "93b8255d57fec7a4816e205917de5b0eede7052849c37ca10f17a1de7a308c92",
       "description_sha256": "f79b1614b17388d15a2718b137a060594cd7e99878e54759aee7a09934f56cc9",
@@ -97669,6 +97900,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:3b818097-dd92-57c6-a2d2-919910bf498e": {
+      "input_sha256": "d0e1cdc5ac3e134a7bc9f630609a5b470d02d450f8e69339197fb0833c7dd231",
+      "description_sha256": "f03c1d239bd1ac5cbfe0924bfbd5176050b2ef2530236a057e19918b01e5d678",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "e6461bc4-7310-597b-a49e-ba82b3abaf96": {
       "input_sha256": "2c3457e9182dad40570d48954cae478ffd12bcefbad56ebe1037b327f8cf854b",
@@ -106187,6 +106425,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:dbc3e85b-e444-58df-8d07-671324484448": {
+      "input_sha256": "40b20d31eacc47c73d0d376ddd118fae785b0dfece707d30d8c4128b67425065",
+      "description_sha256": "46f51c4949175052948196809c170f591d2e89dab8c1cfc7c8faa61b0138bba4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "81aab55e-84c8-5e77-a29e-e4db5acbf4a2": {
       "input_sha256": "11443381917568a53a98500d9fefbfaeae3c652de1fd86087dc89e73fd4f458b",
       "description_sha256": "120ab9cbb96cbc825f27198d6e4cecc24acad7e53431d4eabef35d5698fcb0cb",
@@ -113760,6 +114005,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:1a001573-258e-528e-ae45-bc82e49c5b44": {
+      "input_sha256": "887b1de6d4ed30587c9114e1340bb403bb780877d79ba9476adf659271aff001",
+      "description_sha256": "7b501be13389b11704ecae81050adc5fa9cf5731dc024a573916fa0b591e2627",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "2f172d9e-1471-5bc0-88b4-a7bf281a106a": {
       "input_sha256": "c365c051da4ffbb9ad0b4d2255b533140e52ba3917c84165ca3c5979d7105206",
       "description_sha256": "32e144aef9b731923d4defc34e7513928f2645bb5880683eea44d68f3c36f0b0",
@@ -118376,6 +118628,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:9c9f99ef-ef04-5e4f-bac1-7918900ad279": {
+      "input_sha256": "5e5c7382c4ff136097d35a1b1af48ab6a6582469e13ff77465ad37ccfe0d1b77",
+      "description_sha256": "b09c26266e285b022dbb518012704ef84a42929375d3303a2cfac24926f8d3b8",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "8ef48190-ac40-5951-a2a1-cdbb7817f393": {
       "input_sha256": "347b2cd4b3627fe0fad1482f4eb647391fa51e9641c56df53f21ebe69ad0c106",
       "description_sha256": "d1b0a5a181e340e7ce095b15109792a0dc65acd66e039e56d3830a0d07f0862d",
@@ -119195,6 +119454,13 @@
         "document and knowledge workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:880941d1-6145-505f-888b-c91c947c5f4f": {
+      "input_sha256": "e50281d18b12d235109d0403a65fd27dc6f86cd01bce0928dc8c77385fb9d596",
+      "description_sha256": "0fa4a67772235ec39ae8522814807b314be3aa9da2b66870b8e6912bbf0257ec",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "1e092121-d0d2-572d-ab9b-7967e01ba641": {
       "input_sha256": "d4003b5bf752155eb939edfc9b926712963c002d63d66bc37378c0129fc465a9",
@@ -143582,6 +143848,13 @@
         "data storage and retrieval"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:ee190594-cbc7-5452-949f-dc9f3b8f94e8": {
+      "input_sha256": "981172d9e165af0ffc980452a7f30ce8ae23d4a47ce97cc79e58fec6b9d17d3b",
+      "description_sha256": "f24759acdd277410e7a084932632215ed0a798b81fe79d6f3cdcdc3ffc36d3dd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "f28be08b-c123-57d6-a179-c54bdbf3b685": {
       "input_sha256": "cd6553dabebd5a2409d895e402358e965b068a980d42d7083967131c26c6fa6c",
@@ -171452,6 +171725,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:16476941-71ad-58dc-ac18-353511e22ddc": {
+      "input_sha256": "c1242f71d7a02961df4fa1df51374c7de7ffe9333be99eb1db47c03d24b521d5",
+      "description_sha256": "bd370fdd0e5cbfd0fecdbce3bfc92c41c84ee83fc14ccd83ea61a06253f72fe7",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "43999b13-d6ca-5cf2-807a-196ff4a72019": {
       "input_sha256": "61d922ae1a58aa9aa0e1946dac70d84ead5d899e2b7dfadfd64eb81beeb77845",
       "description_sha256": "166450883b2133d59efe504cbc2ace0155a7a08c2d17c70ae44e2eab964a2901",
@@ -179648,6 +179928,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:2b458f26-0338-5b3a-b308-9f63eeaeea64": {
+      "input_sha256": "86593cfcd5dfd59652ca9781e047ce5b43011bd5841d7cda56758b3cab1626c3",
+      "description_sha256": "c2d854f14e06ddaf81b298435d06e9efedb8eb87da92ad4d02a09c8d276c9c83",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "bceb86b7-8642-58a1-8598-8b622ea707e3": {
       "input_sha256": "7900aa66e62de1c9d460bc00f47788157f2f5875e6b96d429d14a2f9c0cc1299",
@@ -201598,6 +201885,20 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:979a4ecf-ab2f-5fb8-8ddc-f67643b1bf8d": {
+      "input_sha256": "91bf36d4d253a819865bfba03a93d43ee45bd938958b3193d0d148b19af68125",
+      "description_sha256": "bdcd67b49b949fbc94ff2dead458acf63c8a33b8779a8f568409777165509efe",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:6bef1f7a-c5cc-575d-bd1a-63cdb76b8a93": {
+      "input_sha256": "ce3b159d17d1dada605a7218e6c7727ad18bb3a502535551b93b5f0a1fd26e83",
+      "description_sha256": "9f457d02ed769724e032646cbdbd70dc788aff65c0dc1fc5ddd93bdee7ed145e",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "38f37448-24a8-56c4-8882-aa3560f1cfd9": {
       "input_sha256": "6832aa770d4738e496fdb7f8fafb52e8e65517c294a044024ffee5ec1661a4d6",
       "description_sha256": "96b850b1fab0c14a85c16d4a3b057cfa9aa10c4ced5410ee7ee4cebbee466aea",
@@ -205026,6 +205327,13 @@
         "browser workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:2d8d5b02-d14a-504d-97ba-4191c133d2ba": {
+      "input_sha256": "a1206641f2c480363728a97771d60e552844552c7679798381c8bc6ec1b4f210",
+      "description_sha256": "bc345fdc62e6dd4e6f14776202e336b3814114e5e9eda055abb1d3793550f02d",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "bdefd4d2-575e-51e4-8f9d-1e37d9c13e73": {
       "input_sha256": "b92a51fd78a6df551423d133b160ee04f4a8528c834871d7bea48d68eb3cc25f",

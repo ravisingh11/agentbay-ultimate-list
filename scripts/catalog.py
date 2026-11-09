@@ -705,7 +705,7 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
     lines = [GENERATED, '', '# Unavailable source paths', '', '[Skills](README.md)', '',
              'These paths were absent from the inspected publisher revision and are excluded from search. A skill may still exist at another source.', '']
     for item in disabled:
-        line = '- **Disabled path** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'`'
+        line = '- **Disabled path** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'` · '+md(item['reason'])
         alternate = item.get('replacement')
         if alternate:
             if not isinstance(alternate, dict):
@@ -726,6 +726,37 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
             line += ' · ['+label+'](<'+link_url(url)+'>)'
             if alternate['kind'] == 'related':
                 line += ' · '+md(alternate.get('license_notice', 'Review source license before use.'))
+        review = item.get('review')
+        if review:
+            if not isinstance(review, dict) or review.get('status') not in ('available', 'resource', 'invalid', 'candidate', 'unavailable') or not isinstance(review.get('note'), str) or not re.fullmatch(r'[a-f0-9]{40}', review.get('checked_commit', '')) or not isinstance(review.get('checked_at'), str):
+                raise ValueError('Invalid source review')
+            line += ' · '+md(review['note'])+' ('+md(review['checked_at'][:10])+' UTC)'
+            for field, label in (('source', {'available': 'Current skill', 'resource': 'Publisher’s current file', 'invalid': 'Publisher’s current file', 'candidate': 'Same-named skill'}.get(review['status'], 'Current file')), ('parent', 'Parent skill')):
+                source = review.get(field)
+                if not source:
+                    if field == 'source' and review['status'] != 'unavailable':
+                        raise ValueError('Source review needs a pinned source')
+                    continue
+                if not isinstance(source, dict):
+                    raise ValueError('Invalid reviewed source')
+                repo, path, commit, blob = (source.get(k, '') for k in ('repository', 'path', 'commit', 'blob'))
+                if not all(isinstance(v, str) for v in (repo, path, commit, blob)) or not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo) or not re.fullmatch(r'[a-f0-9]{40}', commit) or not re.fullmatch(r'[a-f0-9]{40}', blob) or not path.endswith('.md') or path.startswith('/') or any(part in ('', '.', '..') or '\\' in part for part in path.split('/')):
+                    raise ValueError('Invalid reviewed source')
+                from urllib.parse import quote, unquote, urlsplit
+                url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
+                if (review['status'] == 'available' and field == 'source') or field == 'parent':
+                    def source_key(value):
+                        parts = unquote(urlsplit(value).path).strip('/').split('/')
+                        return (('/'.join(parts[:2]).casefold(), '/'.join(parts[4:]))
+                                if len(parts) >= 5 and parts[2] in ('blob', 'tree') else None)
+                    if not any(source_key(row['website_url']) == (repo.casefold(), path) for row in rows):
+                        raise ValueError('Reviewed available skill missing from the catalogue')
+                line += ' · ['+label+'](<'+link_url(url)+'>)'
+            evidence = review.get('evidence')
+            if evidence:
+                if not isinstance(evidence, str) or not re.fullmatch(r'https://github\.com/[\w.-]+/[\w.-]+/(?:commit/[a-f0-9]{40}|compare/[a-f0-9]{40}\.\.\.[a-f0-9]{40})', evidence):
+                    raise ValueError('Invalid review evidence')
+                line += ' · [Publisher’s change](<'+link_url(evidence)+'>)'
         lines.append(line)
     outputs['skills/disabled.md'] = ('\n'.join(lines+[''])).encode()
     outputs['provenance/descriptions.json'] = json_bytes(summarize_catalog(rows)[1])

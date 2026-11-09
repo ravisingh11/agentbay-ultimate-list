@@ -10,9 +10,9 @@ Counts below are listings in this repository, including repository-level entries
 
 | Provider | Catalogue listings |
 | --- | ---: |
-| [Adobe](https://www.adobe.com/) | 332 |
+| [Adobe](https://www.adobe.com/) | 333 |
 | [Agent2Agent Project](https://a2a-protocol.org/) | 14 |
-| [Amazon Web Services](https://aws.amazon.com/) | 1,535 |
+| [Amazon Web Services](https://aws.amazon.com/) | 1,538 |
 | [Anthropic](https://www.anthropic.com/) | 585 |
 | [Apple](https://www.apple.com/) | 37 |
 | [Browserbase](https://www.browserbase.com/) | 23 |
@@ -26,13 +26,13 @@ Counts below are listings in this repository, including repository-level entries
 | [Expo](https://expo.dev/) | 36 |
 | [Firecrawl](https://www.firecrawl.dev/) | 42 |
 | [GitHub](https://github.com/) | 636 |
-| [Google](https://www.google.com/) | 1,038 |
+| [Google](https://www.google.com/) | 1,040 |
 | [Hugging Face](https://huggingface.co/) | 110 |
-| [IBM](https://www.ibm.com/) | 134 |
+| [IBM](https://www.ibm.com/) | 158 |
 | [Inngest](https://www.inngest.com/) | 15 |
 | [JetBrains](https://www.jetbrains.com/) | 300 |
 | [Meta](https://ai.meta.com/) | 231 |
-| [Microsoft](https://www.microsoft.com/) | 3,514 |
+| [Microsoft](https://www.microsoft.com/) | 3,523 |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | 50 |
 | [MongoDB](https://www.mongodb.com/) | 49 |
 | [NVIDIA](https://www.nvidia.com/) | 1,474 |
@@ -48,4 +48,4 @@ Counts below are listings in this repository, including repository-level entries
 | [Stripe](https://stripe.com/) | 11 |
 | [Supabase](https://supabase.com/) | 61 |
 | [Trigger.dev](https://trigger.dev/) | 22 |
-| [Vercel](https://vercel.com/) | 350 |
+| [Vercel](https://vercel.com/) | 351 |
