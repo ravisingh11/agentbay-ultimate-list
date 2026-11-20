@@ -12269,6 +12269,48 @@
           "note": "Checked the complete pinned Git tree and found no file at this path or identical skill blob: examples/assistant/agents/assistant/agents/my-assistant/skills/workspace-digest/SKILL.md"
         }
       ]
+    },
+    {
+      "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+      "reason": "Withdrawn under the maintainer requirement for verified usable skill terms. Repository README declares Apache 2.0 but cautions that individual skills may differ. Neither this skill nor its directory supplies licensing information, and upstream clarification remains unanswered.",
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md#license",
+          "checked_at": "2026-11-20",
+          "note": "Read both the repository Apache 2.0 declaration and the explicit qualification that individual skill terms may differ. The complete, untruncated Git tree has license files for other skills, with none at the repository root or applicable to this skill."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator",
+          "checked_at": "2026-11-20",
+          "note": "The complete skill directory contains SKILL.md only. Read its pinned content; it declares no license or copyright grant. Current master remains at the same revision, so pinned and current observations agree."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/issues/1069",
+          "checked_at": "2026-11-20",
+          "note": "Upstream request specifically asks for explicit licensing for changelog-generator. Issue remains open and has no comments. Also checked issues #88 and #1621, which remain open without comments. These requests provide no publisher clarification or permission grant."
+        }
+      ]
+    },
+    {
+      "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+      "reason": "Withdrawn under the maintainer requirement for verified usable skill terms. Repository README declares Apache 2.0 but cautions that individual skills may differ. Neither this skill nor its directory supplies licensing information, and upstream clarification remains unanswered.",
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md#license",
+          "checked_at": "2026-11-20",
+          "note": "Read both the repository Apache 2.0 declaration and the explicit qualification that individual skill terms may differ. The complete, untruncated Git tree has license files for other skills, with none at the repository root or applicable to this skill."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor",
+          "checked_at": "2026-11-20",
+          "note": "The complete skill directory contains SKILL.md only. Read its pinned content; it declares no license or copyright grant. Current master remains at the same revision, so pinned and current observations agree."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/issues/1069",
+          "checked_at": "2026-11-20",
+          "note": "Upstream request specifically asks for explicit licensing for changelog-generator. Issue remains open and has no comments. Also checked issues #88 and #1621, which remain open without comments. These requests provide no publisher clarification or permission grant."
+        }
+      ]
     }
   ]
 }

@@ -125265,35 +125265,6 @@
     "preferred_provider": "Microsoft"
   },
   {
-    "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
-    "name": "changelog-generator",
-    "description": "changelog-generator is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
-    "type": "Skill",
-    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "Git",
-      "Release notes",
-      "SKILL.md"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "community",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T12:09:39Z",
-    "agentbay_url": "",
-    "github_stars": 79027,
-    "github_stars_checked_at": "2026-11-08T12:09:39Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "41576738-8f12-50dc-a12f-657b74d54978",
     "name": "changelog-video",
     "description": "changelog-video is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
@@ -145808,35 +145779,6 @@
     "agentbay_url": "https://agentbay.io/?project=a3dd06f2-6085-596f-b486-9ad804040d04#catalog",
     "github_stars": 0,
     "github_stars_checked_at": "2026-11-08T10:08:08.859Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
-    "name": "competitive-ads-extractor",
-    "description": "competitive-ads-extractor is listed as an agent skill. Its catalogue topics include marketing and outreach.",
-    "type": "Skill",
-    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "categories": [
-      "Sales and marketing"
-    ],
-    "tags": [
-      "Advertising",
-      "Competitive research",
-      "SKILL.md"
-    ],
-    "use_cases": [
-      "Organize marketing-related workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "community",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T12:09:39Z",
-    "agentbay_url": "",
-    "github_stars": 79027,
-    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },

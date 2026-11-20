@@ -284,3 +284,20 @@ applied after import before deterministic regeneration.
 
 The README reports November 8 as the upstream import date. Today's offline
 reconciliation does not imply a fresh network import or a website index refresh.
+
+## November 20, 2026 Composio licence follow-up
+
+The maintainer requested removal when usable terms could not be verified.
+The repository README declares Apache 2.0 and warns that individual skills
+may have different licences. At the pinned and current revision, the complete
+repository tree provides licence files for other skills, while
+changelog-generator and competitive-ads-extractor each contain only SKILL.md
+with no licence declaration. Upstream issues #88, #1069 and #1621 remain open
+without publisher clarification.
+
+Both listings are withdrawn through explicit ID exclusions in
+data/curation.json. Their original addition records and source evidence remain
+as history. Applying curation after a future import removes these two IDs
+again. Reinstatement requires a reviewed change with usable licensing evidence.
+This withdrawal applies the maintainer's requirement to verify usable terms
+for each listed skill.

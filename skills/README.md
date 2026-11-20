@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,595 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,593 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)
 
@@ -28,7 +28,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | design-media | 74 | [Page 1](design-media-2c7713.md) |
 | dev-programming | 50 | [Page 1](dev-programming-3b6153.md) |
 | Development and Testing | 37 | [Page 1](development-and-testing-5d22d1.md) |
-| Documents and knowledge | 1,192 | [Page 1](documents-and-knowledge-09e32e-1.md) · [Page 2](documents-and-knowledge-09e32e-2.md) · [Page 3](documents-and-knowledge-09e32e-3.md) · [Page 4](documents-and-knowledge-09e32e-4.md) · [Page 5](documents-and-knowledge-09e32e-5.md) · [Page 6](documents-and-knowledge-09e32e-6.md) |
+| Documents and knowledge | 1,191 | [Page 1](documents-and-knowledge-09e32e-1.md) · [Page 2](documents-and-knowledge-09e32e-2.md) · [Page 3](documents-and-knowledge-09e32e-3.md) · [Page 4](documents-and-knowledge-09e32e-4.md) · [Page 5](documents-and-knowledge-09e32e-5.md) · [Page 6](documents-and-knowledge-09e32e-6.md) |
 | education | 4 | [Page 1](education-68bf01.md) |
 | Finance | 46 | [Page 1](finance-eab762.md) |
 | Image generation | 183 | [Page 1](image-generation-612bd3.md) |
@@ -50,7 +50,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | Productivity and Collaboration | 12 | [Page 1](productivity-and-collaboration-9d84d6.md) |
 | professional | 6 | [Page 1](professional-cd340d.md) |
 | Research and search | 1,250 | [Page 1](research-and-search-d4bae4-1.md) · [Page 2](research-and-search-d4bae4-2.md) · [Page 3](research-and-search-d4bae4-3.md) · [Page 4](research-and-search-d4bae4-4.md) · [Page 5](research-and-search-d4bae4-5.md) · [Page 6](research-and-search-d4bae4-6.md) · [Page 7](research-and-search-d4bae4-7.md) |
-| Sales and marketing | 150 | [Page 1](sales-and-marketing-072784.md) |
+| Sales and marketing | 149 | [Page 1](sales-and-marketing-072784.md) |
 | Search optimization | 33 | [Page 1](search-optimization-06110c.md) |
 | Security and privacy | 305 | [Page 1](security-and-privacy-65f61c-1.md) · [Page 2](security-and-privacy-65f61c-2.md) |
 | Security Skills by Trail of Bits Team | 14 | [Page 1](security-skills-by-trail-of-bits-team-5cf3ad.md) |

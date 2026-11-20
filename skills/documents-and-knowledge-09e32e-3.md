@@ -4,9 +4,8 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-2.md) · [Next →](documents-and-knowledge-09e32e-4.md)
 
-1,192 listings · Page 3 of 6
+1,191 listings · Page 3 of 6
 
-- **FynePool/job-hunter-template** — [Website](<https://github.com/fynepool/job-hunter-template>) · [GitHub](<https://github.com/fynepool/job-hunter-template>) · **License: Unknown** · **★ 3** (as of 2026-11-08) — FynePool/job-hunter-template is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **Fyzel/claude-skills** — [Website](<https://github.com/fyzel/claude-skills>) · [GitHub](<https://github.com/fyzel/claude-skills>) · **License: Apache-2.0** · **★ 1** (as of 2026-11-08) — Fyzel/claude-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and security and privacy.
 - **gabriel-tutor/seams** — [Website](<https://github.com/gabriel-tutor/seams>) · [GitHub](<https://github.com/gabriel-tutor/seams>) · **License: MIT** · **★ 1** (as of 2026-11-08) — gabriel-tutor/seams is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, security and privacy, and monitoring and operations.
 - **GarphenGate/moltline-oss** — [Website](<https://github.com/garphengate/moltline-oss>) · [GitHub](<https://github.com/garphengate/moltline-oss>) · **License: Unknown** · **★ 0** (as of 2026-11-08) — GarphenGate/moltline-oss is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and MCP tool integration.
@@ -206,5 +205,6 @@
 - **Laic-parsiism709/meshy-3d-agent** — [Website](<https://github.com/laic-parsiism709/meshy-3d-agent>) · [GitHub](<https://github.com/laic-parsiism709/meshy-3d-agent>) · **License: MIT** · **★ 4** (as of 2026-11-08) — Laic-parsiism709/meshy-3d-agent is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and security and privacy.
 - **lamemustafa/complyeaze-skills** — [Website](<https://github.com/lamemustafa/complyeaze-skills>) · [GitHub](<https://github.com/lamemustafa/complyeaze-skills>) · **License: Apache-2.0** · **★ 0** (as of 2026-11-08) — lamemustafa/complyeaze-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **lark-apps** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-apps is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
+- **lark-doc** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-doc is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-2.md) · [Next →](documents-and-knowledge-09e32e-4.md)
