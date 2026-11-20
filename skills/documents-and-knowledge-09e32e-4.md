@@ -4,9 +4,8 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-3.md) · [Next →](documents-and-knowledge-09e32e-5.md)
 
-1,192 listings · Page 4 of 6
+1,191 listings · Page 4 of 6
 
-- **lark-doc** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-doc is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-drive** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-drive is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-openapi-explorer** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-openapi-explorer is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-sheets** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · **★ 18,016** (as of 2026-11-08) — lark-sheets is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -206,5 +205,6 @@
 - **oo-component-documentation** — [Website](<https://github.com/github/awesome-copilot/blob/5269f7ea2d6c3a9bfda5ed878b6726cf509121fd/skills/oo-component-documentation/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,913** (as of 2026-11-08) · **GitHub · Official source** — oo-component-documentation is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **open-agreements/open-agreements** — [Website](<https://github.com/open-agreements/open-agreements>) · [GitHub](<https://github.com/open-agreements/open-agreements>) · **License: Apache-2.0** · Stars: not recorded — open-agreements/open-agreements is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **open-science-pillars/build-kit** — [Website](<https://github.com/open-science-pillars/build-kit>) · [GitHub](<https://github.com/open-science-pillars/build-kit>) · **License: Apache-2.0** · Stars: not recorded — open-science-pillars/build-kit is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and software engineering.
+- **openai-docs** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/openai-docs/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 390** (as of 2026-11-08) · **JetBrains · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-3.md) · [Next →](documents-and-knowledge-09e32e-5.md)

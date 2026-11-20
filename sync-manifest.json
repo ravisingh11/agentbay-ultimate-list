@@ -34,7 +34,7 @@
   "source": "https://agentbay.io",
   "maintainer": "AgentBay",
   "update_policy": "Add and update upstream entries, preserve reviewed local changes and absent records; removals require curation.",
-  "entry_count": 22952,
+  "entry_count": 22950,
   "unique_repository_count": 9163,
   "catalogue_license": {
     "spdx_id": "MIT",
@@ -43,7 +43,7 @@
   },
   "inputs": {
     "data/curation.json": {
-      "sha256": "03ba6da94167b79d37329da4b526ec71f43938712ce901614688edbe300e2533"
+      "sha256": "9c2a125dbc61c7dc08011aa94a5064cd5b86abe59ec184223ca0fb8244830958"
     },
     "data/preferred-providers.json": {
       "sha256": "929a6a3a2eb1fb978907ccb9346e5b05bc40e74123be9c0476ba9017f1ecd640"
@@ -63,7 +63,7 @@
   },
   "derived_exports": {
     "skills": {
-      "entry_count": 22595,
+      "entry_count": 22593,
       "json": "skills/catalog.json",
       "csv": "skills/catalog.csv"
     },
@@ -260,16 +260,16 @@
   ],
   "files": {
     "README.md": {
-      "sha256": "80e86a3133315823ac88fa9038481b549008cbd04b1d622cfe7dfab32d950d67",
+      "sha256": "5e1e022768bf3a46b443ae20d13cef222fda1a46a20197b11ba7ae41ae7682c1",
       "bytes": 10279
     },
     "catalog.csv": {
-      "sha256": "2817c05e1e472ffe7575e601ff5fcb5c5c860e68a57f7a1780c87fa1535a665c",
-      "bytes": 15227524
+      "sha256": "d548e0aa1745cfb6177b1b455c46b919729f0cc94332c96f0e3a72a4e1384c38",
+      "bytes": 15226389
     },
     "catalog.json": {
-      "sha256": "e65163593146799066014b51577006ef24c1cd39073cadb8a789513e5675af00",
-      "bytes": 25905475
+      "sha256": "a1167a61a7cc963899ecc74ae5def738f86ce3b1d7e12ec653e7571dfeadfe18",
+      "bytes": 25903416
     },
     "docs/providers.md": {
       "sha256": "2bca79ef6cf11b5ea54c12d2fb887ee0a05feda9fe4f5a9f985a6a019881ce97",
@@ -400,11 +400,11 @@
       "bytes": 17874
     },
     "provenance/descriptions.json": {
-      "sha256": "818e9991a3edbd9eee2a21dbbe184f377094dfd7ca2aeaecb9268e6ddf28ded1",
-      "bytes": 10132935
+      "sha256": "279c3984defc669b826ed7d91c7be7c4d398cc1dd1e7b0c599c51017adfd26f8",
+      "bytes": 10132033
     },
     "skills/README.md": {
-      "sha256": "bc8491a423d12b785ac72428e1d7364f2c43975b0604b39876877cdd96c09019",
+      "sha256": "b0f77b3d0990d8d81b45e4fc76ec7c5503dc7257da9b6cb7969ca689eaad5487",
       "bytes": 8757
     },
     "skills/agent-development-1eeae9-1.md": {
@@ -456,12 +456,12 @@
       "bytes": 8697
     },
     "skills/catalog.csv": {
-      "sha256": "3c45f7d14e909b0e348b0a49b03a72a6dd699df96ed9b7ef6786a2a5eba32151",
-      "bytes": 14991521
+      "sha256": "79afdd94a284a77eaffc1cfe6fc5d92b7886e44d69f78027bd601cfc7ae2ee17",
+      "bytes": 14990386
     },
     "skills/catalog.json": {
-      "sha256": "122b9387be6a6cf264369da186760da7e7a7a2722cc91d820e873782d7ae0ee2",
-      "bytes": 25502812
+      "sha256": "3ab97aba7bf116c41f4a0698fc6c62acca220b5811be9ec5713d45d4d6c62f04",
+      "bytes": 25500753
     },
     "skills/content-creation-b3b99b.md": {
       "sha256": "2d202ac54dd14ceca5caad6698b23e3f3d7bf2d29d4cbe48809a2b9724d24d18",
@@ -536,28 +536,28 @@
       "bytes": 179406
     },
     "skills/documents-and-knowledge-09e32e-1.md": {
-      "sha256": "ddd825687710044f87e985051895301c58e27a019f83c22e7118a45840f0056b",
-      "bytes": 75612
+      "sha256": "50f4fb321f4ec2f2e966c7493b422b13fc4080002f8f3644ee71fdc9f559eb75",
+      "bytes": 75645
     },
     "skills/documents-and-knowledge-09e32e-2.md": {
-      "sha256": "4e9580a6114756e8e2477cd6d4d4b3bd23f5b326d6dbe80e09cff247c961935f",
-      "bytes": 78063
+      "sha256": "03cc0bf2e238084975de29a0391f50e0d54410ed05a52395c051acae4f9a269d",
+      "bytes": 77971
     },
     "skills/documents-and-knowledge-09e32e-3.md": {
-      "sha256": "e4aae6ea3e325b40c62266e138e23eeb68043589ce011c9e326a0d99a347acd4",
-      "bytes": 74066
+      "sha256": "79bc5e589b7df6bedfb44902bc273f61eaf4e6fd125442a4546f8ca48a931122",
+      "bytes": 73986
     },
     "skills/documents-and-knowledge-09e32e-4.md": {
-      "sha256": "8686636800a903da2a3f76eea9a8bd49470f21e0a1ecda048d3338e1e17c77d4",
-      "bytes": 73188
+      "sha256": "bdf9774095fe26fd5e917f2ce7da8beb6362a61e365210f9fdf20688d369063c",
+      "bytes": 73304
     },
     "skills/documents-and-knowledge-09e32e-5.md": {
-      "sha256": "a5621bd71bcec8bdc0c22b2cfa9bc2fbe095dd774ffc1d63ee4acc448eeccf93",
-      "bytes": 73445
+      "sha256": "a96b0a819621f76d36c0c917bd0207f65c4c6c8d4d0a0beadcce1572ca30e486",
+      "bytes": 73476
     },
     "skills/documents-and-knowledge-09e32e-6.md": {
-      "sha256": "effb75a13e3161444126514f4e18692b7aed9fb4cd93566b2962a90827491eb0",
-      "bytes": 70619
+      "sha256": "f4ea7343b17822f643b0fea8b41217e3404803b9117c18e69f0377fffe13b17f",
+      "bytes": 70197
     },
     "skills/education-68bf01.md": {
       "sha256": "3c54cc5d491ff6e7f2dcf99756f2790cb9c1fcd64933edb427f77ead6294d9c6",
@@ -676,8 +676,8 @@
       "bytes": 18403
     },
     "skills/sales-and-marketing-072784.md": {
-      "sha256": "7c13ab7f96393da74367f1d45e722fe65a6cd9fb35c6d1cf125aae53b4044b58",
-      "bytes": 51806
+      "sha256": "05d356e3873b9468fbd5d444e871493dd36e685fefc97eb6bf8dca357f186ec9",
+      "bytes": 51384
     },
     "skills/search-optimization-06110c.md": {
       "sha256": "ffb470591fde606b05ad1ad6ee0c5910eec0652f4e454bce4b43e41919e839c7",

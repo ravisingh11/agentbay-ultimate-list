@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22952,
+  "entry_count": 22950,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -38779,15 +38779,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5": {
-      "input_sha256": "5cc2d9a0c17edf1bb1977bdfbcb623baf7c9239fe020f733ddd92ef1fb9902c6",
-      "description_sha256": "3da9818c59d55a1109e920cab711a93e8797c3dda07a27cbef91bab2f31e4917",
-      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
-      "topics": [
-        "document and knowledge workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
     "41576738-8f12-50dc-a12f-657b74d54978": {
       "input_sha256": "937d31db007c02e71587680aeabf83cebac2641a715e275e535bbce1393db71b",
       "description_sha256": "13b5edb7d1d8433b22e5b4f59f790af77bb854672f01ac935c9e0c5be7c92826",
@@ -45189,15 +45180,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9": {
-      "input_sha256": "97d738cfdae1e92ce0092229d98f61166bcc993886cd7001b563ad2779541c32",
-      "description_sha256": "0f1b95fb703c9d0c2a9e11a61fb60ab0fc60fa41a2d35a66405f19854f45beac",
-      "use_cases_sha256": "cc6676f1e7501d135bfcf36c366008cb99987b70c1e3675039e7f578d67a2a0f",
-      "topics": [
-        "marketing and outreach"
-      ],
-      "capability_topic_unresolved": false
     },
     "275c17ee-3242-5440-b6b8-948503d77b23": {
       "input_sha256": "9b08552cecc3206ebd0cd8f7890e309593a34de38f003d85434fcb39ab633284",

@@ -4,9 +4,8 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-5.md)
 
-1,192 listings · Page 6 of 6
+1,191 listings · Page 6 of 6
 
-- **Spenny24/fsoma-transformation-brief-skill** — [Website](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · [GitHub](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · **License: Unknown** · Stars: not recorded — Spenny24/fsoma-transformation-brief-skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and workflow automation.
 - **spmisha134/skillOps-intellij** — [Website](<https://github.com/spmisha134/skillops-intellij>) · [GitHub](<https://github.com/spmisha134/skillops-intellij>) · **License: Apache-2.0** · Stars: not recorded — spmisha134/skillOps-intellij is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, data analysis, and software engineering.
 - **spxrogers/oura-toolkit** — [Website](<https://github.com/spxrogers/oura-toolkit>) · [GitHub](<https://github.com/spxrogers/oura-toolkit>) · **License: MIT** · Stars: not recorded — spxrogers/oura-toolkit is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, authentication workflows, and MCP tool integration.
 - **SPXROS/quality-comments** — [Website](<https://github.com/spxros/quality-comments>) · [GitHub](<https://github.com/spxros/quality-comments>) · **License: MIT** · Stars: not recorded — SPXROS/quality-comments is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.

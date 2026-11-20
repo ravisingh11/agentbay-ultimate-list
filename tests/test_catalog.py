@@ -186,6 +186,23 @@ class MaintenanceTests(unittest.TestCase):
                 readme = catalog.render_browse([], manifest)['README.md'].decode()
                 self.assertNotIn('Catalogue refreshed', readme)
 
+    def test_unverified_composio_skills_stay_excluded_after_import(self):
+        policy = catalog.read_json(SCRIPT.parent.parent / 'data/curation.json')
+        identifiers = {
+            'community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5',
+            'community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9',
+        }
+        additions = [entry for entry in policy['additions'] if entry['id'] in identifiers]
+        exclusions = [entry for entry in policy['exclusions'] if entry['id'] in identifiers]
+        self.assertEqual({entry['id'] for entry in additions}, identifiers)
+        self.assertEqual({entry['id'] for entry in exclusions}, identifiers)
+        imported = [row(entry['id'], **entry['fields']) for entry in additions]
+        applied = catalog.apply_curation(imported, {
+            'schema_version': 1, 'additions': additions,
+            'corrections': [], 'exclusions': exclusions,
+        })
+        self.assertEqual(applied, [])
+
     def test_write_refuses_symlink_before_changing_outputs(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory)

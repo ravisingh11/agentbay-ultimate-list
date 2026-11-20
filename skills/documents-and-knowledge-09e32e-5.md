@@ -4,9 +4,8 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-4.md) · [Next →](documents-and-knowledge-09e32e-6.md)
 
-1,192 listings · Page 5 of 6
+1,191 listings · Page 5 of 6
 
-- **openai-docs** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/openai-docs/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 390** (as of 2026-11-08) · **JetBrains · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/microsoft/amplifier-bundle-work/blob/6be13050a6b9aea817a405b291b250d858287727/skills/openai-docs/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-bundle-work>) · **License: MIT** · **★ 0** (as of 2026-10-31) · **Microsoft · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/openai/openai-developers-for-cursor/blob/9120f1f6bb47964651ab822e24b4f358e3638ae3/skills/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/openai-developers-for-cursor>) · **License: Apache-2.0** · **★ 12** (as of 2026-10-31) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/openai/skills/blob/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/skills>) · **License: Unknown** · **★ 28,422** (as of 2026-10-31) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -206,5 +205,6 @@
 - **sowadalmughni/contextual-humanizer** — [Website](<https://github.com/sowadalmughni/contextual-humanizer>) · [GitHub](<https://github.com/sowadalmughni/contextual-humanizer>) · **License: MIT** · Stars: not recorded — sowadalmughni/contextual-humanizer is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and marketing and outreach.
 - **spec-miner** — [Website](<https://github.com/jeffallan/claude-skills>) · [GitHub](<https://github.com/jeffallan/claude-skills>) · **License: MIT** · **★ 12,271** (as of 2026-11-08) — spec-miner is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **spec-workflow-guide** — [Website](<https://github.com/TencentCloudBase/CloudBase-AI-Toolkit/blob/main/plugin/cloudbase/skills/spec-workflow/SKILL.md>) · [GitHub](<https://github.com/TencentCloudBase/CloudBase-AI-Toolkit>) · **License: Unknown** · **★ 1,161** (as of 2026-11-08) — spec-workflow-guide is listed as an agent skill. Its catalogue topics include document and knowledge workflows, deployment and cloud operations, and software engineering.
+- **Spenny24/fsoma-transformation-brief-skill** — [Website](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · [GitHub](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · **License: Unknown** · Stars: not recorded — Spenny24/fsoma-transformation-brief-skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and workflow automation.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-4.md) · [Next →](documents-and-knowledge-09e32e-6.md)
