@@ -2,6 +2,9 @@
 
 AgentBay is the primary source and maintainer. This repository publishes a curated, reusable list; it does not ship the website's application code or account data. Website presentation changes do not trigger a catalogue change. Relevant source additions and factual corrections enrich the list through a reviewed import.
 
+See [How AgentBay vets skills](skill-vetting.md) for the public explanation of
+source, instruction and tested-example checks.
+
 ## Repository layout
 
 | Path | Purpose |
@@ -41,12 +44,6 @@ python3 -m unittest discover -s tests -v
 Rendering uses the accepted catalogue plus maintained curation. It makes no network requests and does not change the import timestamp. Repeating it without input changes produces identical bytes. Direct changes to baseline exports are rejected; use the curation file instead.
 
 Descriptions and use cases are regenerated under the original-summary policy. All six exports, the browsing pages, aliases, provenance and manifest update together. Writes refuse symlinked targets, unowned output files and unexpected output paths. Only obsolete pages recorded as generated and still bearing their generated marker can be removed.
-
-## November 8, 2026: reviewed weekly proposal
-
-The recovered weekly proposal adds 47 individual listings: nine Microsoft-source skills and 38 Composio-source skills. Their curation entries retain stable IDs, pinned file URLs, observed metadata and review evidence. The 89 previously curated additions are preserved. No linked skill was executed during listing review.
-
-Three candidates were deferred: Composio’s `artifacts-builder` duplicates the existing canonical Anthropic listing, while Spec2Cloud’s `deploy` and `verify` have unresolved dry-run wording versus the deployment commands shown. They are not accepted listings from this batch. Composio license fields remain unknown where no applicable license file was verified; a README declaration alone is not a verified license grant. Its generic automation entries require the documented Rube MCP connection and authorization, and their listing does not establish tool availability or task execution.
 
 ## Import catalogue updates from AgentBay
 
@@ -208,3 +205,68 @@ provenance and reproducible download are separate from official Meta sources.
 Only this package is selected; the other eight remain excluded in
 `data/adapted-openzl-review.json`. No Finder, provider or website design policy
 change is attached to this publication.
+
+## Disabled skill paths
+
+`data/disabled-skills.json` records finder paths absent from a complete
+publisher tree at a checked revision. The generated
+[Disabled skills](../skills/disabled.md) page labels each path. Corresponding
+individual catalogue entries have evidence-backed exclusions in
+`data/curation.json`, so they stay out of the installer catalogue and
+generated active skill pages.
+
+A later refresh does not automatically restore a disabled path. Before
+restoring it, inspect the current publisher, path, instructions and relevant
+companion files, then update the disabled registry and curation together.
+Moved, changed or inaccessible sources need their own review.
+
+
+The November 9 source review recovered seven Azure infrastructure skills from
+the original repository named in the umbrella project’s pinned manifest. Their
+file blobs match the former indexed copies, and the ten other matching files
+were already represented. The old source paths remain marked disabled; the
+original-source entries are listed separately. Related sources for 95 former
+Microsoft gallery paths are linked for inspection, not automatically listed:
+their skill files say Proprietary while their repository is marked MIT.
+
+The November 9 unavailable-path review traced 43 current skills to publisher renames and added their verified sources to the public catalogue, along with one parent skill. It keeps the original unavailable paths as history and records when a publisher moved a former skill into a supporting file or command. Two current AWS files have malformed YAML metadata and remain excluded. Same-name matches without a confirmed move remain candidates. Microsoft-linked alternatives with conflicting skill and repository license terms remain unapproved. See the generated [unavailable paths](../skills/disabled.md) for the outcome of each record.
+
+The November 9 follow-up reviewed the remaining unavailable paths using publisher change history and GitHub source searches, adding verified current sources through the existing eligibility and duplicate checks. NVIDIA documents replacements for its retired NuRec skills; one current replacement exceeds the Agent Skills description limit and remains excluded. Some confirmed third-party sources are linked for inspection but remain outside the installable catalogue when they do not meet the current source criteria.
+
+Among the 95 earlier Microsoft CAT paths, Microsoft still publishes 43 updated same-named files and one related candidate, but those files say Proprietary while the repository says MIT. The publisher retired the other 51 with their plugins. The conflicting current files are not added to the public catalogue until the publisher clarifies the terms; links in the unavailable-path record are for inspection, not a license grant.
+
+The Dart team publishes current versions of the three Dart skills previously copied into `google/skills_lint.dart`. [Flutter's official documentation](https://github.com/flutter/website/blob/main/sites/docs/src/content/ai/tools.md) identifies `dart-lang/skills` as the official Dart skills repository. [Dart's terms](https://dart.dev/terms) identify Google as the owner of Dart. Two verified files match the old blobs; the third corrects a code example. The approved `dart-lang` owner is included in the Google registry, and the old paths remain as history.
+
+## November 20, 2026 proposal review
+
+The [proposal review](../data/catalogue-proposal-review-2026-11-20.json) resolves
+22 skill proposals and 14 discovery leads. It accepts 11 individual skills and
+one skill repository from 10 candidate groups, with source pins, observed Git
+blobs, bounded capability notes and license evidence in curation. The other
+26 candidate groups are discarded for the recorded overlap, template, context
+or workflow reasons.
+
+The Chinese diction entry retains unknown license fields. Service-backed
+parking, charging and advertising entries describe integrations whose runtime
+availability was not tested. LaunchSpy requires an account and usage credits.
+The Apps Script workflows need owner-approved Google permissions and pilot
+acceptance. This review adds catalogue metadata and original generated summaries.
+Publisher instructions, installation, model-backed evaluations and live account
+operations were not executed. Existing provider attribution and catalogue IDs
+remain governed by their maintained inputs.
+
+## November 20, 2026 weekly PR reconciliation
+
+The [weekly proposal review](../data/weekly-proposal-review-2026-11-20.json)
+reconciles PR #13 with the current catalogue. Eight task-specific skills remain
+useful. The Spec Kit and SDK-plugin paths have different instruction content
+from the existing Lean and root-level variants. Their original proposal IDs
+and source pins are retained.
+
+The three proposed infrastructure skill paths have disappeared from the
+publisher's current tree; the catalogue retains its canonical root-level
+variants. The 36 generic Rube wrappers repeat tool discovery and connection
+setup without service-specific action guidance and are discarded from this
+batch. Composio license fields remain unknown. Ad-library access and visible
+advertising duration do not establish campaign performance. Source metadata
+was reviewed; linked instructions and account operations were not executed.

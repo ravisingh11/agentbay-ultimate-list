@@ -11,7 +11,7 @@ import urllib.request
 import catalog
 
 REPOSITORY='ravisingh11/agentbay-ultimate-list'
-FILES=('skills/catalog.json','data/preferred-providers.json','sync-manifest.json')
+FILES=('skills/catalog.json','data/preferred-providers.json','data/disabled-skills.json','sync-manifest.json')
 
 def digest(raw):return hashlib.sha256(raw).hexdigest()
 
@@ -52,11 +52,13 @@ def load(access,revision=None,*,http=public_get,github=github_get):
     decoded={name:json.loads(raw) for name,raw in payloads.items()}
     manifest=decoded['sync-manifest.json']
     if not isinstance(manifest,dict) or not isinstance(manifest.get('files'),dict) or not isinstance(manifest.get('inputs'),dict):raise ValueError('Invalid snapshot manifest')
-    for name in FILES[:2]:
+    for name in FILES[:-1]:
         evidence=manifest.get('files',{}).get(name) or manifest.get('inputs',{}).get(name)
         if not isinstance(evidence,dict) or evidence.get('sha256')!=digest(payloads[name]) or ('bytes' in evidence and evidence['bytes']!=len(payloads[name])):raise ValueError('Snapshot checksum mismatch: '+name)
     skills=decoded['skills/catalog.json'];policy=decoded['data/preferred-providers.json']
     if not isinstance(policy,dict):raise ValueError('Invalid publisher registry')
+    reviews=decoded['data/disabled-skills.json']
+    if not isinstance(reviews,dict) or not isinstance(reviews.get('skills'),list):raise ValueError('Invalid unavailable-path reviews')
     catalog.validate_rows(skills);catalog.validate_policy(policy)
     if not skills or not policy['providers'] or any(not catalog.is_skill(row) for row in skills):raise ValueError('Snapshot must contain skills and verified publisher metadata')
     source={'repository':'https://github.com/'+REPOSITORY,'source_revision':commit,'access_mode':'public_https' if mode=='public' else 'authenticated_github_cli','files':{name:{'sha256':digest(raw),'bytes':len(raw)} for name,raw in payloads.items()}}

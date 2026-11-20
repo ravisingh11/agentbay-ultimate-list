@@ -4,9 +4,8 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](security-and-privacy-65f61c-1.md)
 
-306 listings · Page 2 of 2
+305 listings · Page 2 of 2
 
-- **OR13/skills** — [Website](<https://github.com/or13/skills>) · [GitHub](<https://github.com/or13/skills>) · **License: Apache-2.0** · Stars: not recorded — OR13/skills is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **osouthgate/agent-plus** — [Website](<https://github.com/osouthgate/agent-plus>) · [GitHub](<https://github.com/osouthgate/agent-plus>) · **License: MIT** · Stars: not recorded — osouthgate/agent-plus is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **pdugan20/claudelint** — [Website](<https://github.com/pdugan20/claudelint>) · [GitHub](<https://github.com/pdugan20/claudelint>) · **License: MIT** · Stars: not recorded — pdugan20/claudelint is listed as an agent-skill repository. Its catalogue topics include security and privacy.
 - **pentesting-with-aws-security-agent** — [Website](<https://github.com/aws/agent-toolkit-for-aws/blob/main/plugins/aws-agents-for-devsecops/skills/pentesting-with-aws-security-agent/SKILL.md>) · [GitHub](<https://github.com/aws/agent-toolkit-for-aws>) · **License: Unknown** · **★ 3,020** (as of 2026-10-24) · **Amazon Web Services · Official source** — pentesting-with-aws-security-agent is listed as an agent skill. Its catalogue topics include security and privacy.

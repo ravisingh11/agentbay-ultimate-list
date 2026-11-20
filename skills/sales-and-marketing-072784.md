@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md)
 
-149 listings · Page 1 of 1
+150 listings · Page 1 of 1
 
 - **ad-audience-targeting** — [Website](<https://github.com/mbfinotti/advertising-skills>) · [GitHub](<https://github.com/mbfinotti/advertising-skills>) · **License: MIT** · Stars: not recorded — ad-audience-targeting is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **adelaidasofia/claude-deconstruct** — [Website](<https://github.com/adelaidasofia/claude-deconstruct>) · [GitHub](<https://github.com/adelaidasofia/claude-deconstruct>) · **License: MIT** · Stars: not recorded — adelaidasofia/claude-deconstruct is listed as an agent-skill repository. Its catalogue topics include marketing and outreach.
@@ -67,6 +67,7 @@
 - **kgelster/awesome-ecom-skills** — [Website](<https://github.com/kgelster/awesome-ecom-skills>) · [GitHub](<https://github.com/kgelster/awesome-ecom-skills>) · **License: MIT** · Stars: not recorded — kgelster/awesome-ecom-skills is listed as an agent-skill repository. Its catalogue topics include marketing and outreach and search optimization.
 - **LaGrowthMachine/gtm-system** — [Website](<https://github.com/lagrowthmachine/gtm-system>) · [GitHub](<https://github.com/lagrowthmachine/gtm-system>) · **License: MIT** · Stars: not recorded — LaGrowthMachine/gtm-system is listed as an agent-skill repository. Its catalogue topics include marketing and outreach and MCP tool integration.
 - **landing-page-conversion-audit** — [Website](<https://github.com/autonnel/autonnel-skills>) · [GitHub](<https://github.com/autonnel/autonnel-skills>) · **License: Apache-2.0** · Stars: not recorded — landing-page-conversion-audit is listed as an agent skill. Its catalogue topics include marketing and outreach.
+- **launchspy** — [Website](<https://github.com/launchspyio/launchspy-agent/blob/e0286f83b25466fb776bc23fe5ebbd0847e215b3/skills/launchspy/SKILL.md>) · [GitHub](<https://github.com/launchspyio/launchspy-agent>) · **License: MIT** · **★ 0** (as of 2026-11-20) — launchspy is listed as an agent skill. Its catalogue topics include marketing and outreach and MCP tool integration.
 - **layoza/layoza** — [Website](<https://github.com/layoza/layoza>) · [GitHub](<https://github.com/layoza/layoza>) · **License: MIT** · Stars: not recorded — layoza/layoza is listed as an agent-skill repository. Its catalogue topics include marketing and outreach.
 - **lead-magnets** — [Website](<https://github.com/coreyhaines31/marketingskills>) · [GitHub](<https://github.com/coreyhaines31/marketingskills>) · **License: MIT** · **★ 56,189** (as of 2026-10-23) — lead-magnets is listed as an agent skill. Its catalogue topics include marketing and outreach.
 - **lead-routing** — [Website](<https://github.com/mbfinotti/revops-skills>) · [GitHub](<https://github.com/mbfinotti/revops-skills>) · **License: MIT** · Stars: not recorded — lead-routing is listed as an agent skill. Its catalogue topics include marketing and outreach.

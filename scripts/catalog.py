@@ -594,7 +594,7 @@ def render_browse(rows, manifest):
                  'Each listing appears once under its primary category. Categories, tags and complete records remain in the downloads. Stars are cached repository counts with observation dates. Official source denotes verified publisher ownership. It is not a quality or security review.', '',
                  '| Category | Listings | Browse |', '| --- | ---: | --- |']
         if group == 'skills':
-            index[6:6] = ['[Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md)', '']
+            index[6:6] = ['[Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)', '']
         for label, items in category_groups(members):
             pages = [items[i:i+PAGE_SIZE] for i in range(0, len(items), PAGE_SIZE)]
             paths = [f'{group}/{category_slug(label)}'+(f'-{i+1}' if len(pages)>1 else '')+'.md' for i in range(len(pages))]
@@ -633,13 +633,13 @@ def render_browse(rows, manifest):
         '| Diagnose a failing test | Find a skill for diagnosing this failing test with AgentBay. | Choose a workflow that fits your test runner, reproduce the failure and check the fix. |',
         '| Create a slide deck | Find a skill for turning this brief into a slide deck with AgentBay. | Match a presentation workflow and check its export format. |', '',
         'These prompts start discovery. After choosing a skill, ask AgentBay to install it, check prerequisites and use it. The linked walkthroughs show concrete examples and checks.', '',
-        '## Where I start: credible sources, visible momentum', '',
+        '## How we vet skills', '',
         'My starting point is official sources from companies such as **Anthropic, OpenAI, Google, Microsoft, AWS and Cloudflare**, alongside GitHub projects with visible adoption and maintenance. Established teams often bring documented processes, review practices and continuity that are useful reasons to look at their work first.', '',
         'Here is what matters when choosing a skill:', '',
         '- **A source you can trace.** Our [preferred-provider registry](docs/providers.md) identifies verified publisher ownership and links back to official sources.',
         '- **A repository worth investigating.** Stars and forks can point to community momentum; recent commits, releases and issue responses help you judge whether that attention comes with ongoing maintenance. Follow the repository link and look at the evidence.',
         '- **A fit for the job.** AgentBay reads the publisher’s actual skill instructions and checks prerequisites before using a selected skill. The name alone is not enough.', '',
-        'These are useful signals, not a security certification. Official ownership does not establish that every skill was audited; popularity does not establish task fit. Independent maintainers can produce excellent work too.', '',
+        '[See how we check sources, review instructions and test examples](docs/skill-vetting.md).', '',
         f'**Explore {len(rows):,} listings: {counts["skills"]:,} skills and {counts["projects"]:,} projects and tools across {len({repo_key(r["repository_url"]).casefold() for r in rows}):,} GitHub repositories.**', '',
         '## Quick start', '',
         'AgentBay matches your task to skills using this repository’s curated catalogue, then reads the selected publisher’s actual instructions. Install AgentBay once; request other skills as you need them. You do not need to check out the whole repository.', '',
@@ -701,6 +701,68 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
     derived, groups = split_exports(rows)
     outputs.update(derived)
     outputs.update(render_browse(rows, manifest))
+    disabled = read_json(root/'data/disabled-skills.json')['skills']
+    lines = [GENERATED, '', '# Unavailable source paths', '', '[Skills](README.md)', '',
+             'These paths were absent from the inspected publisher revision and are excluded from search. A skill may still exist at another source.', '']
+    for item in disabled:
+        line = '- **Disabled path** · '+md(item['name'])+' · '+md(item['repository'])+' · `'+md(item['path'])+'` · '+md(item['reason'])
+        alternate = item.get('replacement')
+        if alternate:
+            if not isinstance(alternate, dict):
+                raise ValueError('Invalid replacement source')
+            repo, path, commit = alternate.get('repository', ''), alternate.get('path', ''), alternate.get('commit', '')
+            if not all(isinstance(value, str) for value in (repo, path, commit)) or not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo) or not re.fullmatch(r'[a-f0-9]{40}', commit) or not (path == 'SKILL.md' or path.endswith('/SKILL.md')) or path.startswith('/') or '..' in path.split('/') or alternate.get('kind') not in ('exact', 'related'):
+                raise ValueError('Invalid replacement source')
+            blob, previous = alternate.get('blob', ''), item.get('old_blob', '')
+            if not isinstance(blob, str) or not isinstance(previous, str) or not re.fullmatch(r'[a-f0-9]{40}', blob) or not re.fullmatch(r'[a-f0-9]{40}', previous) or (alternate['kind'] == 'exact' and blob != previous):
+                raise ValueError('Invalid replacement evidence')
+            if alternate['kind'] == 'related' and not isinstance(alternate.get('license_notice'), str):
+                raise ValueError('Related source needs its license warning')
+            from urllib.parse import quote
+            url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
+            if alternate['kind'] == 'exact' and not any(row['website_url'] == url for row in rows):
+                raise ValueError('Exact replacement missing from the catalogue')
+            label = 'Identical skill at original source' if alternate['kind'] == 'exact' else 'Related source, not verified equivalent'
+            line += ' · ['+label+'](<'+link_url(url)+'>)'
+            if alternate['kind'] == 'related':
+                line += ' · '+md(alternate.get('license_notice', 'Review source license before use.'))
+        review = item.get('review')
+        if review:
+            if not isinstance(review, dict) or review.get('status') not in ('available', 'resource', 'invalid', 'candidate', 'unavailable') or not isinstance(review.get('note'), str) or not re.fullmatch(r'[a-f0-9]{40}', review.get('checked_commit', '')) or not isinstance(review.get('checked_at'), str):
+                raise ValueError('Invalid source review')
+            line += ' · '+md(review['note'])+' ('+md(review['checked_at'][:10])+' UTC)'
+            if review.get('license_notice'):
+                if not isinstance(review['license_notice'], str):
+                    raise ValueError('Invalid license notice')
+                line += ' · '+md(review['license_notice'])
+            for field, label in (('source', {'available': 'Current skill', 'resource': 'Publisher’s current file', 'invalid': 'Publisher’s current file', 'candidate': 'Possible related skill'}.get(review['status'], 'Current file')), ('parent', 'Parent skill')):
+                source = review.get(field)
+                if not source:
+                    if field == 'source' and review['status'] != 'unavailable':
+                        raise ValueError('Source review needs a pinned source')
+                    continue
+                if not isinstance(source, dict):
+                    raise ValueError('Invalid reviewed source')
+                repo, path, commit, blob = (source.get(k, '') for k in ('repository', 'path', 'commit', 'blob'))
+                if not all(isinstance(v, str) for v in (repo, path, commit, blob)) or not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo) or not re.fullmatch(r'[a-f0-9]{40}', commit) or not re.fullmatch(r'[a-f0-9]{40}', blob) or not path.endswith('.md') or path.startswith('/') or any(part in ('', '.', '..') or '\\' in part for part in path.split('/')):
+                    raise ValueError('Invalid reviewed source')
+                from urllib.parse import quote, unquote, urlsplit
+                url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
+                if (review['status'] == 'available' and field == 'source' and not review.get('license_notice')) or field == 'parent':
+                    def source_key(value):
+                        parts = unquote(urlsplit(value).path).strip('/').split('/')
+                        return (('/'.join(parts[:2]).casefold(), '/'.join(parts[4:]))
+                                if len(parts) >= 5 and parts[2] in ('blob', 'tree') else None)
+                    if not any(source_key(row['website_url']) == (repo.casefold(), path) for row in rows):
+                        raise ValueError('Reviewed available skill missing from the catalogue')
+                line += ' · ['+label+'](<'+link_url(url)+'>)'
+            evidence = review.get('evidence')
+            if evidence:
+                if not isinstance(evidence, str) or not re.fullmatch(r'https://github\.com/[\w.-]+/[\w.-]+/(?:commit/[a-f0-9]{40}|compare/[a-f0-9]{40}\.\.\.[a-f0-9]{40})', evidence):
+                    raise ValueError('Invalid review evidence')
+                line += ' · [Publisher’s change](<'+link_url(evidence)+'>)'
+        lines.append(line)
+    outputs['skills/disabled.md'] = ('\n'.join(lines+[''])).encode()
     outputs['provenance/descriptions.json'] = json_bytes(summarize_catalog(rows)[1])
     outputs['provenance/aliases.json'] = json_bytes({'schema_version': 1,
         'rule': 'Same repository, source URL, name and type; category/tag metadata retained on the surviving ID.',
@@ -710,7 +772,7 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
         'update_policy': 'Add and update upstream entries, preserve reviewed local changes and absent records; removals require curation.',
         'entry_count': len(rows), 'unique_repository_count': len({repo_key(r['repository_url']).casefold() for r in rows}),
         'catalogue_license': {'spdx_id':'MIT','path':'LICENSE','scope_notice':'LICENSING.md'},
-        'inputs': {name: {'sha256': sha((root/name).read_bytes())} for name in (CURATION,POLICY)},
+        'inputs': {name: {'sha256': sha((root/name).read_bytes())} for name in (CURATION,POLICY,'data/disabled-skills.json')},
         'description_policy': {'version':SUMMARY_POLICY,'provenance':'provenance/descriptions.json','source_prose_reused':False},
         'preferred_providers': {'source':POLICY,'provider_count':len(PREFERRED_PROVIDERS['providers'])},
         'derived_exports': groups, 'duplicate_id_aliases':len(aliases),
