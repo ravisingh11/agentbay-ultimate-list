@@ -37,7 +37,7 @@ class ScorecardPresentationTests(unittest.TestCase):
         page = BADGE._checkpoint_examples_html(REPOSITORY)
         self.assertEqual(page.count('<article class="checkpoint-card '), 2)
         self.assertIn('PR #4 and the main commit produced by its merge', page)
-        self.assertIn('separate from the latest PR scorecard below', page)
+        self.assertIn('separate from the latest PR scorecard', page)
         self.assertIn('There is no combined score', page)
         self.assertNotIn('/ai-software-toolkit/actions/', page)
         self.assertNotIn('/ai-software-toolkit-reference-app/actions/', page)
@@ -93,7 +93,9 @@ class ScorecardPresentationTests(unittest.TestCase):
         self.assertNotIn('checkpoint_examples', published)
         self.assertNotIn('PRIVATE_FINDING', page)
         self.assertNotIn('PRIVATE_MARKDOWN', page)
-        self.assertLess(page.index('id="checkpoint-examples-title"'), page.index('id="scorecard"'))
+        self.assertLess(page.index('id="scorecard"'), page.index('id="checkpoint-examples-title"'))
+        self.assertNotIn('AI is the accelerant', page)
+        self.assertNotIn('<section class="toolkit-overview"', page)
 
 
 if __name__ == '__main__':

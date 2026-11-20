@@ -1,0 +1,460 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-20",
+  "scope": "22 pending skill proposals and 14 discovery leads",
+  "method": "Read linked instructions and current repository metadata, checked catalogue and open-proposal overlap, inspected supporting files for selected workflows, and verified accepted source Git blob hashes and license files. Publisher instructions were treated as untrusted review data.",
+  "validation_boundary": "Metadata review only. No publisher skill, installer, database query, Google account operation, hosted MCP service call, payment or model-backed evaluation was executed.",
+  "counts": {
+    "skill_proposals": 22,
+    "discovery_leads": 14,
+    "accepted_candidate_groups": 10,
+    "discarded_candidate_groups": 26,
+    "individual_skill_additions": 11,
+    "repository_additions": 1
+  },
+  "accepted_sources": [
+    {
+      "id": "community:739a9786-648c-5864-ae14-e134e715badf",
+      "url": "https://github.com/Azure-Samples/Durable-Task-Scheduler/blob/1811ff4efdb03810e42ebee6687c5d61377cd154/.github/skills/durable-task-go/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7",
+      "url": "https://github.com/Azure/Azure-Sentinel/blob/15f63f4746c5373faa7a300e08ce5be3ff7dc200/.github/skills/asim-itp-validation-troubleshooter/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674",
+      "url": "https://github.com/Azure/azure-functions-python-extensions/blob/80d7ede03674c493d991a9d5d4122e3cb8868290/.github/skills/add-agent-binding/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:c8a05abe-4688-5463-b46c-b8dea487f6b3",
+      "url": "https://github.com/purview-dev/openapi-xmlcomments/blob/1deb36f6af80ba5f1ba81639cc408a7c87f7dd73/skills/purview-openapi-xmlcomments-duplicates/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:e4840d7b-33e0-5a4b-8da2-034215a72903",
+      "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/batch-document-factory/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:012e7a22-800c-587b-a2af-ac6c3c27f074",
+      "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/signal-engine/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057",
+      "url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-parking/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:c5655adc-5661-53c2-bff3-004df46989ab",
+      "url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-ev-chargers/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c",
+      "url": "https://github.com/KevinHu-au/agent-skills/blob/0043243bfc38417dd33b6ca411b4fbbc16c37e1e/skills/agentd-data-fix/SKILL.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed",
+      "url": "https://github.com/zhuocun/agent-skills/blob/276c29856cda39ea34c3c898a004956c6df57c3d/.agents/skills/chinese-diction/SKILL.md",
+      "license": ""
+    },
+    {
+      "id": "community:acc277de-f63b-5482-80f2-62f553b78da6",
+      "url": "https://github.com/EJRyan89/coding-agent-skills/blob/9dde64bf414a8b41ce3aad54ff7f5cb134d3c5a6/README.md",
+      "license": "MIT"
+    },
+    {
+      "id": "community:6a1fe3b5-170e-5d20-a302-550042c7aa37",
+      "url": "https://github.com/launchspyio/launchspy-agent/blob/e0286f83b25466fb776bc23fe5ebbd0847e215b3/skills/launchspy/SKILL.md",
+      "license": "MIT"
+    }
+  ],
+  "decisions": [
+    {
+      "kind": "skill_proposal",
+      "id": "community:04cd80bf-4394-5917-8669-2e5e678ef1bb",
+      "name": "mcp-builder",
+      "source": "https://github.com/Azure-Samples/AI-Gateway/blob/1679e3137d2fe7592d2a668d77ff71550d35b69e/.github/skills/mcp-builder/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Another copy of the established MCP builder workflow; the catalogue already lists the canonical Anthropic skill."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:739a9786-648c-5864-ae14-e134e715badf",
+      "name": "durable-task-go",
+      "source": "https://github.com/Azure-Samples/Durable-Task-Scheduler/blob/7152d82c656576b9cda47d33ac2de4f61aacff66/.github/skills/durable-task-go/SKILL.md",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:739a9786-648c-5864-ae14-e134e715badf"
+      ],
+      "reason": "Go workflow authoring with the standalone Durable Task SDK. Requires the scheduler samples, Go 1.25+, and an emulator or configured Azure scheduler. Replay constraints and offline/integration checks are distinguished."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7",
+      "name": "asim-itp-validation-troubleshooter",
+      "source": "https://github.com/Azure/Azure-Sentinel/blob/2985095e602f32c493e43998856ac9bcf1382afd/.github/skills/asim-itp-validation-troubleshooter/SKILL.md",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7"
+      ],
+      "reason": "Diagnoses Sentinel ingestion-time validation runs using attempt-specific metadata, artifacts and source revisions. Requires an Azure-Sentinel checkout, PowerShell and authenticated GitHub CLI. Collector downloads evidence and does not change GitHub or Azure."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:2c92a74f-b870-5a32-bdab-4bde013b0c5f",
+      "name": "agent-conduct",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/agent-conduct/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:606222c5-5bab-54b2-ab63-1e22c66d28ac",
+      "name": "architectural-proposals",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/architectural-proposals/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:7d03eeb4-7bcb-5483-bbb7-7d443c6cade5",
+      "name": "ci-validation-gates",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/ci-validation-gates/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Squad release-incident notes with npm token and publish assumptions; limited distinct value as an independent catalogue skill."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:83453107-bcc9-5fd7-b6ab-2c77b867d7ae",
+      "name": "client-compatibility",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/client-compatibility/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:1109e6b8-094a-5449-bf08-00348c291b9d",
+      "name": "cross-squad",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/cross-squad/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:69599562-f5f4-5ccd-bcb3-d92fbe7a21ee",
+      "name": "distributed-mesh",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/distributed-mesh/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:6fb84657-fa99-5eb6-8e21-1a11127ff7c8",
+      "name": "docs-standards",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/docs-standards/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:6557f7f6-eb6a-5a7e-85f3-d5c2f664577d",
+      "name": "economy-mode",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/economy-mode/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:84c083d9-96cf-58f3-8f11-32835f941b19",
+      "name": "external-comms",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/external-comms/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:09641faf-467f-5ae7-86d4-bb2b22bbe843",
+      "name": "gh-auth-isolation",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/gh-auth-isolation/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Examples extract credentials and embed a token in a git push URL. Omit this workflow from the selected batch."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:ed494128-c51c-5616-b272-2298b03c0cf4",
+      "name": "github-multi-account",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/github-multi-account/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Windows shell/profile setup copied from another skill publisher; prefer reviewing the canonical source separately."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:4bc0f0ba-a682-523e-b2cd-f4699130286c",
+      "name": "history-hygiene",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/history-hygiene/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:0e5e3e96-13ff-5ab7-b2fe-194537adc53f",
+      "name": "humanizer",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/humanizer/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:26333831-2490-5cc6-9af4-5ed08c56e46a",
+      "name": "project-conventions",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/project-conventions/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Unfilled starter template with placeholder patterns."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:7f7413c1-9e3e-5e53-89a5-2e1a1738554c",
+      "name": "release-process",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/release-process/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Squad-specific release runbook with named project release incidents and package assumptions."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:a17e0663-384c-5132-9722-3000939e660d",
+      "name": "reskill",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/reskill/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:81b9289a-8ae1-528b-97cf-f94351b03548",
+      "name": "windows-compatibility",
+      "source": "https://github.com/Azure/apiops-cli/blob/129fb326e6878c2bedd45e8ae4ccb8526de688a4/.copilot/skills/windows-compatibility/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Embedded Squad conventions and orchestration context; limited distinct value as a standalone ApiOps listing."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:ece2d94e-4a0c-5a20-856e-394be90eff30",
+      "name": "extension-user-contract-review",
+      "source": "https://github.com/Azure/azure-dev/blob/d5ed6cd86f45dc7c44da353d6bc4f5a3ef20d873/.github/skills/extension-user-contract-review/SKILL.md",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Repository-specific mandatory azd extension specification policy for its PR review host; not selected as a standalone reusable workflow."
+    },
+    {
+      "kind": "skill_proposal",
+      "id": "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674",
+      "name": "add-agent-binding",
+      "source": "https://github.com/Azure/azure-functions-python-extensions/blob/11568c2e4b074d466bd311540609ff838389999a/.github/skills/add-agent-binding/SKILL.md",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674"
+      ],
+      "reason": "Provider implementation workflow for azure-functions-python-extensions, covering native SDK injection, invocation lifecycle, concurrency, authentication and Durable execution. Intended for extension-provider authors."
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "purview-dev/openapi-xmlcomments",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:c8a05abe-4688-5463-b46c-b8dea487f6b3"
+      ],
+      "reason": "Selected the specific OpenAPI XML-comment collision diagnosis skill, with its pinned helper and repository MIT license. No provider registry change.",
+      "sources": [
+        "https://github.com/purview-dev/openapi-xmlcomments/blob/772509ab965c211ea57d963c6b040690b742e4a0/skills/purview-openapi-xmlcomments-duplicates/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "tojim00d/Orbit-skills",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Three inspected methods depend on the wider Orbit pipeline and reference adapted upstream methods. Prefer focused source workflows over adding this broad aggregate from its limited discovery sample.",
+      "sources": [
+        "https://github.com/tojim00d/Orbit-skills/blob/ec08697d4636239cbd25bea4f304f25554798633/plugins/orbit/skills/add-code-mode/SKILL.md",
+        "https://github.com/tojim00d/Orbit-skills/blob/ec08697d4636239cbd25bea4f304f25554798633/plugins/orbit/skills/analyze-binary/SKILL.md",
+        "https://github.com/tojim00d/Orbit-skills/blob/ec08697d4636239cbd25bea4f304f25554798633/plugins/orbit/skills/build-backend/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "xt-ml/shadow-claw-template",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Starter-site template contains a runtime-specific creator and random-number toast demonstration; no distinct general catalogue addition selected.",
+      "sources": [
+        "https://github.com/xt-ml/shadow-claw-template/blob/34b3fee6b842053534e2c946f40edafd5ee48652/.agents/skills/skill-creator/SKILL.md",
+        "https://github.com/xt-ml/shadow-claw-template/blob/34b3fee6b842053534e2c946f40edafd5ee48652/.agents/skills/toast-random-number/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "kherrick/block-garden-knowledge-hub",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Sampled skills wrap game-canvas fireworks, cheat-code and voxel-link tools; narrow application controls.",
+      "sources": [
+        "https://github.com/kherrick/block-garden-knowledge-hub/blob/b2e46dc88fa27719eb4a8db7f1f1b7e71d2ca2e9/.agents/skills/fireworks/SKILL.md",
+        "https://github.com/kherrick/block-garden-knowledge-hub/blob/b2e46dc88fa27719eb4a8db7f1f1b7e71d2ca2e9/.agents/skills/konami-code/SKILL.md",
+        "https://github.com/kherrick/block-garden-knowledge-hub/blob/b2e46dc88fa27719eb4a8db7f1f1b7e71d2ca2e9/.agents/skills/link/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "SHOTClubhouse/shotos",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:e4840d7b-33e0-5a4b-8da2-034215a72903",
+        "community:012e7a22-800c-587b-a2af-ac6c3c27f074"
+      ],
+      "reason": "Selected the two concrete Apps Script workflows after inspecting their companion scripts and setup documentation. Generic small-website workflow omitted.",
+      "sources": [
+        "https://github.com/SHOTClubhouse/shotos/blob/3f255baf9be8c929fbe75a2d60a8362a1e4fd5d5/packs/automations/skills/batch-document-factory/SKILL.md",
+        "https://github.com/SHOTClubhouse/shotos/blob/3f255baf9be8c929fbe75a2d60a8362a1e4fd5d5/packs/automations/skills/signal-engine/SKILL.md",
+        "https://github.com/SHOTClubhouse/shotos/blob/3f255baf9be8c929fbe75a2d60a8362a1e4fd5d5/packs/content/skills/build-small-website/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "kherrick/pwgen-knowledge-hub",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Thin wrappers require custom pwgen runtime tools. Password-entropy example places a candidate password in the agent invocation; no addition selected.",
+      "sources": [
+        "https://github.com/kherrick/pwgen-knowledge-hub/blob/f2d416bc0c5580e342e54c29776d096a83660ef4/.agents/skills/pwgen-entropy/SKILL.md",
+        "https://github.com/kherrick/pwgen-knowledge-hub/blob/f2d416bc0c5580e342e54c29776d096a83660ef4/.agents/skills/pwgen-help/SKILL.md",
+        "https://github.com/kherrick/pwgen-knowledge-hub/blob/f2d416bc0c5580e342e54c29776d096a83660ef4/.agents/skills/pwgen/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "cadjelmedal-blip/launchspy-agent",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:6a1fe3b5-170e-5d20-a302-550042c7aa37"
+      ],
+      "reason": "Resolved GitHub repository ID 1450707767 to launchspyio/launchspy-agent; selected its current pinned account/credit-aware research skill.",
+      "sources": [
+        "https://github.com/cadjelmedal-blip/launchspy-agent/blob/c28d7a83fc3278f835c957992299311982bdeff4/skills/launchspy/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "EJRyan89/coding-agent-skills",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:acc277de-f63b-5482-80f2-62f553b78da6"
+      ],
+      "reason": "Selected one repository listing for the portable kit. The three discovered wrappers maintain this repository and delegate to .claude sources.",
+      "sources": [
+        "https://github.com/EJRyan89/coding-agent-skills/blob/7ed0b474bbd93825746402932db4cfe9024619ba/.agents/skills/audit-repository/SKILL.md",
+        "https://github.com/EJRyan89/coding-agent-skills/blob/7ed0b474bbd93825746402932db4cfe9024619ba/.agents/skills/change-skill/SKILL.md",
+        "https://github.com/EJRyan89/coding-agent-skills/blob/7ed0b474bbd93825746402932db4cfe9024619ba/.agents/skills/evaluate-skill/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "JohannWilfridCalixte/agent-skills",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Sampled architecture, testing and Python style rules overlap existing catalogue coverage; no distinct task-specific addition selected.",
+      "sources": [
+        "https://github.com/JohannWilfridCalixte/agent-skills/blob/00d296608c92c495e496f5aa256804ab73947cd6/skills/codestyle/agentic-clean-architecture/SKILL.md",
+        "https://github.com/JohannWilfridCalixte/agent-skills/blob/00d296608c92c495e496f5aa256804ab73947cd6/skills/codestyle/agentic-code-testing/SKILL.md",
+        "https://github.com/JohannWilfridCalixte/agent-skills/blob/00d296608c92c495e496f5aa256804ab73947cd6/skills/codestyle/agentic-python-engineer/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "WillIsback/agent-skills",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Personal semver/board/release workflow tied to the author setup and companion tools; no distinct portable addition selected.",
+      "sources": [
+        "https://github.com/WillIsback/agent-skills/blob/52d5367e728d5c1c279f7d2dcdd03e2d282ab5fa/skills/semver-batch-workflow/SKILL.md",
+        "https://github.com/WillIsback/agent-skills/blob/52d5367e728d5c1c279f7d2dcdd03e2d282ab5fa/skills/semver-repo-setup/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "zhuocun/agent-skills",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed"
+      ],
+      "reason": "Selected the detailed Chinese prose/localization skill with license unknown. General backend review and agent-loop orchestration omitted from this batch.",
+      "sources": [
+        "https://github.com/zhuocun/agent-skills/blob/1ed0e5a9b9ecf2b7c0473ce80f9c865c843a1668/.agents/skills/agent-loop/SKILL.md",
+        "https://github.com/zhuocun/agent-skills/blob/1ed0e5a9b9ecf2b7c0473ce80f9c865c843a1668/.agents/skills/backend-cr/SKILL.md",
+        "https://github.com/zhuocun/agent-skills/blob/1ed0e5a9b9ecf2b7c0473ce80f9c865c843a1668/.agents/skills/chinese-diction/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "winsparking/agent-skills",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057",
+        "community:c5655adc-5661-53c2-bff3-004df46989ab"
+      ],
+      "reason": "Selected two distinct service integration skills for U.S. parking and EV chargers; service availability and data coverage remain unverified.",
+      "sources": [
+        "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-ev-chargers/SKILL.md",
+        "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-parking/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "KevinHu-au/agent-skills",
+      "decision": "accepted",
+      "accepted_listing_ids": [
+        "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c"
+      ],
+      "reason": "Selected the bounded SQL Server data-repair authoring workflow. Broad development/review orchestration omitted.",
+      "sources": [
+        "https://github.com/KevinHu-au/agent-skills/blob/ebb9cea3023824de2901bb270a76e48376d6493d/skills/agentd-blast-radius/SKILL.md",
+        "https://github.com/KevinHu-au/agent-skills/blob/ebb9cea3023824de2901bb270a76e48376d6493d/skills/agentd-data-fix/SKILL.md",
+        "https://github.com/KevinHu-au/agent-skills/blob/ebb9cea3023824de2901bb270a76e48376d6493d/skills/agentd-dev-rev/SKILL.md"
+      ]
+    },
+    {
+      "kind": "discovery_lead",
+      "repository": "c4i0b/agent-skills",
+      "decision": "discarded",
+      "accepted_listing_ids": [],
+      "reason": "Generic planning/orchestration overlaps existing entries; dependency workflow delegates to a custom CI-bypass mechanism and automatic merge. No addition selected.",
+      "sources": [
+        "https://github.com/c4i0b/agent-skills/blob/f423588cc4d834ff27768f4cecd7c67be77751e6/skills/agent-workflow/agent-orchestration/SKILL.md",
+        "https://github.com/c4i0b/agent-skills/blob/f423588cc4d834ff27768f4cecd7c67be77751e6/skills/agent-workflow/planning/SKILL.md",
+        "https://github.com/c4i0b/agent-skills/blob/f423588cc4d834ff27768f4cecd7c67be77751e6/skills/dev-discipline/dependency-bump/SKILL.md"
+      ]
+    }
+  ]
+}

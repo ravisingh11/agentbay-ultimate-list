@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 23025,
+  "entry_count": 22952,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -1109,15 +1109,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "6453014b-e794-5fd1-8229-7b4171272eac": {
-      "input_sha256": "d9b8677f24bdd3838913adf454604009570da939e9175578d6eddfdfc77ac6ca",
-      "description_sha256": "53872c7809f94c30c015cd8f5504450ca779a6c337d03054415e5d429635b8f4",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "133c718d-ae3b-5c5c-acf5-fbe006216523": {
       "input_sha256": "e0b32d1891839742952ed71c9675d337eec9ff1d622ecc7b7cb40cad87ec1177",
       "description_sha256": "19fac6f483b2a6f0f954c739b069a56d502c11e952c804dc3be7a74af453fbc4",
@@ -1353,24 +1344,6 @@
       "topics": [
         "software engineering",
         "deployment and cloud operations"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "380f3b26-4569-50dd-8abc-23f160bea0e1": {
-      "input_sha256": "94cdfb1680a7368c1fba192a3ce4b6769727b9392b2c838c6ed2fa279d43516d",
-      "description_sha256": "0b8f68c4f30229fd7053a1a1b40d65c58cd01333e2010cd7ec1a5a51627baa2d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "ae8eb173-c0eb-52eb-a902-be69c1537b0f": {
-      "input_sha256": "609023c874600566bf2483490e4d7f0ae8ce365cfdf062d7fbed3bea12cce315",
-      "description_sha256": "981b6ae7c720a4643f1571664e9719bcf566f95cb170920f8bd90a8d27cc5963",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -1950,15 +1923,6 @@
     "dbabf18c-0872-5a2f-9d5d-488c2ce0ed29": {
       "input_sha256": "eec3986bb9de84e25ddec00bd141ecbab7bf91414f3f0d94d01ff629eb27f634",
       "description_sha256": "68e5275f7d28f7edc8369c72edfd0a8b9b35f11070258317b77d52495be92e11",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "03b99ea0-b308-5430-ac21-53d95367f3fd": {
-      "input_sha256": "a7c719cb4620cd56eabd727d17ec5ce365ab7ff2902243b321d8f7b8c922d458",
-      "description_sha256": "3a64ee872a04842e334e1b4dc9bf40ae190605f9f2a76142864cab570dff91cd",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -2828,6 +2792,16 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674": {
+      "input_sha256": "9b0635bd9ba8ba4765c420ec5ef5c55d1980ca76d9a9644132005b9e90d3201e",
+      "description_sha256": "e170d81c52c83cb24dd0f7529ab4f102178be5330d8fab9e52903628b04fc32d",
+      "use_cases_sha256": "5e50c4ad32a3e4ce2f4f48f89e3883140e34cf3f9716eb52387ddb555230b0e2",
+      "topics": [
+        "agent development",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -3838,6 +3812,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:cfad654b-8bac-5f8d-8389-01380d8fdc9b": {
+      "input_sha256": "b01d3a1dc91c4dcc7666cd757e75f9e39b34cca7d7a13d51332ae929a7c67c23",
+      "description_sha256": "34c09097b862fe7b4d1adc96a3b2d1ab0e03d8395539d9f91cd291551fb6aabd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "f49ba45d-fcbf-512e-912d-cdf56a0e765d": {
       "input_sha256": "98373213395cbffe56434b4e2a2f364748f81bd966a0a37bc8a7d6af36a0bbea",
       "description_sha256": "2f9a41d628d6761685c2628b86e7a485c163a30346857befacec8415285e33d2",
@@ -4343,15 +4324,6 @@
     "ee2d8761-25da-554a-ba0f-312f9287326d": {
       "input_sha256": "f8754078230bb1b8b900e9695ab20055ba95f58e0331a3bf1722c6587fb85c97",
       "description_sha256": "26b481026a66f144fdc77c7f45abe343d7abb8b4324a8705d53bb53ca33ce108",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "5b1b0ec3-ea7a-5fea-aeb5-e9c6a71431b8": {
-      "input_sha256": "7a44b89dab866c63fe4259f3cf75d90fa3626d8e27c1c96bd28304f4e454f6c2",
-      "description_sha256": "1d5844eb5519f05723b2c65803211ab39e59d1d2665e2d9618d5aab4dcd99288",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -7178,11 +7150,11 @@
       "capability_topic_unresolved": false
     },
     "8844548a-03dd-521a-afa3-44ba9016e22a": {
-      "input_sha256": "29964c1a160570b8d1e45f9f3b9e4e2d141aedbd031d5889a471240b512857e4",
-      "description_sha256": "78a5954402534687ea217694fe284a4cb3c1083a65b2a0504f221bb1d774ff40",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "input_sha256": "558308542124a0f29fb6e723d5eeaa7b358be428ff06335f7c2e7194cc35bb8e",
+      "description_sha256": "1144be0a29d1bd4361187dcbb0cecdf0a1dea12b59ef504b1a7f4f0c084c686f",
+      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
-        "software engineering"
+        "agent development"
       ],
       "capability_topic_unresolved": false
     },
@@ -7318,6 +7290,15 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c": {
+      "input_sha256": "1a79378a5bb392932a4418721aa1fd8a38d98fe220069847a84c1764bb31f7c7",
+      "description_sha256": "c36f058112fc0a17418fa4d9b723ce1f865c6fdfcaeec1d07692227d203abcc3",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -10025,6 +10006,13 @@
         "content workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:b5e322ee-2a08-5127-b9b0-80fdf63fd321": {
+      "input_sha256": "ee7d5644347dd7a97ad9b07ebfda5224ab3d36f7230d36158460f28bea17f0e8",
+      "description_sha256": "859c8751c277bdeb59fa35a5c9f54abad1676601de9e0d9951563e4edfd6cae7",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "8eac7998-6657-58ba-b52a-017afefedd71": {
       "input_sha256": "7f949c14ff3eb345f15984e42d40bf21cd5aa3e51b4203bfdad6fd3cdd084599",
@@ -15139,6 +15127,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:ddc33d8d-04a6-54e5-80b2-eea5d9b648e0": {
+      "input_sha256": "9f0f996970c0dc61b5c61f27e3b39ac217945b326dcc264b1e967b4671fce4ae",
+      "description_sha256": "3097962d4f1ae2b4523bbe84f8cdd0acf1f9a49d52460e25659b4fa06ec4bd56",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "59aa8881-a0d0-5539-9f62-cddfd1aad2fa": {
       "input_sha256": "b0f3541761c3d5d35cd4d51ebf161bcf7554a24512946f19a79faecfb64594bc",
       "description_sha256": "b7304427ef40c38fced4abd721f53d5dbf37d56af0d91148dec66bc58f9e31d4",
@@ -15154,15 +15149,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "6dc4dbb9-a121-52aa-9135-734f78e94a37": {
-      "input_sha256": "f8f1d1596703a978c11b67b5f8dc339df380228e339696e6fd5b077a95927f93",
-      "description_sha256": "70df76ec6671076b7f7068ffd7ea0b22e38e913a19e0f8172738cfe3128271db",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
     },
     "9af882d4-883a-5e36-83bf-881c7c0e8fda": {
       "input_sha256": "383a5f8c316bfb807bb9eea8f2c2b25f7f3709858c4bc14816516887155abedc",
@@ -15184,15 +15170,6 @@
       "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
       "topics": [
         "content workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "3d5666bf-33b5-5d01-b6c3-4e5e10ea3a64": {
-      "input_sha256": "4178c30a99d6bd14d550c5064923de2ec51208072e85f3ecf5ca11af31b2b245",
-      "description_sha256": "73e497411372d2ed50505636d0beb2c2ce95fb8f471d53974a9ff199805cd001",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -15623,15 +15600,6 @@
     "44728fa9-713a-5238-877d-6a9d4b5fa32b": {
       "input_sha256": "213b090141372c86eb1ac8caa6af6bb5327dc8867bad700ae9da8a528502bbb2",
       "description_sha256": "2954649a8c4d5aca6107a56ba80049d3dcdee61a88c3c63539bd439c02478a91",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "f59a326c-7621-5be0-9a33-84d3407a7d53": {
-      "input_sha256": "cbbaae707de374f01afd77eb995c2524b221d55f367cf9caf07aa80c7f887662",
-      "description_sha256": "6bbe7f0e19244056042cc7dec0508923218885d73e67862259c69a36534253cc",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -17431,6 +17399,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:7887bdd8-8022-52b4-9dd5-99eb655c9890": {
+      "input_sha256": "fae5fb9ed0a17aba9eccb633ccb63408f38e91e8d7b095ebb62f2cb354636b95",
+      "description_sha256": "a1cf52f2cd08e135d08a4c444efc141b57da5a30fd8f8d085bf5397146c8b0ca",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "1a11bc4e-da31-5b57-a831-73068d1dd918": {
       "input_sha256": "ad5c53d910b86d167ac2ac8c749c6269c4eb983c3c28ccd720daa6b767cffc82",
       "description_sha256": "87d98b0f477dae98e6e19ed92bc89c9b749185ed0683e2299223be6b0a11ae9d",
@@ -18716,6 +18691,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:0e7a7c1a-c1f4-569e-81fa-cbc881525532": {
+      "input_sha256": "23eec4aa3369fd9b95fd40766babdd830c2938d8dabf295c5d4d01209895a12b",
+      "description_sha256": "0cea244a220f163e741d08e9731eaff4efbd1acc2789e55d18fee99c60f969f5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "94bf259c-0946-5c0d-bc6a-342b433d3517": {
       "input_sha256": "ed098f31815069275b1203deceaa7b49792fb6acf0f24d5002f4d7c7ff2f4bc1",
       "description_sha256": "00c4119e20c2e09580bb89aaac59ff692bd34a0a85c37b78272032ec416285d9",
@@ -19072,6 +19054,15 @@
     },
     "7b43b47d-9a68-5bad-96ee-9e71eeca179e": {
       "input_sha256": "bf2d63de5eaa9b9ed41d0a937412435a2525177a60301108901362b574d7ba4e",
+      "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:fcb3849a-2eb1-5347-9745-e19044616759": {
+      "input_sha256": "85e64b956d42f9f51158092abd5b629321b17dea7828cd2fb1d9676fccf2ace5",
       "description_sha256": "6d034fd6f377ec6658955b51187eb0b1c6768b0d87ef320e9f69f0df9e0dd20b",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -20232,6 +20223,15 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7": {
+      "input_sha256": "41b0572d2b6134f9f73e279f0ce81afc699f87a13c0984f50d26f52b5298b52a",
+      "description_sha256": "81fe7e9cbc9bc83c0b2f9ba1dc792d944d74a5563322a9aa050c139ed6b7ce63",
+      "use_cases_sha256": "28308dd3c8be59283c33a45f60d02bd27a00a1c98d2a27572c48b42a0223a97d",
+      "topics": [
+        "monitoring and operations"
+      ],
+      "capability_topic_unresolved": false
+    },
     "c3414448-69fa-59bf-9616-73c8c6dd16d0": {
       "input_sha256": "3f0072ba51c89f66f6b9a9acdc7d3c16f31fc68510f8c44324e2bd93244166ac",
       "description_sha256": "76d61d775508f072f1d0714285e62e8c21f43ac644e3758bec56a9a6ca95471f",
@@ -20753,15 +20753,6 @@
     "4b222bd5-684a-56ed-8576-fbd98fb30e3a": {
       "input_sha256": "7b62a4a31550c331d177f846196e7fac222b24b835f91c27ad898c39d59fc565",
       "description_sha256": "08a6bfd27dd4581cff9731c5f1413d8d512e201fc6502c80e4bf84f05fedac1d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "a56994ca-9314-50fa-b9a3-621b6ac32247": {
-      "input_sha256": "339648242266572af7f8b28696a2757e9c7c25caf9dd820a2ad85de2f909bdb0",
-      "description_sha256": "712fef486404aab3bd7430a083617ce59d081e8d63e96563e12f78ccb9db3fad",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -22159,15 +22150,6 @@
       "use_cases_sha256": "00703fb1ff596386962ceca09e9e05b2c968e9a987a72e05c99d5d4ecfd135d4",
       "topics": [
         "browser workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "6822f9a8-4330-5027-802f-897aae369ffc": {
-      "input_sha256": "2d35034a69a9460eaa24d397da448a7e2010ec0213f15d109742a6c6b9a74545",
-      "description_sha256": "733b251f254a60184a99f46ddb0f14a597227ff53403025c5a94461357405c67",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
-      "topics": [
-        "deployment and cloud operations"
       ],
       "capability_topic_unresolved": false
     },
@@ -24848,15 +24830,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "108cf238-f5ca-5d52-9b82-7380353970cb": {
-      "input_sha256": "d9c170684d05ea47e592bbc8b91768b090237ea8d1956cb3bbf90b9892e63c24",
-      "description_sha256": "ed7f5779e4f52ccd929854ab063924033b97df360e1ec816a0e7c01e3cf48d78",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "49272f88-6084-58d1-835e-070e36867345": {
       "input_sha256": "824846e6ff27f82c967af6debed0e0326ea5e52fc79f72c0892378aa4a87bc96",
       "description_sha256": "7feadd877ab7beaf92b92578c4a9fe959ecc1cebe2ae93960ac09b618e94cc50",
@@ -27150,6 +27123,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c3952608-07b5-578c-aab3-2460a5e5a018": {
+      "input_sha256": "7c74aeac435e5d84c474705ce1f17959ff15003dea9b23f2d06e4622085deaac",
+      "description_sha256": "b4ed8dccf750c089173ad27c524d0020fa28cc030e1e6161d925d24e1c3ef5a5",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "e348d73e-60d9-57a1-8738-de3870e61341": {
       "input_sha256": "286cf6907538219a7c97994cac05ecff94513d15ec48a305312fe03d43074ead",
       "description_sha256": "b4ed8dccf750c089173ad27c524d0020fa28cc030e1e6161d925d24e1c3ef5a5",
@@ -27158,6 +27140,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:1ce9a9e2-748b-56ba-9a6d-9b1f0fbc584b": {
+      "input_sha256": "d61235070aa044c6fe999ffbf36cac1cf631bd76df497a4dcc82d73f4477fa22",
+      "description_sha256": "dd3b49a4ff4383402642d7f9257fa768b8f78813dbcc392456d666b6d4358842",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "2979e88f-eace-50f5-b1dd-d175008e9307": {
       "input_sha256": "f22a045b6d03805815e57ec310eb9efba879c54c79ab1a837ea857501e4004ef",
@@ -28423,6 +28412,16 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:e4840d7b-33e0-5a4b-8da2-034215a72903": {
+      "input_sha256": "20a76477b528db71008f5479b3bd30dc7d6aadd29581f4e3b7f1206405a073c3",
+      "description_sha256": "cb32fa8c3341b9281124aa73c98adf5c4500a3a9f7dad9d9b29d64600890bbe8",
+      "use_cases_sha256": "1444fa6958a8ae01872a095953048c2c5f22b2ff88d167ba0bc654a886480009",
+      "topics": [
+        "document and knowledge workflows",
+        "workflow automation"
       ],
       "capability_topic_unresolved": false
     },
@@ -30144,6 +30143,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:d3ccf6f2-c83f-5b12-b549-0e99fca58a66": {
+      "input_sha256": "afe72311c8094d5c3a458d575d477c72497c890ffe01fe05c45e007d61f1cb5a",
+      "description_sha256": "e372526315533b25c2759044a3f993ed70818bbc3637157ff0b31a73fe09bebe",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "d4c8e4a1-e7bc-50c5-83cc-db3c87f6c7ba": {
       "input_sha256": "d4046956be5093890d31a9b0fc6dc03e13b6e26fe924777fba670fd942e23b46",
       "description_sha256": "563a91edc0a93abee3da25657d171964baf0df17996cf248412e9f8e143a4064",
@@ -30156,15 +30162,6 @@
     "6d4426f0-edc3-5d2c-92f1-98c838ddc26f": {
       "input_sha256": "a786fe0826c2309c18e27636b675b4785ddee30e86147698b2fe0e2a097d2ae1",
       "description_sha256": "b4cb51448c7926b82e3923332a2a3d945f176172a66e4a12004fe29342bc01a5",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "bc695ad6-7a28-5203-9a78-680276871a9e": {
-      "input_sha256": "a5d5291cabaf15f83879f0395e6b6f52fbb4afc08a7e9e4b3c772778b850f831",
-      "description_sha256": "b085ccd20fdeb3a24a4c7ed392119a68e0433e951968b003e5e3b57da812a6b7",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -33332,221 +33329,173 @@
       ],
       "capability_topic_unresolved": false
     },
-    "67a159c5-abf3-5bdd-8590-9666e9361f8a": {
-      "input_sha256": "d0be5aaa07e0763fa55c16c1677791408d923474efd93b2878d2f6997eaf57d0",
-      "description_sha256": "d268317774fdc04352afa9d6b3bb17c01f4579fc4cc8d66b169222165f612daa",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:7b518c17-36d6-54dd-8c5b-eb7a2370008e": {
+      "input_sha256": "ff3a11ffb351382864e34e3462740b15d6a8cf35ce8c22f887031f717270a9f3",
+      "description_sha256": "40428966f6fb24de8ec1aa6dad1b8ef0d3727092f5af455416f6734ffc44942a",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "642854c0-ea7f-516e-97d9-96a688df0f90": {
-      "input_sha256": "15ad600948d6576240e502c29b805d494dd3277455f48dd3596f5c91d9b2f0c2",
-      "description_sha256": "e6abdf0cbfda3f2a5b9388f0eeeec3ee3dcdd921154d3de1dabc839596cdc920",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:b58aa577-1a50-59d7-ba9e-55ef497182e6": {
+      "input_sha256": "f35b14d02ada4f91ce6fb19fa6ee37f7651ed19de86dcbcd7b7ac45898e9ae56",
+      "description_sha256": "ae3ffd6765555cdb33f353e3c66481323fea9ee4840cfd50db3280f6cb305fe4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "2a638514-150d-59dc-85be-85386c531b9d": {
-      "input_sha256": "ff8e65a65fe00ad367a2758d2a7ba974a8de807d568e09f7e4cea94136e5490a",
-      "description_sha256": "8145e8a4314d96a625d8cb92552d759db7757e3b577fae779a364f269906fffe",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:6fe6d002-e738-5179-8986-d0a42dc14703": {
+      "input_sha256": "fe6afe3accde00e2c63cc930f6ceb2dcc033a6524bf97a61d44d2fb0fd5bbd38",
+      "description_sha256": "698e951496995d8ecfa4ac024ec79a2e6f98678d7ccf8bd224c8c7bd5a1a9201",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "20ee19b7-7ac7-53d0-aab6-bc65dd16a576": {
-      "input_sha256": "fe164cc46dc436c308a7c50f93b5244389c72a5cbf417a09958ee079d045403d",
-      "description_sha256": "465b84cc594784cfc96d9afa747c5818e05cd4b2e6f4f62885d359f9efde1891",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:ade00ef5-56c2-59fa-b86f-3c2aab0816f0": {
+      "input_sha256": "d5b065be3653087369bfe47a209d2849c23485fe202af706c32760f1a05d5386",
+      "description_sha256": "8c6ecd25e66d7be5546dcdaa4b52db218f0d87c3ee564c338f8d3d20010137c9",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "7003144d-f5cd-5956-bf0c-b132f9cb8383": {
-      "input_sha256": "d43ab04df498875f37e5aa5d3d6820c3dd38f83104d551b7718ed1481880aaef",
-      "description_sha256": "9739df088b39f9c629c441da9f69a01ad4066cd1cc4d4db9a626843d8a005c65",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:64b9e2fd-8325-5c78-8c3e-591b41113d64": {
+      "input_sha256": "f8fda9f95298bdff16bd3ae751810f8adec8326a68bd80e2b9f29350879862ba",
+      "description_sha256": "e18b7ab91f51d79d73a21b86e2cd39ceb8b521d81c82892720f441654343293f",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "8a770284-28e1-513d-8d67-176a945fa7bf": {
-      "input_sha256": "d8b1376ba55218c96ce654002f564b56c88b67793482ea0fad8916cbe2e6cae2",
-      "description_sha256": "67ea7beff5487e3538483bdaaf068dface9b4c6890b599964ee1ecabda91acb0",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:a66d373e-d97c-5b99-81c5-17f12cb5a1ab": {
+      "input_sha256": "a80a626c1560348b5386347bcd41ca8b3a63460c9479c9888cbfbf7ba154f08d",
+      "description_sha256": "a21fb92336bbdca62725d32f93040fe4fe8fbc89b61e997c529bc7aaf2676a34",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "0cf2254d-da65-5418-8459-85cb2e6c76d3": {
-      "input_sha256": "f2dcb4d0904572f61e0d943e2e7f0079423e8435656833ecaa185ead925ee5c4",
-      "description_sha256": "fb52379ba3dd694e43e1a55503e0650c5a214f1af9bad05418a6e86f8434c08d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:8361c5d3-e096-5929-a4e3-1e6985ad37c8": {
+      "input_sha256": "cfdf42af085b366cb7cc20c63d49b9b60781f492e8746eb99ee4e685a8276872",
+      "description_sha256": "bb655f2fdb1758aaff926555f3e4ca64454b050779ba377187ad4450ea79bcd3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "20200811-cc6c-56a4-92b0-15f90db703b9": {
-      "input_sha256": "2162d2d0f99016500d38a3c60e304259d5f14a937ee3104f77c10ab6d11f6877",
-      "description_sha256": "2d3f5e43e546d27a70f0020c8f722e86139f7f1fdbb4b8c0503b6cbd46bdafcb",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:8736ed83-3904-5325-9464-e60e1bee4751": {
+      "input_sha256": "65ea1bfa5e99d61c799f74f92f3f29ceaabb781a872aebae53eb28e5c0d869e1",
+      "description_sha256": "eca150ca770e3cbee662bcdc7067cc565a7780d05de1345c1f47ffd31399f211",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "0e3338ed-185c-5795-81fb-d76572b940b7": {
-      "input_sha256": "84c742e16f4668d3255b3017987f618362a442f1a4723881e735fd1410ba9e29",
-      "description_sha256": "3a6ec54b903468861611a1a3f630f3476382a9e543e297c11c01d68e1bad519e",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:730009f8-013a-5ffe-ac28-9f173f0fe165": {
+      "input_sha256": "42ee9e4a80bfc11ad300eaed5fff1905cffab7038c6948b973e320ab0a6cbc60",
+      "description_sha256": "84f0b7e033f75dcd435329f07142d9c59dcbb79b8f9ecf7b6fa9bfde526da4c6",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "bf117d2c-acb6-5389-85c4-d11063c055c2": {
-      "input_sha256": "65487f94ed4e45a6afe6cfa094bd1994481ff29b0f976ffc46b1004ff69ff9ac",
-      "description_sha256": "9d7d221763b516563dd238a72ff01e4fea62c45a26a4976ff7d28471d8d70b94",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:ce7d45ae-bf26-5b83-848d-8e3a803b9893": {
+      "input_sha256": "5b50d17a94fc3bbb88e2de37a19b170c50508eafa5ffaf8f35c94e249d2df8ed",
+      "description_sha256": "34e11608c01ce020568f02755c1647caa144ce3fcbe5afee3e54a5dcbcc3d679",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "37dbdabd-5c84-5adb-b35e-c620f3e3080e": {
-      "input_sha256": "4f6074ea563a471689ac704a167e4aea3ca6ef0fd77e6c95a9565ebd47eccc19",
-      "description_sha256": "58ebd488a5da0f86d391b2bb2fd7cb5fd28d5e91c6dd7a318c4c4b0275fd2014",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:cd47b1bf-a24c-5d51-b0a7-69a3dce3b3f2": {
+      "input_sha256": "e7af2b3f629249da78a2284959a4ed552f3f585948ac31a4021b9fdb3582b56a",
+      "description_sha256": "544544e21c378785881da15ca80bd20f45c8d164fb3fab3a32f82b515d0d64b5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "76e63849-6fd5-59f2-9421-91367ad0cc17": {
-      "input_sha256": "182565a2fe66a4f44e55a41d5a754919384f294763cbdc2237948db3b1c6f55e",
-      "description_sha256": "def814c067feb5c775cc49e5cce2dd8a486a906eb40ef443c3aa3322dcaffdd6",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:74a8069c-d373-5b1b-a7a6-145e4f48fd34": {
+      "input_sha256": "3481dca7b94123a4d951b2d8a79ee07394da2c2a49196624ab64b643fbb447b0",
+      "description_sha256": "467d7c356956583f18582b92597c9174c3ef208c7f9e08f14cf66a3cfa465574",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "8d5a8c2d-4b51-5f38-bd5e-2853741a5ebf": {
-      "input_sha256": "425ce288b0b0b347975b88cf2fa01d27c6edfa3192f31bbe2cd259a2a927ef7c",
-      "description_sha256": "eb4f73cfba548ff3109ea17e183f4637d8f49cc50ff0ba45c2b42cbad4a656ef",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:5863f422-6e2f-5291-a4e1-53ce724afe20": {
+      "input_sha256": "2a7b1e577ce4f1e625310eb880c753821c4809f3df383a8c02e23b613602facf",
+      "description_sha256": "9cd6837a1cbbc520954cc5f2a07d0d201da32a1770f0ba35d91cef1fdb72f478",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "d6e34a58-7820-535d-bb72-279e684f7680": {
-      "input_sha256": "3bbc281889a86588549ed344e8c7fb9de6fbce4e5aaf196fd04a1f39aa67f3ef",
-      "description_sha256": "b99f864762be68f962abbe5dd53a5df204f00228a8ee1481b877267ed451a79f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:074f1d4e-c81d-5521-b5a8-1b4c86ec98d7": {
+      "input_sha256": "6cd2b3c9678e8908542ca263f6cdf2c34ab353a013679c775866d694240c45d1",
+      "description_sha256": "0027ab8574ede2f9143f52fff4c90e78f82ffc212b24feaefb697339f8d2b269",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "6dd334d0-8d7f-5f81-a577-cc0d64d35577": {
-      "input_sha256": "11edb5533eac7f358dd234c914066b72cc7e23e0cdb3f5e1dec5a91735e96b6b",
-      "description_sha256": "ca15b50900544f79e456cd16d09c12cb03a28107911381bd85efa770c9b9dc71",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:f991aecb-1532-5841-822d-04859defa5fe": {
+      "input_sha256": "1c2f2e754ea0eb0229500fe93addeb3bcb99902cc7ee25497c97b64a31d61cf3",
+      "description_sha256": "9f879e4a9789c779cc53a1840b44bfc7bd0e5dd784cdbe896031c7e152e139ab",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "5864ae9f-7ecf-5268-a22a-29e7b0b94138": {
-      "input_sha256": "5b534ca2f298163bbc7ac647b2a521a09b0e224c0f63e454f0b42ceedb0be4df",
-      "description_sha256": "05ea8afa121a8dfaa2e4a361bf361cc1bb657852a9aae465464f8fcd18006dc8",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:1ec49623-1f22-591e-ac73-5c227175a8df": {
+      "input_sha256": "13df85715f79720706a9a4240f180d3d2f84a00909e06d9dc0d071e17f761509",
+      "description_sha256": "091169c02f1dcc535b99cd1925044117dc11b5593dbb34533f231b4638b945bd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "c4bd5c08-aa10-55ed-816a-546d9d526669": {
-      "input_sha256": "c7c9082b3cf4e6822cbe75c433ab0790e475584361b6cca603222d23995a0aed",
-      "description_sha256": "953c6bb319682a3a57299de3eb7da2d4819db534fc6adeee534e70e381f1c59a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:a5ae53aa-0ac0-543e-acdf-ce35fe8817d0": {
+      "input_sha256": "86ee5ad19d25517d228826c6b1730877205f943b9fd38ce65e4343616c9b8b1d",
+      "description_sha256": "13b2d436a6c4c31eb34cfa64f41df9336ca4cdb7c6937a9230209f1256414624",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "14f7b301-e113-5331-90f5-6929052457e0": {
-      "input_sha256": "eb12312be5d52c369e7caf79c89cd8ec323e76666c37d478e02e968ac19a42e7",
-      "description_sha256": "dca2d800b2911ea8ec2ebd257b34abe47d49031fee1b864e83a933897dda60af",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:865b5140-db04-5025-9293-85e2f4c96660": {
+      "input_sha256": "75f4635c8ca765ad704ab77e3b1dd8379c7872d3c989ada1d105cf78c5a58dd9",
+      "description_sha256": "74a9e3e042529b07a12f54efdb0e9c92f3d4ee958f310344b0f8f22bd41563c5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "69b8a0e6-b7c3-5611-a118-25dcbd62040b": {
-      "input_sha256": "97f6e99a7555986ccf9c1c645d906208c494b2a28b6b7595d8b59f1277ae52bf",
-      "description_sha256": "69233c91e755ccc519b059a2f655fe666856d21564450e0531ef1e32898046cc",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:74f2d8fd-cdd4-5d83-b8d6-63138c4c86ce": {
+      "input_sha256": "e8e3f3d54ee5549a7a46475c766787fee76fa1e0c975538bcc533ad666521560",
+      "description_sha256": "0f73e8a75b91b2baf4fe309b9934f7fa064f54357af7aab561a29286945763e1",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "dd2b8c0a-c968-56a7-92a2-41b417fca6ba": {
-      "input_sha256": "6a2bf8af6746de0d50ae31b6a04c058c0797c029e6a3fd4e0c9f371886343731",
-      "description_sha256": "9939ed8c5139835a84b68374510ac7513566a096bb246d5da8d1f34d798e7307",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:1254bbaf-72fb-5c4c-bd8e-5748c74638c0": {
+      "input_sha256": "d7590927b932538dce119f545d97e4a8a0bb8e84917b0fea6748daf6d11f1f5b",
+      "description_sha256": "6226b1f463b7454734fb719dd12b8230faa8f6e1dae31ef2555aecf78f126183",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "dd5d65b3-2f6a-583d-92e0-f6a9387875f7": {
-      "input_sha256": "40e0816544b9ff34d6f9397c79881cc3251f08303214a62152f9af6c1adbbdb7",
-      "description_sha256": "4d28f995ed7135643c2b90ef7e8aa16d71550f85acc415e21d2458670baaed2d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:234af592-913b-52c4-bf7b-eaaec356fd61": {
+      "input_sha256": "4a706d5aa395edd693d9f18efbe37338ef88f3843701f21da11e557a5d56b5d4",
+      "description_sha256": "e014a5a6875c4f1a266f47e63c939e09b653f8540dcae1b9b35a7b82d3c664c2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "b9d575dc-7e5d-50d5-b3b8-2b81779b2547": {
-      "input_sha256": "9b56b07b2ed6f50294586f37e056b7a18f07af1c930bf33e4aca518e27f6b5d2",
-      "description_sha256": "ed9dc1f2f17d72d5c087b37b041a9ace605f768e3fbb5bfb5669a0153e9f2b34",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:ed93ab8b-62d2-59cc-9ca5-f124dcac9b68": {
+      "input_sha256": "965f1f4627e873a79828ce075950548230921bb11ef72c5621ac81e015b3fa80",
+      "description_sha256": "913889b59a56c5100f93557154edbd21e90524a7a37b5572ec369abe3bcf0b25",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "d74dea9b-1311-5265-bc17-18964eb10eaa": {
-      "input_sha256": "0b4d1c9ec52110edd155f3a6e77c07a3bcff1ce5133ecc90bcb35be4d8a3fb16",
-      "description_sha256": "b183b2c1aff946b3b45ecaafeb8dd1f062b6e6a50914436fdc534635fe8a2323",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:1372c244-721a-5bd6-aed2-97edcb55c51a": {
+      "input_sha256": "63b916dbcea574914b4f99b574013be739c3c1e281f34f2180053b108c252cb8",
+      "description_sha256": "2ed31a68d267ab3c1fae298873ff54b8dc9fa6d850e3ccf163095473972643f9",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "6514b612-d664-53ee-ac68-0a49d072d3ca": {
-      "input_sha256": "f844b684e6710f61b905a0eaf7b3473f35504616a94dd058e01397f48fc4d401",
-      "description_sha256": "7cbca4581b351bc60100e2bdc83dd1005d0567adc78c0211fbe6bc6345739a3b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:a69979b5-cb2c-56e1-91a2-07e803390ac8": {
+      "input_sha256": "60963fcfef740d11c1ca08d07bc75d550debfac61154c216efd4ea17a5fc37e0",
+      "description_sha256": "2985da90a3397717965ab51a80a1dcffcca9371ea4e008804120d330977db2d5",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "957a97f9-f713-588f-9639-90f317a26307": {
       "input_sha256": "ea32cb50d4e1b71f61589b31db8778fce1c831cbd5c33060f3cb4d9ba8d69f46",
@@ -33980,15 +33929,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "c0b25dc1-66a2-5e1f-92ae-3e9be9b5fcad": {
-      "input_sha256": "ccd934e0b50d6eb59114fec8682e81e844e51a79e0e9a5ba0bcd68bc0e457745",
-      "description_sha256": "47eec3bd1e9bfe15a0f575071f512f845eba72038d9727a8c27b3aee2fde704e",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "1df67665-09c2-5d93-bb6b-3fc0a672daa9": {
       "input_sha256": "317abd3e12655d6baf761b1456d902a7ce7383278e8144b019ee8c702f7b4302",
       "description_sha256": "d7ab47477d987692a3ab1c7125685f47b43f6be634d3a29a54ab84e7b564ba64",
@@ -34196,15 +34136,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "8f9d5cee-bd59-5c6f-9f2f-9dc478905dc1": {
-      "input_sha256": "5d6dceddc7b8ee6bed2d452f5885a8ff5e37be74caffead10c1a3ec0d209d24a",
-      "description_sha256": "154efaac713f9b1830c5397acf3a8ce28089d2a1d1008d606febb3f6e5ed9648",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "d1116523-d86d-596d-a238-f90e63ce5bb1": {
       "input_sha256": "0bcae95d1941b11e63c3b7a5de0c74ed1ee06c377c107c62eb2c102736820e73",
       "description_sha256": "04238db4a4ce2ea845246e35a64d74294815a61796c144ce05dbdba00b65bd27",
@@ -34283,15 +34214,6 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "75ba4582-6bd4-5f91-8dc3-4b6d1a5b384a": {
-      "input_sha256": "affe1033ef34690b5ebce13dbb887dd9e175ae67ee1819e6345f4ac8e9bd2e33",
-      "description_sha256": "8f8f14104323bff2a482511e834a93564bbc0634bb7ad4d5efc4d9c2d66ff54b",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
       ],
       "capability_topic_unresolved": false
     },
@@ -37503,6 +37425,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:7338e5ff-84da-559c-abe9-744bb9412bfd": {
+      "input_sha256": "3ffcbd99b3aad2dae210b222466207007288ad3f18699ee0f55099a894783447",
+      "description_sha256": "090d1e872f26826978bc8e3f5b11d29b6f21028063ce749c1c684ea8800ef3fc",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "fd229b0a-22b4-5237-8872-0ecd1f2c9ff9": {
       "input_sha256": "13f079b6bfce44defac96b483e299339a53d9ffad5bba396810d34a3cd69aced",
       "description_sha256": "95f40d3a236b1feed5ab12c3aea38b5fd9c0adf7ae48a7e3040fc6aec6f87817",
@@ -38850,6 +38779,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5": {
+      "input_sha256": "5cc2d9a0c17edf1bb1977bdfbcb623baf7c9239fe020f733ddd92ef1fb9902c6",
+      "description_sha256": "3da9818c59d55a1109e920cab711a93e8797c3dda07a27cbef91bab2f31e4917",
+      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
+      "topics": [
+        "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
     "41576738-8f12-50dc-a12f-657b74d54978": {
       "input_sha256": "937d31db007c02e71587680aeabf83cebac2641a715e275e535bbce1393db71b",
       "description_sha256": "13b5edb7d1d8433b22e5b4f59f790af77bb854672f01ac935c9e0c5be7c92826",
@@ -39805,6 +39743,15 @@
         "agent development",
         "software engineering",
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed": {
+      "input_sha256": "2a0203e211e0b1e010d678ed779967897c5d170212bb083b8338e728bbc42619",
+      "description_sha256": "49236904ca0f9c936ffe7ec7ffc506f712fd716d9766fe8a21e6f9acf0c85628",
+      "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
+      "topics": [
+        "content workflows"
       ],
       "capability_topic_unresolved": false
     },
@@ -40957,15 +40904,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "e24c7f54-2a0a-5035-af6c-00f35e247ba6": {
-      "input_sha256": "3df82127a6287c2da58fdbeccf53ddc0d14d94a23377e5e216de14b25bf11fce",
-      "description_sha256": "c19c4ded656d7d048d8fcad427855b4651a90bbc53df63a87b484dd9d7befe3b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "1216ecca-5cb7-5083-8a8d-e5041437c29e": {
       "input_sha256": "f6eee25b844331a53e104244d4cc8a33ae1e660642a0356f3dea00f31a8d1da5",
       "description_sha256": "57c1e9f01660bb73bbf06270c615ba0ff5d730630dd5656ac61ae693f0132cdd",
@@ -42018,6 +41956,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:09594fff-3d36-505d-832e-6a4b9bc2a836": {
+      "input_sha256": "5ca9b34f6c16ca9c2aaf2f8c5f99bf17833ee413495558da905ae7c7b4d8bd1e",
+      "description_sha256": "e8fbcaf827f05a31341a99606c07a135ad21cb988e19c14d372a8e61015120b0",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "052bf7ed-989a-5205-979e-7f2ac99d89c5": {
       "input_sha256": "4ed5679899b3011691a48e214a28dfad6c6092d283d1754ddc727ad09a0d773e",
       "description_sha256": "eb1f68d99cc70e53573d69b0a88ee3b1ec593c935d3bb43d27ce5045a7707a5d",
@@ -42039,15 +41984,6 @@
     "067f4d15-1b98-5f52-aa72-1c6dce6caca6": {
       "input_sha256": "90dcaf5dea96b2dd6f50789f7d8e3ed124632430ee4d5790f1e4322f800e9330",
       "description_sha256": "413b80c695acfa6f6c3cac6bb1a18954f7503d0c0da49af9203dae48e51b9797",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
-      "topics": [
-        "deployment and cloud operations"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "324857ea-7f5a-5865-9589-9646f161a227": {
-      "input_sha256": "40cb5ba24a5590951a8ab48860539372260c5bd1beaf4d989062d3153c818a4b",
-      "description_sha256": "8a9b3958419283ea208821f48d131ab128368ece4317472ff16338be1c83a31d",
       "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
       "topics": [
         "deployment and cloud operations"
@@ -43882,15 +43818,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "5449ca53-0b56-5b5c-8a4f-170d0199bae3": {
-      "input_sha256": "595cc8bb42cf5898ac6931ced8fae06eaa6553a498462752b299e414b2004b3a",
-      "description_sha256": "37c6b7565b6533eebd0439147fad59a244744e6317ca1a16ac40bf81ace7faba",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "2cff3e3a-0405-57c3-a673-97788da78106": {
       "input_sha256": "f199b2984b8536fba4bb91fcd793de110c22d0bdf294b7cdc1340d6a82707b64",
       "description_sha256": "18179d355e9ecfaf3d838b254adee864c5c8ce552317da50ff0ed2c2f39a78b0",
@@ -44957,15 +44884,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "65b78c2d-e523-53f5-b597-10d9079aadd3": {
-      "input_sha256": "548301efff793e238c9ddb6e220f619b7681abbd65c3e7f9b3b7b7b2e28dc405",
-      "description_sha256": "ab97dc04ec9e95f3444f3a9d65c007af773905aac530f25b7f2e2b1a0dc7ce3c",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "93169074-8222-55b5-b51c-d55479efa60c": {
       "input_sha256": "ff7ee356462216ba221afa61d10d566c141f2944c384a37da6cab0e83481f01b",
       "description_sha256": "ab97dc04ec9e95f3444f3a9d65c007af773905aac530f25b7f2e2b1a0dc7ce3c",
@@ -45271,6 +45189,15 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
+    },
+    "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9": {
+      "input_sha256": "97d738cfdae1e92ce0092229d98f61166bcc993886cd7001b563ad2779541c32",
+      "description_sha256": "0f1b95fb703c9d0c2a9e11a61fb60ab0fc60fa41a2d35a66405f19854f45beac",
+      "use_cases_sha256": "cc6676f1e7501d135bfcf36c366008cb99987b70c1e3675039e7f578d67a2a0f",
+      "topics": [
+        "marketing and outreach"
+      ],
+      "capability_topic_unresolved": false
     },
     "275c17ee-3242-5440-b6b8-948503d77b23": {
       "input_sha256": "9b08552cecc3206ebd0cd8f7890e309593a34de38f003d85434fcb39ab633284",
@@ -45645,6 +45572,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:9b0d661f-4b92-5788-aeb6-a98e4c0554af": {
+      "input_sha256": "d816350a0acdb68eb3161b06d557e8eefaa92ebdb126706a2e97520d607f8cf9",
+      "description_sha256": "dd6d928b8196244067a91d9a1ff76cf1146dc3573d877a3241dbcb4a47e828df",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "a01e5590-3bb7-5578-9666-f278e52ee7a0": {
       "input_sha256": "d6677b481bd1f938c800c098d0ef50398e675ac825bddac80e9936d90fb9faaa",
@@ -46026,15 +45960,6 @@
     "ecfdc2a0-5f35-532c-9645-6fb5b867bbcf": {
       "input_sha256": "30576513b437f387ea7533eddf70fda082cf5a6a5232c77e373176a91c454978",
       "description_sha256": "863498808adce5cc924b42091cea7dc63e8731ddc9bfa2ef09b464df01d677ea",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "ee7043d7-7a5b-5f85-b76e-a567136f73f2": {
-      "input_sha256": "6bc2166b79903c65bad06a907cc1d0a8cc35143609032a71d7bb2432105d6855",
-      "description_sha256": "5e140ea14bb27229d173cea0214500314e62b2e66f92443a3d97e8d23132e62b",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -47047,6 +46972,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:5cd42d24-f3a5-561f-b37a-db54db7900e3": {
+      "input_sha256": "0b169c52f62b225f6c2a46d4bac714fc478d667809b2d9a44f223d3be5ef996e",
+      "description_sha256": "3cc4e43d5a0433cb3d1820252c674a32be73da4f55e34c6887d80f3b6bfd64fa",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "26ce70a4-ff64-5e40-a18a-86f5f397292d": {
       "input_sha256": "ed8640c4ca345ac9d3806755065380bb00e25afb415cee231de57143c7df541b",
       "description_sha256": "30d9f93f23f19fa0b4f79017db2ce55eab3bde93f5459df1099e878cce33604b",
@@ -47068,15 +47000,6 @@
     "59390673-59df-515f-8026-5c9291906df5": {
       "input_sha256": "60601971a3185f6dbea41bf06aec412bf263c6cd5c73e8e63455c2ba22b95001",
       "description_sha256": "a29e229cf714635e8e708bc7215feb2a0b3bcfcfbc302f7e73751d56608915c5",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "484c64c5-cb99-504e-a428-3c9ed2bd083e": {
-      "input_sha256": "e849ccbd75f01eb800caae523be8210d0294f32bd087acc7ebff268c8c793571",
-      "description_sha256": "d5aa27cd2afbb21d7eb05dcb175e9f0933dfc833b27981d3e242bc7c4d2f0fdf",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -48841,15 +48764,6 @@
     "3440b66b-c30d-579e-8ec9-031c6f4a59b1": {
       "input_sha256": "1486409872b3c47f5f64ae5d561b71f3f14dc20c19c8d9d816b52fe7e746794b",
       "description_sha256": "8af0f44f0ff3dfafe6a5ef4db792a6509af60931c6ad01926c56b6caa9c53a5a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "72f76342-a785-5d42-afec-ab0f03e9c822": {
-      "input_sha256": "0b8ab426a9d1f3f1e4e80ade9b4249eb040553bbd35443c368ea40e8cd0a0db9",
-      "description_sha256": "f0ed5cf3755a49be6bee8b71cd4b91c790c195fed4062549679bff4bdb7ceff1",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -50871,6 +50785,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:91c56231-1852-5bb2-bf58-7dd1b376aec6": {
+      "input_sha256": "51b9ed6c96dbc280a80b12ad2852c50f45616c7fe9a184766eef15c1e1c28c25",
+      "description_sha256": "3151ceb8ac85635397d52b0cb1fc0103a3c542688b1c449df307b5e2fede705c",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "77438ca7-f7e3-5b75-83e5-48d00a42ef40": {
       "input_sha256": "6a5f2d87fd14aa5b9b61a8cf1185232c208b0bb4fdc4144649ea1d95369a2c06",
       "description_sha256": "ba1adcda51dcb17d75239732a78ab7c858f7a8008cb097a84bf1e52ebc0bdc13",
@@ -50999,15 +50920,6 @@
     },
     "1fa40073-8f06-5e04-9bbe-2dbbb75439b0": {
       "input_sha256": "ed3bf08e55e8d6c6afb639627dede8c353987bec77a86c5d43e800b886bbca39",
-      "description_sha256": "61b5337fb08ca5b5495fa1be9b39d997b422770ca035460378e6f26f081ab905",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "2391fb72-16b5-546b-8728-3ff6a2d93b24": {
-      "input_sha256": "dc781e8a03e4a5638a4df77a3d6a5b0fa3759551f3e65e58e099da4f884489a8",
       "description_sha256": "61b5337fb08ca5b5495fa1be9b39d997b422770ca035460378e6f26f081ab905",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -54524,14 +54436,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "bddd3493-726d-5d97-b3f3-4ff1d4a6c3e7": {
-      "input_sha256": "b93463106ac6815906e288272b4d21b5a96a1e3e6fe466bc6c22b3485dea4683",
-      "description_sha256": "c0aa70b9cd3be7782fa98e9d50eacd44466d98002a2a77ffebc683c5fcac5be7",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:68af65be-b6f2-5e41-853f-56659088c013": {
+      "input_sha256": "289159d86ed2f7f10d6255a64e54bedb12a04561c80cd55d3665a7d0a69c3997",
+      "description_sha256": "182268c1a2108211876c66bc557a9b1c6ddde9b1ffc443a3d8ce5e90df7d6a1b",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "cc5a444c-4310-57d2-8aef-581e599dd081": {
       "input_sha256": "d103558728de697141dd70ce471dc53c20588685a90fef95f639fea3f0e14779",
@@ -54551,14 +54461,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "390d533a-8cb0-56a3-b9a0-d6afe4c15502": {
-      "input_sha256": "9fbd87e38808a527874a5d0d224dcfff820084c0a0e6a0c1f39fcf8e92a490d1",
-      "description_sha256": "d556a1620e77b4d429e148295b8b91305a0ee515200ad1e3b8c6ba9dcc73a7eb",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:eec9947e-da2b-59d5-9015-f901e0bde448": {
+      "input_sha256": "d0de43b026e32b470be4527b3034fbc21dc0100631a1637917bfe7bbbf323395",
+      "description_sha256": "6772383a3d668e1b1249262010353d3fcdd06fc784f6f4b7021bb50556107dc4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "aa6cdd53-d726-5eba-8da8-d1bc8a49679c": {
       "input_sha256": "14fb1ff87e4c179c8c382bbdeddb0e97cd6c282e371de9eaef834fb7cbaf8457",
@@ -54587,14 +54495,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "2fdf4a62-9295-5a06-bd3e-39b1c736b059": {
-      "input_sha256": "031d4d4b1fb533f13bd2636bf8ab1bfeef475138343a6ae1744bb46b35cb2af2",
-      "description_sha256": "e051e11d84e823346f99ba00d04a2d09486a053d880dd5baca2a3c19577ec356",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:9e217b4c-576d-5896-8a18-612d4bad28a3": {
+      "input_sha256": "6f72b0e7c76c1c4e7f6760243192afa83f0231cc950c583384efbeb00642f81e",
+      "description_sha256": "07b0229a134f30fa62c749b3add157450aa578a417ccdc062c33145b75400fb3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "286b15f9-75e8-5f0d-b66b-d4b8d24065ab": {
       "input_sha256": "4d9e2821e1d8e5fabab495a2cdc46f85c5329e36f8a41ac746a1fff702021c8d",
@@ -54608,15 +54514,6 @@
     "9c975029-94f8-5c7b-a898-8249161d8f45": {
       "input_sha256": "6fb5b65984609cbbc8c1a28d528b802a6c28b1cf813a9bbd8444783f9049847d",
       "description_sha256": "95b76f847041b1be0c90fe9d1d3a998199ad95946a31d4fdb3914c1be7837b19",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "fc1092fe-76d0-592a-ae98-2fb9c63fac10": {
-      "input_sha256": "a01914106fef8db4bbf438f57c93fd68571da1eafbb48955607f53fdbf9a97ec",
-      "description_sha256": "23b9f4f0e27fbd2932c86671ae2802c3d608f70db1ef94fb99ee7827e047905e",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -55173,15 +55070,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "5e3d9290-4386-57e8-a9bc-d00a18b9a27c": {
-      "input_sha256": "eecda31473bc84451557969109ad0083042e94f381cb0154cc49b25c3931aa67",
-      "description_sha256": "032251d739eb6bc341f801b425dc3f3fbb3b037fee394dd6b65252e22d486fdf",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
     },
     "f279a062-dfb7-5c6f-ad87-b075e38b4e81": {
       "input_sha256": "9c50ecc89d591bb1f2544956a66e5ecf51a2b8fb50fca8e04f666fb557b5ae4b",
@@ -57915,15 +57803,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "2d05f8ca-8e53-5aaf-b5cf-b728dc3aa61e": {
-      "input_sha256": "7a13467ef51d722924506a730b53eeb187c45e57abb37de8baabb831ce426393",
-      "description_sha256": "17ebe790288e12626f7297610e46380de747cf4d280fe7e9ef81301c0b9473a9",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "610f6b8b-0205-5c01-af31-ce4af0b4627a": {
       "input_sha256": "9d034c7e66c973cb8cefd1474beb3835b197824db03467ee2ba4589b51ed5687",
       "description_sha256": "b9ce5a3fd2cbb4c66a14a0326190f974cc3d759e19f6ce744b5734c02dca2f05",
@@ -59890,12 +59769,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "b96d9764-ee11-5807-ba40-f1911cc35845": {
-      "input_sha256": "c8aef84d2c631b1c1c54ee71353d1f1c2730542e7f98d2232cd7a40d40d8a5ee",
-      "description_sha256": "1645ebfb530ce64ec52ea59dfd25ebce3fb319a4ec203e48cf75ea69412e7f8d",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
+    "community:862931ec-a7fc-5b5c-9705-1497639529c7": {
+      "input_sha256": "18fe21c09ba1f18dc491176cebe06f532462a203b309c3e38d80c0c35eca3c07",
+      "description_sha256": "cc8bb4ae4cc9699e4db949e9fb412ad383b912c007d8ac62f3bfd4fb2980ba73",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
-        "deployment and cloud operations"
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -62858,24 +62737,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "ed918229-bb07-5c00-8825-b050d5c786db": {
-      "input_sha256": "c0efa06ff24777be511551d6dc2e8e0e54f26f84e0c76f83c7054864f56821aa",
-      "description_sha256": "af49db43b7b0426269e8d4017db660a5c61b799611d877d30e79f812fc035dd6",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "7d889245-4f0f-5fdc-8ca6-8e4f8bdac962": {
-      "input_sha256": "7bdd580622195239c7c728ab2c64ce28ddd88b59263f00eb9ad242db3b8b8a1c",
-      "description_sha256": "f02da14b272db29c861b3770663dc06d98d851daaef534a44e90eb94ac4f6c51",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "df059b28-9784-515a-914c-29bd6bd2e48c": {
       "input_sha256": "1948c7058f3e3ae3d4f19a51e7d3519190cef2daeaf68334e38a8fd0bbea386e",
       "description_sha256": "62e2a91b19df1ac820da13ae8dffad1343e12dcb065a818414aa7d0aeb895516",
@@ -63521,15 +63382,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "02c7434d-8e3d-5829-876f-066cfed36f24": {
-      "input_sha256": "a13d6b470f9540b11c852d0f9ca564fc3e22d2a0313b7be3f2d5fcac5a66836a",
-      "description_sha256": "db89b8aa3c9bca9da09478996e89aa62e010a5c0856860bbbc8e32cb21382538",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "a2fe9cec-9636-5e08-a8f8-1db44f48c2d6": {
       "input_sha256": "ee16b7c550509dac827f375c12ca898723b761ebe283f6e3c2ca6b1f6f27973a",
       "description_sha256": "64dbd0e40bfcb404b4f16e01fcfc011c03b36e35c29ecfd21fe731337cd83ea9",
@@ -63550,15 +63402,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "f6766a3b-1860-5721-850a-0a36b1c33ee4": {
-      "input_sha256": "ace8bc5cad94f72a82ff35dabd4705ebd5ee643e44849a1841e96e048cc66eac",
-      "description_sha256": "69bf371788e4ad05d273c58cd2b122ffeb28ad4fcb84aa53691cb13689b16f16",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
-      "topics": [
-        "deployment and cloud operations"
-      ],
-      "capability_topic_unresolved": false
     },
     "679b2be8-e526-59a8-9461-fc68579792f2": {
       "input_sha256": "f71d101c9747e5190802b1575e2d78c841d933816436a1f91939cd87fa68d9c9",
@@ -63640,13 +63483,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "5fd7e8e8-263d-54e6-acd0-3ceef77185ab": {
-      "input_sha256": "03398f6ebc544252a151c30acded855940a41462ede564f40a920f3ff2e115ba",
-      "description_sha256": "d6e497e1c0e3ffa353619bb51d868f054e18c98051604c5e6e8c36fb8120071c",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
     "0369c06e-9d3d-507b-80c1-52f7a7e47203": {
       "input_sha256": "0b019c730a611d316d06b744c8e57ccaa68b89641a913ef1f083f20313a67679",
       "description_sha256": "371cc594e6db23ad0c39f4791d2bda3c75ec8e315b7aaa835d524682db033f7c",
@@ -63686,36 +63522,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "d2992d51-3525-5f0f-bc8e-75aa322275ab": {
-      "input_sha256": "075b30c40bcb99cba8ab8d3a80e388a398abb49c73917471150655ec3f33061c",
-      "description_sha256": "ef698b9c66ff106a01252af7a1a90b1461d5440d07d6b6d84d96a75d05088214",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
-    "8b41830e-08f8-53c3-9dd7-a0d4727798ae": {
-      "input_sha256": "d8a59973555b4acc74a1b1e06fb3b7d592bf2421ba88ad37817ec4526904d537",
-      "description_sha256": "8ef4cb31670427c60201d75b59afac517d172b81abac63ed8d37f040609f12f3",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
-    "048da6b4-2eac-5e3c-8e52-ea3679d6e060": {
-      "input_sha256": "8015b62df424ac84076f515266562fcd213a4f9bc0970ea5631e0cbcc5b058a1",
-      "description_sha256": "a461351a8003c70df57f6725476233ae8ae696cbfe9bf28b7e5368a84c2cd362",
-      "use_cases_sha256": "c2ac56b31981964df3ce76570f30eecac2778ca10c126cc59c9aaa791f3932a8",
-      "topics": [
-        "security and privacy"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "7f6e23f8-4cc2-57c2-a280-bcba22c97181": {
-      "input_sha256": "5577de6f9d687112cffd19032b5d65a51889574700eebe2682b44766978e43e6",
-      "description_sha256": "6153b65713d6f41010bbac2bb0d6b34c704584caf69dba866780d8e238601923",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
     "316251af-1035-5a7f-a6f4-e7ceddf31b21": {
       "input_sha256": "69300d839476e314bc73c2084d3cba5d3ec25e2e99bba0c93bfa2cddde4aeea5",
       "description_sha256": "606a00a441591ba165f1e4fcb55e1efe9f7347853124d1e86e742761a28d25f5",
@@ -63723,30 +63529,9 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "db745097-088d-5cc8-92c8-61d47b13100d": {
-      "input_sha256": "9cd638c76cc4d262732641fab69324135877a4052842ddf27ba1c72ab6193f21",
-      "description_sha256": "e358d98f499f7ef8952e0cac1a1ac1bb8b2ff303fd60e10d9d5a7cfa0409ba50",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
     "c0a56dfa-2125-59eb-88a9-279406acce46": {
       "input_sha256": "f00ae0c028d5c6c0bb91ce5ddcfcef021e5f9ac1b28ba2a29e42e1184ff209c0",
       "description_sha256": "c5d006e6860a627b9ce5a171ff7dd57531c878766caf0b7f839647033aed98fe",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
-    "fd32d9f5-49b5-5149-b95b-fba1b294d17f": {
-      "input_sha256": "3724d4a3402dc57ec0aa24191a1528a47a81e1cb19e03e6617b7f05962c479ae",
-      "description_sha256": "5abc97748a7497946af8160dbc0c1561f12246d8f32afa41a732c6ad293a6c95",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
-    "a5044462-8550-5d8d-ab06-67ca7eade45a": {
-      "input_sha256": "bccbb8f9d7a88d934264857a2ce342e830ee6a1618565f2a801a9655eb087b67",
-      "description_sha256": "659ab5f1ff1c88cb810961904bab7bce24970f8521bf016249a618f927159f13",
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
@@ -63779,15 +63564,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "a294ce9d-c99c-58bd-982d-e1752e0a2ab7": {
-      "input_sha256": "dc5afe589d1c0fda520e63d62bbdcd2019f13671983ff2ad6097997580e6e58a",
-      "description_sha256": "e112b988656b81e51b3b630b94988d714a272ed99f995fd7a9d18dd55a3d3ec8",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
-      "topics": [
-        "deployment and cloud operations"
-      ],
-      "capability_topic_unresolved": false
-    },
     "ade48d05-62ae-5a64-8da6-4b7793dc0d72": {
       "input_sha256": "a15aa85b2d23a6395a2df92b3a230c37a6bd802bba10d9f0d7d4dfc2a9678846",
       "description_sha256": "323143aee0a4a2732dd58e8b47ee7ea2c2ad93b252c2a5f8d2e17eb7e675ac2d",
@@ -63805,13 +63581,6 @@
     "6f3e228b-528f-5621-943e-2b734f1f95d0": {
       "input_sha256": "e6f1da7c692d36b53fdb7d81dc250bd1d2d2e2c92f859c679da7b8a124d6dc18",
       "description_sha256": "914fae248c81e64183cfc2c7cc4318536fefbd2a641e339ae7074df7b773cddf",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
-    "86430a4b-53f7-5178-8494-9b504c63ba2a": {
-      "input_sha256": "e860e25ef5ec89302e01454bd56556b38bb15576072c33054f885d965fb187a5",
-      "description_sha256": "a7e0065f3ef758c9d7e38cbc6674291eaef58afd88eb3e79a001cfd7d9f4e2c2",
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
@@ -64774,6 +64543,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:6e3ed74d-cfab-5180-837d-49e6363f1841": {
+      "input_sha256": "d16f035ce8228f886a9352b2b6160f64a82a0002265ba2de656cb4439c27fdb8",
+      "description_sha256": "9f81048a5649789f575f03352aeae65c644c8fdd9e24a4dfade72d2a34dbf824",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "64f6120b-482d-5fab-bd2b-785b0892f4ea": {
       "input_sha256": "dd04decbad1f332e99da4fb237ab329282761b1d2cc0d20aa09c9fa07567e711",
       "description_sha256": "271226ad29502b2fb8ef2178296bd2ab36a9caa240f2afa3195edd0651807132",
@@ -65199,78 +64977,6 @@
       "use_cases_sha256": "874ca5095dca113556230c21cf852b49d96cac5e45902e34224a5ce94607d9cb",
       "topics": [
         "information research"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "1833d911-8d0f-57f7-9e5d-bbc08004778a": {
-      "input_sha256": "443a7b4f68a38c9e00a8e8080b2e243691702763c6b666cbb99251819d0093a1",
-      "description_sha256": "8c2606bcd0af9f4283d0328a5b809b0ae39d2e98992a54ae11133e114e430d77",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "ec28d4d7-ef9e-5965-9440-d87a7bc1e357": {
-      "input_sha256": "57e7b1d33227f0f190b1854322399a5397b033d5fcc7a10cb67ad87d93aa3ea9",
-      "description_sha256": "99a25cf8c47aa0490c9feff51a5b8e9a591a875bd56a0fcbffe2180b4d601460",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "c555e9c6-edb5-5eb6-97a5-d1d0826c007a": {
-      "input_sha256": "5a78602e17c804519d16127c5cd5c9c5099bc2b42b175a01bead770c1de79daa",
-      "description_sha256": "d74417bc73cb084d11214cbd193cde2004896b93b3cd0f70a7149d68ffe1b65a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "5e57a0a2-e12b-5d7c-9a31-f2c55a62d1ae": {
-      "input_sha256": "8e56e42ee59e3e30d8b39794f4be2c152dc7e1e8b9771e60dc781eaa6bf0df35",
-      "description_sha256": "16ed573e16e7db2081fed0c28fafea425a87a9b82f3dc3d600336b54fbfb0229",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "08ee0bf2-7864-519d-b29f-0124e7b2803a": {
-      "input_sha256": "33b65e5160f070e912e86ce4334b92635aa2415921a30425e5bf2daa462196a1",
-      "description_sha256": "1e1d00a4ea3e6779c40dfc68757e59bdd8fd846416da057d2074f8b611ba4fc6",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "f5089090-34e0-5d26-acb1-c8cb86674d23": {
-      "input_sha256": "4ac09527f55335736359135a3a2fbcff85e7aa799f4934eea760f50e620ec84c",
-      "description_sha256": "c36cf3ecbc47fa74a962697c1650481a02d30b0453f8e6e2f530b0f0b6c14327",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "0c694720-4926-5051-8ebf-309d4afd78a5": {
-      "input_sha256": "7ceae2a8788167ae1f3f7aa529c6230840a3044319da37e609a6e5953f00ec54",
-      "description_sha256": "4ba8604168b0534c559e6990fccb426a0d6296fea999b1f47f29a03975d3a568",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "e9b87702-0d98-5f5c-9b8f-bada39e5986d": {
-      "input_sha256": "82143ee0477f25e4a87df1d000f33d20d76d218fcd2465514ef6c762008db1f8",
-      "description_sha256": "3444422b799e9cbbeadac8a2ced31d61d13c7a74cb7932789ebe16be4437d139",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -66743,6 +66449,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:739a9786-648c-5864-ae14-e134e715badf": {
+      "input_sha256": "e78d4841a208ee69501eabbef8b0df5a838ec9b711ce6e2427c0b5d12393699e",
+      "description_sha256": "31a35aa744befd204623876817177274c4660f53ad7169440c5fcaafab0ab516",
+      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
+      "topics": [
+        "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
     "a824d166-49b1-5d30-b9b6-cf0e9bdff561": {
       "input_sha256": "4d06b731d958c67909b73d8469b50d0d8bf6a5aeef44d0b7472c0b03fc5d0c3e",
       "description_sha256": "025247e2b9ffd6b28718208cf8fc881d16c21754e883fff5d84285befc1ef621",
@@ -68111,15 +67826,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "6a3c795c-4fbf-50b9-9f38-7e397dde63d3": {
-      "input_sha256": "01563278951bd81a7a38134fe7faaed58bce7517de03ac3adc9368b65cdab397",
-      "description_sha256": "9474b69a50896fee5d84a0ee6e6ff647d3e77664905db7a639b2cf9536882c86",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "125d0d5f-18dc-57a6-9d57-00ff07b8d6b8": {
       "input_sha256": "8c0d633e3ffeece4e682196de617d408ca197e4d3a4a41c83979f31ae2888994",
       "description_sha256": "4be6cc030dd0f1ece94a1b2bbd69d13b966264e67a955bfa69c9daa016e71700",
@@ -68660,6 +68366,15 @@
       "topics": [
         "information research",
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:acc277de-f63b-5482-80f2-62f553b78da6": {
+      "input_sha256": "bd5cb5db0c40891577c1f975a55e011a3476067faef71bb4e40ad1fda6fe95b9",
+      "description_sha256": "767eefc18a19c34973152b4b2091b0424828b96a9c33322a42bd43492015086f",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -70176,6 +69891,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:7dd36052-423d-56dc-8e69-ec7c1a15c370": {
+      "input_sha256": "fdada07f309b4f1e29519dfbc26ea7bb5ff37479b39ddbee18c8e713ae83b677",
+      "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "de958f1f-6c30-5304-8079-5b073065f04a": {
       "input_sha256": "2409c643e2e4b6a3d10db200366905ecd0e843b62a04e55e1f79c7e4a75f530d",
       "description_sha256": "42b4f4c8d69175a217eb4b28cd90e80ee4da2271d93d06962d0fb2e2fa9f8d7d",
@@ -70810,15 +70534,6 @@
     "d2048dfa-3055-5c65-9825-2c7b2b1cd45f": {
       "input_sha256": "abf0b39bf2eb2b86a6f6f830099527ca0d1abab59be1cd596da7faf2802166ed",
       "description_sha256": "f9e21183f9f01e16e53be22178874f94d9cb3386f0f3c00ebdf1c2eaeeac0c82",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "87f17f1b-d10e-52bf-a5a3-dd16347ab7c8": {
-      "input_sha256": "cd27596fb1b76df07e953e831875e39e4e98f00a4d0495b951ef86cdc0291c6e",
-      "description_sha256": "5ebbe8cf6fecc39377a9c789b2755c9415279e9b615bfd72b5c08dd28459b0d5",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -72052,6 +71767,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:b7c6766f-df30-514f-97bc-63283853605e": {
+      "input_sha256": "13147b3cf47bfead51fec106e9f6504f47bcfbca595c67555c880282df027380",
+      "description_sha256": "c6c152277d2a04b67e8fedd8c6d912d4be07bc14ab45ffd9ffe871fc883974a1",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "9c771090-39b3-584d-afc2-0762d70d5b67": {
       "input_sha256": "f1ee21f08f715808c10e299bd6eda127af70762f7b07ff063c6917782749d098",
@@ -73894,15 +73616,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "4f71db37-cef2-57f8-b57d-0b6a186be7b5": {
-      "input_sha256": "9d46ca33ef13b56375331680f685a5fa201a09cc9e8cc62866eb5fd898cf068a",
-      "description_sha256": "43d86297089c365972e201222f91379c2a352fd59d34920891315df107b34227",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "80ceeb33-0f2b-57ea-8eb4-6d8361017309": {
       "input_sha256": "281e5c12af3407cbbb08c8fcaceab3e2d59109f8b0e8a62548c7fcd13f3e39ec",
       "description_sha256": "66a1a3ae2580f359c884ed644f6d53a76e413b83657d3b3e2148d6d3feb21dbb",
@@ -75339,14 +75052,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "45017aa9-62e3-5c0e-9a42-84fcbd435972": {
-      "input_sha256": "5c074bcbc3fb323569f39844b00407b6b9fedc73969dfc87082621327118013c",
-      "description_sha256": "9dd213df750119976e84beeeb6f7ae7057423fd7729d4332ea3bb1da55579cd5",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:9473cd7b-16e7-5eab-8b20-82783db81647": {
+      "input_sha256": "972663792ccf336bc1ef3d27c5da192ea4b077eeff3e431fa8bb02bf9e977800",
+      "description_sha256": "a91836662f6d85762e4c0e68a29758db9efcf1582c152cb71fbb155fbd94498d",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "3d378ec6-3818-5238-862e-e2e908777d62": {
       "input_sha256": "ee8d1eaa80516844d9f433c5abfd8d0da8ec5113886fd3a124755e459ad57bf4",
@@ -75949,12 +75660,32 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c5655adc-5661-53c2-bff3-004df46989ab": {
+      "input_sha256": "f52d0add7512ca0ef16e066fc18619b6137ea7cf63c7c2ba1db1d1e2fd71fe6b",
+      "description_sha256": "c34b825746c0ee16d2b9a85e3bcf21c7a481eccb2c9a8422a8e05bdecca1e38e",
+      "use_cases_sha256": "7e2ebf76e2f2e705e0490e5d77fc4009073ee74c6ed22af039fc3373051387d8",
+      "topics": [
+        "everyday tasks",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "f0435d13-b42b-5817-ab49-aced6e70b26e": {
       "input_sha256": "c89d58f0640a6d4ffa7cb3b598b53cd7b592b94975d33a0bc722ebde74feb4c1",
       "description_sha256": "2b3e2bf9b30764af928dd7a29144a40a34aa40babeb2b6fc519bebfad33d76fd",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057": {
+      "input_sha256": "857cf62e9cacdf9370a4d07ecb9876a9c833ebf6eb7609a3dc03e32f2695177a",
+      "description_sha256": "d656a8827196471eb9f1bdf2231ef801c852bdfdaf2a0508edbe10f834acbb2c",
+      "use_cases_sha256": "7e2ebf76e2f2e705e0490e5d77fc4009073ee74c6ed22af039fc3373051387d8",
+      "topics": [
+        "everyday tasks",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -78563,14 +78294,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "a26b35b6-9117-5273-bba4-f468e8ab0d91": {
-      "input_sha256": "aaa0fbfb156ccd36d450bafe684001b6e167d7f6481e98d1fbac74fe8ccbd1ea",
-      "description_sha256": "7ba872d6aad32dd6fb6ccd64974e4324f1cdeb2df16a06ccdbcdde3af6f3bada",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
-      ],
-      "capability_topic_unresolved": false
+    "community:49dbf7e9-e3fa-5e5d-aded-c7713da5daf8": {
+      "input_sha256": "0f86c49da088452411f6ea34893afc6732d4687bea236f177456c47d78b5f722",
+      "description_sha256": "97b317b991928d49f40da1f0c969399936045f3e74429a7da7b2044ce650bcb3",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "022cd9c5-a99f-5b1c-b1fb-ddc7cd263d68": {
       "input_sha256": "09b34e671753fae52861491f6d7e5881fbdad68e79800828660b4143904dca74",
@@ -81933,6 +81662,41 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:7fafa309-ab4f-5424-8f64-a71d43c21ee3": {
+      "input_sha256": "6a6835a42d4e78b55381bfad9785a15c9804fca25113320b7ad561d876aeea7b",
+      "description_sha256": "e23f79f20d8db23f655f40c4dd1c142c2bc2ff652208bea3bd77b212586b1c78",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:43f9e5fc-99a1-556a-9418-3d272b9b4aec": {
+      "input_sha256": "b22f25c52b32f4dbade3ff2e696942fad7c9e31903e39aa1039b7e056d52a5f1",
+      "description_sha256": "3b1cc3d53d2f003c56ccc03585d59c5bdaa9a526cc041f1339fce8f6d7c613cf",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:357ffbfa-9f2d-56e9-90a0-b32e67f6101d": {
+      "input_sha256": "6414e42897638acf7905fc54a416383ec8a025929b0ab024d336d3c94d6c12ba",
+      "description_sha256": "01a080a7e914798ecb4161eb13450fa803fa0cb4ac6cc25a5f8d3440134ef1e2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:692239fe-f9a7-54c0-beb3-ece4468c8713": {
+      "input_sha256": "305c8fbdd996448aa19b51fb21a40c1e0cb1c9dbba4b7e943686c486b9097ebf",
+      "description_sha256": "68da4482d7b5772c7b0c535fe554bf2b20dd77b02f4300837d5d2a582129fc60",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
+    "community:68bc246d-49af-59e1-88c6-5d1643be4870": {
+      "input_sha256": "18122ef8c8730ed46457f42454fad4d40b1347533ddd304d5163a8d51c7ed64c",
+      "description_sha256": "b18e019942e216eddf1480f1b37001d17370917c110850dfc9f8f1d5adb9e3f2",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "d8967d48-baeb-5626-a3ec-8a6f0d298b34": {
       "input_sha256": "f801e00c2b8228539bedf9981d344438cff1638e30e9dab051fb762b25de9dc3",
@@ -86241,15 +86005,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "a5bcc385-662b-5f0a-bdf3-50902221f2a1": {
-      "input_sha256": "11292544d4cded43964f1237ce0fb48e3476430d9a4b8ffdd057438317295334",
-      "description_sha256": "6195d07a56fff40029e992972bfc4ddcf27053603363bae9bc7cbffe56f83bea",
-      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
-      "topics": [
-        "deployment and cloud operations"
-      ],
-      "capability_topic_unresolved": false
-    },
     "93d7d14d-7af6-5657-9d0e-edaa4a512028": {
       "input_sha256": "99defa7a834866b8841b29e048fdee06549f4431ced9cfe97002a04fd0a15929",
       "description_sha256": "ab45c61ca837eb5ebfee37856265d6e3dadaabfe9df8180b3649e2d76ced1df2",
@@ -87743,15 +87498,6 @@
       "topics": [
         "project planning",
         "agent development",
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "127261cb-51b3-5531-b714-e53136f42e5b": {
-      "input_sha256": "c5f978a898176b8cf0b065410d438dcfe4b74935645a638a589a1fec91c36182",
-      "description_sha256": "431ab40578b3d0fec9753fb44c828217007333d280627e967f32a01c222ac33d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
         "software engineering"
       ],
       "capability_topic_unresolved": false
@@ -93606,14 +93352,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "0b1e70da-0b79-5975-affe-2ed83858ac68": {
-      "input_sha256": "0594dad61f25bca75779ac9be7256c1d625c95d53cbbef346687e3fd0a57b0c3",
-      "description_sha256": "ecc878279c691fc9812e816e2b775aece58b7ee0c6ac8a5866d35308b288464d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:12db344a-f2dd-56bd-b0ca-fb2ac1a21906": {
+      "input_sha256": "174937a30db44061e2e1be6b6693f1607ade4e9966a62e54da5a87dcf6e36251",
+      "description_sha256": "7a0a96e13f12d7db8837159dace2a1caa1add5fde3fea2b6bf9efbfa518a24d4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "336330c7-f8d1-5e86-a51f-426696d6ebe6": {
       "input_sha256": "93b8255d57fec7a4816e205917de5b0eede7052849c37ca10f17a1de7a308c92",
@@ -94287,8 +94031,8 @@
       ],
       "capability_topic_unresolved": false
     },
-    "cafa65cf-c664-518a-8d51-364a58eb43dc": {
-      "input_sha256": "c5386db9b45f947cbc0c74173c89ad5abc18b7c89a9b3ac768264d875148de7e",
+    "community:4ce793e6-041a-59f1-9ab5-7b9a1c962071": {
+      "input_sha256": "0ee3d1ec77d8c935b155c5f15c819f5be021134e047c32c867d9b339f45c0cae",
       "description_sha256": "63f7f1751631ecf4e0d0f585cf99898fe0bab3dfcac615791cc1c5b81142ef4a",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -95774,6 +95518,15 @@
     },
     "b8dc2087-fab8-59e8-bf7c-46bc3d1bbe5b": {
       "input_sha256": "218fe7165f3f07475dd39440ade50893b67b4bc5caf891effc3568e33859dd61",
+      "description_sha256": "eb36e21a91d017e2e912d6b832d148f9f39286495681f4d079a3d9cc9aa3046e",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8": {
+      "input_sha256": "72cda1dc49a70be794ec14dcd2bcf0015626caba50edac19aba5191c92d24442",
       "description_sha256": "eb36e21a91d017e2e912d6b832d148f9f39286495681f4d079a3d9cc9aa3046e",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -98381,14 +98134,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "294b6c01-8d4c-5ef6-b404-219fc9c617e9": {
-      "input_sha256": "b7ae676bcbbeb5667466139084daed0c0f903cdd60a544d1b4ea0a422b21b775",
-      "description_sha256": "ac51aa6e331c87a1191b59f7289851cf0eacf9813f76969da039f7b0b1d5a9d0",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:3b818097-dd92-57c6-a2d2-919910bf498e": {
+      "input_sha256": "d0e1cdc5ac3e134a7bc9f630609a5b470d02d450f8e69339197fb0833c7dd231",
+      "description_sha256": "f03c1d239bd1ac5cbfe0924bfbd5176050b2ef2530236a057e19918b01e5d678",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "e6461bc4-7310-597b-a49e-ba82b3abaf96": {
       "input_sha256": "2c3457e9182dad40570d48954cae478ffd12bcefbad56ebe1037b327f8cf854b",
@@ -99107,15 +98858,6 @@
       "topics": [
         "project planning",
         "agent development",
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "23b44c96-04a1-5228-8057-986ad8890678": {
-      "input_sha256": "b709494be0cdad9a34796b69fcf73acf40df72fe0cfc8a49d498dde24d0c40eb",
-      "description_sha256": "ce6f1a7871ed8f8e026d8938549163610a596fd05d89ff5b59b02503ed7079f3",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
         "software engineering"
       ],
       "capability_topic_unresolved": false
@@ -106916,14 +106658,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "70f2896e-eade-5e62-a921-188fd3371dd6": {
-      "input_sha256": "9d39d6e4c598e054e2d5718b67f2e062a2603d4e665e318040c87e4ff61ab5e4",
-      "description_sha256": "6ec7c744fbe50e6e52f63eaa8973d2f0f8da6b281b82307e28521ccd29afc67b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:dbc3e85b-e444-58df-8d07-671324484448": {
+      "input_sha256": "40b20d31eacc47c73d0d376ddd118fae785b0dfece707d30d8c4128b67425065",
+      "description_sha256": "46f51c4949175052948196809c170f591d2e89dab8c1cfc7c8faa61b0138bba4",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "81aab55e-84c8-5e77-a29e-e4db5acbf4a2": {
       "input_sha256": "11443381917568a53a98500d9fefbfaeae3c652de1fd86087dc89e73fd4f458b",
@@ -109595,6 +109335,16 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:6a1fe3b5-170e-5d20-a302-550042c7aa37": {
+      "input_sha256": "457ab017b25901186cceff1da3247b43d55766997052d5d164079f5af93d6086",
+      "description_sha256": "0480d8225c9cf9efd100aa7f6f063f48876b1af5337845cacd27be2856144b4f",
+      "use_cases_sha256": "59cc85fc71463637bbe1847d048b555a51807dc0203d86eee746a94515c691a6",
+      "topics": [
+        "marketing and outreach",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "91a9c555-e15a-571d-901e-bf04f000517a": {
       "input_sha256": "cb95b557326fff9f6f4fe4a5bbd78aa5a4ec971c0aa22fc8059016991dd0e824",
       "description_sha256": "0ca718487b5607fca19e923b4740bdff3a9becd03ecad1cb5e97e7178ae86f30",
@@ -111490,15 +111240,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "18aad178-47cc-5472-911b-6dca90dcdbd7": {
-      "input_sha256": "790aeccd4fe607d6fe28a41f7be16de87c56e3e3096c9a6fa9c47b378944081b",
-      "description_sha256": "630bbcbef0fa10ee076cdd5f974f1d9ea7759f82f0c48635130f5338e8dd61f5",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "1b19fb23-2cac-556e-8f24-ebcbc3e41086": {
       "input_sha256": "56bf4f8f86b036bd4ebce0da6d20e6c2a436844eb016a80d2fb3765615091f78",
       "description_sha256": "630bbcbef0fa10ee076cdd5f974f1d9ea7759f82f0c48635130f5338e8dd61f5",
@@ -112602,15 +112343,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "37e6d2b1-9e40-5fea-aee1-8b48783fa0cc": {
-      "input_sha256": "a93b3c3f5c1126fc32f7f784ffeb12f97e4b4f439d50f6baa053ea5175c77b0e",
-      "description_sha256": "81d8a8baf6a55bc3aa127c7b561c8c81aa3b84b7a8cf06fd75613dc2755fa7e0",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
-      ],
-      "capability_topic_unresolved": false
     },
     "4e9bbf25-d885-5940-bd1d-78d3ea35ed6d": {
       "input_sha256": "07d0933af2bd0ae6e5acde92c980b27e9aa695f01e5d8eb29dbfcec2eece8f25",
@@ -114516,6 +114248,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:1a001573-258e-528e-ae45-bc82e49c5b44": {
+      "input_sha256": "887b1de6d4ed30587c9114e1340bb403bb780877d79ba9476adf659271aff001",
+      "description_sha256": "7b501be13389b11704ecae81050adc5fa9cf5731dc024a573916fa0b591e2627",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "2f172d9e-1471-5bc0-88b4-a7bf281a106a": {
       "input_sha256": "c365c051da4ffbb9ad0b4d2255b533140e52ba3917c84165ca3c5979d7105206",
       "description_sha256": "32e144aef9b731923d4defc34e7513928f2645bb5880683eea44d68f3c36f0b0",
@@ -116146,6 +115885,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:499d2423-28d2-5a62-9668-39a20dab0e32": {
+      "input_sha256": "171bcb0dbc9296e4180ee7c91339de6d2512043c1a58d75cc69d148d12c16052",
+      "description_sha256": "cccc653d97b2e738f2a23d78a56383bd8517dd5585d596fa0e0a03f69346f48d",
+      "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
+      "topics": [
+        "document and knowledge workflows"
       ],
       "capability_topic_unresolved": false
     },
@@ -118220,15 +117968,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "c162e8ca-af28-5644-a73f-d6dc8fc9169d": {
-      "input_sha256": "26e97d3904599289a08d1cab3f578c5320a0805e41e386f9689e434c5b331a58",
-      "description_sha256": "37ee7ffe182734ed352e9acb43ee972b5938cb8099295b46f1b0738c335f5970",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "b949f676-9ce2-512f-bdd7-549cc9e5acc1": {
       "input_sha256": "94da3d0932c5eb8a2a2b1e757e6897f5ac8660a1c83cb8dbd678482452697c04",
       "description_sha256": "eb26c780da80b7ada3e153c92b2dacfb3c6dcdf759930ec1da8d5165ca0b3662",
@@ -119141,6 +118880,13 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:9c9f99ef-ef04-5e4f-bac1-7918900ad279": {
+      "input_sha256": "5e5c7382c4ff136097d35a1b1af48ab6a6582469e13ff77465ad37ccfe0d1b77",
+      "description_sha256": "b09c26266e285b022dbb518012704ef84a42929375d3303a2cfac24926f8d3b8",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
+    },
     "8ef48190-ac40-5951-a2a1-cdbb7817f393": {
       "input_sha256": "347b2cd4b3627fe0fad1482f4eb647391fa51e9641c56df53f21ebe69ad0c106",
       "description_sha256": "d1b0a5a181e340e7ce095b15109792a0dc65acd66e039e56d3830a0d07f0862d",
@@ -119925,15 +119671,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "612c0738-0926-55c5-aa32-fd45aa1019aa": {
-      "input_sha256": "ba46ce292748c504d9b43410a95acf2b8fab7421fa50aff82a331a3fd369ccc9",
-      "description_sha256": "91fb89c7dbed0d615fd9e27273ab167803f1fc2ea588825b9c9b367adf46e051",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "f1e56d2b-27a3-5eac-b08a-12b950af2ac9": {
       "input_sha256": "d0092233fb43799d0db4b23856345a5b33208bd7cde960adf68dd683bfe5a54a",
       "description_sha256": "abd6a385935dcd7f294089aa7f2e7ebf2239cc30bb63bc08b79087f0f41b9bf6",
@@ -119969,6 +119706,13 @@
         "document and knowledge workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:880941d1-6145-505f-888b-c91c947c5f4f": {
+      "input_sha256": "e50281d18b12d235109d0403a65fd27dc6f86cd01bce0928dc8c77385fb9d596",
+      "description_sha256": "0fa4a67772235ec39ae8522814807b314be3aa9da2b66870b8e6912bbf0257ec",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "1e092121-d0d2-572d-ab9b-7967e01ba641": {
       "input_sha256": "d4003b5bf752155eb939edfc9b926712963c002d63d66bc37378c0129fc465a9",
@@ -121192,15 +120936,6 @@
     "b37c97b8-7262-55a5-984d-2359ff6bf71a": {
       "input_sha256": "6efd6841304381564e3d4d63193c9ece24fd5018bce087a2cc790755256e5a20",
       "description_sha256": "244850a0f2b941d9418da378e357c887fa8e70ec9b5e4306b68fbc594bb3db8b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "b286db39-6bb7-53a2-97d0-0af8d23ecf98": {
-      "input_sha256": "ffe8b9850f6c3c5a19dd0540d77ecedac5d4f86b5e86d6e457d4f87747170090",
-      "description_sha256": "4a893bf8f938d6d4a9b840ad8a0390034efcb80ffc20f2ce6a14b51fcf39e710",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -123724,15 +123459,6 @@
       "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
       "topics": [
         "content workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "5cd8a541-d0e2-59d5-b629-e1b0047b3063": {
-      "input_sha256": "45c701144a00d803e1db7e55b0d56a55be0dccdf595efb0c8b27d2109a0983ef",
-      "description_sha256": "f3dbb2467f34c5984279d4278d5ba5b893598f024417fa712b4ad38a81d29d1f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -127637,15 +127363,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "1c2f958a-8056-5095-ae81-32afc99022ba": {
-      "input_sha256": "e232a0fff3be4755de96b6b5e088543b6b006cbd1db3b87ceb0140f988e965e6",
-      "description_sha256": "9fb5535cfc2c80c6fcd7be0bddd8c40941c679944241f02ca9bc6555791ceebb",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "1afc822c-30c9-5f5f-be83-ea773908f561": {
       "input_sha256": "6e6040ca00ca3d0876d4eb717cd4d05d60948e9823f9134e17de7d7bfeca804e",
       "description_sha256": "94005479c01900837e66b48829116665f3ac4cb707e046cd450b7945c040d4b4",
@@ -129636,15 +129353,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "fd459d1b-a1a4-584a-8faa-d3ce5381865f": {
-      "input_sha256": "995651c6c17710e144aa1f3bfea07d0c762e26451f809400a3988c45ed825adb",
-      "description_sha256": "28db4cded8dcc76cce33f6c5422b6fc93081e453e8c7afe7e2aaecac106627e2",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
     },
     "8d1f41c5-bc61-5f93-9020-d370c28463d2": {
       "input_sha256": "722ea8abd89de62396618a9834bd6e6463b0365d5669350b22618d33d52e75c3",
@@ -132288,15 +131996,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "ddf04acf-81aa-5a64-8f9d-a685b53cc350": {
-      "input_sha256": "9c5bf7551bd9c3c1c39e2f7592386cba6675afec39011e90d6f76eb4fc34745d",
-      "description_sha256": "384a699bc5b8f034ba63e6aacd0a7fa6743471afcef68aba74055c4a76302001",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "9c0dda94-70c6-54a2-9317-f507337da871": {
       "input_sha256": "c17b50e654bba9f15d9a5742cc751ccf2e7e89252784ac8ce595fc3046f95ebe",
       "description_sha256": "f27c13697c94346397c3609f5fcee9ec80514ee82a32782fb29b597efc785e32",
@@ -132473,23 +132172,12 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "f8137eb1-8eae-5a93-8ede-47e533222450": {
-      "input_sha256": "9c2ba384bc70f33c88ce1d79d9daf397054ab457b29c55719b11bfaece458075",
-      "description_sha256": "d3913d7a1cbedb62c157791393799b68323f298299f83bce74d29674c9cd977f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "5bd23198-3905-5851-8920-f45fb3375009": {
-      "input_sha256": "c1c2eb5938f967e3ca7f961765d8f1eaae71452ead6aae2132d858dd7e5a9ced",
-      "description_sha256": "c9ca221a5e99f1bb50ba090cced069cb3db96eb06ce52d620abaa01d07c94106",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:e430d56a-b0c0-545b-94a8-b6597c08a581": {
+      "input_sha256": "3096348d7feeb6700a249178938b1e87b08b97d62d71230e75c216742c742523",
+      "description_sha256": "e6066ef7769a915ccb0a00309327908dfe5b2a3f96b3ce681f6ee70dde2fa753",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "fa63ba4d-2cbf-5f30-94be-f6f287c6546c": {
       "input_sha256": "d746a1427d21e3e4da20edcaf807a6248cf705f1d3441f49dbc01ef217f5f107",
@@ -132646,131 +132334,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "97ac2e0b-2a92-54ae-af28-03a243208f00": {
-      "input_sha256": "b3b841ea76d33a2ef8cb8d691e9c456e14d12ce007aefd4397fd7d961c475c44",
-      "description_sha256": "5234df643ca297b1efd663b1e4af39b29beffddc32efd9b8ce65c607c76246a0",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "b25e5f96-18b8-56b8-acdd-b6c060dada4f": {
-      "input_sha256": "465ef118052237ebcf738a33468319066a90428357805c0a796142c8ce3978c9",
-      "description_sha256": "dd2d2a0e86fc8bac18d55ea5b7a57233e97bcf104d72c533d50c8f307ca376d4",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "33ba1aeb-dfcf-52d3-a547-a87ea31f5506": {
-      "input_sha256": "9c2f56a095c1518761c14701241652215e550a183c6932e25160a5f5cfe9f9a9",
-      "description_sha256": "98a8673f1ad6abbbe579b98c3ed82377c9677739dd22b1de46269a861e3f050a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "0579fb48-bb72-5a7d-aad1-ebdd214f1ee1": {
-      "input_sha256": "09fc3aa60afedddbe9568a08ad06f3909aba3a9f9405082434ad22ed321477e0",
-      "description_sha256": "62d157b4b7569b180bf3bf76bdd879faf2cc8ec6cb561c1156720de54387a771",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "e5062076-2250-50a5-890b-d713e89a03ca": {
-      "input_sha256": "639272f2dc027aabd09ac1ad8bb5d1e3f69d49ade8fe8fb4e2ece3f5c4f1051b",
-      "description_sha256": "77562a28078eb5eb5c1bda1b1566300f2c0bc8b2655136d3fa67b88344b1a3c3",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "1ca73392-7173-540c-8219-78936559c229": {
-      "input_sha256": "e9e9bf5e43e31162a0b44ec860069d6434fe1d730d9773ac49023cb3fe2d1a22",
-      "description_sha256": "3cdca22b472b6da822e121597db404017fd5e2a02b41134fbc2136ebd85e14ec",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "b781adb7-f757-5d3e-a87d-eb819da6f650": {
-      "input_sha256": "fa7203b8a6b2e1496afe31c3272cf26d0c2e796dbf0455669af5eb5adc61ed52",
-      "description_sha256": "c9b745d67c061e8f05a5c312ab6ab7a43de8c80a2e645e439029c5c03ba5cac4",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "d960fc24-ce58-5f9a-ac83-b8e549c81f2f": {
-      "input_sha256": "de23657069bf9d9801ba48643a1c3af36f1ff9dd6f5d422c44a335af6e1d3572",
-      "description_sha256": "a5bb0595e74d5e96c395c80a11fc94daf77cc4eb35ff1db1b2e6c50e016748e4",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "28a4f87a-a213-557c-8dd9-ef9e432ab7c7": {
-      "input_sha256": "7e24857018c79d91e88dde5aee2a4fee380d4e105c7b254d55f2319fd4e70b7e",
-      "description_sha256": "aa64a754914c34a4bacc6471dee2035c1292b89b769a6e22345e2d7ad353bd0a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "c37c0e5a-995e-506b-9e0d-a938b1d29c50": {
-      "input_sha256": "a43658ec24650661fd13db6fca006d9841c80c693b11132950e8a02000550698",
-      "description_sha256": "13376e02005fbc31a44d62e968f357f691112bd465bf98edfbefbab622bc4a8b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "7bc7b17d-788d-5f13-883d-3a61e9b46bcf": {
-      "input_sha256": "1512c5b5eae29c0adf52a3bc73c5a3655cd8a49909943c96f1c56af10678bc81",
-      "description_sha256": "a008458ddafd721ae844c12c6835d59f847ebdc6a32dcb6b83e0b8f2254e21a7",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "a23f5509-a0c4-5028-b5a9-07c145d456f2": {
-      "input_sha256": "0d473521d2675c1051ef004c6390597d81eea569c262dcab7569e9fd2b0c46a2",
-      "description_sha256": "0e9d57c098b2108ed10015a5e5aff50f76379dc7f51b97dadb3e26b00fcce825",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "3891affc-e33b-56ba-bc96-18165c5fda2a": {
-      "input_sha256": "86b8658244df2d2c552eb5046251267938f2a55ad96ea851b5f9d5c3898a5f33",
-      "description_sha256": "292f2b813d806589052c60b24f5e28e408f0e7fa65c70925126f0826a170b7d6",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "28677225-d5d4-5b6f-ba2f-41380ba6ca9c": {
-      "input_sha256": "bd492cb481ee1d56dfb123d7fe0924c1b14e53e3a357d8f0501bd853c26e2b29",
-      "description_sha256": "104090fbe22ef2e752e18555688b45cd391e97a69e3a81f59847a145de7b991a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:c74a0145-466d-5c7b-851d-dd04a4a0c8d3": {
+      "input_sha256": "8c047df02471993d02b3c07fd807b6909de4775c2d60592b4703040a518cc7b4",
+      "description_sha256": "a6c8e26fb696ac0819dca4f0a38d0f6e1c2bee4fecab10e2fd3d8c1b03355163",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "755efea6-b0ed-5c58-99af-df497f12bf15": {
       "input_sha256": "e9c44434dedc04828520ac12eca779c3796651306731ae603d9cc54ea716fb37",
@@ -133361,59 +132930,40 @@
       ],
       "capability_topic_unresolved": false
     },
-    "cdfe75f3-81d2-59b0-ae7d-5b19ceaabb1f": {
-      "input_sha256": "2377c71f32aa104800a537b5e5d81b646ec3a3c6b9890e9d6961c93c89810003",
-      "description_sha256": "77035276ac719bbbadb338333535d7f67b1a6918e9abfb90ae84a52cf26e068b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:60d027d1-96ed-5cb8-adae-474bd09f68c6": {
+      "input_sha256": "fd3fdda738609618edf4de81f2c9113f63e8f747f1b2bf0a6e614a0a3843a6de",
+      "description_sha256": "ce1d6068a2345ced863b5a22df9704da8d913a67c4e632dd16b13d8e2af2b146",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "0f686c32-95da-53e0-9940-79d711c8dfbe": {
-      "input_sha256": "1bd62b944b981b9b1e3ae92a606fc34e77d0cbdf58cd8d98aab1861adc6a1c88",
-      "description_sha256": "6c6b694405c2ee13b681148fdfeb585f632a531ac9d8c099d1edd8b84defddfd",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:152f3fe8-d564-5e67-96ab-e80705755066": {
+      "input_sha256": "1fae09bcb78cfceb52854e06210a696dc653fe73c9e6412fb9053175dbb92ee0",
+      "description_sha256": "2a97973721bb9320c6295f8795417424598555199a4dda369c70b007d32f48bd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "e893bd23-1789-5b70-a04f-3e30e78c31ce": {
-      "input_sha256": "56125764c4f8d005c0ba4711b07eed5487c28e2974f1930282e925ae86890871",
-      "description_sha256": "21ce29d9d1923db13239a201d959a0b99c7eb23d61d35c7d0f8161624829af26",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:96390cdb-2dee-5500-8dc7-48d41d92b0c4": {
+      "input_sha256": "16cadeca40a38f8dcf123c3d77bec006e4ae147f63b7cbf7fce6f2e50051ff2d",
+      "description_sha256": "1dc71d445368c049571c30204789e99632aa99b85337870b8c825402dec5c0fb",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "73989287-de7b-5773-a0c3-e9575f1cf04e": {
-      "input_sha256": "b2d75b61ee64db18c84e5a2f3e36b4b37ebc9fcc0fdde021a486fb6399e7e0b5",
-      "description_sha256": "752732cbdc1f974f90ee68dc092337aefb2b4f06379182d91b13d38af889b7fd",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:798d3675-2ac6-5c95-8971-bb5c7c7a8da3": {
+      "input_sha256": "6d613f96af6169cc4f4c967dd5680494e939e09c52a8dbd510201edcf07d982b",
+      "description_sha256": "27bd425043e7bf670d69ba8b504a5747032ded272fbe02d58e28c8c895d489f8",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "a1944be3-5813-589e-ba81-756925ddea12": {
-      "input_sha256": "622aae2373c0c46fe1bded690f7890dd1268ccf6cf2a60c5785d1e061be7089b",
-      "description_sha256": "ed5ff12b5bd75f8d7ec1cb66c11cf638849f0c2f8c0d42cdba9f901a914a1619",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "cbcca451-14a2-5f98-953f-f1d1908f3d83": {
-      "input_sha256": "83d9148b5696dcd62580ac4eead08473989a0672f40b8e3b8a7a97b5d8653665",
-      "description_sha256": "638ceae23f8658ff021d3d4b99ca461711765be6d7948f7054316445fa616b1d",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:c1a4cef0-0d9f-5692-ae6f-5148fec26612": {
+      "input_sha256": "8e52e54c1601d41a56a5054970b8a9d61363bafbf33bc62080efe50aace9adff",
+      "description_sha256": "17838bf0f39784ec1081bfdbe84840126ef5dc0c1bf57057c173caf7e6205277",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "ef40ecfe-674d-57e3-97e4-c1c1c4ac612a": {
       "input_sha256": "fad031425aa2072aaf0f1dc853bf317a22914f05634e66cbc8a559f626e3436c",
@@ -135023,15 +134573,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "c8e904a0-0451-5916-b000-00c8194edea8": {
-      "input_sha256": "e94deeca314343177707125022835da88698afd12bf7de24d4fd09ae0c4ad04f",
-      "description_sha256": "6c6ed51c6ebde55682ee24e56a93dbafccb9934c08a01db0577b9d4602455abe",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "5a3be775-4ed0-58a6-924c-30c41af980ff": {
       "input_sha256": "ead0dca01992f3e41637423230663e4517fbe5710fbe8d46d580e4205579e9ad",
       "description_sha256": "a453c46b2a8fa79d872dc1e95a1181da6d04a252aac7655d50a9b5562ce564a2",
@@ -135358,15 +134899,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "1c8d7410-86b4-5ae2-ba5f-d6257c7020e7": {
-      "input_sha256": "e5f1efeea1d2918ec065b6eecd31f308c6092a1917c01c099a47ee0e80d95362",
-      "description_sha256": "1391c7693da8bb3b3b54d23fd454704853faf07039c50173be4949886dffb75f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "09ebeb1f-37b3-5077-848b-5c0b5caa9908": {
       "input_sha256": "ac5ffba4bcdb2d5092df5f66461ab0e3734e8870e926dadc88e1579d374d001f",
       "description_sha256": "742695730e016bea31db00570931d42035a17e2b7624fb087ab79ccd67d11c21",
@@ -135390,15 +134922,6 @@
     "a21a3cbc-9004-586f-a8a3-fb2c62496d7a": {
       "input_sha256": "a6fab68494185a136cbbaf9cf551e5f49b401f88361a9e3f961af934ed11c38a",
       "description_sha256": "27d52b07e5d2daa5d5c34863446101a2b3cb8f10dbe897fabda75a890a621e44",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "eda83ef0-8d15-5cfb-9d19-c093d49abefb": {
-      "input_sha256": "f75ac288b3134d39dfd07d66a7b0c6378be781b9eb2f30752dca268155fca909",
-      "description_sha256": "8e4b6511fb57707ebde7619fe587cbb54c0a8080b06f0dbf389084ca583eef1c",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -136937,15 +136460,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "a84c64b4-4820-521e-b4a2-bc0db55bebd6": {
-      "input_sha256": "680f5d026b623110b6a2da3c2d8f52a6bf2248372d3aa7f93326f449f882dd1b",
-      "description_sha256": "b0c2af8ce07fed472a075e522a7a4ce0ea21cc27c3ca1d5c33f68f96f5380639",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "af524979-f033-5bca-aa29-9ea12799daed": {
       "input_sha256": "e39909e3e46a1eee572d075a18d9c0c6506ad5b5f2333fde623745765fc7a5d0",
       "description_sha256": "451296e196d9a2b6d4422fe4a258f965a43823d53b7f8ed3d1c8a8d2f99e481c",
@@ -138261,15 +137775,6 @@
       "topics": [
         "document and knowledge workflows",
         "audio and speech workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "c2e207f6-0c69-5aca-86e1-8921d2f62917": {
-      "input_sha256": "b7fb43e142e761241a03fccf2f202d8041819da0a8f37fbb42778ecaedf15740",
-      "description_sha256": "dc523aee8278cd3e144288b8e0f3a945f6ca1a003f246e4f8a5b113fde34079a",
-      "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
-      "topics": [
-        "content workflows"
       ],
       "capability_topic_unresolved": false
     },
@@ -140459,15 +139964,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "02e26774-cb85-5cd9-8cb1-3f773739c36c": {
-      "input_sha256": "3e3a2b66ed178c8da38d3d4d641846d3d914a385d5168a4bd0e6b9ec220864db",
-      "description_sha256": "954fdad2a03fefddfb6d5ba12eb24e3733fe2056fe37fe63c5c3ece154429352",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "2c0b66f1-6da4-5baa-a79e-3ac2207f1da8": {
       "input_sha256": "3b7efda6bbff77a27c32caae8eb8438627e8442af651a5d4bfcbbc15c7259096",
       "description_sha256": "a39d8a2b8be3950574bbbd68c015bbb7605a38f729f61a2adc2d130c478e647e",
@@ -141898,15 +141394,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "14380097-6045-55a9-bef4-03aa8aa1054a": {
-      "input_sha256": "4b7bd7a323e95525d879f07a9c13de6ebf9743ba315d3662b83d0bf044fb739b",
-      "description_sha256": "dffc97e5c57688b02cc689978c282cf1f043c4dac6e54e9a1d29f9aced00067e",
-      "use_cases_sha256": "a58c42d254bf3be97ff1fb5f4a3e8eb6667716df947375f7ade55174b730802b",
-      "topics": [
-        "data analysis"
-      ],
-      "capability_topic_unresolved": false
-    },
     "c5ba8ad0-3125-5747-82c4-e37c981d665f": {
       "input_sha256": "e7e045d32a02347ee4c427275596caf4deddf93d0f8b0c9c9f27f250b4c195e2",
       "description_sha256": "88ee373a8ecf7db65fac37d52d34935252f759ed0328307186c9b61398cc47d8",
@@ -142483,15 +141970,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "6fbf5d98-12d6-57d1-8e03-c0ae7eb25cc9": {
-      "input_sha256": "c08eddb4c09c9c68dea78980b22499fcb2479b9171be9ca9e33beb083ce211ee",
-      "description_sha256": "3782bfe77730eb68f90bcf028be39f6acceb8b0cf73dfa96352ab85a3b757c3a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "ff42abb2-7e8c-59a9-948d-d0a58e11e014": {
       "input_sha256": "7960b99b292f22bd35a9172c047291443bc8be19680ab59b9779d400b59df1ce",
       "description_sha256": "f414dc843b88202058fcee52e2ea307f14961322fa62ca27d667a171c21d19a0",
@@ -142640,6 +142118,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5": {
+      "input_sha256": "deb67d0a848ba19eafd77c39fdadd3611a0dee12312e9ce51cf11f7048ad6162",
+      "description_sha256": "6c6a9fa44524efed31dbe889062e985ff7f5d0c71672e66d33c0619d519b9718",
+      "use_cases_sha256": "71871dd56957d3e937d9a491fefd0bbc8142ad4b8cf5886e25587a0369bb7b2b",
+      "topics": [
+        "project planning"
       ],
       "capability_topic_unresolved": false
     },
@@ -144672,14 +144159,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "d4663f56-ee22-5321-9765-614bc71add8b": {
-      "input_sha256": "4557900c62c2320a2c1f09f56f82406128d17c2eaa62ec2bec3d906a28228aa3",
-      "description_sha256": "615892f072001877bd997ec2d065cfaf4f68b72162b9ed7b37112f7e2b5dc9f1",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:ee190594-cbc7-5452-949f-dc9f3b8f94e8": {
+      "input_sha256": "981172d9e165af0ffc980452a7f30ce8ae23d4a47ce97cc79e58fec6b9d17d3b",
+      "description_sha256": "f24759acdd277410e7a084932632215ed0a798b81fe79d6f3cdcdc3ffc36d3dd",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "f28be08b-c123-57d6-a179-c54bdbf3b685": {
       "input_sha256": "cd6553dabebd5a2409d895e402358e965b068a980d42d7083967131c26c6fa6c",
@@ -145020,15 +144505,6 @@
       "topics": [
         "information research",
         "document and knowledge workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "c1675b7a-e3b4-5aa7-9500-17d6c5cb86ee": {
-      "input_sha256": "c19e5e4d59246b7f841292b576bbd3b7cf9abd55d98a7077acbec3d16a2ef5d0",
-      "description_sha256": "09b02ec9dc052e827a2cbb65f9d0b4b512d9b6c6217b47891696f2c3963249c3",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -146326,15 +145802,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "0f22363d-8cb9-50d6-8e86-3be1f724134a": {
-      "input_sha256": "04d33ac94c96ca16668d5712e4ccc6d64ab2ff68b3753e204ad334eff56f1a47",
-      "description_sha256": "432bee9df7ff1351b8fca4a57ee001d044e264edd7ed00c834fcbd5008d80836",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "153331ba-49c6-5a4f-aa34-5e0dfcd46a82": {
       "input_sha256": "5d7442fe424f103f228dffa9e02e9be6dce1cf8a44ad1483bf04ac6cdf5b86c5",
       "description_sha256": "5b2eb4ab8fefc5ee468d471d93f79934adace46d8dc66fbb08b3381a87318c44",
@@ -146565,15 +146032,6 @@
     "fc99984f-b15a-55ff-952f-3a1b4c0a6d30": {
       "input_sha256": "8e19b4d578da7850b5b1004c342cd9172a164607f6645a067a6386ee45fbae47",
       "description_sha256": "51fa9eb0db66ef978b2923fa41425c94ee2634ffae558054989036d128900aa9",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "321d378e-ca18-5abc-a9bc-c3c1486c7f5a": {
-      "input_sha256": "f205794d7c8a1b4dc721c7aa341c1e1eed278416832dcc4d7122072b088ad413",
-      "description_sha256": "422297eaf97a199ccfda13e9d557c17246fa9a979ebe6c7482dc039081b07cab",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -147315,15 +146773,6 @@
       "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
       "topics": [
         "content workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "59a7ee86-9644-52b4-8abe-ca69ea94e45f": {
-      "input_sha256": "fec325c18cb7ccc44337ef682a64ff72d482afc0e0ff3f7488ed0393aeeedd0e",
-      "description_sha256": "a2a187d82ba985b0a35b4bacb43ed8f000206b2104a3d28c198ca92eb0888bc2",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -149093,6 +148542,15 @@
     "978f002b-25b9-5b33-801a-722a9cde58d5": {
       "input_sha256": "141198b5e10ed3a7dff37daa8966ae2424c2ae399334fdabe11e00108a8fe84e",
       "description_sha256": "d48ae0fc34313e04bb5227e80a4c3c266ecbdb1174f06dec7a1df91521901279",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:c8a05abe-4688-5463-b46c-b8dea487f6b3": {
+      "input_sha256": "b5324913563658401a8ce6dde148b6a3b3f24576f77df150b92a88bf3177715f",
+      "description_sha256": "913135c417d187139801d5606450ab97ae4a30173dafcea88c2b94488380975d",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -152802,15 +152260,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "f29f43cb-1005-58e0-a88b-0410bbc2a5b0": {
-      "input_sha256": "cbe5933dd2fca483b3e4d1a6d26ece7a3f5465de8fc4077e6e895d92f058a2ec",
-      "description_sha256": "eee386659a043f12301f20f0f6b71e6023098bf6032da4286cfe1b35f9c42fd9",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "41815bb0-a47a-5cbc-a0c8-229db3c084fb": {
       "input_sha256": "4812a38904c380a71766cbd630b2ca5a41acb1418130145c7f3a8f164f67be50",
       "description_sha256": "9b7e9e7087772c791cbc794ddf8c271f16beabde00193431238dd3b88840240a",
@@ -154082,15 +153531,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "bbe5c8bc-1e7f-5875-ac87-3ad352ff049b": {
-      "input_sha256": "9d5f261d61f84336010ab6e4c0a03af1176c142973a471befe0129b2b0e0d28d",
-      "description_sha256": "65ed2a0204951455b6a680580bf079ecb08ed30f3714d827b2b1eb8373f6bb40",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "95e91286-a82d-533b-a014-e5e9fe4b4bc3": {
       "input_sha256": "c215e02fd847206e32687a87ac54ce850300f2f96f78124ee1bb92250397335b",
       "description_sha256": "843bbd6b5e6060047712bb92c9216ff10378bb5dbec477c621eccba655993857",
@@ -154715,8 +154155,8 @@
       ],
       "capability_topic_unresolved": false
     },
-    "f039f18e-2c49-558c-9141-cf08ee8a2fc5": {
-      "input_sha256": "80fdccefbe544c237f00618d866774a830253b6d707b8a4081bab6fe5e7d947d",
+    "community:f14f523c-7268-5ac3-b65e-75209128d31c": {
+      "input_sha256": "d4a75f69dae0d243640b490de807efeec50ed1138540557b962a73d59500a834",
       "description_sha256": "2c1a45ce5b7eba315f2dde43a94d7227199a09c281008ae9e2644d4344209372",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -154762,15 +154202,6 @@
     },
     "401fad5b-0eeb-586c-ab2b-76cfe8db0165": {
       "input_sha256": "621bfb531f698bea2ed688fe763adf5a81805de279ce6218e6b68a73db115d26",
-      "description_sha256": "3dc8e00e7603d710c8861f9438278a6d50628471e49a9f4065d8f244a8624f8c",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "55de55c8-d4a1-5e15-96d7-008294f6a7ae": {
-      "input_sha256": "3877ccb92193c64b38fba0ddba08b84a97f5dd0df0b51abb9f68283aab04f232",
       "description_sha256": "3dc8e00e7603d710c8861f9438278a6d50628471e49a9f4065d8f244a8624f8c",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -155494,15 +154925,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "2aab7fbc-357c-536f-949c-a7f2efe115e1": {
-      "input_sha256": "383156c10a9969bf8602c81b5ee7fdafa15cd4a4bc89a25fb745b457e69360b9",
-      "description_sha256": "7d1390e163a4a858cd2794b982f5dac99678ee9c963310e79e02485196714f23",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
     },
     "a3537009-11d0-5909-9f73-571c2d01561b": {
       "input_sha256": "e3b1ebd350a036b2ab14f49fd58ca09a311ff5b2115f0e8b7b17da2fcb566e23",
@@ -157007,15 +156429,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "6e65e11b-ac98-598d-8f59-6fe1e8b930e4": {
-      "input_sha256": "aa5fd0801754101b1aadb0d2ac0ec79c7bcaaafca5eb0fa8b3af8d58e6135297",
-      "description_sha256": "49700df41d7cad7d289464ef23e7efa921b12fa3181b6ca784aa689e8f08ec92",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "5bdded81-b5c9-5003-a5c5-d7384c670f7a": {
       "input_sha256": "c963a78b0360f71b523aba7368be19fc8f3a664d74eaeba5d5c0f8972833cbf2",
       "description_sha256": "a53201fa9925cda22ee0b1f7b7532c24744dd0920b5de628cd4c363dcb9d7629",
@@ -157340,15 +156753,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "a2dd9c69-503d-5972-9815-07e57a44a603": {
-      "input_sha256": "7a87b3152157a321bfba8a64dd86e0d8f146612df319116da502dcdd2c18297c",
-      "description_sha256": "ff1d7c52b2dc066d35bad0cc3a58e75cb1c01a249a1189c2d2ac00e619a9fd79",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "cc59ce7a-db4a-5cc2-9a1c-aa84ad5a1a8f": {
       "input_sha256": "d37cdd6ef82cd9f72567a647579c2cb6e8228d5e56cb65fa5168448d7262f5c2",
       "description_sha256": "ff1d7c52b2dc066d35bad0cc3a58e75cb1c01a249a1189c2d2ac00e619a9fd79",
@@ -157477,15 +156881,6 @@
     "d40c8b45-2543-5cb4-b0e0-d56931824cf7": {
       "input_sha256": "05067f3e627d4c423691002061c6c2336201a7b4a43d4c906ffa4d5067d7ccea",
       "description_sha256": "5df58a2fd2e0be1ddac87717abb04f36a05fbe387cfc3b53376e8d4cea2a3b5b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "7adae8ae-3113-5071-85ba-acfb4a30c776": {
-      "input_sha256": "ace1ae6be2851f7e8640ab2fbca0faf473962f6288349146eefd728e4422055c",
-      "description_sha256": "2fef5a826369996d67c7bedac6fe990228ab05b4af01edc7b4872519553686a7",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -160443,13 +159838,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "46437045-372b-54c7-ab91-190d04a9e142": {
-      "input_sha256": "d036864310c2bb4cdb3ce771ec162b6a9586b2c29e72069fa1358f41c6814e73",
-      "description_sha256": "ac25dc70a7708fcab0edabff37712488dc0cc4a3ac34758901db82bdffa4f770",
-      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "topics": [],
-      "capability_topic_unresolved": true
-    },
     "93003d31-5bba-50ca-8409-63d57f00084a": {
       "input_sha256": "7315ba42391d344ccdce5f5e5b48fc55c301705d5dfc0894dbcdfba6a4d7c904",
       "description_sha256": "071ec275ac147321b0098b83d1603969229475ebb9232ae2ec1db0b33e67b17c",
@@ -161118,15 +160506,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "6b8e3e64-3058-5cff-9710-cf17ec57784d": {
-      "input_sha256": "48e304c3e045d118ea0aea4b0486ded87bade1068dfe7ba7e9573f925c7e872c",
-      "description_sha256": "a60da86ec62763231110d3bdaa0a89206f539bb124785cb625585a8c8b3ab1bd",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "738f2c7e-109d-5cd6-925c-8cb24fcde04b": {
       "input_sha256": "dde1bace8f557c8cc45594ebf508fc7b0fe9046b313ca108ac63935dad402e19",
       "description_sha256": "f583e6b270d4b4da4650d7bf0595f4e02aa124d99c15a742e5d8f363bd71b624",
@@ -161160,15 +160539,6 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "d3593370-1444-5322-9e8f-ee369eca988f": {
-      "input_sha256": "6bada905d327f0efce2409f9a1ea216bd087de817915d6ca23a16f507d259ea8",
-      "description_sha256": "cc313fb54c23d1f204d023a985c772d8ffd3d00da9b944119cfc64d5ba5f3a57",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
       ],
       "capability_topic_unresolved": false
     },
@@ -163003,24 +162373,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "d94ce628-49d7-5846-beff-bb28540a641e": {
-      "input_sha256": "42ee78be88dc4f7e3d6f93b202fce463830ef0b4b465506c54c195b67d3b8438",
-      "description_sha256": "ae217434549a80bd0e0989a29ecb9482a9e4254cb75d0a2218c8b8aa893afe2b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "91aa7656-82a4-54ff-af7a-7559c27bd80e": {
-      "input_sha256": "c383083ed5eaac4cd6192969971ad62714984f854db15b6e9966c787283e7009",
-      "description_sha256": "caf0a0406890d111fca38ecb025b96f09213cd00fe3496ccda61a44d1f4a089f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "1b12347a-87a6-5d40-842d-25bd9723c902": {
       "input_sha256": "d0ad05d76ea8014ac32118d3ccafcab8964a7450cf7620b810444fe52e6d4d3c",
       "description_sha256": "c461bad00d38613256f3dc67e708806d3c4a26eaff65fbe3015e343cb7c52f5c",
@@ -163033,15 +162385,6 @@
     "df2fc93d-083b-5e52-856d-c1d82d9e4656": {
       "input_sha256": "e8075e4083291bb233aa605bf60824764bd5657516851a0642f5c44474aa2304",
       "description_sha256": "74e1ffac41e02d9fa3134aa90988162ad74b056ccaf29c59c10d227d65c3aecf",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "480d478e-22fc-57e2-a2ff-647dab97a68f": {
-      "input_sha256": "691006d0f456ecc5b7ca5012f1b39046a8be62b770c565598987dffca9c29e3c",
-      "description_sha256": "defdf0c5d244926734a786d957dd05e608b5857e0463e47a9fa25d2ef9d7452c",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -168684,15 +168027,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "ed997f45-dcf8-5bd5-ac51-5f5ec7ab192c": {
-      "input_sha256": "46bced44190477f309464e130264228a66c29995f6b0dc5521f8df4bb6a1faea",
-      "description_sha256": "77023438dc6a525016c558c238ea449735dac4b9be79736781d2c77f26d9e88f",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "f8c11065-f0fa-56cc-988c-31be424e0bd1": {
       "input_sha256": "e560e475b35563ad20135d15dee000036c9ff720d2ad11599be4799ef273ad0e",
       "description_sha256": "77023438dc6a525016c558c238ea449735dac4b9be79736781d2c77f26d9e88f",
@@ -171107,6 +170441,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:012e7a22-800c-587b-a2af-ac6c3c27f074": {
+      "input_sha256": "ee3f124e72ec3efbef7b405ef10e98b1b3cea7a09c0df83e0d81bcbe98934865",
+      "description_sha256": "592e0606098f11373d39461f1e4c89ef68b5e7984258d56a5346d1205267df68",
+      "use_cases_sha256": "6c4e361e3769e1a0a995b396b12aaf7f0a6ea52ac6fa1cd171936af3d29c0aca",
+      "topics": [
+        "workflow automation"
+      ],
+      "capability_topic_unresolved": false
+    },
     "30066eb2-5cdf-5596-897e-5092daf47a57": {
       "input_sha256": "e8e70f80f22c851a273e5995535a8fd68a64215da69ca65adb53173475086da4",
       "description_sha256": "4dd73d260d6e7212ca378e4de3f0aeb2aa3d312e1707524ffae74b0c815ed061",
@@ -172315,6 +171658,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a": {
+      "input_sha256": "6deef36a201b9d9725af9257a6580aa3655fbc319aa19e14fa736ad9e3d94bf3",
+      "description_sha256": "0f7d992511d95e1294203d841568113b5d83f0f830387d03d67767e9ce7c7216",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "cea40c3e-b6b8-5324-9ba0-8a0ba73ff4f5": {
       "input_sha256": "2b293ea2755bc6080a6cd1e941602773412300959e2f0117fa5a3e1d7b3fabaf",
       "description_sha256": "bd038e5d1f716a248718214495caa320ae18c92bc6bd91ee3fe3b5e171ca681d",
@@ -172709,6 +172061,13 @@
         "software engineering"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:16476941-71ad-58dc-ac18-353511e22ddc": {
+      "input_sha256": "c1242f71d7a02961df4fa1df51374c7de7ffe9333be99eb1db47c03d24b521d5",
+      "description_sha256": "bd370fdd0e5cbfd0fecdbce3bfc92c41c84ee83fc14ccd83ea61a06253f72fe7",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "43999b13-d6ca-5cf2-807a-196ff4a72019": {
       "input_sha256": "61d922ae1a58aa9aa0e1946dac70d84ead5d899e2b7dfadfd64eb81beeb77845",
@@ -175446,6 +174805,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:42de2fde-2388-5b6f-a5a1-c2cce824c602": {
+      "input_sha256": "d294fd430733187f7ef2236330f3f16861120afb5656fa245b2d51abd5956af7",
+      "description_sha256": "bd4bee0d0ce0a5e62e0ba0444eb2ee477a36881fe4f280847624deb3486dc8fd",
+      "use_cases_sha256": "71871dd56957d3e937d9a491fefd0bbc8142ad4b8cf5886e25587a0369bb7b2b",
+      "topics": [
+        "project planning"
+      ],
+      "capability_topic_unresolved": false
+    },
     "29651c2c-dd4b-5003-a217-78041ead905f": {
       "input_sha256": "69054005d5cdb50474dac24d5aedfab328cd593d371cacb1b9b00a2285c41a7a",
       "description_sha256": "78618c9cba83cdce825b3bb8a879ac3206ccb156754ddb555971bebaf684ca38",
@@ -176435,15 +175803,6 @@
     "d7aa6ad7-9204-5436-804f-d5d4e01cdd9b": {
       "input_sha256": "14033baaa55122bd58f8661ddacdf6f18805ad2824f5e20a277589d95a0fec06",
       "description_sha256": "b5ebb6069e0af7615277399143e3418ac92a7a6f4ce97f64cdec6f192e70d56b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "7abab48d-4ab5-5109-9a29-3cc30b020fed": {
-      "input_sha256": "d7b34fb506716c0cf5d9d5e1a0efff39af16eaade228f03f1a2090b2ae6eb848",
-      "description_sha256": "f2fdfd3d5b9d8ef5bb379c373e2f81ee5e4dcc789f97fec28e0bd41bac9d085f",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -177701,15 +177060,6 @@
     "63ffddd3-2e26-5d1e-a091-0a476ea45fa6": {
       "input_sha256": "bf49ff902d95eaf12436a437b2a1c91d14a85fc839a23621659bfd630ad5dad2",
       "description_sha256": "be7fba30730cc1856f066b6425e346044d4cb5c3a0dc0bfaf261c4957b3e73f1",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "46f334cd-abd0-54b6-ac47-59a34d44f9d7": {
-      "input_sha256": "e8eda061cfc6326308f217e743458aded7f13c5ecb12b816a5a0f112900273b2",
-      "description_sha256": "27865fed0d85bca66940ec9c2c45726f4317648f265c65d7dcb616777f712881",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -180925,14 +180275,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "7746f305-a943-5134-b123-893d0053611a": {
-      "input_sha256": "4f8e3b8f1887e41723728cc92144034003b8ebbbbb290a407f355abddd3b86bb",
-      "description_sha256": "56ac18da1e015c4b921e56ad8625e583512eee20ce55bf860f59a9419055c448",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
-      ],
-      "capability_topic_unresolved": false
+    "community:2b458f26-0338-5b3a-b308-9f63eeaeea64": {
+      "input_sha256": "86593cfcd5dfd59652ca9781e047ce5b43011bd5841d7cda56758b3cab1626c3",
+      "description_sha256": "c2d854f14e06ddaf81b298435d06e9efedb8eb87da92ad4d02a09c8d276c9c83",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "bceb86b7-8642-58a1-8598-8b622ea707e3": {
       "input_sha256": "7900aa66e62de1c9d460bc00f47788157f2f5875e6b96d429d14a2f9c0cc1299",
@@ -183254,15 +182602,6 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
-    "97e7b1ab-d496-5446-be1d-8f6e4539da10": {
-      "input_sha256": "160cca3b6c2a03b323ab1183ad784bd8c085642e36d1bb5eaf490d36193d8c3c",
-      "description_sha256": "12c9771a0f8fd649789d7027aa7fdafa287ad9a11517877e10956dc5e81179ba",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "0b6b1f5b-b38e-5576-be01-c6d4d662e6ab": {
       "input_sha256": "a5521c7cf6e4fd32c1c5de81022302fcfe88054a28be0074dd1b2e63c10ddb11",
       "description_sha256": "dcb9d424cf49ea96a6b8a0ce9f6ce3060fd5b1fcc33a56db1b2e0944666b2a0b",
@@ -184187,8 +183526,8 @@
       ],
       "capability_topic_unresolved": false
     },
-    "3f5b2fc8-5646-50a6-bfaa-9130b30ec86f": {
-      "input_sha256": "5cf1ad9a7d70a0da4e1be0c2cff892d823bc414f878afd56bd4aa3c4f33b1f2e",
+    "community:c57dcb40-879a-5bec-b369-7c967656013b": {
+      "input_sha256": "b4d831ba909f622dcb48f327f76fff36fa523193388b957883db4b0733125811",
       "description_sha256": "a276362102deb843f2cca4c42270c18e0e42026f70abd17f341ca4be4ec5785d",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
@@ -184689,15 +184028,6 @@
     "8003bff9-caa4-57a4-9b10-074c68195ce1": {
       "input_sha256": "9fec993ff520c278140540e04141bb7a2b039ed023edccacd5cdfdf0703e4da4",
       "description_sha256": "d6c6e1f0db6c875f7df7cf98492ab17730609415da9da46b41015ea64459b95b",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "e7b7f92f-c96a-561e-ae1e-b02271a72953": {
-      "input_sha256": "b27cbd9af8586faa06a80ee8e907bee188691de1fdab9472c3e0bcb557ef29c0",
-      "description_sha256": "55edef01610c4d81f19d58384844dd8c86c9a64359385f73652a7c3a9de10709",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -186100,48 +185430,12 @@
       ],
       "capability_topic_unresolved": false
     },
-    "59164abd-ddca-5dda-b4a0-3a74e1b26d19": {
-      "input_sha256": "ee08fddbda95ffa01d7bc12eb825e4c03ad4fa5c4e43fbbdb184faf65e9824a7",
-      "description_sha256": "19a8a84331978c944243d887e3ec0d18deceec198ac14a6d71ce7fce71de31b9",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "dc5b0d5d-7b27-5379-ab22-4be9a4ee1016": {
-      "input_sha256": "b6d78fdbd4c39a99eced0ab0bd2f153261549fa511d4eb7a88a7bc9a4d8c0105",
-      "description_sha256": "bfca191b1601294a1f8aecb11bc1a59821750c3bbb883af2fb744d7cf7725955",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "3b6efe79-375c-5960-9061-2ef30150571f": {
       "input_sha256": "c0a216b1c38a64687e5821ee3a794b6acd58bf9e39e3244b3e54ec6d8bfd0b32",
       "description_sha256": "d7e745094a804a309062f22c57e84f2f1ff1125a69ada64bd93640bad5a2e418",
       "use_cases_sha256": "25c9ebea3c41ffb9ce9d9e6208e323979644cb822558a8e053f9641a6c6753f8",
       "topics": [
         "document and knowledge workflows"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "113f1f2c-e817-5e81-8659-e385f7005602": {
-      "input_sha256": "738acff4b3a1f8761e8837cb1a73292b17cb384083ab47a23944dc18dd4292e1",
-      "description_sha256": "6561e16ebfec766ae696d252f7c4ad53ec4697c4644bee04f43580214882ca40",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "0a4a5238-9c49-584e-8aca-95ac738ff7e0": {
-      "input_sha256": "feac3fff20616236f7834450b4c59794229a9708f82ec7f84861291060336824",
-      "description_sha256": "fc5bcbf67af5e2a185f927651eee7ccc95a8138ae23c8b584aa55f10eff005e3",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -186152,15 +185446,6 @@
       "topics": [
         "information research",
         "monitoring and operations"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "834810f1-a4b8-5448-8e77-ee985f4c4c07": {
-      "input_sha256": "f61f3b22fee9e33a9ef4e3e5b6d86fc3b02352d29036a1f6ad4252c20f8b8a6d",
-      "description_sha256": "5245573765cc53cc511b540e69375acfc591f389fd72c527d80b5458fdd7e3a2",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -194929,15 +194214,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "b32634de-74c9-5e1e-933c-fa06d56d6ebe": {
-      "input_sha256": "2dfd829954f9de3a31db5931b643b1efe65b151878886550cf4fb240110490d3",
-      "description_sha256": "f0fe7ac99a97af68de7029aa5b6a12e534f6d310ef8404033fecf790e126d66e",
-      "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
-      "topics": [
-        "agent development"
-      ],
-      "capability_topic_unresolved": false
-    },
     "6798deb5-cdb3-52f7-902a-529cda7f9371": {
       "input_sha256": "c37a709f1df499df61da0a54c4e60ddd626d3a6fa79a5b39bcf35622da7b5b3b",
       "description_sha256": "8187a16fd3388c3061ac858854c7b1fb485cdd2465ddf559279f39658004750b",
@@ -196840,15 +196116,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "400c0c66-5022-5fd8-bc49-cc3d01a5fd0f": {
-      "input_sha256": "cf7cc29b61725b16a5466ec226d410ce681d3048dd771cdc41d30112af043fb9",
-      "description_sha256": "ffcfa2d9ca033a7da77afa497d97386272894db4404c644aad392f4125014d59",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "c720b6a8-eef2-5b43-9700-27cb58ce8379": {
       "input_sha256": "fc36264e8dc6a5925f3ccb3b13fb49b3df6b5e0cee29fe1709c914525bdbfb67",
       "description_sha256": "ddbace8a51a55d0d15bdbf136e62442ebffbb4f07a10123f25425858a4462ef3",
@@ -197934,15 +197201,6 @@
       "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "topics": [],
       "capability_topic_unresolved": true
-    },
-    "9f991c10-a25a-5fc1-b3ed-7080d9258d79": {
-      "input_sha256": "3a83d45097d4b258b2cca2d82c34285c0941c9b5dd35aa952a886ce3b6982f21",
-      "description_sha256": "72e69fbea83ed71942b55a18ec3f8527a9e83ed692e1117232f471b02bbf542a",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
     },
     "a4a5f578-6820-54bf-b1a3-ac5aa6d07f70": {
       "input_sha256": "3be4659d58c06a8aeb85c32312dd5b03def13865b35400a9955df41019e61945",
@@ -200115,15 +199373,6 @@
     "8e4221db-5cd7-5f3d-a246-b4a4e468a688": {
       "input_sha256": "82a07584156f3386d83f9feb3b5950c17437b6e97e1a00e5b6877b9a72dabd8e",
       "description_sha256": "e9b9568ccc727da18203520e1688b3e1e820c880f531a2a13e03bdcbdb1c05ae",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "4bbb743d-4c50-5b22-9dc0-49c46af1ff11": {
-      "input_sha256": "e58a16317cfd6513d4d29b63d31ecb10482c5be106e13109dbef9ed23acfdd51",
-      "description_sha256": "d8d24126331608c6669812f7311404ae62f2d24e4954cc05194cba4483e89843",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -202982,23 +202231,19 @@
       ],
       "capability_topic_unresolved": false
     },
-    "8166006c-4472-582a-bb8e-c91b6ae36041": {
-      "input_sha256": "a0edf0c59e3c4c91160db7fbe54ed6a45e917256c7c0be3c8fae4e30d7165c01",
-      "description_sha256": "9c68f71a015bbaed776cff741ca6c4c6180dacdd71a39553ae4fc3df5f2aa9b4",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:979a4ecf-ab2f-5fb8-8ddc-f67643b1bf8d": {
+      "input_sha256": "91bf36d4d253a819865bfba03a93d43ee45bd938958b3193d0d148b19af68125",
+      "description_sha256": "bdcd67b49b949fbc94ff2dead458acf63c8a33b8779a8f568409777165509efe",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
-    "456b21a4-beed-5364-b583-0d6658178274": {
-      "input_sha256": "59ff74d6a7c23ce92795ef507f014f046af61fad6e9af86a0506833ac16558eb",
-      "description_sha256": "e45e133f0ca2bfe33a002920b735372271279c89320b2741bdb46d6b7364f3e5",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
+    "community:6bef1f7a-c5cc-575d-bd1a-63cdb76b8a93": {
+      "input_sha256": "ce3b159d17d1dada605a7218e6c7727ad18bb3a502535551b93b5f0a1fd26e83",
+      "description_sha256": "9f457d02ed769724e032646cbdbd70dc788aff65c0dc1fc5ddd93bdee7ed145e",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "38f37448-24a8-56c4-8882-aa3560f1cfd9": {
       "input_sha256": "6832aa770d4738e496fdb7f8fafb52e8e65517c294a044024ffee5ec1661a4d6",
@@ -203415,15 +202660,6 @@
       ],
       "capability_topic_unresolved": false
     },
-    "aaeed252-d07b-5f6c-97b8-0c2ffb90aa58": {
-      "input_sha256": "dc650a9bf2f85533acd8669036c49adc134802e600dafb679a03540c05f9da75",
-      "description_sha256": "7fe25709fb7c0ab25db9dc8e6bf404ef7855be40bfba92baef5e7d0a48b92f74",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
     "34217aa0-5b09-5343-a67d-acc7c3f48375": {
       "input_sha256": "c978060d2ebf41de5d80de39ae14e820fcb16b0372c1708c4caae28948372ace",
       "description_sha256": "ce7ae8b2e94f969659cf598e3b68194aa04d7a57e7abb2f0d0d8616f0a484080",
@@ -203544,15 +202780,6 @@
     "b19c33e7-6281-58d6-87af-0ed9433051d3": {
       "input_sha256": "1c0971c181dd1fccdd0ab3501a502a97ee04b0a96098b557bf69f8d25373ae75",
       "description_sha256": "3716bc0c2b70a95065afa68d2b797ffd9029b66e7dec6e9191824eba2b8edc15",
-      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
-      "topics": [
-        "software engineering"
-      ],
-      "capability_topic_unresolved": false
-    },
-    "391745cb-a43a-594b-afa3-04405542f25f": {
-      "input_sha256": "623e51374f0d42ef03a0079b791f8004a2c2a0c02d0f040beb4df437a7a13939",
-      "description_sha256": "c4b4898c4a204da210808e221da32f9b3d7c368ac3098d083ff82d9099af86fc",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
@@ -206446,6 +205673,13 @@
         "browser workflows"
       ],
       "capability_topic_unresolved": false
+    },
+    "community:2d8d5b02-d14a-504d-97ba-4191c133d2ba": {
+      "input_sha256": "a1206641f2c480363728a97771d60e552844552c7679798381c8bc6ec1b4f210",
+      "description_sha256": "bc345fdc62e6dd4e6f14776202e336b3814114e5e9eda055abb1d3793550f02d",
+      "use_cases_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "topics": [],
+      "capability_topic_unresolved": true
     },
     "bdefd4d2-575e-51e4-8f9d-1e37d9c13e73": {
       "input_sha256": "b92a51fd78a6df551423d133b160ee04f4a8528c834871d7bea48d68eb3cc25f",

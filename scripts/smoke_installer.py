@@ -141,7 +141,7 @@ def main():
     catalogue_revision=run(['git','-C',str(ROOT),'rev-parse','HEAD']).strip()
     context={'repository':'https://github.com/ravisingh11/agentbay-ultimate-list',
              'source_revision':catalogue_revision,'files':{}}
-    for relative in ('skills/catalog.json','data/preferred-providers.json','sync-manifest.json'):
+    for relative in ('skills/catalog.json','data/preferred-providers.json','data/disabled-skills.json','sync-manifest.json'):
         payload=subprocess.check_output(['git','-C',str(ROOT),'show',catalogue_revision+':'+relative])
         target=catalogue/relative;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(payload)
         context['files'][relative]={'sha256':installer.digest(payload),'bytes':len(payload)}

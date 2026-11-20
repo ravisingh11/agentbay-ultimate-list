@@ -138,7 +138,7 @@ Scheduled refresh and provider-discovery tooling lives in the private website re
 
 ## Public latest-PR score
 
-[AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. They are advisory reporting, not a current-main attestation or a rating of the linked third-party skills.
+[AgentBay’s Proof dashboard](https://ravisingh11.github.io/agentbay-ultimate-list/) and its README badge report this repository’s newest accepted PR scorecard. They show passed/active checks, the evaluated revision, source-run links and missing evidence. The dashboard leads with the latest PR results and retains the PR and merge examples below. These are advisory reports, not a current-main attestation or a rating of the linked third-party skills.
 
 The runtime and optional publisher use the checksum-verified Toolkit v2.3.3 release, pinned to `248d8f02e774e4f75af6ea2de49b466688dfae54`. `toolkit.lock.json` records its upstream file hashes. The repository adds a default-branch-only manual trigger to the pinned publisher workflow; workflow-run and six-hour reconciliation retain the upstream behavior. Future updates must preserve that intentional difference.
 

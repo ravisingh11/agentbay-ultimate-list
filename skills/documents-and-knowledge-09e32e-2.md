@@ -4,8 +4,10 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-1.md) · [Next →](documents-and-knowledge-09e32e-3.md)
 
-1,189 listings · Page 2 of 6
+1,192 listings · Page 2 of 6
 
+- **cosmos-framework-docs** — [Website](<https://github.com/NVIDIA/cosmos-framework/blob/50e883466491abacdcb69843e1e026479d927a95/.agents/skills/cosmos-framework-docs/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/cosmos-framework>) · **License: Unknown** · **★ 622** (as of 2026-11-08) · **NVIDIA · Official source** — cosmos-framework-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
+- **course-narration-studio** — [Website](<https://beatra.ai/en/skills/course-narration-studio>) · [GitHub](<https://github.com/beatra-ai/beatra-skills>) · **License: Unknown** · **★ 8** (as of 2026-11-08) — course-narration-studio is listed as an agent skill. Its catalogue topics include document and knowledge workflows, audio and speech workflows, and learning workflows.
 - **cportka/claude-plugins** — [Website](<https://github.com/cportka/claude-plugins>) · [GitHub](<https://github.com/cportka/claude-plugins>) · **License: MIT** · **★ 0** (as of 2026-11-08) — cportka/claude-plugins is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, security and privacy, and MCP tool integration.
 - **craaft/skill** — [Website](<https://github.com/craaft/skill>) · [GitHub](<https://github.com/craaft/skill>) · **License: MIT** · **★ 1** (as of 2026-11-08) — craaft/skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, authentication workflows, and software engineering.
 - **crawlbase/langchain-crawlbase** — [Website](<https://github.com/crawlbase/langchain-crawlbase>) · [GitHub](<https://github.com/crawlbase/langchain-crawlbase>) · **License: MIT** · **★ 0** (as of 2026-11-08) — crawlbase/langchain-crawlbase is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -204,7 +206,5 @@
 - **francesco-castronuovo/gsap-webflow-skill** — [Website](<https://github.com/francesco-castronuovo/gsap-webflow-skill>) · [GitHub](<https://github.com/francesco-castronuovo/gsap-webflow-skill>) · **License: Unknown** · **★ 0** (as of 2026-11-08) — francesco-castronuovo/gsap-webflow-skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **fruafr/skills** — [Website](<https://github.com/fruafr/skills>) · [GitHub](<https://github.com/fruafr/skills>) · **License: Apache-2.0** · **★ 6** (as of 2026-11-08) — fruafr/skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and deployment and cloud operations.
 - **FW1201/twa-edu-harness** — [Website](<https://github.com/fw1201/twa-edu-harness>) · [GitHub](<https://github.com/fw1201/twa-edu-harness>) · **License: MIT** · **★ 1** (as of 2026-11-08) — FW1201/twa-edu-harness is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
-- **FynePool/job-hunter-template** — [Website](<https://github.com/fynepool/job-hunter-template>) · [GitHub](<https://github.com/fynepool/job-hunter-template>) · **License: Unknown** · **★ 3** (as of 2026-11-08) — FynePool/job-hunter-template is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
-- **Fyzel/claude-skills** — [Website](<https://github.com/fyzel/claude-skills>) · [GitHub](<https://github.com/fyzel/claude-skills>) · **License: Apache-2.0** · **★ 1** (as of 2026-11-08) — Fyzel/claude-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and security and privacy.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-1.md) · [Next →](documents-and-knowledge-09e32e-3.md)
