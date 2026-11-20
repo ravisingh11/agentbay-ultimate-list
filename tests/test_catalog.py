@@ -169,6 +169,23 @@ class MaintenanceTests(unittest.TestCase):
         self.assertIn('skills/README.md',browse)
         self.assertIn('projects/README.md',browse)
 
+    def test_readme_refresh_date_uses_recorded_import_and_render_keeps_it(self):
+        manifest = {'last_refresh': {'at': '2026-11-08T22:28:30.144183+00:00'}}
+        first = catalog.render_browse([], manifest)['README.md'].decode()
+        second = catalog.render_browse([], manifest)['README.md'].decode()
+        self.assertIn('Catalogue refreshed **November 8, 2026**.', first)
+        self.assertEqual(first, second)
+        self.assertEqual(manifest['last_refresh']['at'], '2026-11-08T22:28:30.144183+00:00')
+
+    def test_readme_omits_unknown_or_malformed_refresh_date(self):
+        for manifest in ({}, {'last_refresh': {}},
+                         {'last_refresh': {'at': None}},
+                         {'last_refresh': {'at': 'invalid'}},
+                         {'last_refresh': {'at': 123}}):
+            with self.subTest(manifest=manifest):
+                readme = catalog.render_browse([], manifest)['README.md'].decode()
+                self.assertNotIn('Catalogue refreshed', readme)
+
     def test_write_refuses_symlink_before_changing_outputs(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory)

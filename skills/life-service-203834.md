@@ -6,11 +6,11 @@
 
 6 listings · Page 1 of 1
 
-- **grilling** — [Website](<https://github.com/mattpocock/skills>) · [GitHub](<https://github.com/mattpocock/skills>) · **License: MIT** · **★ 301,584** (as of 2026-10-23) — grilling is listed as an agent skill. Its catalogue topics include everyday tasks.
-- **parenting-expert** — [Website](<https://github.com/gaoren7716-lab/parenting-expert/blob/main/SKILL.md>) · [GitHub](<https://github.com/gaoren7716-lab/parenting-expert>) · **License: Unknown** · Stars: not recorded — parenting-expert is listed as an agent skill. Its catalogue topics include everyday tasks and learning workflows.
-- **qq-zone-photo** — [Website](<https://github.com/Wscats/qq-zone-photo>) · [GitHub](<https://github.com/Wscats/qq-zone-photo>) · **License: MIT-0** · Stars: not recorded — qq-zone-photo is listed as an agent skill. Its catalogue topics include everyday tasks.
+- **grilling** — [Website](<https://github.com/mattpocock/skills>) · [GitHub](<https://github.com/mattpocock/skills>) · **License: MIT** · **★ 307,560** (as of 2026-10-31) — grilling is listed as an agent skill. Its catalogue topics include everyday tasks.
+- **parenting-expert** — [Website](<https://github.com/gaoren7716-lab/parenting-expert/blob/main/SKILL.md>) · [GitHub](<https://github.com/gaoren7716-lab/parenting-expert>) · **License: Unknown** · **★ 4** (as of 2026-11-08) — parenting-expert is listed as an agent skill. Its catalogue topics include everyday tasks and learning workflows.
+- **qq-zone-photo** — [Website](<https://github.com/Wscats/qq-zone-photo>) · [GitHub](<https://github.com/Wscats/qq-zone-photo>) · **License: MIT-0** · **★ 3** (as of 2026-11-08) — qq-zone-photo is listed as an agent skill. Its catalogue topics include everyday tasks.
 - **sonoscli** — [Website](<https://sonoscli.sh>) · [GitHub](<https://github.com/steipete/sonoscli>) · **License: Unknown** · Stars: not recorded — sonoscli is listed as an agent skill. Its catalogue topics include everyday tasks.
 - **Todoist** — [Website](<https://github.com/mjrussell/agent-skills/blob/main/todoist/SKILL.md>) · [GitHub](<https://github.com/mjrussell/agent-skills>) · **License: Unknown** · Stars: not recorded — Todoist is listed as an agent skill. Its catalogue topics include everyday tasks.
-- **weather** — [Website](<https://github.com/openclaw/openclaw/blob/main/skills/weather/SKILL.md>) · [GitHub](<https://github.com/openclaw/openclaw>) · **License: Unknown** · **★ 392,853** (as of 2026-10-23) — weather is listed as an agent skill. Its catalogue topics include everyday tasks.
+- **weather** — [Website](<https://github.com/openclaw/openclaw/blob/2919a0dba8d80d3d73ddf8620e2d5a8f2e1271ca/skills/weather/SKILL.md>) · [GitHub](<https://github.com/openclaw/openclaw>) · **License: Unknown** · **★ 393,494** (as of 2026-10-31) — weather is listed as an agent skill. Its catalogue topics include everyday tasks.
 
 [Skills index](README.md) · [Home](../README.md)

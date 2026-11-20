@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,594 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,595 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)
 
@@ -10,7 +10,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 
 | Category | Listings | Browse |
 | --- | ---: | --- |
-| Agent development | 998 | [Page 1](agent-development-1eeae9-1.md) · [Page 2](agent-development-1eeae9-2.md) · [Page 3](agent-development-1eeae9-3.md) · [Page 4](agent-development-1eeae9-4.md) · [Page 5](agent-development-1eeae9-5.md) |
+| Agent development | 999 | [Page 1](agent-development-1eeae9-1.md) · [Page 2](agent-development-1eeae9-2.md) · [Page 3](agent-development-1eeae9-3.md) · [Page 4](agent-development-1eeae9-4.md) · [Page 5](agent-development-1eeae9-5.md) |
 | ai-agent | 47 | [Page 1](ai-agent-c1f78a.md) |
 | Audio and speech | 170 | [Page 1](audio-and-speech-52451d.md) |
 | Authentication | 94 | [Page 1](authentication-b9d906.md) |

@@ -59,6 +59,8 @@ Refresh reads AgentBay's published catalogue, enrichment, repository metadata an
 
 Upstream absence is not an automatic removal. A maintainer reviews a dead link, archive state, rights request or other reason and records an explicit exclusion in `data/curation.json`. Likewise, an upstream metadata update cannot erase a correction recorded here. A contribution does not automatically publish to the AgentBay website; maintainers can separately adopt it there. Recommendations and curation on AgentBay.io are not synchronized back into this repository. Imports transfer supported listing facts, not website recommendation rankings, favorites, notes or personal collections. Repository curation remains the reviewed additions, corrections and exclusions in `data/curation.json`. A local refresh is not a GitHub commit or push.
 
+The README displays the last successful upstream import date from sync-manifest.json. Offline rendering preserves it and omits unknown or malformed dates. The website finder tracks its own index refresh.
+
 If live APIs are unavailable, ordinary refresh fails before writing. A maintainer can deliberately choose the deployed static snapshots:
 
 ```sh
@@ -270,3 +272,15 @@ setup without service-specific action guidance and are discarded from this
 batch. Composio license fields remain unknown. Ad-library access and visible
 advertising duration do not establish campaign performance. Source metadata
 was reviewed; linked instructions and account operations were not executed.
+
+## November 20, 2026 refresh PR reconciliation
+
+The [refresh reconciliation](../data/refresh-reconciliation-2026-11-20.json)
+applies PR #14's committed November 8 import to current curation and aliases.
+All accepted listing IDs remain, later repository/star observations are
+retained, and the incoming installer listing keeps its stable ID with the
+current name and a direct pinned instruction source. Current curation is
+applied after import before deterministic regeneration.
+
+The README reports November 8 as the upstream import date. Today's offline
+reconciliation does not imply a fresh network import or a website index refresh.

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-20",
+  "source_pr": 14,
+  "source_revision": "bcb50dff9cf9e5b2b93a61a0b0e833d44a3e2a21",
+  "source_import_at": "2026-11-08T22:28:30.144183+00:00",
+  "source_catalogue_sha256": "af058d020b599beba9746ac5821fb48bcf03fe289324172bf50568c8ab03d0f3",
+  "reconciled_against": "9ffe4cd7c7b777208ba8739c1955bd7ad6e63a00",
+  "accepted_ids_preserved": 22951,
+  "retained_newer_observations": [
+    {
+      "id": "cd7508ff-c75c-50af-b128-0c807e1ed3e5",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "f9b45a04-b090-52ee-bde6-4b0863e6b163",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "983f4a8a-6b99-56c8-b4c0-955437f552b8",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "392c52ae-c5f4-5107-8171-f0341c325c50",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "5007cfbf-2a10-57e9-b937-93e39fa89f4d",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "769fae41-259d-5bbe-8419-b7f4cfdf5ba0",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "2db52439-bf85-5de0-adf8-3796940c236c",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "90ae976a-be91-563d-8ae9-2506e7cc1471",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "2d47adfc-929b-5825-9fd8-af646d7dcc9f",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "6de820f5-f602-55d8-80b5-34a78ac1d8fa",
+      "observation": "github_stars_checked_at"
+    },
+    {
+      "id": "3b92772b-0908-55f7-9f9b-57e561fc3d4c",
+      "observation": "github_stars_checked_at"
+    }
+  ],
+  "result": {
+    "entries": 22952,
+    "new_entries": 1,
+    "aliases": 200,
+    "automatic_removals": 0
+  },
+  "note": "Reconciled the committed November 8 import with current curation and later observations. No live import was run. The README date reflects the source import timestamp."
+}

@@ -10395,6 +10395,30 @@
           "note": "Canonical GitHub repository ID and owner ID match redirect evidence; repository is public, active and not a fork."
         }
       ]
+    },
+    {
+      "id": "8844548a-03dd-521a-afa3-44ba9016e22a",
+      "fields": {
+        "name": "AgentBay Skill Installer",
+        "website_url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/cc98eacc3fe3e4fc3e4981c538e1eda7844a29ea/skills/agentbay-skill-installer/SKILL.md",
+        "categories": [
+          "Agent development",
+          "Skill discovery"
+        ],
+        "tags": [
+          "SKILL.md",
+          "Skill discovery",
+          "GitHub",
+          "Agent skills"
+        ]
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ravisingh11/agentbay-ultimate-list/blob/cc98eacc3fe3e4fc3e4981c538e1eda7844a29ea/skills/agentbay-skill-installer/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "The imported self-listing used the historical Skill Finder name and a website redirect. Matched the maintained, checksummed installer source at merged PR #22 and retained the incoming stable ID."
+        }
+      ]
     }
   ],
   "exclusions": [
