@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-4.md) · [Next →](software-development-e36077-6.md)
 
-11,505 listings · Page 5 of 58
+11,508 listings · Page 5 of 58
 
 - **arize-link** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/arize-link/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — arize-link is listed as an agent skill. Its catalogue topics include software engineering.
 - **arize-prompt-optimization** — [Website](<https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/arize-prompt-optimization/SKILL.md>) · [GitHub](<https://github.com/github/awesome-copilot>) · **License: MIT** · **★ 40,378** (as of 2026-10-25) · **GitHub · Official source** — arize-prompt-optimization is listed as an agent skill. Its catalogue topics include software engineering.

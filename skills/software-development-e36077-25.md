@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-24.md) · [Next →](software-development-e36077-26.md)
 
-11,505 listings · Page 25 of 58
+11,508 listings · Page 25 of 58
 
+- **gke-workload-identity** — [Website](<https://github.com/google/skills/blob/e0ac7bdbe2611699fa615bd93c3b5628f4d3faab/skills/cloud/gke-workload-identity/SKILL.md>) · [GitHub](<https://github.com/google/skills>) · **License: Apache-2.0** · **★ 21,557** (as of 2026-10-25) · **Google · Official source** — gke-workload-identity is listed as an agent skill. Its catalogue topics include software engineering.
 - **gke-workload-scaling** — [Website](<https://github.com/google/skills/blob/e0ac7bdbe2611699fa615bd93c3b5628f4d3faab/skills/cloud/gke-workload-scaling/SKILL.md>) · [GitHub](<https://github.com/google/skills>) · **License: Apache-2.0** · **★ 21,557** (as of 2026-10-25) · **Google · Official source** — gke-workload-scaling is listed as an agent skill. Its catalogue topics include software engineering.
 - **gke-workload-scaling-troubleshooting** — [Website](<https://github.com/google/skills/blob/e0ac7bdbe2611699fa615bd93c3b5628f4d3faab/skills/cloud/gke-workload-scaling-troubleshooting/SKILL.md>) · [GitHub](<https://github.com/google/skills>) · **License: Apache-2.0** · **★ 21,557** (as of 2026-10-25) · **Google · Official source** — gke-workload-scaling-troubleshooting is listed as an agent skill. Its catalogue topics include software engineering.
 - **gke-workload-security** — [Website](<https://github.com/google/skills/blob/e0ac7bdbe2611699fa615bd93c3b5628f4d3faab/skills/cloud/gke-workload-security/SKILL.md>) · [GitHub](<https://github.com/google/skills>) · **License: Apache-2.0** · **★ 21,557** (as of 2026-10-25) · **Google · Official source** — gke-workload-security is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **hah23255/adb-android-control** — [Website](<https://github.com/hah23255/adb-android-control>) · [GitHub](<https://github.com/hah23255/adb-android-control>) · **License: MIT** · Stars: not recorded — hah23255/adb-android-control is listed as an agent-skill repository. Its catalogue topics include software engineering and workflow automation.
 - **haiku** — [Website](<https://github.com/databricks/appkit/blob/5a449a7be4448c4467193acf188ebda9c191c545/apps/dev-playground/server/agents/query/skills/haiku/SKILL.md>) · [GitHub](<https://github.com/databricks/appkit>) · **License: Apache-2.0** · **★ 112** (as of 2026-10-24) · **Databricks · Official source** — haiku is listed as an agent skill. Its catalogue topics include software engineering.
 - **HaiYangBG1/BuildBeat** — [Website](<https://github.com/haiyangbg1/buildbeat>) · [GitHub](<https://github.com/haiyangbg1/buildbeat>) · **License: MIT** · Stars: not recorded — HaiYangBG1/BuildBeat is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **hamza-ali-shahjahan/hamzaish** — [Website](<https://github.com/hamza-ali-shahjahan/hamzaish>) · [GitHub](<https://github.com/hamza-ali-shahjahan/hamzaish>) · **License: MIT** · Stars: not recorded — hamza-ali-shahjahan/hamzaish is listed as an agent-skill repository. Its catalogue topics include software engineering and document and knowledge workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-24.md) · [Next →](software-development-e36077-26.md)

@@ -34,7 +34,7 @@
   "source": "https://agentbay.io",
   "maintainer": "AgentBay",
   "update_policy": "Add and update upstream entries, preserve reviewed local changes and absent records; removals require curation.",
-  "entry_count": 22943,
+  "entry_count": 22951,
   "unique_repository_count": 9163,
   "catalogue_license": {
     "spdx_id": "MIT",
@@ -43,7 +43,7 @@
   },
   "inputs": {
     "data/curation.json": {
-      "sha256": "e48022fda24fb74efbe063f016d3c8ab6bd3504672daba2ca3a6224147a830c6"
+      "sha256": "418b52573f80eedf61c52b2e45af9479ecc0c90ef9b10d6caff8509328cb9fce"
     },
     "data/preferred-providers.json": {
       "sha256": "929a6a3a2eb1fb978907ccb9346e5b05bc40e74123be9c0476ba9017f1ecd640"
@@ -63,7 +63,7 @@
   },
   "derived_exports": {
     "skills": {
-      "entry_count": 22586,
+      "entry_count": 22594,
       "json": "skills/catalog.json",
       "csv": "skills/catalog.csv"
     },
@@ -260,19 +260,19 @@
   ],
   "files": {
     "README.md": {
-      "sha256": "918c07857fe84228d1012d46d41099189edf77eda964f6a0738e1cc9fd21d9d6",
+      "sha256": "d2eef88f33ccc286bc66caa3a56e7277eda9a820f7ccb26353ff59c7d8d69816",
       "bytes": 10197
     },
     "catalog.csv": {
-      "sha256": "ea2ee02794cf5ca6b0637f2f3411df945372ada633a1c3dcde1ad27c79075e9a",
-      "bytes": 15233068
+      "sha256": "48b0e7d0c6ed4d473a796b68f8940b56e84d1f609068143da88bee515612deec",
+      "bytes": 15238804
     },
     "catalog.json": {
-      "sha256": "25745132586e39a6761c275bcbab58958f53e538f87287793037f9728e73e672",
-      "bytes": 25938337
+      "sha256": "192108ec4a65b0b3fd2888999abbf82a9e95097f1c2d6ce2638e8830f7a9b8e3",
+      "bytes": 25947799
     },
     "docs/providers.md": {
-      "sha256": "283e6ed35c8c79f58e2d84703c78a73bcdd61a9e4927d5b4ea27a15e45080e9c",
+      "sha256": "2bca79ef6cf11b5ea54c12d2fb887ee0a05feda9fe4f5a9f985a6a019881ce97",
       "bytes": 2348
     },
     "projects/README.md": {
@@ -400,11 +400,11 @@
       "bytes": 9508
     },
     "provenance/descriptions.json": {
-      "sha256": "f960aacb23fee451a464223351c553a9b8533176247ae5a54ade4c98adb251ac",
-      "bytes": 10128998
+      "sha256": "8bbc73775f3df873bca93d3422348f107144177747fe40417bdae72658fc184f",
+      "bytes": 10132568
     },
     "skills/README.md": {
-      "sha256": "4a4a5016580d5122343deaca723a4cce880f15dbb66847f95b950bb8ed31b993",
+      "sha256": "c98561d74442138cd4aab38804cc35cb565c3d562ef11d206144f1d6192f3883",
       "bytes": 8757
     },
     "skills/agent-development-1eeae9-1.md": {
@@ -456,12 +456,12 @@
       "bytes": 8577
     },
     "skills/catalog.csv": {
-      "sha256": "2c545fd9088d1bcbd1748c6a440c4b7c8bb3c10fcf3001ef50390e8e46c9271e",
-      "bytes": 14998445
+      "sha256": "3f7d06dafd4a9d4139b5dcf80f3c42bf73a33561ef2dcbf21b7f271d26423060",
+      "bytes": 15004181
     },
     "skills/catalog.json": {
-      "sha256": "4add73566219f7958e47ddce0a5f54e05ef7b6a907c71a4a37343e4769826be5",
-      "bytes": 25536406
+      "sha256": "c46f9c6da75f6dbde0cc824a98ee273e0d2ace5d60d55a567abed16da0c403d3",
+      "bytes": 25545868
     },
     "skills/content-creation-b3b99b.md": {
       "sha256": "189cc089bc3ea42a23fca1d15a92025d9db4547ee27232f1620f2d0bc077fee9",
@@ -536,28 +536,28 @@
       "bytes": 179406
     },
     "skills/documents-and-knowledge-09e32e-1.md": {
-      "sha256": "2dfc179762ef352dcfded3e612c527fbc2b46f10eaf7e5ab5beb034465b046c9",
-      "bytes": 74068
+      "sha256": "a98adf7e088ac976d68e03bdae6df1ea523a8257fb19f6f01e87921c2b868468",
+      "bytes": 74035
     },
     "skills/documents-and-knowledge-09e32e-2.md": {
-      "sha256": "62a5b7aac6e0d93386d1fd6e06860db7fc165d16ba256c3061428875a9f7faf3",
-      "bytes": 76802
+      "sha256": "d392943b85494e793e1ded667467d4567e4652f818cff954c72f9c3074cb49da",
+      "bytes": 76903
     },
     "skills/documents-and-knowledge-09e32e-3.md": {
-      "sha256": "0784cfdf6643dc32c9947b39fd3c14bccfc172a2a55e085c4c3829563a2197f5",
-      "bytes": 72233
+      "sha256": "23f2787d26b8a75f06a5406aabe76a9b2260e5ab3b1a2d0531da3b406da64be6",
+      "bytes": 72318
     },
     "skills/documents-and-knowledge-09e32e-4.md": {
-      "sha256": "e146f0681494e6b58c3c7a985b1a7b0b2db30fefcd35597159b17ca78be2d5f7",
-      "bytes": 72810
+      "sha256": "e5c394cec495fad385cdde110d440365990c389bc99cb9aecd6badc35200cba5",
+      "bytes": 72725
     },
     "skills/documents-and-knowledge-09e32e-5.md": {
-      "sha256": "ab1a7eaa829b918b65fc905de9665d0f880c11d75b07b9621dd42e0865dfa061",
-      "bytes": 73367
+      "sha256": "97ac177d5f7e81a10e31618fe8e0c428c56dd8dfb6faec2e604f75f22d8b3d7c",
+      "bytes": 73368
     },
     "skills/documents-and-knowledge-09e32e-6.md": {
-      "sha256": "7788cb80958f14084e3dfaef33d3912e3eb9c835b3c8c9a717e2809f9e4fc741",
-      "bytes": 69717
+      "sha256": "e6c9a13c4000d37f438c4d786998687d36a89fc408662f9315ece309f778e9fb",
+      "bytes": 70529
     },
     "skills/education-68bf01.md": {
       "sha256": "fcc075c2ce07416f4c5b3b92a65fd17af23d44a71edec3f1652b0d7f7f60dfd2",
@@ -620,16 +620,16 @@
       "bytes": 846
     },
     "skills/planning-and-project-management-c7d267-1.md": {
-      "sha256": "993ad28bc6d4c4f125362f15279b6c01a354a80870fbc4e8becbfc5a6292e299",
+      "sha256": "8524becff31931a460276d37f230a7377e64e5653d68d690712d5ab0eb956162",
       "bytes": 72442
     },
     "skills/planning-and-project-management-c7d267-2.md": {
-      "sha256": "74aa0365faf4353149071181d930149b23d0fad7e3f05ee7b8face3e86e4a1d2",
+      "sha256": "079470d61471d43c8fdb0150a60eea871d7d2bdb62ba8d21f003561d98ec9ec7",
       "bytes": 72369
     },
     "skills/planning-and-project-management-c7d267-3.md": {
-      "sha256": "c9f29421e6ec77b06569ca0dc8854deb0e684479eb0f361fa143dfd7070a54c3",
-      "bytes": 67567
+      "sha256": "5b7073bd9b69df307ea550e9842826c8053d75de28316361287b96b899e25c6c",
+      "bytes": 68374
     },
     "skills/product-management-skills-by-pawel-huryn-cedcfc.md": {
       "sha256": "99e498b1ad9ce0c690801887929e3206f49ffde5a7a93f93120e1d8aeb073686",
@@ -676,8 +676,8 @@
       "bytes": 18403
     },
     "skills/sales-and-marketing-072784.md": {
-      "sha256": "23b4783449a6966f552fee3ff48f7207dff3a16f514aac108fae30de7bd0391b",
-      "bytes": 50816
+      "sha256": "84a542484b20c450db7f151160fa8486db32580d179efde2cf1e6381c53dfa9c",
+      "bytes": 51238
     },
     "skills/search-optimization-06110c.md": {
       "sha256": "98ab86ca3900bc12fdcfa0551228861623a3231fe012fc3074afa57d8d3227a7",
@@ -700,236 +700,236 @@
       "bytes": 64161
     },
     "skills/software-development-e36077-1.md": {
-      "sha256": "27c32cf1d80fd3ff99843f05c95b74e391d114ec8386fb325ca4430c73b17c20",
+      "sha256": "8302315045eaba6e9611176a082cf5f0c404554401b9e1fcfc6087e06b51c29d",
       "bytes": 85663
     },
     "skills/software-development-e36077-10.md": {
-      "sha256": "6b09d7afb3d1c8ad7a4491782bc7f1ef4e798f7543965fb2928e4eb9116fd702",
-      "bytes": 88750
+      "sha256": "e8b4c90c5425e05616f4fc830c9eead38e49e8cc94720f6730dd90b15b95f517",
+      "bytes": 88737
     },
     "skills/software-development-e36077-11.md": {
-      "sha256": "ea8d1f46acee296a6070def6f6f825234a365e23446dd8f14a5b8d47f05b4041",
-      "bytes": 83282
+      "sha256": "4ac7c94131b8bfeb89d1d735819c759f8e19c289a67c391f26e24c47afbcaf8b",
+      "bytes": 83390
     },
     "skills/software-development-e36077-12.md": {
-      "sha256": "d8eba54b4a3fe43d09ea758281b1364e7325b104120140de3f5dc9f7007c27d0",
-      "bytes": 83500
+      "sha256": "a94d74f766fca01aa8feeccd4ebd5dac0c22893b35780c5def28c3286f353907",
+      "bytes": 83435
     },
     "skills/software-development-e36077-13.md": {
-      "sha256": "0f0fd96ece9bb4dca7666d051088570a1be40c0b05407274febccbc344b2b24d",
-      "bytes": 89142
+      "sha256": "e57082a0ccfe2f38517ddb5ddfc66e556186ac5ae858725658ac4ec79331f920",
+      "bytes": 89155
     },
     "skills/software-development-e36077-14.md": {
-      "sha256": "8022179dd538b379461cd9bd0151777b3e9c1de2d262aefa2cddbc00996b671f",
-      "bytes": 85869
+      "sha256": "926f21ee0412d0db81c2c5915d6263d0b07bf26f50738e5789dbe4af97938373",
+      "bytes": 85855
     },
     "skills/software-development-e36077-15.md": {
-      "sha256": "ad2745496057af33927a18018560456576a7ee481bca985f3683d53928af6769",
-      "bytes": 88265
+      "sha256": "eda81b2a44e9dc381a4cb59227f37217b9cd244d2357a073480cdbb2b4b20f5a",
+      "bytes": 88270
     },
     "skills/software-development-e36077-16.md": {
-      "sha256": "3467be61dc348930281a51fab4c693979af15d8fb709d64764c53a0b57f31cc1",
-      "bytes": 86073
+      "sha256": "8959ef7faf0886c11ef25e43b9668e0c60908d43b7a88004ac7afa51a152a730",
+      "bytes": 86065
     },
     "skills/software-development-e36077-17.md": {
-      "sha256": "17082ca76ae8bd0d13eefaa7ccaead2ffc4a25ce72a9e750c6dee41de0d9375e",
-      "bytes": 84391
+      "sha256": "efc5a9d52d8975819bc9dcf52f1bafa6a9458fd4ba01ac150eab2da0a2d18154",
+      "bytes": 84386
     },
     "skills/software-development-e36077-18.md": {
-      "sha256": "f80d4da60a8c8658e3915b3358aac3a2498f12b9601b61a17897f24e418734ee",
-      "bytes": 85069
+      "sha256": "da58cff443eb01e3c26bfb046b5b5fc7b37b6ced1bc5b164f8a88028d3dd6ba8",
+      "bytes": 85070
     },
     "skills/software-development-e36077-19.md": {
-      "sha256": "b2420309560d8b1d6b3d823b1b6913d64bd6ecc45c879b57f31bad1d5641ae8f",
-      "bytes": 86948
+      "sha256": "4d490dddde1328809dfb45379ce5767f91a3316250f25bde22564d689491de4c",
+      "bytes": 86988
     },
     "skills/software-development-e36077-2.md": {
-      "sha256": "83b27ae171c9649ee272103b7d55d568be3b44bc10f591b9aa5afeb3a43b1b46",
+      "sha256": "7ea4c8eea7027068d86599a33526ca3847648a5a6874f9981fe76ff561a5e3c7",
       "bytes": 84093
     },
     "skills/software-development-e36077-20.md": {
-      "sha256": "54986002dd9cc8f38a85a51f71e712cc8cbd5a66eea2926e9e12e362cf9fc418",
-      "bytes": 86464
+      "sha256": "4f01d89d0ff89d04b50bc82b8a8e86295c4787074ce60991c55f48cc4490cfdb",
+      "bytes": 86421
     },
     "skills/software-development-e36077-21.md": {
-      "sha256": "19dbcc990c6c6f705334165797cb10a6014e362dcddf5049a65ef8c110a1cec8",
-      "bytes": 84568
+      "sha256": "f6aa5b174d131c437d13a813597a6533dfd8542dae4101bd021db7115afd5067",
+      "bytes": 84569
     },
     "skills/software-development-e36077-22.md": {
-      "sha256": "b3ea93b2d5bf53a2f07034a064d083a1b0ef7b737ae9f85cc2ee839dcb756b90",
-      "bytes": 86549
+      "sha256": "c2e0a1794de47d7d9659f9f575840410c7abf0802a4a820c777875efca1e929c",
+      "bytes": 86578
     },
     "skills/software-development-e36077-23.md": {
-      "sha256": "b8480d67cd4d340dcad4441aac5f30bcccd84ddbf171d7e0cbd54e4af81edc2a",
-      "bytes": 88780
+      "sha256": "b1ee4a51f19f8367ebbb6854326c4ea1a3d8602db930b030d6e2a1ce1d9042ed",
+      "bytes": 88697
     },
     "skills/software-development-e36077-24.md": {
-      "sha256": "bcac8c14ddcc906f33d6a4dff4241c986961ac3fd3ea11f7a9668d2fe4cac9ca",
-      "bytes": 87163
+      "sha256": "fc3509a2a4b31ee9ada8f85da49d75bad9748a797d9c4bb831e8978e68983a3a",
+      "bytes": 87242
     },
     "skills/software-development-e36077-25.md": {
-      "sha256": "9cfff5096f1c98a4fceed07cc3b1deb683cb8d3b65035938a791f1551e9e041d",
-      "bytes": 83107
+      "sha256": "87c29e1e65ae699de5738e1700bb40cac009b334c886196c4c60d5b17edce599",
+      "bytes": 83159
     },
     "skills/software-development-e36077-26.md": {
-      "sha256": "e5ddded2b7bdca7c1dafbab93f0292e8b74210861f936e776e859e6e18afed26",
-      "bytes": 82915
+      "sha256": "a32378bd72f6e336c8bc500753e7db098a7e9e1c6774b6fa158884d5ddb72418",
+      "bytes": 82830
     },
     "skills/software-development-e36077-27.md": {
-      "sha256": "a8ee81f91981f2ecfec4725a2c1d64186f9c1e4d42031ec7ea9f6206ec9e5a1d",
-      "bytes": 86904
+      "sha256": "935ec7ff5cf41a9dfef17f0f224d37767413f89b2a178c475802640aac7a9030",
+      "bytes": 86907
     },
     "skills/software-development-e36077-28.md": {
-      "sha256": "790a3d4a07f9616d0dfa3bbb4a177e62e8423c8d82d8fb676f210e62a541164f",
-      "bytes": 85331
+      "sha256": "f8b1e2997ac5aa00a8d525793407a391b0fbf1c6522af89278daaf843ea88579",
+      "bytes": 85510
     },
     "skills/software-development-e36077-29.md": {
-      "sha256": "a97fdd2a8896640aa569cae3ce71df940ba71beb7a20f19f503556207fd9ebcb",
-      "bytes": 80155
+      "sha256": "843a13405ae8ac3df01e7cc040f577df18c2d0ff1c6b9189ae5a860559f70a89",
+      "bytes": 80153
     },
     "skills/software-development-e36077-3.md": {
-      "sha256": "19f0a761b4665bce06ed38a17f35eaaf050618c97cdf2d78dea78984c5aecaad",
+      "sha256": "f0a37cd2fb70b1e4803d30bde9b2e5e2c974fea857bbb356ab72c2f7cb9a96d2",
       "bytes": 87064
     },
     "skills/software-development-e36077-30.md": {
-      "sha256": "d000157ec58f6ff6773f80bd9c2ac611a2b8be15f01a34b69b7349b3c609c49d",
-      "bytes": 82704
+      "sha256": "ce1bba446b45574b60da7f17aa21692d8f5a2502d9e87728e587b45c03154ca0",
+      "bytes": 82597
     },
     "skills/software-development-e36077-31.md": {
-      "sha256": "b01557ef09f06329497ebc6c533c11eae4c67734b48071f0d0e1bed2b1d78071",
-      "bytes": 84664
+      "sha256": "26c4da721c7c94c26c46b694cfd21160af6800953618476b2f8a972dfd625b25",
+      "bytes": 84620
     },
     "skills/software-development-e36077-32.md": {
-      "sha256": "a209ea08d6d00863aae787aa70e6f376f7c4bf7a207f3aba5cfda3b2c749e007",
-      "bytes": 83706
+      "sha256": "b4c46b1669a7836542ec8268839636fe05855c1b2d54b9ea3deb29dbfd002fc3",
+      "bytes": 83629
     },
     "skills/software-development-e36077-33.md": {
-      "sha256": "40f7805f47caedd92ba77f46c363069de449cc6a83723fd2231a86133a540323",
-      "bytes": 92141
+      "sha256": "4b2c2cf7564d472091a448bbecc4511d9d9faf182dda106f0f286d5347e78fbd",
+      "bytes": 92155
     },
     "skills/software-development-e36077-34.md": {
-      "sha256": "25613e8d70f1e721512f238246174f249a247482d77fa220a66f7ed8e51d8d73",
-      "bytes": 84550
+      "sha256": "d4f3b2e6177d2e470f94635aecf03cf0df85faed57cdb0088da726dd71e71b72",
+      "bytes": 84646
     },
     "skills/software-development-e36077-35.md": {
-      "sha256": "4ac6128382f2c3efe38f9a8c88ded72e42ba55e9a6f86817c66d893f89ba4e30",
-      "bytes": 85027
+      "sha256": "f2bc25183c0194cc39b3a8ae9e2729480898db49211bef31425393d2a4b00fbd",
+      "bytes": 85064
     },
     "skills/software-development-e36077-36.md": {
-      "sha256": "1c0542dc9aafc9a3d76332110d05f54b41594229dcbfb73d17d5e7c570d7a934",
-      "bytes": 84035
+      "sha256": "04089f62e0ef734cb99cd7ced0b4d06611cbfb2ab767ecc8f4c5db447a62dbe7",
+      "bytes": 83978
     },
     "skills/software-development-e36077-37.md": {
-      "sha256": "3f421f00ab78afcb1acb839a3236deb62c61dc472e29466c0985f1cf4132fe06",
-      "bytes": 82802
+      "sha256": "cd9f56fcafd0688a963c7e225160707e1ac03d6b769526ea738e30e9678b6e5a",
+      "bytes": 82803
     },
     "skills/software-development-e36077-38.md": {
-      "sha256": "3691cc96abe48fca549e71a6e79953fb7a5d4e7d27c3e3e4daaadf3d9921d89e",
-      "bytes": 86399
+      "sha256": "2ed6fb25760fa98593e2db90c73842e969d32662507de405dac9048d7f524090",
+      "bytes": 86413
     },
     "skills/software-development-e36077-39.md": {
-      "sha256": "3629182a6c5fa9c285c8f112fad64e6c2eddeaab2acb47185f58d2559d0d383c",
-      "bytes": 86497
+      "sha256": "72f578650fa6c6f9c59449392f1ec52e3243ffe11818f2b8f6c746c22dda402b",
+      "bytes": 86307
     },
     "skills/software-development-e36077-4.md": {
-      "sha256": "c28cda60d5302f8faef5f7d19eb3c7d3624e4c20abec09b62df612c4b4998bd2",
+      "sha256": "75ce505f777271ceef1a86b5fb237154f34cfc01733707b730090c977f54f467",
       "bytes": 85544
     },
     "skills/software-development-e36077-40.md": {
-      "sha256": "5e161baba79579421f28d7eb51c2cfa5f7cdfe703927b0199c71d94e0d3576cd",
-      "bytes": 87338
+      "sha256": "c29bd69e17475cb087cc6252e6b23744e8379cf2055b417a306ceb4d2253d597",
+      "bytes": 87465
     },
     "skills/software-development-e36077-41.md": {
-      "sha256": "ffcd90d497516a973aef8ca1e61c67ed82c0275bbe0b5fa119e61b4200642c92",
-      "bytes": 84952
+      "sha256": "947974b5db0881c770fac1a21cc3612aa25041b4354371b255421f49d2b558a5",
+      "bytes": 84833
     },
     "skills/software-development-e36077-42.md": {
-      "sha256": "03d5419a20ab36696504dd8810bbd912de54be86cd6fedacc2ac90b083cb0dd1",
-      "bytes": 86734
+      "sha256": "ef12fc739c87eace33ca2f40ab2a36ccc3da99d8aa033325321d4ab2c9587b79",
+      "bytes": 86846
     },
     "skills/software-development-e36077-43.md": {
-      "sha256": "e04c8aa2e29adb3fe2a3ecbaea6a89c3492d162c76483edf8ef56cee8ef4bdc1",
-      "bytes": 86675
+      "sha256": "10cfd33a6fefc991140888a411901306f0932baa62b91cee3212e389625c3418",
+      "bytes": 86792
     },
     "skills/software-development-e36077-44.md": {
-      "sha256": "ffc387b45f0d078fea2eb3abbd65ae14b0cbcbf53ad77b3830d982fcfc8fa5d1",
-      "bytes": 85551
+      "sha256": "9bc7896fdace4043730fbaeb042cfaff14ddde75ea728ed0c3ade3635a00fba6",
+      "bytes": 85464
     },
     "skills/software-development-e36077-45.md": {
-      "sha256": "5fe928c66ac4d0458e514a9110aad7fcd91122f4a19c22e3761cf7e6befd8bcf",
-      "bytes": 85352
+      "sha256": "b5206183e1690102e8887386b2a9b270b2cdf6226ef25d7d4c4d29005b1cd4b4",
+      "bytes": 85364
     },
     "skills/software-development-e36077-46.md": {
-      "sha256": "eeb3f77d27c498ae7344df6a1d492da64021010cc57a688c68dc6faaaf363598",
-      "bytes": 85187
+      "sha256": "f34da96feed901a7b38c09f62fc40ee32d03de669809eaefb4ef99607f087ffe",
+      "bytes": 85140
     },
     "skills/software-development-e36077-47.md": {
-      "sha256": "1ea45e99765a7ad180a712b686435c422a9f211ce8582652b5dc68757bb8b9a6",
-      "bytes": 85897
+      "sha256": "d13f3f569ddfebb9af045d12d8776b471c89d44f4286627efa73e521c4b9418a",
+      "bytes": 85759
     },
     "skills/software-development-e36077-48.md": {
-      "sha256": "1466b9e7840b771b5d1a4fa2e06a2552275a4e5a98704c1b2d0dd124e67717a4",
-      "bytes": 86595
+      "sha256": "41fadefb9fc001154ed1b1713c4df22657da1ef0845b7027a68a89cbfa918e00",
+      "bytes": 87072
     },
     "skills/software-development-e36077-49.md": {
-      "sha256": "445a4e51f893cd63b636872922cad9002c6fa637c2497208260eebae9ac5cfb3",
-      "bytes": 85498
+      "sha256": "2d1751ac1f700af0807d372daf25f3d29725afc4ccf54459440f2ba9fccd2c2a",
+      "bytes": 85109
     },
     "skills/software-development-e36077-5.md": {
-      "sha256": "68b0748da22d52d4b2ff9e2db092fdac8fb9300d541363b109ab201efa043956",
+      "sha256": "4062f2c49b5ea2c3c77c604a0116ecd0a82966e0baa4a26ffdbe2144aa9ef78e",
       "bytes": 86825
     },
     "skills/software-development-e36077-50.md": {
-      "sha256": "a3eec68ff614d317cd19a7d66b70c3be3e230f15e35c626befd84f853fc189f7",
-      "bytes": 86400
+      "sha256": "f2b9a9ad053321034248aabc5d6d6a314422ffcec58118b3de34d140dd097edc",
+      "bytes": 86398
     },
     "skills/software-development-e36077-51.md": {
-      "sha256": "9addcce608c388bb9e7d782abf21b402eee0f3d187dfdfe96597eaf164b2713e",
-      "bytes": 85808
+      "sha256": "6f49e3725b4437c16b03d95358f07bffd7bf875aafeab120a9f45935e0581dcf",
+      "bytes": 85910
     },
     "skills/software-development-e36077-52.md": {
-      "sha256": "f323d3f9a91f886f2aff72a45d93a7b155134cd30be6491af1b62f6a113537f0",
-      "bytes": 84020
+      "sha256": "79c687758569eed7f62ed7bf1cc8790c60e21581834705a2112ac4d2608abe21",
+      "bytes": 83810
     },
     "skills/software-development-e36077-53.md": {
-      "sha256": "130ea060e4e9b11d97fb9985c65cf3f58725a4d2154f4dacf763b88447a9cfd0",
-      "bytes": 86822
+      "sha256": "170c2c44d040c68f6911a394755ddcaf3fc20be92bb312b364d10b0c36ef19a4",
+      "bytes": 87055
     },
     "skills/software-development-e36077-54.md": {
-      "sha256": "8db90fd51bca948a1176305ab22ddaf97220507904f2c845b42df66c7b1ded30",
-      "bytes": 85921
+      "sha256": "9cea41c3cb227b6fa500f7f109b1d9f7be649874b3b3c3d66df937d990085295",
+      "bytes": 85946
     },
     "skills/software-development-e36077-55.md": {
-      "sha256": "85e809c7b9e7082826e1c6556baa9bebfacac0206e8fbd6f607d0967816700be",
-      "bytes": 84157
+      "sha256": "98352570a9a6c7820c80b9086b03a4cd35b77352b34b36cd40cd51402d6488e0",
+      "bytes": 84251
     },
     "skills/software-development-e36077-56.md": {
-      "sha256": "017584a7d797f32304ce557b0263ccbda99a0e61c3fcbc09b214f434429c67e8",
-      "bytes": 85825
+      "sha256": "072c09d4270058480ececb69f87ae80f249449e2f5c1cd95aba13373eebc17ae",
+      "bytes": 85566
     },
     "skills/software-development-e36077-57.md": {
-      "sha256": "71f36e8794ffd6b7062ce342fe136c093eba87c67323621ac1f08f62b7e6ca66",
-      "bytes": 85360
+      "sha256": "324e48cde620fc5949d6b3b0674225c4ce315a162d561cfbe7c0a417a34f5ec2",
+      "bytes": 85573
     },
     "skills/software-development-e36077-58.md": {
-      "sha256": "0e61212e735523c3b31db9c722d2622dfe694d6cf202e185a1eba514f9be2c22",
-      "bytes": 39865
+      "sha256": "743930291553bc853c40a01389c4761c258e3f72bd7923c1b8550383fb4811d0",
+      "bytes": 41035
     },
     "skills/software-development-e36077-6.md": {
-      "sha256": "626ea1b4fa4254dacda59076b64af238510f23fdc009aca3da71a2a9fd80057d",
+      "sha256": "af158154fd0dbc3016fd85d5c863d5b7eeb3a62ebd88e924413eee4b6727f481",
       "bytes": 89809
     },
     "skills/software-development-e36077-7.md": {
-      "sha256": "50e6ae38c4b12a6b97b5ca0cf7cc9ee54535b85d487f857aa9ac4872bd16a261",
-      "bytes": 92658
+      "sha256": "5ea29d2b513b387bee4bbcab7131437cf40728d66aa81007ac4adc56d9d5c98c",
+      "bytes": 92651
     },
     "skills/software-development-e36077-8.md": {
-      "sha256": "c6fd20a4d70a0ec12d071a9aaecfc34884032eac05a0416d83a7fd223335aa4b",
-      "bytes": 85629
+      "sha256": "6b7098cb648cbdd060758a1cdf60efa70d01bf2c60ff474686707ed95afe41da",
+      "bytes": 85686
     },
     "skills/software-development-e36077-9.md": {
-      "sha256": "df2b67f4629be508e233620de941351c53da514f0f65c75cab1e6b97d68c4137",
-      "bytes": 84750
+      "sha256": "0832c1bd6954fa33f6f6e523666d9b8cb63f59f242a0fa1543796e206a736b2c",
+      "bytes": 84682
     },
     "skills/software-testing-a19c6d.md": {
       "sha256": "74aceab56604901d7364995a751f12a9b6d362c6f9c1c16127db9b94b8eecc04",

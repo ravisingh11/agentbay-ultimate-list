@@ -87100,6 +87100,37 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+    "name": "azure-typespec-author",
+    "description": "azure-typespec-author is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "TypeSpec",
+      "API",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "e348d73e-60d9-57a1-8738-de3870e61341",
     "name": "azure-typespec-author",
     "description": "azure-typespec-author is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -125203,6 +125234,35 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+    "name": "changelog-generator",
+    "description": "changelog-generator is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Git",
+      "Release notes",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "41576738-8f12-50dc-a12f-657b74d54978",
     "name": "changelog-video",
     "description": "changelog-video is listed as an agent skill. A specific capability summary has not been established from the available catalogue metadata.",
@@ -145717,6 +145777,35 @@
     "agentbay_url": "https://agentbay.io/?project=a3dd06f2-6085-596f-b486-9ad804040d04#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+    "name": "competitive-ads-extractor",
+    "description": "competitive-ads-extractor is listed as an agent skill. Its catalogue topics include marketing and outreach.",
+    "type": "Skill",
+    "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Sales and marketing"
+    ],
+    "tags": [
+      "Advertising",
+      "Competitive research",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize marketing-related workflows"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:09:39Z",
+    "agentbay_url": "",
+    "github_stars": 79027,
+    "github_stars_checked_at": "2026-11-08T12:09:39Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -308239,6 +308328,37 @@
     "preferred_provider": "Adobe"
   },
   {
+    "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+    "name": "implement",
+    "description": "implement is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Azure",
+      "Azure Developer CLI",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "e40992de-0158-54e1-a777-f660abbe0f64",
     "name": "implement",
     "description": "implement is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -376908,6 +377028,36 @@
     "agentbay_url": "https://agentbay.io/?project=a6458179-b104-5341-8a36-95764e6d6cba#catalog",
     "github_stars": 134,
     "github_stars_checked_at": "2026-10-25T04:50:33.930390+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+    "name": "markdown-token-optimizer",
+    "description": "markdown-token-optimizer is listed as an agent skill. Its catalogue topics include document and knowledge workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Markdown",
+      "Token optimization",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },
@@ -462335,6 +462485,37 @@
     "github_stars_checked_at": "2026-10-24T16:08:46.748602+00:00",
     "recommended": false,
     "preferred_provider": "Snowflake"
+  },
+  {
+    "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+    "name": "plan",
+    "description": "plan is listed as an agent skill. Its catalogue topics include project planning.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Planning and project management"
+    ],
+    "tags": [
+      "Azure",
+      "Architecture",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support project-coordination tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
   },
   {
     "id": "d7f257df-31d9-5ebd-83f3-6052fe874c58",
@@ -558150,6 +558331,36 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+    "name": "skill-authoring",
+    "description": "skill-authoring is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-sdk-tools",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Agent Skills",
+      "Skill authoring",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 135,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "cea40c3e-b6b8-5324-9ba0-8a0ba73ff4f5",
     "name": "skill-authoring-best-practices",
     "description": "skill-authoring-best-practices is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -568506,6 +568717,36 @@
     "agentbay_url": "https://agentbay.io/?project=9486e3fc-46d1-57fc-bf7b-b78992d706a3#catalog",
     "github_stars": 38,
     "github_stars_checked_at": "2026-10-25T04:48:26.696698+00:00",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
+    "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+    "name": "specify",
+    "description": "specify is listed as an agent skill. Its catalogue topics include project planning.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+    "categories": [
+      "Planning and project management"
+    ],
+    "tags": [
+      "Requirements",
+      "Spec Kit",
+      "Microsoft",
+      "SKILL.md"
+    ],
+    "use_cases": [
+      "Support project-coordination tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+    "agentbay_url": "",
+    "github_stars": 38,
+    "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00",
     "recommended": false,
     "preferred_provider": "Microsoft"
   },

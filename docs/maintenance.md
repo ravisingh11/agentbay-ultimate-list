@@ -254,3 +254,19 @@ acceptance. This review adds catalogue metadata and original generated summaries
 Publisher instructions, installation, model-backed evaluations and live account
 operations were not executed. Existing provider attribution and catalogue IDs
 remain governed by their maintained inputs.
+
+## November 20, 2026 weekly PR reconciliation
+
+The [weekly proposal review](../data/weekly-proposal-review-2026-11-20.json)
+reconciles PR #13 with the current catalogue. Eight task-specific skills remain
+useful. The Spec Kit and SDK-plugin paths have different instruction content
+from the existing Lean and root-level variants. Their original proposal IDs
+and source pins are retained.
+
+The three proposed infrastructure skill paths have disappeared from the
+publisher's current tree; the catalogue retains its canonical root-level
+variants. The 36 generic Rube wrappers repeat tool discovery and connection
+setup without service-specific action guidance and are discarded from this
+batch. Composio license fields remain unknown. Ad-library access and visible
+advertising duration do not establish campaign performance. Source metadata
+was reviewed; linked instructions and account operations were not executed.

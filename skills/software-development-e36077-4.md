@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-3.md) · [Next →](software-development-e36077-5.md)
 
-11,505 listings · Page 4 of 58
+11,508 listings · Page 4 of 58
 
 - **analytics-opensearch-expertise** — [Website](<https://github.com/aws/tools-for-devops-agent/blob/ade51675a91d22cb3422892584d7accd55f10bb6/skills/analytics-opensearch-expertise/SKILL.md>) · [GitHub](<https://github.com/aws/tools-for-devops-agent>) · **License: Apache-2.0** · **★ 116** (as of 2026-10-24) · **Amazon Web Services · Official source** — analytics-opensearch-expertise is listed as an agent skill. Its catalogue topics include software engineering.
 - **analyze** — [Website](<https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/analyze/SKILL.md>) · [GitHub](<https://github.com/Azure-Samples/Spec2Cloud>) · **License: MIT** · **★ 38** (as of 2026-10-25) · **Microsoft · Official source** — analyze is listed as an agent skill. Its catalogue topics include software engineering.

@@ -6341,6 +6341,470 @@
           "note": "Read repository MIT license, Git blob 6c5da9615fbfabf846d447ac7a27105b2e3db124."
         }
       ]
+    },
+    {
+      "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+      "fields": {
+        "name": "implement",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "Azure Developer CLI",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob e4e422fe22428fc6e0d505c2d2549bb17e92e813 and SHA-256 1974083e2ffc5f485e212cb2fea83e93508441bb9de643f4d36d3830312a7ccf. Execute scoped Spec2Cloud tasks, initialize a chosen AZD template and synchronize task status; requires existing specification/planning context, confirmed environment settings and permission before overwrites. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+      "fields": {
+        "name": "plan",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Planning and project management"
+        ],
+        "tags": [
+          "Azure",
+          "Architecture",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob d9423866c3ca124e2772f0da1e8e454af5dd9101 and SHA-256 c5d6ae5ef85f24f000f1203aa4ca352252e70cddf9355bb761fcbdad3ff959d5. Prepare technical and Azure environment plans from an existing specification; can query Azure account/resource state and request additional skill installation, so it is not an offline-only planner. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+      "fields": {
+        "name": "specify",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+        "repository_url": "https://github.com/Azure-Samples/Spec2Cloud",
+        "categories": [
+          "Planning and project management"
+        ],
+        "tags": [
+          "Requirements",
+          "Spec Kit",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned repository LICENSE.md is MIT; no nearer license in the skill or ancestor directories. Azure services and tools retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 38,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 8bb351c9173ebea7be8b5b33b644cdadd1267587 and SHA-256 4d85c7143d63ca03b33bb23c2e1a80aee7b911f214e2fa8b49e848d7335d7473. Create feature requirements and measurable success criteria using the Spec2Cloud constitution and specification template; does not implement or deploy the feature. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+      "fields": {
+        "name": "azure-typespec-author",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Azure",
+          "TypeSpec",
+          "API",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob d455890fc20fb3806afbb4232092cad730ee37db and SHA-256 8eef41a880470a0c33a40e9fc58b2122e4285daf9b774077a07e2c70745574d9. Author Azure TypeSpec ARM/data-plane specifications with mandatory validation; requires the azure-sdk-mcp knowledge and validation tools plus TypeSpec compilation, and excludes SDK generation or package release. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+      "fields": {
+        "name": "markdown-token-optimizer",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Documents and knowledge"
+        ],
+        "tags": [
+          "Markdown",
+          "Token optimization",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 1a273fe8a019b6cf928e97914332c6556d65ca52 and SHA-256 12757b3287a5eb4924a6875a2d9f7d9f02d4aa92d34424d0eb2f97ee892cdb2c. Inspect Markdown token usage and propose reductions while preserving meaning; suggestions only, with no automatic modification or code-optimization claim. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+      "fields": {
+        "name": "skill-authoring",
+        "type": "Skill",
+        "website_url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+        "repository_url": "https://github.com/Azure/azure-sdk-tools",
+        "categories": [
+          "Software development"
+        ],
+        "tags": [
+          "Agent Skills",
+          "Skill authoring",
+          "Microsoft",
+          "SKILL.md"
+        ],
+        "license": "MIT",
+        "license_scope": "Pinned SKILL.md explicitly declares MIT, consistent with repository LICENSE. Root NOTICE concerns a separate Rust parser; tools and services retain their own terms.",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:11:50.665758+00:00",
+        "github_stars": 135,
+        "github_stars_checked_at": "2026-10-29T00:13:08.025484+00:00"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Inspected pinned SKILL.md, verified Git blob 435dcd7f34e1765d91b682c11fdcce2cb092f30b and SHA-256 b487a1ff62d74cd3ee5f563a9a8607b324ffb1bcd89b57f79158e889e9245753. Author and validate agent-skill structure and metadata using the documented conventions and waza CLI; source declares copilot-chat compatibility, with no broader runtime execution claim. Metadata review only; no skill executed."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Reviewed pinned MIT license and skill/ancestor directory listings for nearer license terms. Original publisher notices remain upstream; this catalogue links the instructions rather than redistributing them."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools",
+          "checked_at": "2026-11-08T12:11:50.665758+00:00",
+          "note": "Fresh repository metadata confirms the public, unarchived Microsoft-owned source. Existing star counts retain their original observation date; they were not rechecked."
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+      "fields": {
+        "name": "changelog-generator",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Documents and knowledge"
+        ],
+        "tags": [
+          "Git",
+          "Release notes",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob 72919de07da6d02a7824309529aefde94a2109dd; SHA-256 0fdde1fc7ed062a82fd7ba98057f5d471c5d1905bfe2ddc4eeb213450cb00c18. Instructions for deriving categorized release-note drafts from selected Git commits and reviewing the generated wording before publication. No verified runtime or accuracy guarantee. Do not repeat upstream time-saving or example performance claims. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        }
+      ]
+    },
+    {
+      "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+      "fields": {
+        "name": "competitive-ads-extractor",
+        "type": "Skill",
+        "website_url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+        "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "categories": [
+          "Sales and marketing"
+        ],
+        "tags": [
+          "Advertising",
+          "Competitive research",
+          "SKILL.md"
+        ],
+        "license": "",
+        "license_scope": "",
+        "repository_archived": false,
+        "repository_status_checked_at": "2026-11-08T12:09:39Z",
+        "github_stars": 79027,
+        "github_stars_checked_at": "2026-11-08T12:09:39Z"
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Verified public active repository, pinned path, Git blob and instruction name. Category and skill-specific licensing require maintainer review."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-10-29T00:13:08.025484+00:00",
+          "note": "Inspected current repository identity, activity, counts and repository license metadata."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Pinned SKILL.md exists; frontmatter name matches. Exact fetched bytes verified against Git blob d1a173971d8baa969d80caf51ae73a5efa4c084f; SHA-256 c9bc0f711936ee058858c938c14ac2b52fc0241cde766eff7aca020e9874f157. Instructions for collecting publicly available competitor advertising examples and organizing their visible messaging and creative themes. Visible ad-library examples do not establish conversions, performance, proven effectiveness or audience targeting. Do not turn upstream illustrative metrics or examples into observed facts. Access rights and platform availability were not tested. Read as data only; no skill instructions executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "Reviewed complete skill directory listing: SKILL.md only, with no skill-local license file. No vendored instruction content added to the catalogue."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/README.md",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "README declares Apache License2.0 and warns individual skills may differ; root LICENSE endpoint is absent and no explicit license text is present in this skill directory. Retain empty license and license_scope instead of assuming a grant."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "checked_at": "2026-11-08T12:09:39Z",
+          "note": "GitHub repository metadata: public, archived=false, disabled=false; 79027 stars at observation. Source owner ComposioHQ, not an official endorsement by the named service. No owner-registry change."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants. Reviewed as metadata; publisher instructions were not executed."
+        },
+        {
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+          "checked_at": "2026-11-20",
+          "note": "Requires access to the relevant ad library and browser tooling. Examples and visible ad longevity do not establish actual performance or profitability. No scraping or advertising account operation was performed."
+        }
+      ]
     }
   ],
   "corrections": [

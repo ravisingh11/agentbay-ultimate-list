@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-11.md) · [Next →](software-development-e36077-13.md)
 
-11,505 listings · Page 12 of 58
+11,508 listings · Page 12 of 58
 
+- **clerk-swift** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-swift/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-swift is listed as an agent skill. Its catalogue topics include software engineering.
 - **clerk-tanstack-patterns** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-tanstack-patterns/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-tanstack-patterns is listed as an agent skill. Its catalogue topics include software engineering.
 - **clerk-testing** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-testing/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-testing is listed as an agent skill. Its catalogue topics include software engineering.
 - **clerk-vue-patterns** — [Website](<https://github.com/clerk/skills/blob/b0d994e9cd954556ec747754484ad80565d67c15/skills/clerk-vue-patterns/SKILL.md>) · [GitHub](<https://github.com/clerk/skills>) · **License: MIT** · **★ 89** (as of 2026-10-31) · **Clerk · Official source** — clerk-vue-patterns is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **coding-style** — [Website](<https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore/blob/89cf9386dd5abfc5b8086d9b9d109f5afd720492/.agents/skills/coding-style/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore>) · **License: MIT-0** · **★ 131** (as of 2026-10-25) · **Amazon Web Services · Official source** — coding-style is listed as an agent skill. Its catalogue topics include software engineering.
 - **coffeecoproject/layermap** — [Website](<https://github.com/coffeecoproject/layermap>) · [GitHub](<https://github.com/coffeecoproject/layermap>) · **License: Apache-2.0** · Stars: not recorded — coffeecoproject/layermap is listed as an agent-skill repository. Its catalogue topics include software engineering and MCP tool integration.
 - **cohort-compare** — [Website](<https://github.com/NVIDIA/dgx-spark-playbooks/blob/30883150541743d580c9c347700c6ac99fc396d2/nvidia/playbook-healthcare-agent/assets/skills/cohort-compare/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/dgx-spark-playbooks>) · **License: Apache-2.0** · **★ 1,456** (as of 2026-10-25) · **NVIDIA · Official source** — cohort-compare is listed as an agent skill. Its catalogue topics include software engineering.
-- **cold-call-prep** — [Website](<https://github.com/anthropics/claude-for-legal/blob/4a6c651889c97cc9140580363c73e0eb17379c2b/law-student/skills/cold-call-prep/SKILL.md>) · [GitHub](<https://github.com/anthropics/claude-for-legal>) · **License: Apache-2.0** · **★ 9,789** (as of 2026-10-25) · **Anthropic · Official source** — cold-call-prep is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-11.md) · [Next →](software-development-e36077-13.md)

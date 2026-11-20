@@ -4,8 +4,10 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-28.md) · [Next →](software-development-e36077-30.md)
 
-11,505 listings · Page 29 of 58
+11,508 listings · Page 29 of 58
 
+- **jeanamaralsilva/skills** — [Website](<https://github.com/jeanamaralsilva/skills>) · [GitHub](<https://github.com/jeanamaralsilva/skills>) · **License: MIT** · Stars: not recorded — jeanamaralsilva/skills is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and security and privacy.
+- **jeecgboot/skills** — [Website](<https://github.com/jeecgboot/skills>) · [GitHub](<https://github.com/jeecgboot/skills>) · **License: Apache-2.0** · Stars: not recorded — jeecgboot/skills is listed as an agent-skill repository. Its catalogue topics include software engineering, data analysis, and deployment and cloud operations.
 - **JEFF7712/nix-agent** — [Website](<https://github.com/jeff7712/nix-agent>) · [GitHub](<https://github.com/jeff7712/nix-agent>) · **License: MIT** · Stars: not recorded — JEFF7712/nix-agent is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and MCP tool integration.
 - **jellologic/claude-code-muse** — [Website](<https://github.com/jellologic/claude-code-muse>) · [GitHub](<https://github.com/jellologic/claude-code-muse>) · **License: MIT** · Stars: not recorded — jellologic/claude-code-muse is listed as an agent-skill repository. Its catalogue topics include software engineering and document and knowledge workflows.
 - **jeltehomminga/figma-design-skills** — [Website](<https://github.com/jeltehomminga/figma-design-skills>) · [GitHub](<https://github.com/jeltehomminga/figma-design-skills>) · **License: MIT** · Stars: not recorded — jeltehomminga/figma-design-skills is listed as an agent-skill repository. Its catalogue topics include software engineering and design workflows.
@@ -204,7 +206,5 @@
 - **konradmichalik/annotaitr** — [Website](<https://github.com/konradmichalik/annotaitr>) · [GitHub](<https://github.com/konradmichalik/annotaitr>) · **License: MIT** · Stars: not recorded — konradmichalik/annotaitr is listed as an agent-skill repository. Its catalogue topics include software engineering and document and knowledge workflows.
 - **konsistent-config** — [Website](<https://github.com/vercel-labs/konsistent/blob/f7f02346d1ad478db077426082052e88678d17b5/skills/konsistent-config/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/konsistent>) · **License: Unknown** · **★ 190** (as of 2026-10-25) · **Vercel · Official source** — konsistent-config is listed as an agent skill. Its catalogue topics include software engineering.
 - **konsistent-fix-violations** — [Website](<https://github.com/vercel-labs/konsistent/blob/f7f02346d1ad478db077426082052e88678d17b5/skills/konsistent-fix-violations/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/konsistent>) · **License: Unknown** · **★ 190** (as of 2026-10-25) · **Vercel · Official source** — konsistent-fix-violations is listed as an agent skill. Its catalogue topics include software engineering.
-- **kora-projects/kora-skills** — [Website](<https://github.com/kora-projects/kora-skills>) · [GitHub](<https://github.com/kora-projects/kora-skills>) · **License: Apache-2.0** · Stars: not recorded — kora-projects/kora-skills is listed as an agent-skill repository. Its catalogue topics include software engineering.
-- **KotaHusky/cicd-toolkit** — [Website](<https://github.com/kotahusky/cicd-toolkit>) · [GitHub](<https://github.com/kotahusky/cicd-toolkit>) · **License: MIT** · Stars: not recorded — KotaHusky/cicd-toolkit is listed as an agent-skill repository. Its catalogue topics include software engineering, security and privacy, and deployment and cloud operations.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-28.md) · [Next →](software-development-e36077-30.md)

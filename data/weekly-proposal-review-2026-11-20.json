@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-20",
+  "pull_request": 13,
+  "counts": {
+    "original_proposals": 47,
+    "accepted": 8,
+    "generic_wrappers_discarded": 36,
+    "obsolete_paths_superseded": 3
+  },
+  "decisions": [
+    {
+      "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+      "name": "implement",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+      "blob": "e4e422fe22428fc6e0d505c2d2549bb17e92e813",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+      "name": "plan",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+      "blob": "d9423866c3ca124e2772f0da1e8e454af5dd9101",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+      "name": "specify",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+      "blob": "8bb351c9173ebea7be8b5b33b644cdadd1267587",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:df7849ba-62eb-5e9a-89ae-98a86fe54479",
+      "name": "architecture-decision",
+      "source": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/architecture-decision/SKILL.md",
+      "blob": "7ed909aa3757fd1c2cf1015d75f2d004672f09b0",
+      "decision": "superseded",
+      "reason": "The proposed infra/.github path is absent from the current publisher revision. The catalogue already retains a separate canonical root-level entry."
+    },
+    {
+      "id": "community:316247e6-e449-5a50-8acd-0f5c3f28c1c3",
+      "name": "documentation-consistency",
+      "source": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/documentation-consistency/SKILL.md",
+      "blob": "433342e18e36045f3d45883f7618eeceb9214be6",
+      "decision": "superseded",
+      "reason": "The proposed infra/.github path is absent from the current publisher revision. The catalogue already retains a separate canonical root-level entry."
+    },
+    {
+      "id": "community:3e856a5f-db75-52db-88cc-fef2df7ad9a5",
+      "name": "engineering-principles",
+      "source": "https://github.com/Azure/agent-landing-zone/blob/a79f599e17aad3c60e6a58fd7ab6e5f98d8b5c88/infra/.github/skills/engineering-principles/SKILL.md",
+      "blob": "9cc27a2d8812de16d776354be553f3ee75b09194",
+      "decision": "superseded",
+      "reason": "The proposed infra/.github path is absent from the current publisher revision. The catalogue already retains a separate canonical root-level entry."
+    },
+    {
+      "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+      "name": "azure-typespec-author",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+      "blob": "d455890fc20fb3806afbb4232092cad730ee37db",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+      "name": "markdown-token-optimizer",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+      "blob": "1a273fe8a019b6cf928e97914332c6556d65ca52",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+      "name": "skill-authoring",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+      "blob": "435dcd7f34e1765d91b682c11fdcce2cb092f30b",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5",
+      "name": "changelog-generator",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/changelog-generator/SKILL.md",
+      "blob": "72919de07da6d02a7824309529aefde94a2109dd",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9",
+      "name": "competitive-ads-extractor",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/competitive-ads-extractor/SKILL.md",
+      "blob": "d1a173971d8baa969d80caf51ae73a5efa4c084f",
+      "decision": "accepted",
+      "reason": "Pinned source remains present with the same Git blob at the publisher current revision. Spec Kit and SDK-plugin paths are distinct from the existing Lean and root-level skill variants."
+    },
+    {
+      "id": "community:e23d6374-fe71-53ca-aba9-15dc7476f220",
+      "name": "ably-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ably-automation/SKILL.md",
+      "blob": "4bb303e5e9e30891170a01739f9387780f4d6cd0",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:a66acdea-15b5-5062-b9fe-0f75bda0d364",
+      "name": "abstract-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abstract-automation/SKILL.md",
+      "blob": "a816a76f993c99f4ae2bdbe9126630f3315ca80a",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:133ba651-dc01-5825-a1f1-019311ab3e5f",
+      "name": "abuselpdb-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abuselpdb-automation/SKILL.md",
+      "blob": "00bd03ff06b862de505b6ed387685427682a4a0a",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:773bc611-de35-515f-9fa8-cf138d68083d",
+      "name": "abyssale-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/abyssale-automation/SKILL.md",
+      "blob": "0f1879105609aafd16d4140e5d4878cf962bd654",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:a5509a70-2522-57b5-90a7-dee2d454d869",
+      "name": "accelo-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accelo-automation/SKILL.md",
+      "blob": "5252a206155128ad02e5663a07935a7fdd791948",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:eac26594-68e2-589c-b205-0a0c9dbb9cb0",
+      "name": "accredible-certificates-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/accredible-certificates-automation/SKILL.md",
+      "blob": "ff5e3adf4290a6178a62ea7b90262829d4b35d42",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:ed4841a0-7a0a-5f0e-84e8-b614da81ead6",
+      "name": "acculynx-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/acculynx-automation/SKILL.md",
+      "blob": "aaf807126d08fe29f2f930e134db17563c6f74a0",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:ab525ed7-724c-539d-8f79-898a1fad2f93",
+      "name": "active-campaign-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/active-campaign-automation/SKILL.md",
+      "blob": "427deceb0bb9279b49b9c6ce3577196bd02f52ba",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:0fb638d8-e01d-5a77-981f-6748f5f0bdf6",
+      "name": "addresszen-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/addresszen-automation/SKILL.md",
+      "blob": "7772925739ce4eac8c7a4e864d532d3bdc672bf9",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:12dc00de-fec1-56f4-a9e1-c2b9334e0120",
+      "name": "adobe-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adobe-automation/SKILL.md",
+      "blob": "e4dad77cd0d3539a750c3781c8244c053c935da9",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:99362249-c64e-5e1f-bbc3-8baee3f8f4ed",
+      "name": "adrapid-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adrapid-automation/SKILL.md",
+      "blob": "a509990bc487a315c3197f914635525d9629e65f",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:9b4770b1-a3ad-5007-a37b-36a07949e956",
+      "name": "adyntel-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/adyntel-automation/SKILL.md",
+      "blob": "19a35858f92dd0084ced7b00677f004664315e56",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:0e24b56d-972c-5bfa-a118-f503e0dbd3cb",
+      "name": "aero-workflow-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aero-workflow-automation/SKILL.md",
+      "blob": "45292fd57fe1cbf8b9838da9d9143415a79868b8",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:eb49f2d4-b336-556d-9eca-bb0bea613c56",
+      "name": "aeroleads-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aeroleads-automation/SKILL.md",
+      "blob": "be1792a1eaf7569ae3ad77285d4f09f475d9f97b",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:31c19a29-0eb1-5ca3-81c3-d215e749922d",
+      "name": "affinda-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinda-automation/SKILL.md",
+      "blob": "cbc7349d01a65db50760b57111302a88a4632b84",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:9b88de28-d6f4-5386-8a9d-101e045730f6",
+      "name": "affinity-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/affinity-automation/SKILL.md",
+      "blob": "f043530155dd28d36d4b55b7c3361d8916095c52",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:da0b2b11-3706-5a7e-a300-70202c9b63dc",
+      "name": "agencyzoom-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agencyzoom-automation/SKILL.md",
+      "blob": "0e25772680027d3fffeb7e4af72400f3c65cea19",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:fd258d8c-c013-511a-8cf6-ff585a5e06a0",
+      "name": "agent-mail-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agent-mail-automation/SKILL.md",
+      "blob": "6236ffb6c861369804d1bf8ed6f5179c16dddf8d",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:03813503-e92f-5fe3-a06f-5f9a1e74f064",
+      "name": "agentql-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agentql-automation/SKILL.md",
+      "blob": "94dfa4787687e7676e00005def0f81ab632030f9",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:5f3c39bb-2065-5068-835e-309039c5789b",
+      "name": "agenty-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agenty-automation/SKILL.md",
+      "blob": "8779fa95953aadc072b8f780a531a391aa719d07",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:ecb3b6a9-24f7-508b-bfdb-a12d9a746e3d",
+      "name": "agiled-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agiled-automation/SKILL.md",
+      "blob": "b10aa916120928b3cd1ed42493cf6e71af18db8d",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:8523bc77-6c8c-5f4a-b49e-295843c97303",
+      "name": "agility-cms-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/agility-cms-automation/SKILL.md",
+      "blob": "77b5ba3127d589c90029b2be7182aeb96434544a",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:f5a827d2-2a4e-5c6b-9ced-02c215fa9c2e",
+      "name": "ai-ml-api-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ai-ml-api-automation/SKILL.md",
+      "blob": "2ccf6e51c9671b31ee0edf5b90a46f97481c3619",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:e3e6d8f5-03eb-5b04-8c0b-315bdc975c48",
+      "name": "aivoov-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/aivoov-automation/SKILL.md",
+      "blob": "595479a59b36a97050275b794dbfb6422e8bed05",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:9b9c78d7-365b-5afa-a5e8-ed6fa48a1bba",
+      "name": "alchemy-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alchemy-automation/SKILL.md",
+      "blob": "dfc0fee665fec30a477512f2c615e98301e4b4bc",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:1fa3f068-a68c-557d-84ef-3fddf03362f5",
+      "name": "algodocs-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algodocs-automation/SKILL.md",
+      "blob": "24f614468eb146faba80c901e9746ac3f1632c88",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:770d54fd-266f-58a0-a7c0-aab2d06e43cd",
+      "name": "algolia-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/algolia-automation/SKILL.md",
+      "blob": "da6db4501a256e60d86fe0f9d6ba72bdd75ae453",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:a73c842b-9377-533c-80dd-9b86a3b7699b",
+      "name": "all-images-ai-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/all-images-ai-automation/SKILL.md",
+      "blob": "a0a1a409604a9b3eeac1d397b41998f81b428bf8",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:5a6c4dd7-bbcc-5a17-bbde-833261c6c182",
+      "name": "alpha-vantage-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alpha-vantage-automation/SKILL.md",
+      "blob": "77f34bdd38446c54de9aa0e1f4df8b6eab27d83a",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:e901ce35-04a3-5a42-9028-fb3d699af77d",
+      "name": "altoviz-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/altoviz-automation/SKILL.md",
+      "blob": "e79a144a5f4e753136db3e0cc86456e577e1d57d",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:49cb2d25-dfa6-587a-a640-4e858c1d3023",
+      "name": "alttext-ai-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/alttext-ai-automation/SKILL.md",
+      "blob": "8d17105b60c258c83bb0750e06dee70e392f19f2",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:25b83450-6b4f-5cb8-b9a4-b6b77923ceeb",
+      "name": "amara-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amara-automation/SKILL.md",
+      "blob": "8f47bfeb40a897d0d6f4b85a453532dd40f5e656",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:5bb6d2c5-7e8a-5022-8961-a177d25aedf3",
+      "name": "amazon-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amazon-automation/SKILL.md",
+      "blob": "06de21f92312990730ae350a46041cfbfcaaf194",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:962c8226-a28c-53ed-a965-caebe35b830a",
+      "name": "ambee-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambee-automation/SKILL.md",
+      "blob": "f9130811bc66668476812f7a4e7fc3d11a9971a0",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:593256f2-4798-5aae-a0db-65709d9cf81b",
+      "name": "ambient-weather-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/ambient-weather-automation/SKILL.md",
+      "blob": "e2bc52555ff37bdbd1ef1c0956bfa35d67a76773",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    },
+    {
+      "id": "community:25fd0b62-f2e5-5da7-95d6-062a4f2a5ee2",
+      "name": "amcards-automation",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills/blob/be2a406907dbc61b73e6827ded415c96139d13a2/composio-skills/amcards-automation/SKILL.md",
+      "blob": "0938670b411f234ee98d5ae1dc9c759fb1e29dc3",
+      "decision": "discarded",
+      "reason": "Generic discover/connect/execute wrapper with no service-specific action guidance; omit from this selected skill batch."
+    }
+  ]
+}

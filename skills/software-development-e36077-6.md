@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-5.md) · [Next →](software-development-e36077-7.md)
 
-11,505 listings · Page 6 of 58
+11,508 listings · Page 6 of 58
 
 - **autopilot-pr-triage-worker** — [Website](<https://github.com/microsoft/apm/blob/2920043258932f0f67e6f01df7b9047eb42f358c/.agents/skills/autopilot-pr-triage-worker/SKILL.md>) · [GitHub](<https://github.com/microsoft/apm>) · **License: MIT** · **★ 4,120** (as of 2026-10-25) · **Microsoft · Official source** — autopilot-pr-triage-worker is listed as an agent skill. Its catalogue topics include software engineering.
 - **autoship** — [Website](<https://github.com/vercel-labs/autoship/blob/aeadbaa1d8c8209e3de508c7e6999b843cd274d8/skills/autoship/SKILL.md>) · [GitHub](<https://github.com/vercel-labs/autoship>) · **License: Apache-2.0** · **★ 161** (as of 2026-10-25) · **Vercel · Official source** — autoship is listed as an agent skill. Its catalogue topics include software engineering.
