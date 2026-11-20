@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](content-creation-c8909b-1.md)
 
-279 listings · Page 2 of 2
+280 listings · Page 2 of 2
 
+- **new-overlay-image** — [Website](<https://github.com/microsoft/quicksand/blob/5db6adaf04ed61a003d7906a898f448ef89e4f3c/.claude/skills/new-overlay-image/SKILL.md>) · [GitHub](<https://github.com/microsoft/quicksand>) · **License: MIT** · **★ 359** (as of 2026-10-25) · **Microsoft · Official source** — new-overlay-image is listed as an agent skill. Its catalogue topics include content workflows.
 - **newsletter-generation** — [Website](<https://github.com/bytedance/deer-flow/blob/04691473d45274d4ca6b752acb706edf63902040/skills/public/newsletter-generation/SKILL.md>) · [GitHub](<https://github.com/bytedance/deer-flow>) · **License: MIT** · **★ 84,373** (as of 2026-10-24) · **ByteDance · Official source** — newsletter-generation is listed as an agent skill. Its catalogue topics include content workflows.
 - **openzl-codec-design** — [Website](<https://github.com/meta/openzl/blob/d5d872059bad85da410eb66e3d7f9cac107be263/.claude/skills/openzl-codec-design/SKILL.md>) · [GitHub](<https://github.com/meta/openzl>) · **License: Unknown** · **★ 3,284** (as of 2026-10-31) · **Meta · Official source** — openzl-codec-design is listed as an agent skill. Its catalogue topics include content workflows.
 - **operational-value-designer** — [Website](<https://github.com/github/gh-aw/blob/3de7cc191d85f95a65e5d64d2e386539ed7a36be/.github/skills/operational-value-designer/SKILL.md>) · [GitHub](<https://github.com/github/gh-aw>) · **License: MIT** · **★ 5,462** (as of 2026-10-25) · **GitHub · Official source** — operational-value-designer is listed as an agent skill. Its catalogue topics include content workflows.

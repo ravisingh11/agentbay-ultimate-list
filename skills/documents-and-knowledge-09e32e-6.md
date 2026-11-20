@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-5.md)
 
-1,189 listings · Page 6 of 6
+1,190 listings · Page 6 of 6
 
+- **spxrogers/oura-toolkit** — [Website](<https://github.com/spxrogers/oura-toolkit>) · [GitHub](<https://github.com/spxrogers/oura-toolkit>) · **License: MIT** · Stars: not recorded — spxrogers/oura-toolkit is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, authentication workflows, and MCP tool integration.
 - **SPXROS/quality-comments** — [Website](<https://github.com/spxros/quality-comments>) · [GitHub](<https://github.com/spxros/quality-comments>) · **License: MIT** · Stars: not recorded — SPXROS/quality-comments is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **sred-work-summary** — [Website](<https://github.com/getsentry/skills>) · [GitHub](<https://github.com/getsentry/skills>) · **License: Apache-2.0** · **★ 1,083** (as of 2026-10-24) · **Sentry · Official source** — sred-work-summary is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **Srltas/claude-skills** — [Website](<https://github.com/srltas/claude-skills>) · [GitHub](<https://github.com/srltas/claude-skills>) · **License: MIT** · Stars: not recorded — Srltas/claude-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.

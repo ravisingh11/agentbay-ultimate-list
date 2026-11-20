@@ -236,3 +236,21 @@ The November 9 follow-up reviewed the remaining unavailable paths using publishe
 Among the 95 earlier Microsoft CAT paths, Microsoft still publishes 43 updated same-named files and one related candidate, but those files say Proprietary while the repository says MIT. The publisher retired the other 51 with their plugins. The conflicting current files are not added to the public catalogue until the publisher clarifies the terms; links in the unavailable-path record are for inspection, not a license grant.
 
 The Dart team publishes current versions of the three Dart skills previously copied into `google/skills_lint.dart`. [Flutter's official documentation](https://github.com/flutter/website/blob/main/sites/docs/src/content/ai/tools.md) identifies `dart-lang/skills` as the official Dart skills repository. [Dart's terms](https://dart.dev/terms) identify Google as the owner of Dart. Two verified files match the old blobs; the third corrects a code example. The approved `dart-lang` owner is included in the Google registry, and the old paths remain as history.
+
+## November 20, 2026 proposal review
+
+The [proposal review](../data/catalogue-proposal-review-2026-11-20.json) resolves
+22 skill proposals and 14 discovery leads. It accepts 11 individual skills and
+one skill repository from 10 candidate groups, with source pins, observed Git
+blobs, bounded capability notes and license evidence in curation. The other
+26 candidate groups are discarded for the recorded overlap, template, context
+or workflow reasons.
+
+The Chinese diction entry retains unknown license fields. Service-backed
+parking, charging and advertising entries describe integrations whose runtime
+availability was not tested. LaunchSpy requires an account and usage credits.
+The Apps Script workflows need owner-approved Google permissions and pilot
+acceptance. This review adds catalogue metadata and original generated summaries.
+Publisher instructions, installation, model-backed evaluations and live account
+operations were not executed. Existing provider attribution and catalogue IDs
+remain governed by their maintained inputs.

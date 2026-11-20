@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-3.md) · [Next →](documents-and-knowledge-09e32e-5.md)
 
-1,189 listings · Page 4 of 6
+1,190 listings · Page 4 of 6
 
+- **lark-drive** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · Stars: not recorded — lark-drive is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-openapi-explorer** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · Stars: not recorded — lark-openapi-explorer is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-sheets** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · Stars: not recorded — lark-sheets is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **lark-slides** — [Website](<https://github.com/larksuite/cli>) · [GitHub](<https://github.com/larksuite/cli>) · **License: MIT** · Stars: not recorded — lark-slides is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -205,6 +206,5 @@
 - **open-science-pillars/build-kit** — [Website](<https://github.com/open-science-pillars/build-kit>) · [GitHub](<https://github.com/open-science-pillars/build-kit>) · **License: Apache-2.0** · Stars: not recorded — open-science-pillars/build-kit is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and software engineering.
 - **openai-docs** — [Website](<https://github.com/JetBrains/skills/blob/3f53782dec7b5424bf6e8efbb90a46ee26f31798/openai-docs/SKILL.md>) · [GitHub](<https://github.com/JetBrains/skills>) · **License: Unknown** · **★ 381** (as of 2026-10-24) · **JetBrains · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/microsoft/amplifier-bundle-work/blob/c7c587221d22173e186e8659d1f646b911c88bd6/skills/openai-docs/SKILL.md>) · [GitHub](<https://github.com/microsoft/amplifier-bundle-work>) · **License: MIT** · **★ 0** (as of 2026-10-25) · **Microsoft · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
-- **openai-docs** — [Website](<https://github.com/openai/openai-developers-for-cursor/blob/9120f1f6bb47964651ab822e24b4f358e3638ae3/skills/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/openai-developers-for-cursor>) · **License: Apache-2.0** · **★ 12** (as of 2026-10-25) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-3.md) · [Next →](documents-and-knowledge-09e32e-5.md)

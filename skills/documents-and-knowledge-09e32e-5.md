@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-4.md) · [Next →](documents-and-knowledge-09e32e-6.md)
 
-1,189 listings · Page 5 of 6
+1,190 listings · Page 5 of 6
 
+- **openai-docs** — [Website](<https://github.com/openai/openai-developers-for-cursor/blob/9120f1f6bb47964651ab822e24b4f358e3638ae3/skills/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/openai-developers-for-cursor>) · **License: Apache-2.0** · **★ 12** (as of 2026-10-25) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/openai/skills/blob/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/skills>) · **License: Unknown** · **★ 28,289** (as of 2026-10-25) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai-docs** — [Website](<https://github.com/openai/codex/blob/970111f6cb62cc02fe36a82ea7d71b37a2889c97/codex-rs/skills/src/assets/samples/openai-docs/SKILL.md>) · [GitHub](<https://github.com/openai/codex>) · **License: Apache-2.0** · **★ 130,823** (as of 2026-10-25) · **OpenAI · Official source** — openai-docs is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
 - **openai/doc** — [Website](<https://github.com/openai/skills>) · [GitHub](<https://github.com/openai/skills>) · **License: Unknown** · **★ 28,289** (as of 2026-10-25) · **OpenAI · Official source** — openai/doc is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -205,6 +206,5 @@
 - **spec-workflow-guide** — [Website](<https://github.com/TencentCloudBase/CloudBase-AI-Toolkit/blob/main/plugin/cloudbase/skills/spec-workflow/SKILL.md>) · [GitHub](<https://github.com/TencentCloudBase/CloudBase-AI-Toolkit>) · **License: Unknown** · Stars: not recorded — spec-workflow-guide is listed as an agent skill. Its catalogue topics include document and knowledge workflows, deployment and cloud operations, and software engineering.
 - **Spenny24/fsoma-transformation-brief-skill** — [Website](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · [GitHub](<https://github.com/spenny24/fsoma-transformation-brief-skill>) · **License: Unknown** · Stars: not recorded — Spenny24/fsoma-transformation-brief-skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and workflow automation.
 - **spmisha134/skillOps-intellij** — [Website](<https://github.com/spmisha134/skillops-intellij>) · [GitHub](<https://github.com/spmisha134/skillops-intellij>) · **License: Apache-2.0** · Stars: not recorded — spmisha134/skillOps-intellij is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, data analysis, and software engineering.
-- **spxrogers/oura-toolkit** — [Website](<https://github.com/spxrogers/oura-toolkit>) · [GitHub](<https://github.com/spxrogers/oura-toolkit>) · **License: MIT** · Stars: not recorded — spxrogers/oura-toolkit is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, authentication workflows, and MCP tool integration.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-4.md) · [Next →](documents-and-knowledge-09e32e-6.md)

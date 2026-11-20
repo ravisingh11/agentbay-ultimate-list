@@ -9450,6 +9450,38 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674",
+    "name": "add-agent-binding",
+    "description": "add-agent-binding is listed as an agent skill. Its catalogue topics include agent development and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/azure-functions-python-extensions/blob/80d7ede03674c493d991a9d5d4122e3cb8868290/.github/skills/add-agent-binding/SKILL.md",
+    "repository_url": "https://github.com/Azure/azure-functions-python-extensions",
+    "categories": [
+      "Agent development"
+    ],
+    "tags": [
+      "Azure Functions",
+      "Python",
+      "Agent SDK",
+      "MCP",
+      "Durable Task"
+    ],
+    "use_cases": [
+      "Explore agent-building workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 7,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "86301772-5dc0-5aa6-83e2-fb59d41f8be0",
     "name": "add-ai-integration",
     "description": "add-ai-integration is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -23604,6 +23636,36 @@
     "github_stars_checked_at": "2026-10-25T05:49:45.775963+00:00",
     "recommended": false,
     "preferred_provider": "Amazon Web Services"
+  },
+  {
+    "id": "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c",
+    "name": "agentd-data-fix",
+    "description": "agentd-data-fix is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/KevinHu-au/agent-skills/blob/0043243bfc38417dd33b6ca411b4fbbc16c37e1e/skills/agentd-data-fix/SKILL.md",
+    "repository_url": "https://github.com/KevinHu-au/agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "SQL Server",
+      "T-SQL",
+      "Database",
+      "Data repair"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 1,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "39523d16-1755-54aa-9c00-3e85903d1249",
@@ -65259,6 +65321,37 @@
     "preferred_provider": ""
   },
   {
+    "id": "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7",
+    "name": "asim-itp-validation-troubleshooter",
+    "description": "asim-itp-validation-troubleshooter is listed as an agent skill. Its catalogue topics include monitoring and operations.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure/Azure-Sentinel/blob/15f63f4746c5373faa7a300e08ce5be3ff7dc200/.github/skills/asim-itp-validation-troubleshooter/SKILL.md",
+    "repository_url": "https://github.com/Azure/Azure-Sentinel",
+    "categories": [
+      "Monitoring and operations"
+    ],
+    "tags": [
+      "Microsoft Sentinel",
+      "ASIM",
+      "KQL",
+      "GitHub Actions",
+      "PowerShell"
+    ],
+    "use_cases": [
+      "Work with operational monitoring tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 6262,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "c3414448-69fa-59bf-9616-73c8c6dd16d0",
     "name": "asim-parser-create-parameter-parser",
     "description": "asim-parser-create-parameter-parser is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -91188,6 +91281,38 @@
     "github_stars_checked_at": "2026-10-24T16:08:45.071768+00:00",
     "recommended": false,
     "preferred_provider": "Qwen"
+  },
+  {
+    "id": "community:e4840d7b-33e0-5a4b-8da2-034215a72903",
+    "name": "batch-document-factory",
+    "description": "batch-document-factory is listed as an agent skill. Its catalogue topics include document and knowledge workflows and workflow automation.",
+    "type": "Skill",
+    "website_url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/batch-document-factory/SKILL.md",
+    "repository_url": "https://github.com/SHOTClubhouse/shotos",
+    "categories": [
+      "Documents and knowledge"
+    ],
+    "tags": [
+      "Google Docs",
+      "Google Slides",
+      "Google Sheets",
+      "Apps Script",
+      "Automation"
+    ],
+    "use_cases": [
+      "Organize document-oriented tasks",
+      "Organize repeatable task workflows"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 1,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "2b43939b-1eb8-52ea-8cd3-36319f58ec3d",
@@ -128168,6 +128293,36 @@
     "agentbay_url": "https://agentbay.io/?project=e735f8db-d236-5b39-916d-595a17df8862#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed",
+    "name": "chinese-diction",
+    "description": "chinese-diction is listed as an agent skill. Its catalogue topics include content workflows.",
+    "type": "Skill",
+    "website_url": "https://github.com/zhuocun/agent-skills/blob/276c29856cda39ea34c3c898a004956c6df57c3d/.agents/skills/chinese-diction/SKILL.md",
+    "repository_url": "https://github.com/zhuocun/agent-skills",
+    "categories": [
+      "Content creation"
+    ],
+    "tags": [
+      "Chinese",
+      "Writing",
+      "Translation",
+      "Localization"
+    ],
+    "use_cases": [
+      "Support content-oriented tasks"
+    ],
+    "license": "",
+    "license_scope": "",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 1,
+    "github_stars_checked_at": "2026-11-20",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -213331,6 +213486,36 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:739a9786-648c-5864-ae14-e134e715badf",
+    "name": "durable-task-go",
+    "description": "durable-task-go is listed as an agent skill. Its catalogue topics include deployment and cloud operations.",
+    "type": "Skill",
+    "website_url": "https://github.com/Azure-Samples/Durable-Task-Scheduler/blob/1811ff4efdb03810e42ebee6687c5d61377cd154/.github/skills/durable-task-go/SKILL.md",
+    "repository_url": "https://github.com/Azure-Samples/Durable-Task-Scheduler",
+    "categories": [
+      "Deployment and cloud"
+    ],
+    "tags": [
+      "Go",
+      "Durable Task",
+      "Azure",
+      "Workflow automation"
+    ],
+    "use_cases": [
+      "Organize application-deployment tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 68,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": "Microsoft"
+  },
+  {
     "id": "a824d166-49b1-5d30-b9b6-cf0e9bdff561",
     "name": "durable-task-java",
     "description": "durable-task-java is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -219556,6 +219741,37 @@
     "agentbay_url": "https://agentbay.io/?project=a314044e-4486-5e2d-9e8f-7fc27da1bfd7#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
+    "id": "community:acc277de-f63b-5482-80f2-62f553b78da6",
+    "name": "EJRyan89/coding-agent-skills",
+    "description": "EJRyan89/coding-agent-skills is listed as an agent-skill repository. Its catalogue topics include software engineering.",
+    "type": "Skill Repository",
+    "website_url": "https://github.com/EJRyan89/coding-agent-skills/blob/9dde64bf414a8b41ce3aad54ff7f5cb134d3c5a6/README.md",
+    "repository_url": "https://github.com/EJRyan89/coding-agent-skills",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "Code review",
+      "Python",
+      "Claude Code",
+      "Codex",
+      "GitHub Copilot"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 2,
+    "github_stars_checked_at": "2026-11-20",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -243279,6 +243495,38 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:c5655adc-5661-53c2-bff3-004df46989ab",
+    "name": "find-ev-chargers",
+    "description": "find-ev-chargers is listed as an agent skill. Its catalogue topics include everyday tasks and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-ev-chargers/SKILL.md",
+    "repository_url": "https://github.com/winsparking/agent-skills",
+    "categories": [
+      "Life service"
+    ],
+    "tags": [
+      "EV charging",
+      "United States",
+      "MCP",
+      "Hosted service",
+      "Route planning"
+    ],
+    "use_cases": [
+      "Explore workflows for everyday tasks",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "f0435d13-b42b-5817-ab49-aced6e70b26e",
     "name": "find-internal-answer",
     "description": "find-internal-answer is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -243305,6 +243553,38 @@
     "github_stars_checked_at": "2026-10-24T16:09:01.474603+00:00",
     "recommended": false,
     "preferred_provider": "Salesforce"
+  },
+  {
+    "id": "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057",
+    "name": "find-parking",
+    "description": "find-parking is listed as an agent skill. Its catalogue topics include everyday tasks and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-parking/SKILL.md",
+    "repository_url": "https://github.com/winsparking/agent-skills",
+    "categories": [
+      "Life service"
+    ],
+    "tags": [
+      "Parking",
+      "United States",
+      "MCP",
+      "Hosted service",
+      "Payment approval"
+    ],
+    "use_cases": [
+      "Explore workflows for everyday tasks",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "db8080d9-087a-5397-9cee-708c37489afc",
@@ -354461,6 +354741,38 @@
     "github_stars_checked_at": "2026-10-25T05:49:18.535061+00:00",
     "recommended": false,
     "preferred_provider": "NVIDIA"
+  },
+  {
+    "id": "community:6a1fe3b5-170e-5d20-a302-550042c7aa37",
+    "name": "launchspy",
+    "description": "launchspy is listed as an agent skill. Its catalogue topics include marketing and outreach and MCP tool integration.",
+    "type": "Skill",
+    "website_url": "https://github.com/launchspyio/launchspy-agent/blob/e0286f83b25466fb776bc23fe5ebbd0847e215b3/skills/launchspy/SKILL.md",
+    "repository_url": "https://github.com/launchspyio/launchspy-agent",
+    "categories": [
+      "Sales and marketing"
+    ],
+    "tags": [
+      "Advertising research",
+      "MCP",
+      "Account required",
+      "Usage credits",
+      "Hosted service"
+    ],
+    "use_cases": [
+      "Organize marketing-related workflows",
+      "Explore integrations with MCP tools"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "91a9c555-e15a-571d-901e-bf04f000517a",
@@ -482469,6 +482781,36 @@
     "preferred_provider": "Microsoft"
   },
   {
+    "id": "community:c8a05abe-4688-5463-b46c-b8dea487f6b3",
+    "name": "purview-openapi-xmlcomments-duplicates",
+    "description": "purview-openapi-xmlcomments-duplicates is listed as an agent skill. Its catalogue topics include software engineering.",
+    "type": "Skill",
+    "website_url": "https://github.com/purview-dev/openapi-xmlcomments/blob/1deb36f6af80ba5f1ba81639cc408a7c87f7dd73/skills/purview-openapi-xmlcomments-duplicates/SKILL.md",
+    "repository_url": "https://github.com/purview-dev/openapi-xmlcomments",
+    "categories": [
+      "Software development"
+    ],
+    "tags": [
+      "ASP.NET Core",
+      "OpenAPI",
+      "XML documentation",
+      "PowerShell"
+    ],
+    "use_cases": [
+      "Assist with implementation and code-maintenance tasks"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 0,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
+  },
+  {
     "id": "d27cbe82-b9d6-5a82-a4d7-3223ffc93309",
     "name": "push",
     "description": "push is listed as an agent skill. Its catalogue topics include software engineering.",
@@ -553837,6 +554179,37 @@
     "github_stars_checked_at": "2026-10-25T05:50:41.582700+00:00",
     "recommended": false,
     "preferred_provider": "OpenAI"
+  },
+  {
+    "id": "community:012e7a22-800c-587b-a2af-ac6c3c27f074",
+    "name": "signal-engine",
+    "description": "signal-engine is listed as an agent skill. Its catalogue topics include workflow automation.",
+    "type": "Skill",
+    "website_url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/signal-engine/SKILL.md",
+    "repository_url": "https://github.com/SHOTClubhouse/shotos",
+    "categories": [
+      "Automation"
+    ],
+    "tags": [
+      "Gmail",
+      "Google Sheets",
+      "Apps Script",
+      "Email digest",
+      "Account required"
+    ],
+    "use_cases": [
+      "Organize repeatable task workflows"
+    ],
+    "license": "MIT",
+    "license_scope": "Repository MIT license at the pinned source revision",
+    "listing_scope": "community",
+    "repository_archived": false,
+    "repository_status_checked_at": "2026-11-20",
+    "agentbay_url": "",
+    "github_stars": 1,
+    "github_stars_checked_at": "2026-11-20",
+    "recommended": false,
+    "preferred_provider": ""
   },
   {
     "id": "30066eb2-5cdf-5596-897e-5092daf47a57",
