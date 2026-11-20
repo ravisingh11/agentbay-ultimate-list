@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](agent-development-1eeae9-4.md)
 
-997 listings · Page 5 of 5
+998 listings · Page 5 of 5
 
+- **Rememora/rememora** — [Website](<https://github.com/rememora/rememora>) · [GitHub](<https://github.com/rememora/rememora>) · **License: MIT** · Stars: not recorded — Rememora/rememora is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and data analysis.
 - **research** — [Website](<https://github.com/warpdotdev/common-skills>) · [GitHub](<https://github.com/warpdotdev/common-skills>) · **License: MIT** · Stars: not recorded — research is listed as an agent skill. Its catalogue topics include agent development.
 - **resolving-mcp-region-configs** — [Website](<https://github.com/GoogleCloudPlatform/data-agent-kit-plugin/blob/9a49a83f0e1088e8a64cd6d7db686dab20ccb7a3/skills/resolving-mcp-region-configs/SKILL.md>) · [GitHub](<https://github.com/GoogleCloudPlatform/data-agent-kit-plugin>) · **License: Apache-2.0** · **★ 229** (as of 2026-10-25) · **Google · Official source** — resolving-mcp-region-configs is listed as an agent skill. Its catalogue topics include agent development.
 - **revfactory/harness** — [Website](<https://github.com/revfactory/harness>) · [GitHub](<https://github.com/revfactory/harness>) · **License: Apache-2.0** · Stars: not recorded — revfactory/harness is listed as an agent-skill repository. Its catalogue topics include agent development and document and knowledge workflows.

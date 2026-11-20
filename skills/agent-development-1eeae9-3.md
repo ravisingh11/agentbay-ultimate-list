@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](agent-development-1eeae9-2.md) · [Next →](agent-development-1eeae9-4.md)
 
-997 listings · Page 3 of 5
+998 listings · Page 3 of 5
 
+- **dev-toolings/superpowers-symfony** — [Website](<https://github.com/dev-toolings/superpowers-symfony>) · [GitHub](<https://github.com/dev-toolings/superpowers-symfony>) · **License: MIT** · Stars: not recorded — dev-toolings/superpowers-symfony is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and security and privacy.
 - **DevelopersGlobal/ai-agent-skills** — [Website](<https://github.com/developersglobal/ai-agent-skills>) · [GitHub](<https://github.com/developersglobal/ai-agent-skills>) · **License: MIT** · Stars: not recorded — DevelopersGlobal/ai-agent-skills is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and deployment and cloud operations.
 - **developing-genkit-dart** — [Website](<https://github.com/firebase/agent-skills>) · [GitHub](<https://github.com/firebase/agent-skills>) · **License: Apache-2.0** · **★ 485** (as of 2026-10-25) · **Google · Official source** — developing-genkit-dart is listed as an agent skill. Its catalogue topics include agent development and document and knowledge workflows.
 - **devops-agent-cost-insights** — [Website](<https://github.com/aws/tools-for-devops-agent/blob/ade51675a91d22cb3422892584d7accd55f10bb6/skills/devops-agent-cost-insights/SKILL.md>) · [GitHub](<https://github.com/aws/tools-for-devops-agent>) · **License: Apache-2.0** · **★ 116** (as of 2026-10-24) · **Amazon Web Services · Official source** — devops-agent-cost-insights is listed as an agent skill. Its catalogue topics include agent development.
@@ -205,6 +206,5 @@
 - **levainlabs/skills** — [Website](<https://github.com/levainlabs/skills>) · [GitHub](<https://github.com/levainlabs/skills>) · **License: Apache-2.0** · Stars: not recorded — levainlabs/skills is listed as an agent-skill repository. Its catalogue topics include agent development and software engineering.
 - **live-debugging-mcp** — [Website](<https://github.com/meta/meta-wearables-dat-ios/blob/bbae597cd1c748cd29b9375a1624a8d75b1c9e14/plugins/mwdat-ios/skills/live-debugging-mcp/SKILL.md>) · [GitHub](<https://github.com/meta/meta-wearables-dat-ios>) · **License: Unknown** · **★ 578** (as of 2026-10-31) · **Meta · Official source** — live-debugging-mcp is listed as an agent skill. Its catalogue topics include agent development.
 - **live-debugging-mcp** — [Website](<https://github.com/meta/meta-wearables-dat-android/blob/f4371bc9f90249d51eb07d7f8a61e8d829294f16/plugins/mwdat-android/skills/live-debugging-mcp/SKILL.md>) · [GitHub](<https://github.com/meta/meta-wearables-dat-android>) · **License: Unknown** · **★ 391** (as of 2026-10-31) · **Meta · Official source** — live-debugging-mcp is listed as an agent skill. Its catalogue topics include agent development.
-- **liyong-labs/repo-medic** — [Website](<https://github.com/liyong-labs/repo-medic>) · [GitHub](<https://github.com/liyong-labs/repo-medic>) · **License: Apache-2.0** · Stars: not recorded — liyong-labs/repo-medic is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and document and knowledge workflows.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](agent-development-1eeae9-2.md) · [Next →](agent-development-1eeae9-4.md)

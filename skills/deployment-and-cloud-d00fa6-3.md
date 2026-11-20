@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](deployment-and-cloud-d00fa6-2.md)
 
-463 listings · Page 3 of 3
+464 listings · Page 3 of 3
 
+- **rodrigopg/claude-easypanel-skill** — [Website](<https://github.com/rodrigopg/claude-easypanel-skill>) · [GitHub](<https://github.com/rodrigopg/claude-easypanel-skill>) · **License: MIT** · Stars: not recorded — rodrigopg/claude-easypanel-skill is listed as an agent-skill repository. Its catalogue topics include deployment and cloud operations.
 - **romankurnovskii/etemaro** — [Website](<https://github.com/romankurnovskii/etemaro>) · [GitHub](<https://github.com/romankurnovskii/etemaro>) · **License: Unknown** · Stars: not recorded — romankurnovskii/etemaro is listed as an agent-skill repository. Its catalogue topics include deployment and cloud operations.
 - **routing-traffic-with-route53-and-cloudfront** — [Website](<https://github.com/aws-samples/sample-FAST-applications/blob/fed494114321c29351afba07ad54ba8138c7cc44/samples/aws-specialist-agent/skills/agent-toolkit-for-aws/routing-traffic-with-route53-and-cloudfront/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-FAST-applications>) · **License: Apache-2.0** · **★ 35** (as of 2026-10-25) · **Amazon Web Services · Official source** — routing-traffic-with-route53-and-cloudfront is listed as an agent skill. Its catalogue topics include deployment and cloud operations.
 - **rtvi-vlm-customize-model** — [Website](<https://github.com/NVIDIA/skills/blob/main/skills/rtvi-vlm-customize-model/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/skills>) · **License: Unknown** · **★ 3,719** (as of 2026-10-25) · **NVIDIA · Official source** — rtvi-vlm-customize-model is listed as an agent skill. Its catalogue topics include deployment and cloud operations.

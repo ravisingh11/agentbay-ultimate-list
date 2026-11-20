@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](agent-development-1eeae9-3.md) · [Next →](agent-development-1eeae9-5.md)
 
-997 listings · Page 4 of 5
+998 listings · Page 4 of 5
 
+- **liyong-labs/repo-medic** — [Website](<https://github.com/liyong-labs/repo-medic>) · [GitHub](<https://github.com/liyong-labs/repo-medic>) · **License: Apache-2.0** · Stars: not recorded — liyong-labs/repo-medic is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and document and knowledge workflows.
 - **lklimek/claudius** — [Website](<https://github.com/lklimek/claudius>) · [GitHub](<https://github.com/lklimek/claudius>) · **License: GPL-3.0-only** · Stars: not recorded — lklimek/claudius is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and document and knowledge workflows.
 - **local-ai-agents** — [Website](<https://github.com/microsoft/ai-agents-for-beginners/blob/7dfa75abfa147bdbe72dab76dd0bd3aba186e367/.agents/skills/local-ai-agents/SKILL.md>) · [GitHub](<https://github.com/microsoft/ai-agents-for-beginners>) · **License: MIT** · **★ 77,811** (as of 2026-10-25) · **Microsoft · Official source** — local-ai-agents is listed as an agent skill. Its catalogue topics include agent development.
 - **longsizhuo/openInvest** — [Website](<https://github.com/longsizhuo/openinvest>) · [GitHub](<https://github.com/longsizhuo/openinvest>) · **License: MIT** · Stars: not recorded — longsizhuo/openInvest is listed as an agent-skill repository. Its catalogue topics include agent development and financial workflows.
@@ -205,6 +206,5 @@
 - **refresh-agent-knowledge** — [Website](<https://github.com/Azure-Samples/azure-finops-agent/blob/97a4ab948c0114273c4a869d617b9652157a7307/.github/skills/refresh-agent-knowledge/SKILL.md>) · [GitHub](<https://github.com/Azure-Samples/azure-finops-agent>) · **License: MIT** · **★ 36** (as of 2026-10-25) · **Microsoft · Official source** — refresh-agent-knowledge is listed as an agent skill. Its catalogue topics include agent development.
 - **refresh-agents-md** — [Website](<https://github.com/IBM/ibm-licensing-operator/blob/224a2c87cc9345d620b041c6c72fbf573d63c2eb/.bob/skills/refresh-agents-md/SKILL.md>) · [GitHub](<https://github.com/IBM/ibm-licensing-operator>) · **License: Unknown** · **★ 26** (as of 2026-10-24) · **IBM · Official source** — refresh-agents-md is listed as an agent skill. Its catalogue topics include agent development.
 - **refresh-okf-mcp-token** — [Website](<https://github.com/aws-samples/sample-okf-llm-wiki/blob/8ee105dd795244b493743b24f6c8cb5b49fa0654/okf-mcp/skills/refresh-okf-mcp-token/SKILL.md>) · [GitHub](<https://github.com/aws-samples/sample-okf-llm-wiki>) · **License: MIT-0** · **★ 33** (as of 2026-10-25) · **Amazon Web Services · Official source** — refresh-okf-mcp-token is listed as an agent skill. Its catalogue topics include agent development.
-- **Rememora/rememora** — [Website](<https://github.com/rememora/rememora>) · [GitHub](<https://github.com/rememora/rememora>) · **License: MIT** · Stars: not recorded — Rememora/rememora is listed as an agent-skill repository. Its catalogue topics include agent development, software engineering, and data analysis.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](agent-development-1eeae9-3.md) · [Next →](agent-development-1eeae9-5.md)

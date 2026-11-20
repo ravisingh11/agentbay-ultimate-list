@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-1.md) · [Next →](documents-and-knowledge-09e32e-3.md)
 
-1,189 listings · Page 2 of 6
+1,190 listings · Page 2 of 6
 
+- **course-narration-studio** — [Website](<https://beatra.ai/en/skills/course-narration-studio>) · [GitHub](<https://github.com/beatra-ai/beatra-skills>) · **License: Unknown** · Stars: not recorded — course-narration-studio is listed as an agent skill. Its catalogue topics include document and knowledge workflows, audio and speech workflows, and learning workflows.
 - **cportka/claude-plugins** — [Website](<https://github.com/cportka/claude-plugins>) · [GitHub](<https://github.com/cportka/claude-plugins>) · **License: MIT** · Stars: not recorded — cportka/claude-plugins is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, security and privacy, and MCP tool integration.
 - **craaft/skill** — [Website](<https://github.com/craaft/skill>) · [GitHub](<https://github.com/craaft/skill>) · **License: MIT** · Stars: not recorded — craaft/skill is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows, authentication workflows, and software engineering.
 - **crawlbase/langchain-crawlbase** — [Website](<https://github.com/crawlbase/langchain-crawlbase>) · [GitHub](<https://github.com/crawlbase/langchain-crawlbase>) · **License: MIT** · Stars: not recorded — crawlbase/langchain-crawlbase is listed as an agent skill. Its catalogue topics include document and knowledge workflows.
@@ -205,6 +206,5 @@
 - **fruafr/skills** — [Website](<https://github.com/fruafr/skills>) · [GitHub](<https://github.com/fruafr/skills>) · **License: Apache-2.0** · Stars: not recorded — fruafr/skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and deployment and cloud operations.
 - **FW1201/twa-edu-harness** — [Website](<https://github.com/fw1201/twa-edu-harness>) · [GitHub](<https://github.com/fw1201/twa-edu-harness>) · **License: MIT** · Stars: not recorded — FW1201/twa-edu-harness is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
 - **FynePool/job-hunter-template** — [Website](<https://github.com/fynepool/job-hunter-template>) · [GitHub](<https://github.com/fynepool/job-hunter-template>) · **License: Unknown** · Stars: not recorded — FynePool/job-hunter-template is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows.
-- **Fyzel/claude-skills** — [Website](<https://github.com/fyzel/claude-skills>) · [GitHub](<https://github.com/fyzel/claude-skills>) · **License: Apache-2.0** · Stars: not recorded — Fyzel/claude-skills is listed as an agent-skill repository. Its catalogue topics include document and knowledge workflows and security and privacy.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](documents-and-knowledge-09e32e-1.md) · [Next →](documents-and-knowledge-09e32e-3.md)

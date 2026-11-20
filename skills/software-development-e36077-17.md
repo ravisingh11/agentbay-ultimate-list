@@ -4,8 +4,9 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-16.md) · [Next →](software-development-e36077-18.md)
 
-11,502 listings · Page 17 of 58
+11,505 listings · Page 17 of 58
 
+- **debug** — [Website](<https://github.com/microsoft/vscode-team-kit/blob/602b75ae9c96c9fddda51c1c9dd24f0106d369c3/debug/skills/debug/SKILL.md>) · [GitHub](<https://github.com/microsoft/vscode-team-kit>) · **License: MIT** · **★ 63** (as of 2026-10-25) · **Microsoft · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 - **debug** — [Website](<https://github.com/openai/symphony/blob/be10a1b79df723d6d7612b5651c8522704dafb2e/.codex/skills/debug/SKILL.md>) · [GitHub](<https://github.com/openai/symphony>) · **License: Apache-2.0** · **★ 27,808** (as of 2026-10-25) · **OpenAI · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 - **debug** — [Website](<https://github.com/anthropics/knowledge-work-plugins>) · [GitHub](<https://github.com/anthropics/knowledge-work-plugins>) · **License: Apache-2.0** · **★ 32,702** (as of 2026-10-25) · **Anthropic · Official source** — debug is listed as an agent skill. Its catalogue topics include software engineering.
 - **debug-access-token** — [Website](<https://github.com/meta/agentic-tools/blob/865dfb2e236dc3ea27cb8bd19ae64af752fdfd27/plugins/devtools/skills/debug-access-token/SKILL.md>) · [GitHub](<https://github.com/meta/agentic-tools>) · **License: MIT** · **★ 18** (as of 2026-10-31) · **Meta · Official source** — debug-access-token is listed as an agent skill. Its catalogue topics include software engineering.
@@ -205,6 +206,5 @@
 - **dewanshparashar/dekh-bhai** — [Website](<https://github.com/dewanshparashar/dekh-bhai>) · [GitHub](<https://github.com/dewanshparashar/dekh-bhai>) · **License: MIT** · Stars: not recorded — dewanshparashar/dekh-bhai is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **dgesteves/onsystem** — [Website](<https://github.com/dgesteves/onsystem>) · [GitHub](<https://github.com/dgesteves/onsystem>) · **License: MIT** · Stars: not recorded — dgesteves/onsystem is listed as an agent-skill repository. Its catalogue topics include software engineering, design workflows, and MCP tool integration.
 - **dgx-diagnose** — [Website](<https://github.com/NVIDIA/dgx-spark-playbooks/blob/30883150541743d580c9c347700c6ac99fc396d2/nvidia/station-ai-skills/assets/skills/dgx-diagnose/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/dgx-spark-playbooks>) · **License: Apache-2.0** · **★ 1,456** (as of 2026-10-25) · **NVIDIA · Official source** — dgx-diagnose is listed as an agent skill. Its catalogue topics include software engineering.
-- **dgx-station** — [Website](<https://github.com/NVIDIA/dgx-spark-playbooks/blob/30883150541743d580c9c347700c6ac99fc396d2/nvidia/playbook-dgx-station-ai-skills/assets/skills/dgx-station/SKILL.md>) · [GitHub](<https://github.com/NVIDIA/dgx-spark-playbooks>) · **License: Apache-2.0** · **★ 1,456** (as of 2026-10-25) · **NVIDIA · Official source** — dgx-station is listed as an agent skill. Its catalogue topics include software engineering.
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-16.md) · [Next →](software-development-e36077-18.md)

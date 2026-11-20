@@ -15,7 +15,7 @@
   ],
   "source_links": "Public website_url and repository_url fields in catalog.json",
   "limitations": "Metadata-based summaries; no new capability, compatibility, security, or maintenance audit. Not a legal clearance certificate.",
-  "entry_count": 22931,
+  "entry_count": 22943,
   "records": {
     "b509748d-11d9-5b18-a654-ef87a6a67799": {
       "input_sha256": "974364973b2d947146384e683404e18acaef14e76f8e3fef6a1f084a8c17900f",
@@ -2792,6 +2792,16 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674": {
+      "input_sha256": "9b0635bd9ba8ba4765c420ec5ef5c55d1980ca76d9a9644132005b9e90d3201e",
+      "description_sha256": "e170d81c52c83cb24dd0f7529ab4f102178be5330d8fab9e52903628b04fc32d",
+      "use_cases_sha256": "5e50c4ad32a3e4ce2f4f48f89e3883140e34cf3f9716eb52387ddb555230b0e2",
+      "topics": [
+        "agent development",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -7271,6 +7281,15 @@
       "use_cases_sha256": "813905378752870c4f2f55f391fc432c459ffd17de181679d111cfec4abf0e94",
       "topics": [
         "agent development"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c": {
+      "input_sha256": "1a79378a5bb392932a4418721aa1fd8a38d98fe220069847a84c1764bb31f7c7",
+      "description_sha256": "c36f058112fc0a17418fa4d9b723ce1f865c6fdfcaeec1d07692227d203abcc3",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -20195,6 +20214,15 @@
       "topics": [],
       "capability_topic_unresolved": true
     },
+    "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7": {
+      "input_sha256": "41b0572d2b6134f9f73e279f0ce81afc699f87a13c0984f50d26f52b5298b52a",
+      "description_sha256": "81fe7e9cbc9bc83c0b2f9ba1dc792d944d74a5563322a9aa050c139ed6b7ce63",
+      "use_cases_sha256": "28308dd3c8be59283c33a45f60d02bd27a00a1c98d2a27572c48b42a0223a97d",
+      "topics": [
+        "monitoring and operations"
+      ],
+      "capability_topic_unresolved": false
+    },
     "c3414448-69fa-59bf-9616-73c8c6dd16d0": {
       "input_sha256": "3f0072ba51c89f66f6b9a9acdc7d3c16f31fc68510f8c44324e2bd93244166ac",
       "description_sha256": "76d61d775508f072f1d0714285e62e8c21f43ac644e3758bec56a9a6ca95471f",
@@ -28366,6 +28394,16 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:e4840d7b-33e0-5a4b-8da2-034215a72903": {
+      "input_sha256": "20a76477b528db71008f5479b3bd30dc7d6aadd29581f4e3b7f1206405a073c3",
+      "description_sha256": "cb32fa8c3341b9281124aa73c98adf5c4500a3a9f7dad9d9b29d64600890bbe8",
+      "use_cases_sha256": "1444fa6958a8ae01872a095953048c2c5f22b2ff88d167ba0bc654a886480009",
+      "topics": [
+        "document and knowledge workflows",
+        "workflow automation"
       ],
       "capability_topic_unresolved": false
     },
@@ -39678,6 +39716,15 @@
         "agent development",
         "software engineering",
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed": {
+      "input_sha256": "2a0203e211e0b1e010d678ed779967897c5d170212bb083b8338e728bbc42619",
+      "description_sha256": "49236904ca0f9c936ffe7ec7ffc506f712fd716d9766fe8a21e6f9acf0c85628",
+      "use_cases_sha256": "b1163e9ec164f09a10a9b7fae267e8f3b3beeb4f8ae6c7b0a111de1dd006ecb2",
+      "topics": [
+        "content workflows"
       ],
       "capability_topic_unresolved": false
     },
@@ -66368,6 +66415,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:739a9786-648c-5864-ae14-e134e715badf": {
+      "input_sha256": "e78d4841a208ee69501eabbef8b0df5a838ec9b711ce6e2427c0b5d12393699e",
+      "description_sha256": "31a35aa744befd204623876817177274c4660f53ad7169440c5fcaafab0ab516",
+      "use_cases_sha256": "c22c503d3add902593576623a11773da79546675b05fc89ff5ffe506bcb6c2ff",
+      "topics": [
+        "deployment and cloud operations"
+      ],
+      "capability_topic_unresolved": false
+    },
     "a824d166-49b1-5d30-b9b6-cf0e9bdff561": {
       "input_sha256": "4d06b731d958c67909b73d8469b50d0d8bf6a5aeef44d0b7472c0b03fc5d0c3e",
       "description_sha256": "025247e2b9ffd6b28718208cf8fc881d16c21754e883fff5d84285befc1ef621",
@@ -68276,6 +68332,15 @@
       "topics": [
         "information research",
         "document and knowledge workflows"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:acc277de-f63b-5482-80f2-62f553b78da6": {
+      "input_sha256": "bd5cb5db0c40891577c1f975a55e011a3476067faef71bb4e40ad1fda6fe95b9",
+      "description_sha256": "767eefc18a19c34973152b4b2091b0424828b96a9c33322a42bd43492015086f",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
       ],
       "capability_topic_unresolved": false
     },
@@ -75561,12 +75626,32 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c5655adc-5661-53c2-bff3-004df46989ab": {
+      "input_sha256": "f52d0add7512ca0ef16e066fc18619b6137ea7cf63c7c2ba1db1d1e2fd71fe6b",
+      "description_sha256": "c34b825746c0ee16d2b9a85e3bcf21c7a481eccb2c9a8422a8e05bdecca1e38e",
+      "use_cases_sha256": "7e2ebf76e2f2e705e0490e5d77fc4009073ee74c6ed22af039fc3373051387d8",
+      "topics": [
+        "everyday tasks",
+        "MCP tool integration"
+      ],
+      "capability_topic_unresolved": false
+    },
     "f0435d13-b42b-5817-ab49-aced6e70b26e": {
       "input_sha256": "c89d58f0640a6d4ffa7cb3b598b53cd7b592b94975d33a0bc722ebde74feb4c1",
       "description_sha256": "2b3e2bf9b30764af928dd7a29144a40a34aa40babeb2b6fc519bebfad33d76fd",
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057": {
+      "input_sha256": "857cf62e9cacdf9370a4d07ecb9876a9c833ebf6eb7609a3dc03e32f2695177a",
+      "description_sha256": "d656a8827196471eb9f1bdf2231ef801c852bdfdaf2a0508edbe10f834acbb2c",
+      "use_cases_sha256": "7e2ebf76e2f2e705e0490e5d77fc4009073ee74c6ed22af039fc3373051387d8",
+      "topics": [
+        "everyday tasks",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -109204,6 +109289,16 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:6a1fe3b5-170e-5d20-a302-550042c7aa37": {
+      "input_sha256": "457ab017b25901186cceff1da3247b43d55766997052d5d164079f5af93d6086",
+      "description_sha256": "0480d8225c9cf9efd100aa7f6f063f48876b1af5337845cacd27be2856144b4f",
+      "use_cases_sha256": "59cc85fc71463637bbe1847d048b555a51807dc0203d86eee746a94515c691a6",
+      "topics": [
+        "marketing and outreach",
+        "MCP tool integration"
       ],
       "capability_topic_unresolved": false
     },
@@ -148392,6 +148487,15 @@
       ],
       "capability_topic_unresolved": false
     },
+    "community:c8a05abe-4688-5463-b46c-b8dea487f6b3": {
+      "input_sha256": "b5324913563658401a8ce6dde148b6a3b3f24576f77df150b92a88bf3177715f",
+      "description_sha256": "913135c417d187139801d5606450ab97ae4a30173dafcea88c2b94488380975d",
+      "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
+      "topics": [
+        "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
     "d27cbe82-b9d6-5a82-a4d7-3223ffc93309": {
       "input_sha256": "618377de6e519084ca5b2f36c736be66bec3db1d5ed839c2dcd43c76ed1848a5",
       "description_sha256": "b1393d3b3ddafd356ca64023de8925ce8efff21aee0c9fb21cc4fea209146e24",
@@ -170273,6 +170377,15 @@
       "use_cases_sha256": "33a71377c68b911c09489bb5287bfdb9ea35d7541969a23b2629cf078164a738",
       "topics": [
         "software engineering"
+      ],
+      "capability_topic_unresolved": false
+    },
+    "community:012e7a22-800c-587b-a2af-ac6c3c27f074": {
+      "input_sha256": "ee3f124e72ec3efbef7b405ef10e98b1b3cea7a09c0df83e0d81bcbe98934865",
+      "description_sha256": "592e0606098f11373d39461f1e4c89ef68b5e7984258d56a5346d1205267df68",
+      "use_cases_sha256": "6c4e361e3769e1a0a995b396b12aaf7f0a6ea52ac6fa1cd171936af3d29c0aca",
+      "topics": [
+        "workflow automation"
       ],
       "capability_topic_unresolved": false
     },

@@ -4,8 +4,11 @@
 
 [Skills index](README.md) · [Home](../README.md) · [← Previous](software-development-e36077-57.md)
 
-11,502 listings · Page 58 of 58
+11,505 listings · Page 58 of 58
 
+- **xb-debug-app** — [Website](<https://github.com/google/xrblocks/blob/e9af21d953a5c1cc264e72b260886f68a200f8d7/skills/xb-debug-app/SKILL.md>) · [GitHub](<https://github.com/google/xrblocks>) · **License: Apache-2.0** · **★ 489** (as of 2026-10-25) · **Google · Official source** — xb-debug-app is listed as an agent skill. Its catalogue topics include software engineering.
+- **xdp-testing** — [Website](<https://github.com/microsoft/xdp-for-windows/blob/6fda82cba9712b0a0aac132e507c0945924d5209/.github/skills/xdp-testing/SKILL.md>) · [GitHub](<https://github.com/microsoft/xdp-for-windows>) · **License: MIT** · **★ 493** (as of 2026-10-25) · **Microsoft · Official source** — xdp-testing is listed as an agent skill. Its catalogue topics include software engineering.
+- **xelth-com/claude-codex-consult** — [Website](<https://github.com/xelth-com/claude-codex-consult>) · [GitHub](<https://github.com/xelth-com/claude-codex-consult>) · **License: MIT** · Stars: not recorded — xelth-com/claude-codex-consult is listed as an agent-skill repository. Its catalogue topics include software engineering and authentication workflows.
 - **xhubio/nanook-skill** — [Website](<https://github.com/xhubio/nanook-skill>) · [GitHub](<https://github.com/xhubio/nanook-skill>) · **License: Unknown** · Stars: not recorded — xhubio/nanook-skill is listed as an agent-skill repository. Its catalogue topics include software engineering.
 - **xiaobei930/cc-best** — [Website](<https://github.com/xiaobei930/cc-best>) · [GitHub](<https://github.com/xiaobei930/cc-best>) · **License: MIT** · Stars: not recorded — xiaobei930/cc-best is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and authentication workflows.
 - **xiehuan123/browser-extension-launch** — [Website](<https://github.com/xiehuan123/browser-extension-launch>) · [GitHub](<https://github.com/xiehuan123/browser-extension-launch>) · **License: MIT** · Stars: not recorded — xiehuan123/browser-extension-launch is listed as an agent-skill repository. Its catalogue topics include software engineering, document and knowledge workflows, and security…
