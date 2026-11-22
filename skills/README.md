@@ -2,7 +2,7 @@
 
 # AgentBay skills
 
-**22,593 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
+**22,592 listings.** [Home](../README.md) · [JSON](catalog.json) · [CSV](catalog.csv)
 
 [Get AgentBay Skill Installer](../docs/using-skills.md) · [Read its SKILL.md](agentbay-skill-installer/SKILL.md) · [Disabled skills](disabled.md)
 
@@ -17,7 +17,7 @@ Each listing appears once under its primary category. Categories, tags and compl
 | Automation | 40 | [Page 1](automation-6d65ed.md) |
 | Browser automation | 217 | [Page 1](browser-automation-84a93a-1.md) · [Page 2](browser-automation-84a93a-2.md) |
 | business-ops | 27 | [Page 1](business-ops-da5664.md) |
-| Content creation | 280 | [Page 1](content-creation-c8909b-1.md) · [Page 2](content-creation-c8909b-2.md) |
+| Content creation | 279 | [Page 1](content-creation-c8909b-1.md) · [Page 2](content-creation-c8909b-2.md) |
 | content-creation | 32 | [Page 1](content-creation-b3b99b.md) |
 | Context Engineering | 13 | [Page 1](context-engineering-a2f7c6.md) |
 | Customer support | 7 | [Page 1](customer-support-588c06.md) |

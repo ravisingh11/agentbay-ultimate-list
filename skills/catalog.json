@@ -89742,8 +89742,8 @@
       "Organize document-oriented tasks",
       "Organize repeatable task workflows"
     ],
-    "license": "MIT",
-    "license_scope": "Repository MIT license at the pinned source revision",
+    "license": "CC-BY-4.0",
+    "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded.",
     "listing_scope": "community",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-20",
@@ -126491,36 +126491,6 @@
     "agentbay_url": "https://agentbay.io/?project=e735f8db-d236-5b39-916d-595a17df8862#catalog",
     "github_stars": 0,
     "github_stars_checked_at": "2026-11-08T10:04:51.814Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed",
-    "name": "chinese-diction",
-    "description": "chinese-diction is listed as an agent skill. Its catalogue topics include content workflows.",
-    "type": "Skill",
-    "website_url": "https://github.com/zhuocun/agent-skills/blob/276c29856cda39ea34c3c898a004956c6df57c3d/.agents/skills/chinese-diction/SKILL.md",
-    "repository_url": "https://github.com/zhuocun/agent-skills",
-    "categories": [
-      "Content creation"
-    ],
-    "tags": [
-      "Chinese",
-      "Writing",
-      "Translation",
-      "Localization"
-    ],
-    "use_cases": [
-      "Support content-oriented tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "community",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-20",
-    "agentbay_url": "",
-    "github_stars": 1,
-    "github_stars_checked_at": "2026-11-20",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -546766,8 +546736,8 @@
     "use_cases": [
       "Organize repeatable task workflows"
     ],
-    "license": "MIT",
-    "license_scope": "Repository MIT license at the pinned source revision",
+    "license": "CC-BY-4.0",
+    "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded.",
     "listing_scope": "community",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-20",

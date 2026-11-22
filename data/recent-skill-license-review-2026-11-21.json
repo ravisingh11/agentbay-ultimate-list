@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-21",
+  "scope": "All 18 remaining listings added by PRs #13 and #22 after the two Composio exclusions in PR #23; 17 individual skills and one skill repository.",
+  "method": "Read each pinned instruction or repository README, repository licence grants, applicable documentation licences, notices and relevant skill/ancestor licensing files. Inspected complete recursive Git trees for eleven repositories; Azure-Sentinel used its complete root tree and complete .github subtree because the whole-repository recursive response was unavailable. Publisher files were treated as review data.",
+  "validation_boundary": "Published instruction and code terms only. No publisher skill execution, installation, hosted service access, account operation or runtime evaluation. Third-party services and tools keep their own terms.",
+  "counts": {
+    "reviewed": 18,
+    "retained_unchanged": 15,
+    "license_corrected": 2,
+    "excluded": 1
+  },
+  "decisions": [
+    {
+      "id": "community:739a9786-648c-5864-ae14-e134e715badf",
+      "name": "durable-task-go",
+      "type": "Skill",
+      "source": "https://github.com/Azure-Samples/Durable-Task-Scheduler/blob/1811ff4efdb03810e42ebee6687c5d61377cd154/.github/skills/durable-task-go/SKILL.md",
+      "source_blob": "689de3be876cc090c339b9645096785388812636",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure-Samples/Durable-Task-Scheduler/blob/1811ff4efdb03810e42ebee6687c5d61377cd154/LICENSE.md",
+          "blob": "79656060de00aa4659ad2c276d5be8830664d544"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:c9bdf5e8-f455-5c4f-a38a-6ae89085aee7",
+      "name": "asim-itp-validation-troubleshooter",
+      "type": "Skill",
+      "source": "https://github.com/Azure/Azure-Sentinel/blob/15f63f4746c5373faa7a300e08ce5be3ff7dc200/.github/skills/asim-itp-validation-troubleshooter/SKILL.md",
+      "source_blob": "511e8f57760c455b30f3947ff40e9b82af5774a0",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure/Azure-Sentinel/blob/15f63f4746c5373faa7a300e08ce5be3ff7dc200/LICENSE",
+          "blob": "21071075c24599ee98254f702bcfc504cdc275a6"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:a898cfe3-4ec5-540e-bed9-ba83cd1b3674",
+      "name": "add-agent-binding",
+      "type": "Skill",
+      "source": "https://github.com/Azure/azure-functions-python-extensions/blob/80d7ede03674c493d991a9d5d4122e3cb8868290/.github/skills/add-agent-binding/SKILL.md",
+      "source_blob": "17306a05816a0229969d2f7024c78523da0fb6c9",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure/azure-functions-python-extensions/blob/80d7ede03674c493d991a9d5d4122e3cb8868290/LICENSE",
+          "blob": "9e841e7a26e4eb057b24511e7b92d42b257a80e5"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:c8a05abe-4688-5463-b46c-b8dea487f6b3",
+      "name": "purview-openapi-xmlcomments-duplicates",
+      "type": "Skill",
+      "source": "https://github.com/purview-dev/openapi-xmlcomments/blob/1deb36f6af80ba5f1ba81639cc408a7c87f7dd73/skills/purview-openapi-xmlcomments-duplicates/SKILL.md",
+      "source_blob": "e55ade68faef32f79f9817ff39277fada2981624",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/purview-dev/openapi-xmlcomments/blob/1deb36f6af80ba5f1ba81639cc408a7c87f7dd73/LICENSE.md",
+          "blob": "9ea2dfca3b9ae4c190fcdcbf973f8500d1020991"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:e4840d7b-33e0-5a4b-8da2-034215a72903",
+      "name": "batch-document-factory",
+      "type": "Skill",
+      "source": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/batch-document-factory/SKILL.md",
+      "source_blob": "cf9e4fe95949334020eb75dab3480ed0cd27ce04",
+      "decision": "license_corrected",
+      "license": "CC-BY-4.0",
+      "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded.",
+      "terms": [
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE",
+          "blob": "945b9164a762765e536e9f8f030c1a9696d567fc"
+        },
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE-docs.md",
+          "blob": "2aa0299cd10b17b1e026ea25e1a381ddb0d7757d"
+        }
+      ],
+      "reason": "The repository explicitly scopes its CC BY 4.0 grant to skills. Correct the prior repository-MIT-only metadata and retain the listings under the verified grant."
+    },
+    {
+      "id": "community:012e7a22-800c-587b-a2af-ac6c3c27f074",
+      "name": "signal-engine",
+      "type": "Skill",
+      "source": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/packs/automations/skills/signal-engine/SKILL.md",
+      "source_blob": "077dd905fdfc8767fcf798067a3337d5cab7a978",
+      "decision": "license_corrected",
+      "license": "CC-BY-4.0",
+      "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded.",
+      "terms": [
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE",
+          "blob": "945b9164a762765e536e9f8f030c1a9696d567fc"
+        },
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE-docs.md",
+          "blob": "2aa0299cd10b17b1e026ea25e1a381ddb0d7757d"
+        }
+      ],
+      "reason": "The repository explicitly scopes its CC BY 4.0 grant to skills. Correct the prior repository-MIT-only metadata and retain the listings under the verified grant."
+    },
+    {
+      "id": "community:4fa7e8ef-0bc1-5a24-a665-9c673e966057",
+      "name": "find-parking",
+      "type": "Skill",
+      "source": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-parking/SKILL.md",
+      "source_blob": "6e550d60b45f768dbbff5141148a4699bc58cc26",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/LICENSE",
+          "blob": "b2911085e04f405beaa9055724ef1f7dddb57fe6"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:c5655adc-5661-53c2-bff3-004df46989ab",
+      "name": "find-ev-chargers",
+      "type": "Skill",
+      "source": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/skills/find-ev-chargers/SKILL.md",
+      "source_blob": "5638c96f05b4ef8e96e43b7e556fb014393e29df",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/winsparking/agent-skills/blob/a649e31f5adffe5bb7671cf13b0a302ce93f8f13/LICENSE",
+          "blob": "b2911085e04f405beaa9055724ef1f7dddb57fe6"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:7b9a8d72-dcf5-5164-b177-6f4bf808a48c",
+      "name": "agentd-data-fix",
+      "type": "Skill",
+      "source": "https://github.com/KevinHu-au/agent-skills/blob/0043243bfc38417dd33b6ca411b4fbbc16c37e1e/skills/agentd-data-fix/SKILL.md",
+      "source_blob": "ecb12a3cbab5b79182c333e4bc83fdaf58d5b9f6",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/KevinHu-au/agent-skills/blob/0043243bfc38417dd33b6ca411b4fbbc16c37e1e/LICENSE",
+          "blob": "61d21a2896e02ed764b4324ed5e420cdbde937c5"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed",
+      "name": "chinese-diction",
+      "type": "Skill",
+      "source": "https://github.com/zhuocun/agent-skills/blob/276c29856cda39ea34c3c898a004956c6df57c3d/.agents/skills/chinese-diction/SKILL.md",
+      "source_blob": "a6702f70ffb710b55764fee735402796f0d1f2cf",
+      "decision": "excluded",
+      "license": "",
+      "license_scope": "No usable grant verified in the pinned/current skill, its six references, repository README, or relevant publisher notices. Repository metadata has no detected licence.",
+      "terms": [],
+      "reason": "Withdraw under the maintainer's requirement for verified usable terms. Complete tree contains no licence file; no grant was found in the reviewed skill materials or repository README.",
+      "current_revision": "276c29856cda39ea34c3c898a004956c6df57c3d",
+      "repository_detected_license": null,
+      "tree": {
+        "url": "https://api.github.com/repos/zhuocun/agent-skills/git/trees/276c29856cda39ea34c3c898a004956c6df57c3d?recursive=1",
+        "sha": "276c29856cda39ea34c3c898a004956c6df57c3d",
+        "truncated": false
+      },
+      "reviewed_files": [
+        {
+          "path": ".agents/skills/chinese-diction/SKILL.md",
+          "blob": "a6702f70ffb710b55764fee735402796f0d1f2cf"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/claims.md",
+          "blob": "f8dcb52a52b3929c979faecd2cb5d22cdd7a83b8"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/display-text.md",
+          "blob": "a3134f0b0b7284ccbb3554cd080bd4ebe5c7d348"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/obligation-texts.md",
+          "blob": "64a86032161bdd4a61ce8354972ff8a5c961190a"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/requested-prose.md",
+          "blob": "6cd34c0c72b1aa60430dd08fbde093be06d2da6c"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/terminology.md",
+          "blob": "9fc12d9df31bdfb162a0de42188203ad4ceddf95"
+        },
+        {
+          "path": ".agents/skills/chinese-diction/references/translation-and-locale.md",
+          "blob": "2c3c325eba9787dc6b0037c5be2ac2829ce01762"
+        },
+        {
+          "path": "AGENTS.md",
+          "blob": "76f7876ff9b817d453307b4cc905e793e0b258a3"
+        },
+        {
+          "path": "CLAUDE.md",
+          "blob": "43c994c2d3617f947bcb5adf1933e21dabe46bb5"
+        },
+        {
+          "path": "README.md",
+          "blob": "3626a1f73dd90a47ec481484a86382327b4770c9"
+        }
+      ]
+    },
+    {
+      "id": "community:acc277de-f63b-5482-80f2-62f553b78da6",
+      "name": "EJRyan89/coding-agent-skills",
+      "type": "Skill Repository",
+      "source": "https://github.com/EJRyan89/coding-agent-skills/blob/9dde64bf414a8b41ce3aad54ff7f5cb134d3c5a6/README.md",
+      "source_blob": "5f5f5e5ca10286aa4b26f4a1ec9cfb0c75d563e3",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/EJRyan89/coding-agent-skills/blob/9dde64bf414a8b41ce3aad54ff7f5cb134d3c5a6/LICENSE",
+          "blob": "02690ecdc46809369b2384c8ee8113553dd436a5"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:6a1fe3b5-170e-5d20-a302-550042c7aa37",
+      "name": "launchspy",
+      "type": "Skill",
+      "source": "https://github.com/launchspyio/launchspy-agent/blob/e0286f83b25466fb776bc23fe5ebbd0847e215b3/skills/launchspy/SKILL.md",
+      "source_blob": "84d8178f640227dd48ca20cc390cd470f1616410",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/launchspyio/launchspy-agent/blob/e0286f83b25466fb776bc23fe5ebbd0847e215b3/LICENSE",
+          "blob": "6c5da9615fbfabf846d447ac7a27105b2e3db124"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:bd1dbcfd-52fe-5a25-8a0c-4003402732d8",
+      "name": "implement",
+      "type": "Skill",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/implement/SKILL.md",
+      "source_blob": "e4e422fe22428fc6e0d505c2d2549bb17e92e813",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "blob": "631a2b25ecd1b45eb5c79aefe52d85ab7c15d171"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:aea95159-c90a-5b2c-a8d4-156a0b2176e5",
+      "name": "plan",
+      "type": "Skill",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/plan/SKILL.md",
+      "source_blob": "d9423866c3ca124e2772f0da1e8e454af5dd9101",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "blob": "631a2b25ecd1b45eb5c79aefe52d85ab7c15d171"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:42de2fde-2388-5b6f-a5a1-c2cce824c602",
+      "name": "specify",
+      "type": "Skill",
+      "source": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/plugins/speckit-spec2cloud/skills/specify/SKILL.md",
+      "source_blob": "8bb351c9173ebea7be8b5b33b644cdadd1267587",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure-Samples/Spec2Cloud/blob/f51d61f6f6966db69af73c17a4be9c7d11460ee0/LICENSE.md",
+          "blob": "631a2b25ecd1b45eb5c79aefe52d85ab7c15d171"
+        }
+      ],
+      "reason": "Pinned repository MIT text provides a usable grant; the reviewed skill-specific and ancestor materials do not override it."
+    },
+    {
+      "id": "community:c3952608-07b5-578c-aab3-2460a5e5a018",
+      "name": "azure-typespec-author",
+      "type": "Skill",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/azure-typespec-author/SKILL.md",
+      "source_blob": "d455890fc20fb3806afbb4232092cad730ee37db",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "blob": "21071075c24599ee98254f702bcfc504cdc275a6"
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/NOTICE.txt",
+          "blob": "1df7c2c5e20fab6f7ffce12b6fdc33390c8f2c66"
+        }
+      ],
+      "reason": "Each pinned SKILL.md explicitly declares MIT, consistent with root LICENSE. Root NOTICE.txt describes the separate tools/apiview/parsers/rust-api-parser component."
+    },
+    {
+      "id": "community:499d2423-28d2-5a62-9668-39a20dab0e32",
+      "name": "markdown-token-optimizer",
+      "type": "Skill",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/markdown-token-optimizer/SKILL.md",
+      "source_blob": "1a273fe8a019b6cf928e97914332c6556d65ca52",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "blob": "21071075c24599ee98254f702bcfc504cdc275a6"
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/NOTICE.txt",
+          "blob": "1df7c2c5e20fab6f7ffce12b6fdc33390c8f2c66"
+        }
+      ],
+      "reason": "Each pinned SKILL.md explicitly declares MIT, consistent with root LICENSE. Root NOTICE.txt describes the separate tools/apiview/parsers/rust-api-parser component."
+    },
+    {
+      "id": "community:743ca0eb-db26-58ce-b18e-b1cd5d3a034a",
+      "name": "skill-authoring",
+      "type": "Skill",
+      "source": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/plugins/azure-sdk-tools/skills/skill-authoring/SKILL.md",
+      "source_blob": "435dcd7f34e1765d91b682c11fdcce2cb092f30b",
+      "decision": "retained",
+      "license": "MIT",
+      "license_scope": "Repository MIT licence applies to this pinned source; no conflicting skill declaration or nearer licensing file was found in the inspected skill/ancestor paths. Preserve copyright and permission notices when redistributing covered material.",
+      "terms": [
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/LICENSE",
+          "blob": "21071075c24599ee98254f702bcfc504cdc275a6"
+        },
+        {
+          "url": "https://github.com/Azure/azure-sdk-tools/blob/8867bd499a5110416f1a4607288bcee2e980dc70/NOTICE.txt",
+          "blob": "1df7c2c5e20fab6f7ffce12b6fdc33390c8f2c66"
+        }
+      ],
+      "reason": "Each pinned SKILL.md explicitly declares MIT, consistent with root LICENSE. Root NOTICE.txt describes the separate tools/apiview/parsers/rust-api-parser component."
+    }
+  ]
+}
