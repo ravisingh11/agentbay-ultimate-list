@@ -186,11 +186,12 @@ class MaintenanceTests(unittest.TestCase):
                 readme = catalog.render_browse([], manifest)['README.md'].decode()
                 self.assertNotIn('Catalogue refreshed', readme)
 
-    def test_unverified_composio_skills_stay_excluded_after_import(self):
+    def test_unverified_skill_terms_stay_excluded_after_import(self):
         policy = catalog.read_json(SCRIPT.parent.parent / 'data/curation.json')
         identifiers = {
             'community:c5c2fbd4-c40e-57b8-a317-6650f2c256f5',
             'community:ebeb65f3-cb97-5d8e-ad6b-45d9abbac8d9',
+            'community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed',
         }
         additions = [entry for entry in policy['additions'] if entry['id'] in identifiers]
         exclusions = [entry for entry in policy['exclusions'] if entry['id'] in identifiers]
@@ -202,6 +203,26 @@ class MaintenanceTests(unittest.TestCase):
             'corrections': [], 'exclusions': exclusions,
         })
         self.assertEqual(applied, [])
+
+    def test_shotos_instruction_terms_survive_imported_repository_license(self):
+        policy = catalog.read_json(SCRIPT.parent.parent / 'data/curation.json')
+        identifiers = {
+            'community:e4840d7b-33e0-5a4b-8da2-034215a72903',
+            'community:012e7a22-800c-587b-a2af-ac6c3c27f074',
+        }
+        additions = [entry for entry in policy['additions'] if entry['id'] in identifiers]
+        corrections = [entry for entry in policy['corrections'] if entry['id'] in identifiers]
+        self.assertEqual({entry['id'] for entry in corrections}, identifiers)
+        imported = [row(entry['id'], **{**entry['fields'],
+                        'license': 'MIT', 'license_scope': 'Repository default'})
+                    for entry in additions]
+        applied = catalog.apply_curation(imported, curation(
+            additions=additions, corrections=corrections))
+        self.assertEqual({entry['id'] for entry in applied}, identifiers)
+        for entry in applied:
+            self.assertEqual(entry['license'], 'CC-BY-4.0')
+            self.assertIn('Companion Google Apps Script code uses MIT', entry['license_scope'])
+            self.assertIn('Attribution', entry['license_scope'])
 
     def test_write_refuses_symlink_before_changing_outputs(self):
         with tempfile.TemporaryDirectory() as directory:

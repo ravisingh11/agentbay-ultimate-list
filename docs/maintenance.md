@@ -248,7 +248,8 @@ blobs, bounded capability notes and license evidence in curation. The other
 26 candidate groups are discarded for the recorded overlap, template, context
 or workflow reasons.
 
-The Chinese diction entry retains unknown license fields. Service-backed
+The original review retained unknown licence fields for Chinese diction.
+The November 21 licence follow-up below withdraws that listing. Service-backed
 parking, charging and advertising entries describe integrations whose runtime
 availability was not tested. LaunchSpy requires an account and usage credits.
 The Apps Script workflows need owner-approved Google permissions and pilot
@@ -301,3 +302,31 @@ as history. Applying curation after a future import removes these two IDs
 again. Reinstatement requires a reviewed change with usable licensing evidence.
 This withdrawal applies the maintainer's requirement to verify usable terms
 for each listed skill.
+
+## November 21, 2026 recent-addition licence review
+
+The [licence review](../data/recent-skill-license-review-2026-11-21.json)
+checks all 18 remaining listings added by PRs #13 and #22 after the two
+Composio withdrawals. It records pinned instruction and licence blobs,
+applicable scope and each decision. Fifteen listings retain verified MIT
+terms. The Azure SDK skills explicitly declare MIT, and the other retained
+MIT sources have no conflicting skill-specific terms in the inspected paths.
+
+Chinese diction is withdrawn through an explicit curation exclusion. Its
+pinned and current revision are the same, its complete tree has no licence
+file, and the skill, six references and repository README supply no usable
+grant. Its original addition record remains as history. A later import cannot
+restore the listing without a reviewed change with verified usable terms.
+
+SHOTos batch-document-factory and signal-engine remain listed with corrected
+CC-BY-4.0 metadata. The pinned LICENSE-docs.md explicitly covers skills and
+Markdown instructions, while companion Google Apps Script code remains MIT.
+Sharing the licensed instructions or adaptations requires attribution to SHOTos,
+creator Liam McDowell and publisher SHOT Clubhouse, a licence link and change
+notices where applicable. The upstream name and logo are outside both grants.
+No publisher instructions or code are copied into this change.
+
+This review changes published catalogue metadata and exclusions only. It
+does not execute skills or verify external services, account permissions or
+runtime behaviour. Existing IDs, aliases and the recorded import date remain
+unchanged for retained records.

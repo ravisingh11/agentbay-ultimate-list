@@ -10419,6 +10419,44 @@
           "note": "The imported self-listing used the historical Skill Finder name and a website redirect. Matched the maintained, checksummed installer source at merged PR #22 and retained the incoming stable ID."
         }
       ]
+    },
+    {
+      "id": "community:e4840d7b-33e0-5a4b-8da2-034215a72903",
+      "fields": {
+        "license": "CC-BY-4.0",
+        "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE",
+          "checked_at": "2026-11-21",
+          "note": "Read pinned licence blob 945b9164a762765e536e9f8f030c1a9696d567fc. SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+        },
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE-docs.md",
+          "checked_at": "2026-11-21",
+          "note": "Read pinned licence blob 2aa0299cd10b17b1e026ea25e1a381ddb0d7757d. SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+        }
+      ]
+    },
+    {
+      "id": "community:012e7a22-800c-587b-a2af-ac6c3c27f074",
+      "fields": {
+        "license": "CC-BY-4.0",
+        "license_scope": "SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+      },
+      "evidence": [
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE",
+          "checked_at": "2026-11-21",
+          "note": "Read pinned licence blob 945b9164a762765e536e9f8f030c1a9696d567fc. SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+        },
+        {
+          "url": "https://github.com/SHOTClubhouse/shotos/blob/675afe0ab55d6b865090788b22efb3be7ffb11a4/LICENSE-docs.md",
+          "checked_at": "2026-11-21",
+          "note": "Read pinned licence blob 2aa0299cd10b17b1e026ea25e1a381ddb0d7757d. SKILL.md, README.md and surrounding Markdown use CC BY 4.0 under LICENSE-docs.md. Companion Google Apps Script code uses MIT under LICENSE. Attribution to SHOTos, creator Liam McDowell and publisher SHOT Clubhouse is required when sharing the licensed material. Names and logos are excluded."
+        }
+      ]
     }
   ],
   "exclusions": [
@@ -12309,6 +12347,22 @@
           "url": "https://github.com/ComposioHQ/awesome-claude-skills/issues/1069",
           "checked_at": "2026-11-20",
           "note": "Upstream request specifically asks for explicit licensing for changelog-generator. Issue remains open and has no comments. Also checked issues #88 and #1621, which remain open without comments. These requests provide no publisher clarification or permission grant."
+        }
+      ]
+    },
+    {
+      "id": "community:6816ca84-5c35-5c8b-8c1f-7bfaae75b1ed",
+      "reason": "Withdraw under the maintainer's requirement for verified usable terms. Complete tree contains no licence file; no grant was found in the reviewed skill materials or repository README.",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/zhuocun/agent-skills/git/trees/276c29856cda39ea34c3c898a004956c6df57c3d?recursive=1",
+          "checked_at": "2026-11-21",
+          "note": "Inspected the complete untruncated repository tree at pinned/current revision 276c29856cda39ea34c3c898a004956c6df57c3d. No LICENSE, COPYING, NOTICE, copyright or terms file is present. GitHub repository licence metadata is null."
+        },
+        {
+          "url": "https://github.com/zhuocun/agent-skills/blob/276c29856cda39ea34c3c898a004956c6df57c3d/.agents/skills/chinese-diction/SKILL.md",
+          "checked_at": "2026-11-21",
+          "note": "Read skill blob a6702f70ffb710b55764fee735402796f0d1f2cf and all six companion references. No licence grant was found. Root README.md and publisher notices likewise supply no grant. See data/recent-skill-license-review-2026-11-21.json for the exact reviewed blobs."
         }
       ]
     }
