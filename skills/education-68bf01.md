@@ -4,11 +4,10 @@
 
 [Skills index](README.md) · [Home](../README.md)
 
-4 listings · Page 1 of 1
+3 listings · Page 1 of 1
 
-- **art-demo-set** — [Website](<https://beatra.ai/en/skills/art-demo-set>) · [GitHub](<https://github.com/beatra-ai/beatra-skills>) · **License: Unknown** · **★ 8** (as of 2026-11-08) — art-demo-set is listed as an agent skill. Its catalogue topics include learning workflows.
-- **hanzi-card-set** — [Website](<https://beatra.ai/en/skills/hanzi-card-set>) · [GitHub](<https://github.com/beatra-ai/beatra-skills>) · **License: Unknown** · **★ 8** (as of 2026-11-08) — hanzi-card-set is listed as an agent skill. Its catalogue topics include learning workflows.
-- **interview-simulator** — [Website](<https://github.com/Wscats/interview-simulator>) · [GitHub](<https://github.com/Wscats/interview-simulator>) · **License: Unknown** · **★ 7** (as of 2026-11-08) — interview-simulator is listed as an agent skill. Its catalogue topics include learning workflows.
+- **art-demo-set** — [Website](<https://beatra.ai/en/skills/art-demo-set>) · [GitHub](<https://github.com/beatra-ai/beatra-skills>) · **License: MIT-0** · **★ 8** (as of 2026-11-08) — art-demo-set is listed as an agent skill. Its catalogue topics include learning workflows.
+- **interview-simulator** — [Website](<https://github.com/Wscats/interview-simulator>) · [GitHub](<https://github.com/Wscats/interview-simulator>) · **License: MIT** · **★ 7** (as of 2026-11-08) — interview-simulator is listed as an agent skill. Its catalogue topics include learning workflows.
 - **teach** — [Website](<https://github.com/mattpocock/skills>) · [GitHub](<https://github.com/mattpocock/skills>) · **License: MIT** · **★ 307,560** (as of 2026-10-31) — teach is listed as an agent skill. Its catalogue topics include learning workflows.
 
 [Skills index](README.md) · [Home](../README.md)

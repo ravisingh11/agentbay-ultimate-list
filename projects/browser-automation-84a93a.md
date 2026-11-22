@@ -4,7 +4,7 @@
 
 [Projects and tools index](README.md) · [Home](../README.md)
 
-11 listings · Page 1 of 1
+10 listings · Page 1 of 1
 
 - **Agentic Context Engine** — [Website](<https://github.com/kayba-ai/agentic-context-engine>) · [GitHub](<https://github.com/kayba-ai/agentic-context-engine>) · **License: Apache-2.0** · **★ 2,608** (as of 2026-11-08) — Agentic Context Engine is listed as a framework. Its catalogue topics include browser workflows, data analysis, and agent development.
 - **ByteDance UI-TARS Desktop** — [Website](<https://agent-tars.com>) · [GitHub](<https://github.com/bytedance/UI-TARS-desktop>) · **License: Apache-2.0** · **★ 39,570** (as of 2026-11-08) · **ByteDance · Official source** — ByteDance UI-TARS Desktop is listed as a project. Its catalogue topics include browser workflows and agent development.
@@ -15,7 +15,6 @@
 - **Salesforce WALT** — [Website](<https://arxiv.org/abs/2510.01524>) · [GitHub](<https://github.com/SalesforceAIResearch/WALT>) · **License: MIT** · **★ 80** (as of 2026-11-08) · **Salesforce · Official source** — Salesforce WALT is listed as a tool. Its catalogue topics include browser workflows, agent development, and information research.
 - **Skyvern** — [Website](<https://github.com/skyvern-ai/skyvern>) · [GitHub](<https://github.com/skyvern-ai/skyvern>) · **License: AGPL-3.0-only** · Stars: not recorded — Skyvern is listed as an agent or tool. Its catalogue topics include browser workflows, project planning, and data analysis.
 - **Steel** — [Website](<https://github.com/steel-dev/steel-browser>) · [GitHub](<https://github.com/steel-dev/steel-browser>) · **License: Apache-2.0** · **★ 7,854** (as of 2026-10-21) — Steel is listed as an agent or tool. Its catalogue topics include browser workflows, agent development, and software engineering.
-- **Vercel Remote Agent Browser** — [Website](<https://remote-agent-browser.dev>) · [GitHub](<https://github.com/vercel-labs/remote-agent-browser>) · **License: Unknown** · Stars: not recorded · **Vercel · Official source** — Vercel Remote Agent Browser is listed as a tool. Its catalogue topics include browser workflows and execution environments.
 - **Webcmd** — [Website](<https://github.com/agentrhq/webcmd>) · [GitHub](<https://github.com/agentrhq/webcmd>) · **License: Apache-2.0** · **★ 2,768** (as of 2026-11-08) — Webcmd is listed as an agent or tool. Its catalogue topics include browser workflows, information research, and monitoring and operations.
 
 [Projects and tools index](README.md) · [Home](../README.md)

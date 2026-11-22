@@ -10,6 +10,25 @@ The repository's MIT license does not relicense a listed project, skill, hosted 
 
 Most listings link to upstream skills. The maintained AgentBay adaptations under `skills/agentbay-fboss-*/` and `skills/agentbay-openzl-benchmark-scenarios/` bundle adapted instructions and local helpers under their own retained upstream licenses and attribution notices. Before copying or running a skill, review that source's license, prerequisites and instructions. Neither an Official source label nor a public GitHub repository establishes permission to redistribute everything it contains.
 
+## Catalogue-wide review (November 22, 2026)
+
+The [dated review](data/catalogue-license-review-2026-11-22.json) covers every
+accepted listing at its recorded base revision. Retained listings have
+source-bound published terms; exclusions in `data/curation.json` prevent a later
+import from silently restoring entries whose usable grant or scope was not
+verified. An exclusion does not establish that a publisher offers no licence.
+Historical source-restoration and addition reviews remain dated evidence, not
+current acceptance decisions.
+
+Clear restricted terms remain listed, including noncommercial, purchaser-only,
+service-only and limited integration grants. Read `license_scope` and the linked
+publisher terms before use. `LicenseRef-*` values are local identifiers for those
+publisher texts or modified/split licences; they do not create permissions or
+imply a standard open-source licence. Service access, subscription eligibility,
+third-party assets, trademarks and runtime compatibility are separate questions.
+The review records exact source commits and licence Git blobs; future changes
+need a fresh review.
+
 ## Original summaries
 
 Exported descriptions and use cases are locally authored templates applied to names, types, categories and recognized topic tags. Publisher description and use-case prose are excluded from that generation process. [Summary provenance](provenance/descriptions.json) records the policy, input/output fingerprints and unresolved topics for every retained record.

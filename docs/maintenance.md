@@ -330,3 +330,28 @@ This review changes published catalogue metadata and exclusions only. It
 does not execute skills or verify external services, account permissions or
 runtime behaviour. Existing IDs, aliases and the recorded import date remain
 unchanged for retained records.
+
+## Catalogue-wide licence review (November 22, 2026)
+
+[data/catalogue-license-review-2026-11-22.json](../data/catalogue-license-review-2026-11-22.json)
+records a decision for every accepted base-revision ID, immutable source and
+licence hashes, the verification method, scope exceptions and limitations.
+`data/curation.json` maintains the resulting corrections and exclusions through
+future imports. All retained IDs and existing aliases remain stable; the upstream
+import date is unchanged. Public JSON/CSV exports and generated skill/project
+browsing pages are regenerated together without a schema change.
+
+The maintainer chose to keep clear restricted licences with their limits stated.
+Missing, inaccessible, incomplete or unresolved grants/scopes are excluded rather
+than treated as MIT. Complete published terms and source-specific declarations
+control over cached repository licence labels. Review both permissions and scope
+when adding a listing or accepting changed source/terms. Public repository
+visibility and a historical successful source restoration do not establish rights.
+The unavailable-path page retains historical source findings and explicitly labels
+any subsequent catalogue exclusions; it does not misreport those files as missing.
+
+The record is a dated published-terms review, not a legal opinion, ownership or
+third-party asset clearance, service-entitlement check, or execution of the skills.
+A removal can be reconsidered with new public permission evidence in a focused
+curation change. Restoring an older whole catalogue would also restore unrelated
+unverified entries and should not be used as a routine rollback.
