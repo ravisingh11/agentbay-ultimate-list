@@ -4,7 +4,7 @@
 
 [Skills index](README.md) · [Home](../README.md)
 
-13 listings · Page 1 of 1
+12 listings · Page 1 of 1
 
 - **amirkiarafiei/subagent-cli-skills** — [Website](<https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills>) · [GitHub](<https://github.com/amirkiarafiei/subagent-cli-skills>) · **License: MIT** · **★ 13** (as of 2026-11-08) — amirkiarafiei/subagent-cli-skills is listed as an agent skill. Its catalogue topics include agent memory and context.
 - **chrono-meta/context-doctor** — [Website](<https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/context-doctor>) · [GitHub](<https://github.com/chrono-meta/forge-harness>) · **License: MIT** · **★ 31** (as of 2026-11-08) — chrono-meta/context-doctor is listed as an agent skill. Its catalogue topics include agent memory and context.
@@ -16,8 +16,7 @@
 - **muratcankoylan/memory-systems** — [Website](<https://github.com/muratcankoylan/agent-skills-for-context-engineering/tree/main/skills/memory-systems>) · [GitHub](<https://github.com/muratcankoylan/agent-skills-for-context-engineering>) · **License: MIT** · **★ 18,257** (as of 2026-10-31) — muratcankoylan/memory-systems is listed as an agent skill. Its catalogue topics include agent memory and context.
 - **NeoLabHQ/prompt-engineering** — [Website](<https://github.com/neolabhq/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering>) · [GitHub](<https://github.com/neolabhq/context-engineering-kit>) · **License: GPL-3.0-only** · Stars: not recorded — NeoLabHQ/prompt-engineering is listed as an agent skill. Its catalogue topics include agent memory and context.
 - **orziz/odai** — [Website](<https://github.com/orziz/odai/tree/main/skills/odai>) · [GitHub](<https://github.com/orziz/odai>) · **License: MIT** · Stars: not recorded — orziz/odai is listed as an agent skill. Its catalogue topics include agent memory and context.
-- **rebelytics/task-observer** — [Website](<https://github.com/rebelytics/one-skill-to-rule-them-all>) · [GitHub](<https://github.com/rebelytics/one-skill-to-rule-them-all>) · **License: Unknown** · Stars: not recorded — rebelytics/task-observer is listed as an agent skill. Its catalogue topics include agent memory and context.
-- **ruslanlap/cavemenko** — [Website](<https://github.com/ruslanlap/cavemenko/tree/main/skills/cavemenko>) · [GitHub](<https://github.com/ruslanlap/cavemenko>) · **License: MIT** · Stars: not recorded — ruslanlap/cavemenko is listed as an agent skill. Its catalogue topics include agent memory and context.
+- **rebelytics/task-observer** — [Website](<https://github.com/rebelytics/one-skill-to-rule-them-all>) · [GitHub](<https://github.com/rebelytics/one-skill-to-rule-them-all>) · **License: CC-BY-4.0** · Stars: not recorded — rebelytics/task-observer is listed as an agent skill. Its catalogue topics include agent memory and context.
 - **thousandflowers/skillreaper** — [Website](<https://github.com/thousandflowers/skillreaper>) · [GitHub](<https://github.com/thousandflowers/skillreaper>) · **License: MIT** · Stars: not recorded — thousandflowers/skillreaper is listed as an agent skill. Its catalogue topics include agent memory and context, software engineering, and MCP tool integration.
 
 [Skills index](README.md) · [Home](../README.md)

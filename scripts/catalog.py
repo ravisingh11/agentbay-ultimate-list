@@ -698,6 +698,20 @@ def generated_path(name):
                     len(p.parts)==2 and p.parts[0] in ('skills','projects') and p.suffix=='.md')
 
 
+def excluded_source_reasons(root=ROOT):
+    """Keep historical source recovery distinct from current catalogue acceptance."""
+    from urllib.parse import unquote, urlsplit
+    result = {}
+    for entry in read_json(root/'data/curation.json')['exclusions']:
+        for evidence in entry['evidence']:
+            parsed = urlsplit(evidence['url'])
+            parts = unquote(parsed.path).strip('/').split('/')
+            if parsed.hostname == 'github.com' and len(parts) >= 5 and parts[2] in ('blob', 'tree'):
+                key = ('/'.join(parts[:2]).casefold(), '/'.join(parts[4:]))
+                result[key] = entry['reason']
+    return result
+
+
 def build_outputs(rows, aliases, manifest, root=ROOT):
     rows, normalized_aliases = normalize(rows, aliases)
     if normalized_aliases != aliases:
@@ -708,6 +722,7 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
     outputs.update(derived)
     outputs.update(render_browse(rows, manifest))
     disabled = read_json(root/'data/disabled-skills.json')['skills']
+    excluded_sources = excluded_source_reasons(root)
     lines = [GENERATED, '', '# Unavailable source paths', '', '[Skills](README.md)', '',
              'These paths were absent from the inspected publisher revision and are excluded from search. A skill may still exist at another source.', '']
     for item in disabled:
@@ -726,10 +741,12 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
                 raise ValueError('Related source needs its license warning')
             from urllib.parse import quote
             url = 'https://github.com/'+repo+'/blob/'+commit+'/'+quote(path, safe='/')
-            if alternate['kind'] == 'exact' and not any(row['website_url'] == url for row in rows):
+            if alternate['kind'] == 'exact' and not any(row['website_url'] == url for row in rows) and (repo.casefold(), path) not in excluded_sources:
                 raise ValueError('Exact replacement missing from the catalogue')
             label = 'Identical skill at original source' if alternate['kind'] == 'exact' else 'Related source, not verified equivalent'
             line += ' · ['+label+'](<'+link_url(url)+'>)'
+            if (repo.casefold(), path) in excluded_sources and not any(row['website_url'] == url for row in rows):
+                line += ' · Catalogue exclusion: '+md(excluded_sources[(repo.casefold(), path)])
             if alternate['kind'] == 'related':
                 line += ' · '+md(alternate.get('license_notice', 'Review source license before use.'))
         review = item.get('review')
@@ -759,9 +776,11 @@ def build_outputs(rows, aliases, manifest, root=ROOT):
                         parts = unquote(urlsplit(value).path).strip('/').split('/')
                         return (('/'.join(parts[:2]).casefold(), '/'.join(parts[4:]))
                                 if len(parts) >= 5 and parts[2] in ('blob', 'tree') else None)
-                    if not any(source_key(row['website_url']) == (repo.casefold(), path) for row in rows):
+                    if not any(source_key(row['website_url']) == (repo.casefold(), path) for row in rows) and (repo.casefold(), path) not in excluded_sources:
                         raise ValueError('Reviewed available skill missing from the catalogue')
                 line += ' · ['+label+'](<'+link_url(url)+'>)'
+                if (repo.casefold(), path) in excluded_sources:
+                    line += ' · Catalogue exclusion: '+md(excluded_sources[(repo.casefold(), path)])
             evidence = review.get('evidence')
             if evidence:
                 if not isinstance(evidence, str) or not re.fullmatch(r'https://github\.com/[\w.-]+/[\w.-]+/(?:commit/[a-f0-9]{40}|compare/[a-f0-9]{40}\.\.\.[a-f0-9]{40})', evidence):

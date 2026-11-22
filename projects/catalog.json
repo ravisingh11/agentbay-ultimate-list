@@ -1,30 +1,5 @@
 [
   {
-    "id": "9aa61af3-2718-5a92-b536-82761571f038",
-    "name": "24/7 AI Chatbot",
-    "description": "24/7 AI Chatbot is listed as an agent example. Its catalogue topics include specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/nirdiamant/genai_agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb",
-    "repository_url": "https://github.com/nirdiamant/genai_agents",
-    "categories": [
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:17:45.705089+00:00",
-    "agentbay_url": "https://agentbay.io/?project=9aa61af3-2718-5a92-b536-82761571f038#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "1609c72a-742f-5c17-a5c9-5ee83e7cb1e6",
     "name": "5dive",
     "description": "5dive is listed as an agent or tool. Its catalogue topics include social-media workflows, software engineering, and deployment and cloud operations.",
@@ -167,65 +142,6 @@
     "agentbay_url": "https://agentbay.io/?project=1ee3e6b4-14fb-5cf2-81f2-2577c560f92c#catalog",
     "github_stars": 11,
     "github_stars_checked_at": "2026-11-08T10:01:53.158Z",
-    "recommended": false,
-    "preferred_provider": "Adobe"
-  },
-  {
-    "id": "95bc446c-c0cc-5bda-b236-a3f2cc88e873",
-    "name": "Adobe DynaSaur",
-    "description": "Adobe DynaSaur is listed as a framework. Its catalogue topics include agent development and information research.",
-    "type": "Framework",
-    "website_url": "https://github.com/adobe-research/dynasaur",
-    "repository_url": "https://github.com/adobe-research/dynasaur",
-    "categories": [
-      "Agent development",
-      "Research and search"
-    ],
-    "tags": [
-      "Adobe",
-      "Research prototype"
-    ],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Assist with information-discovery tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:01:51.221Z",
-    "agentbay_url": "https://agentbay.io/?project=95bc446c-c0cc-5bda-b236-a3f2cc88e873#catalog",
-    "github_stars": 362,
-    "github_stars_checked_at": "2026-11-08T10:01:51.221Z",
-    "recommended": false,
-    "preferred_provider": "Adobe"
-  },
-  {
-    "id": "fa1c1495-d416-57a5-8d10-8adbd005f2bd",
-    "name": "Adobe MP-Bench",
-    "description": "Adobe MP-Bench is listed as a project. Its catalogue topics include evaluation workflows.",
-    "type": "Project",
-    "website_url": "https://github.com/adobe-research/multi-agent-eval-bench",
-    "repository_url": "https://github.com/adobe-research/multi-agent-eval-bench",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "Adobe",
-      "Multi-agent systems",
-      "Research benchmark"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:01:51.233Z",
-    "agentbay_url": "https://agentbay.io/?project=fa1c1495-d416-57a5-8d10-8adbd005f2bd#catalog",
-    "github_stars": 2,
-    "github_stars_checked_at": "2026-11-08T10:01:51.233Z",
     "recommended": false,
     "preferred_provider": "Adobe"
   },
@@ -474,37 +390,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "b543f0e5-9428-55b5-a1bc-65e1e7ed7b6b",
-    "name": "Agent Teams AI",
-    "description": "Agent Teams AI is listed as an agent or tool. Its catalogue topics include agent development, software engineering, and data analysis.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/777genius/agent-teams-ai",
-    "repository_url": "https://github.com/777genius/agent-teams-ai",
-    "categories": [
-      "Agent development",
-      "Software development",
-      "Data analysis",
-      "Security and privacy",
-      "Software Development"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Assist with implementation and code-maintenance tasks",
-      "Explore and organize analytical work"
-    ],
-    "license": "AGPL-3.0-only",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:00:16.086Z",
-    "agentbay_url": "https://agentbay.io/?project=b543f0e5-9428-55b5-a1bc-65e1e7ed7b6b#catalog",
-    "github_stars": 2441,
-    "github_stars_checked_at": "2026-11-08T10:00:16.086Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "e198b475-fe59-56a5-aa29-b5759184731f",
     "name": "agent-manager",
     "description": "agent-manager is listed as an agent or tool. Its catalogue topics include software engineering.",
@@ -553,8 +438,8 @@
       "Organize evaluation-related work",
       "Explore integrations with MCP tools"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "LicenseRef-FSL-1.1-Apache-2.0",
+    "license_scope": "Repository default at the reviewed revision: FSL 1.1 permits noncompeting purposes including internal use; preserve notices on redistribution. Apache 2.0 is a future grant after two years, not assumed immediately.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:19:17.534003+00:00",
@@ -816,7 +701,7 @@
       "Explore agent-building workflows",
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
@@ -849,36 +734,6 @@
     "agentbay_url": "https://agentbay.io/?project=6be7f2a8-7b2e-50d0-9cb0-a59e39ecc70a#catalog",
     "github_stars": 2123,
     "github_stars_checked_at": "2026-11-08T10:02:01.280Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "30272c94-c3c7-5dd5-a917-cb52adaa113c",
-    "name": "AgentsMesh",
-    "description": "AgentsMesh is listed as an agent or tool. Its catalogue topics include agent development, software engineering, and monitoring and operations.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/agentsmesh/agentsmesh",
-    "repository_url": "https://github.com/agentsmesh/agentsmesh",
-    "categories": [
-      "Agent development",
-      "Software development",
-      "Monitoring and operations",
-      "Software Development"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Assist with implementation and code-maintenance tasks",
-      "Work with operational monitoring tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:14:41.954505+00:00",
-    "agentbay_url": "https://agentbay.io/?project=30272c94-c3c7-5dd5-a917-cb52adaa113c#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
   },
@@ -1013,63 +868,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "74e802d3-60d9-5621-8be2-6a375f29968a",
-    "name": "AI Health Assistant",
-    "description": "AI Health Assistant is listed as an agent example. Its catalogue topics include project planning, information research, and agent development.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/ahmadvh/ai-agents-for-medical-diagnostics",
-    "repository_url": "https://github.com/ahmadvh/ai-agents-for-medical-diagnostics",
-    "categories": [
-      "Planning and project management",
-      "Research and search",
-      "Agent development",
-      "Finance",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Support project-coordination tasks",
-      "Assist with information-discovery tasks",
-      "Explore agent-building workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:14:45.186380+00:00",
-    "agentbay_url": "https://agentbay.io/?project=74e802d3-60d9-5621-8be2-6a375f29968a#catalog",
-    "github_stars": 380,
-    "github_stars_checked_at": "2026-11-08T10:02:05.159Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "18751fdd-2fcc-5b77-a107-560bb66a347b",
-    "name": "AI Scientist",
-    "description": "AI Scientist is listed as an agent or tool. Its catalogue topics include information research.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/sakanaai/ai-scientist",
-    "repository_url": "https://github.com/sakanaai/ai-scientist",
-    "categories": [
-      "Research and search",
-      "Research"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Assist with information-discovery tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:18:26.243138+00:00",
-    "agentbay_url": "https://agentbay.io/?project=18751fdd-2fcc-5b77-a107-560bb66a347b#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "custom:3ad0b0b6-916b-4854-b05b-4de596c684ca",
     "name": "AI Software Toolkit",
     "description": "AI Software Toolkit is listed as a tool. Its catalogue topics include software engineering and engineering practices.",
@@ -1093,8 +891,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Organize engineering-quality tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:18:15.163013+00:00",
@@ -1156,8 +954,8 @@
       "Organize document-oriented tasks",
       "Explore integrations with agent tools"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:02:08.235Z",
@@ -1552,8 +1350,8 @@
       "Assist with information-discovery tasks",
       "Organize document-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -1562,35 +1360,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "c8a388e4-ee4d-52ce-968a-0a9f4fb14106",
-    "name": "Automated Trading Bot",
-    "description": "Automated Trading Bot is listed as an agent example. Its catalogue topics include document and knowledge workflows, financial workflows, and specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/mingyuj666/stockagent",
-    "repository_url": "https://github.com/mingyuj666/stockagent",
-    "categories": [
-      "Documents and knowledge",
-      "Finance",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore finance-related tasks",
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:17:30.677092+00:00",
-    "agentbay_url": "https://agentbay.io/?project=c8a388e4-ee4d-52ce-968a-0a9f4fb14106#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "474ff70e-09d7-56b2-8914-64d87f345f4f",
@@ -1701,8 +1470,8 @@
       "Organize application-deployment tasks",
       "Explore agent-building workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:04:22.286Z",
@@ -1945,8 +1714,8 @@
     "use_cases": [
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:06:10.159Z",
@@ -2191,8 +1960,8 @@
       "Explore isolated execution workflows",
       "Organize application-deployment tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:05:04.638Z",
@@ -2274,7 +2043,7 @@
       "Assist with implementation and code-maintenance tasks",
       "Explore assistant-oriented tasks"
     ],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
@@ -2337,63 +2106,6 @@
     "agentbay_url": "https://agentbay.io/?project=1e813116-edf3-5b12-9aff-347868e0a80d#catalog",
     "github_stars": null,
     "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "a2d8dbb1-4813-50e3-9ec5-da539e680699",
-    "name": "Content Personalization Agent",
-    "description": "Content Personalization Agent is listed as an agent example. Its catalogue topics include document and knowledge workflows, security and privacy, and audio and speech workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/crosleythomas/mirrorgpt",
-    "repository_url": "https://github.com/crosleythomas/mirrorgpt",
-    "categories": [
-      "Documents and knowledge",
-      "Security and privacy",
-      "Audio and speech",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Assist with security-focused reviews",
-      "Support audio-oriented tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:05:22.959Z",
-    "agentbay_url": "https://agentbay.io/?project=a2d8dbb1-4813-50e3-9ec5-da539e680699#catalog",
-    "github_stars": 159,
-    "github_stars_checked_at": "2026-11-08T10:05:22.959Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "2992e492-eead-5a4d-a102-2abf67e43544",
-    "name": "Cordum",
-    "description": "Cordum is listed as a framework. Its catalogue topics include deployment and cloud operations and agent development.",
-    "type": "Framework",
-    "website_url": "https://github.com/cordum-io/cordum",
-    "repository_url": "https://github.com/cordum-io/cordum",
-    "categories": [
-      "Deployment and cloud",
-      "Frameworks"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize application-deployment tasks",
-      "Explore agent-building workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:05:16.484Z",
-    "agentbay_url": "https://agentbay.io/?project=2992e492-eead-5a4d-a102-2abf67e43544#catalog",
-    "github_stars": 510,
-    "github_stars_checked_at": "2026-11-08T10:05:16.484Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -2818,33 +2530,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "4aa0f0ef-646b-5eec-a9a9-97519da040ca",
-    "name": "Dust",
-    "description": "Dust is listed as a framework. Its catalogue topics include deployment and cloud operations and agent development.",
-    "type": "Framework",
-    "website_url": "https://github.com/dust-tt/dust",
-    "repository_url": "https://github.com/dust-tt/dust",
-    "categories": [
-      "Deployment and cloud",
-      "Frameworks"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize application-deployment tasks",
-      "Explore agent-building workflows"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:15:47.390006+00:00",
-    "agentbay_url": "https://agentbay.io/?project=4aa0f0ef-646b-5eec-a9a9-97519da040ca#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "f26d2d47-a94a-5d2d-8a76-388bf634fdf8",
     "name": "E-commerce Personal Shopper Agent",
     "description": "E-commerce Personal Shopper Agent is listed as an agent example. Its catalogue topics include information research, data analysis, and specialized workflows.",
@@ -2935,35 +2620,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "e0568df8-e513-56a1-ab51-cacea635d891",
-    "name": "Energy Demand Forecasting Agent",
-    "description": "Energy Demand Forecasting Agent is listed as an agent example. Its catalogue topics include information research, data analysis, and specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/yecchen/mirai",
-    "repository_url": "https://github.com/yecchen/mirai",
-    "categories": [
-      "Research and search",
-      "Data analysis",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Assist with information-discovery tasks",
-      "Explore and organize analytical work",
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:19:29.220841+00:00",
-    "agentbay_url": "https://agentbay.io/?project=e0568df8-e513-56a1-ab51-cacea635d891#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "da0867c2-a121-5b1c-9a4c-981304f26175",
     "name": "EvoAgentX",
     "description": "EvoAgentX is listed as an agent or tool. Its catalogue topics include information research, agent development, and deployment and cloud operations.",
@@ -3009,8 +2665,8 @@
       "Assist with information-discovery tasks",
       "Explore topic-specific workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:19:32.611399+00:00",
@@ -3160,35 +2816,6 @@
     "agentbay_url": "https://agentbay.io/?project=4a9791dd-c350-5ed0-bb1c-090d14342520#catalog",
     "github_stars": 5590,
     "github_stars_checked_at": "2026-11-08T10:07:39.125Z",
-    "recommended": false,
-    "preferred_provider": "GitHub"
-  },
-  {
-    "id": "0d53388c-b248-580f-b7a9-7b050c95440d",
-    "name": "GitHub Copilot CLI",
-    "description": "GitHub Copilot CLI is listed as a tool. Its catalogue topics include software engineering.",
-    "type": "Tool",
-    "website_url": "https://github.com/github/copilot-cli",
-    "repository_url": "https://github.com/github/copilot-cli",
-    "categories": [
-      "Software development"
-    ],
-    "tags": [
-      "GitHub",
-      "CLI",
-      "Copilot"
-    ],
-    "use_cases": [
-      "Assist with implementation and code-maintenance tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:07:37.999Z",
-    "agentbay_url": "https://agentbay.io/?project=0d53388c-b248-580f-b7a9-7b050c95440d#catalog",
-    "github_stars": 11380,
-    "github_stars_checked_at": "2026-11-08T10:07:37.999Z",
     "recommended": false,
     "preferred_provider": "GitHub"
   },
@@ -3498,8 +3125,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Assist with security-focused reviews"
     ],
-    "license": "MIT",
-    "license_scope": "repository",
+    "license": "LicenseRef-FSL-1.1-MIT",
+    "license_scope": "Repository default at the reviewed revision: FSL 1.1 permits noncompeting purposes including internal use, education/research and specified professional services. Preserve notices and licence on redistribution; patent termination applies. MIT becomes effective only two years after the software version was made available.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:18:10.633371+00:00",
@@ -3945,8 +3572,8 @@
       "Organize document-oriented tasks",
       "Organize context-related agent workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:09:01.998Z",
@@ -4238,8 +3865,8 @@
       "Explore agent-building workflows",
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "open-source",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
@@ -4280,33 +3907,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "73985590-f553-5f76-9f98-669fb46948fe",
-    "name": "Legal Document Review Assistant",
-    "description": "Legal Document Review Assistant is listed as an agent example. Its catalogue topics include document and knowledge workflows and specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/firica/legalai",
-    "repository_url": "https://github.com/firica/legalai",
-    "categories": [
-      "Documents and knowledge",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:07:04.402Z",
-    "agentbay_url": "https://agentbay.io/?project=73985590-f553-5f76-9f98-669fb46948fe#catalog",
-    "github_stars": 90,
-    "github_stars_checked_at": "2026-11-08T10:07:04.402Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "02ec9698-3bae-5afe-bbfd-6b0671bf4d3c",
     "name": "Letta",
     "description": "Letta is listed as an agent or tool. Its catalogue topics include agent development, document and knowledge workflows, and deployment and cloud operations.",
@@ -4342,31 +3942,6 @@
     "agentbay_url": "https://agentbay.io/?project=02ec9698-3bae-5afe-bbfd-6b0671bf4d3c#catalog",
     "github_stars": 25383,
     "github_stars_checked_at": "2026-11-08T10:10:34.520Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "ab2ec23a-b91b-59bb-a796-04e4fd241f76",
-    "name": "Lina Egyptian Medical Chatbot",
-    "description": "Lina Egyptian Medical Chatbot is listed as an agent example. Its catalogue topics include specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/dina-khalid/lina-egyptian-medical-chatbot",
-    "repository_url": "https://github.com/dina-khalid/lina-egyptian-medical-chatbot",
-    "categories": [
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:06:00.886Z",
-    "agentbay_url": "https://agentbay.io/?project=ab2ec23a-b91b-59bb-a796-04e4fd241f76#catalog",
-    "github_stars": 3,
-    "github_stars_checked_at": "2026-11-08T10:06:00.886Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -4629,8 +4204,8 @@
       "Explore agent-building workflows",
       "Organize repeatable task workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:06:10.149Z",
@@ -4787,8 +4362,8 @@
       "Explore agent-building workflows",
       "Organize document-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:22.496909+00:00",
@@ -4850,8 +4425,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Explore integrations with MCP tools"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-31T03:21:08.978600+00:00",
@@ -5134,35 +4709,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "bc99870a-0faa-5250-9570-7df7c0e5b5af",
-    "name": "Microsoft Agent Framework",
-    "description": "Microsoft Agent Framework is listed as a framework. Its catalogue topics include agent development.",
-    "type": "Framework",
-    "website_url": "https://aka.ms/agent-framework",
-    "repository_url": "https://github.com/microsoft/agent-framework",
-    "categories": [
-      "Agent development"
-    ],
-    "tags": [
-      "Microsoft",
-      "Python",
-      ".NET"
-    ],
-    "use_cases": [
-      "Explore agent-building workflows"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-31T03:21:08.978600+00:00",
-    "agentbay_url": "https://agentbay.io/?project=bc99870a-0faa-5250-9570-7df7c0e5b5af#catalog",
-    "github_stars": 14392,
-    "github_stars_checked_at": "2026-10-31T03:21:08.978600+00:00",
-    "recommended": false,
-    "preferred_provider": "Microsoft"
-  },
-  {
     "id": "7c8184b3-ab75-5630-9963-bf06879571c1",
     "name": "Microsoft Agent Lightning",
     "description": "Microsoft Agent Lightning is listed as a tool. Its catalogue topics include agent development and evaluation workflows.",
@@ -5328,8 +4874,8 @@
       "Organize application-deployment tasks",
       "Explore assistant-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:18:49.451586+00:00",
@@ -5517,8 +5063,8 @@
       "Assist with security-focused reviews",
       "Explore agent-building workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:01:04.572Z",
@@ -5947,8 +5493,8 @@
     "use_cases": [
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
+    "license": "LicenseRef-Publisher-Modified-Apache-2.0-5db0382584",
+    "license_scope": "Repository default at the reviewed revision: Publisher-modified Apache-2.0 text with an explicit use/copy grant. The linked complete publisher terms control; do not substitute an unmodified standard licence. Copyright/patent grant, notice preservation, modified-file notices, trademark exclusions and liability terms apply as written.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:02:22.055Z",
@@ -5979,8 +5525,8 @@
       "Explore and organize analytical work",
       "Assist with security-focused reviews"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "LicenseRef-OpenConnector-Restricted-Apache",
+    "license_scope": "Repository default at the reviewed revision: Published modified Apache terms allow internal, commercial, client and embedded use but require a separate commercial licence for a competing hosted connector service. Earlier versions retain their own terms.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:53.948148+00:00",
@@ -6014,8 +5560,8 @@
       "Assist with security-focused reviews",
       "Work with operational monitoring tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:55.592977+00:00",
@@ -6075,46 +5621,14 @@
       "Assist with implementation and code-maintenance tasks",
       "Organize document-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:09:10.531Z",
     "agentbay_url": "https://agentbay.io/?project=dd684dd3-6c36-5708-b17e-e0dc18d259ee#catalog",
     "github_stars": 282,
     "github_stars_checked_at": "2026-11-08T10:09:10.531Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "efc6fc2b-a7c9-57aa-8e6f-2526edf95bc1",
-    "name": "OpenViking",
-    "description": "OpenViking is listed as an agent or tool. Its catalogue topics include project planning, document and knowledge workflows, and data analysis.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/volcengine/openviking",
-    "repository_url": "https://github.com/volcengine/openviking",
-    "categories": [
-      "Planning and project management",
-      "Documents and knowledge",
-      "Data analysis",
-      "Deployment and cloud",
-      "Memory and context",
-      "Memory - Knowledge Management"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Support project-coordination tasks",
-      "Organize document-oriented tasks",
-      "Explore and organize analytical work"
-    ],
-    "license": "AGPL-3.0-only",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:19:17.533989+00:00",
-    "agentbay_url": "https://agentbay.io/?project=efc6fc2b-a7c9-57aa-8e6f-2526edf95bc1#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
   },
@@ -6341,70 +5855,6 @@
     "preferred_provider": ""
   },
   {
-    "id": "7736d101-fcab-5465-ab45-bd761a2bd6b8",
-    "name": "Phoenix",
-    "description": "Phoenix is listed as an agent or tool. Its catalogue topics include software engineering, document and knowledge workflows, and monitoring and operations.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/arize-ai/phoenix",
-    "repository_url": "https://github.com/arize-ai/phoenix",
-    "categories": [
-      "Software development",
-      "Documents and knowledge",
-      "Monitoring and operations",
-      "Deployment and cloud",
-      "Observability and eval-ops"
-    ],
-    "tags": [
-      "evals",
-      "python"
-    ],
-    "use_cases": [
-      "Assist with implementation and code-maintenance tasks",
-      "Organize document-oriented tasks",
-      "Work with operational monitoring tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:55.800Z",
-    "agentbay_url": "https://agentbay.io/?project=7736d101-fcab-5465-ab45-bd761a2bd6b8#catalog",
-    "github_stars": 12201,
-    "github_stars_checked_at": "2026-11-08T10:02:55.800Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "ad3a34b0-a3b5-5e0c-b4e6-893b8b436c98",
-    "name": "PII Sanitization Agent",
-    "description": "PII Sanitization Agent is listed as an agent example. Its catalogue topics include document and knowledge workflows, security and privacy, and financial workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/teodorofodocrispin-cmyk/trustboost-pii-sanitizer",
-    "repository_url": "https://github.com/teodorofodocrispin-cmyk/trustboost-pii-sanitizer",
-    "categories": [
-      "Documents and knowledge",
-      "Security and privacy",
-      "Finance",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Assist with security-focused reviews",
-      "Explore finance-related tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:18:58.176404+00:00",
-    "agentbay_url": "https://agentbay.io/?project=ad3a34b0-a3b5-5e0c-b4e6-893b8b436c98#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
     "id": "11cd416f-9c47-5795-aad2-35f69f57a566",
     "name": "piia-engram",
     "description": "piia-engram is listed as an agent or tool. Its catalogue topics include software engineering, document and knowledge workflows, and data analysis.",
@@ -6545,8 +5995,8 @@
       "Organize document-oriented tasks",
       "Explore and organize analytical work"
     ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
+    "license": "LicenseRef-Publisher-Modified-Apache-2.0-b75ea3d68f",
+    "license_scope": "Repository default at the reviewed revision: Publisher-modified Apache-2.0 text with an explicit use/copy grant. The linked complete publisher terms control; do not substitute an unmodified standard licence. Copyright/patent grant, notice preservation, modified-file notices, trademark exclusions and liability terms apply as written.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:18:58.176382+00:00",
@@ -6640,8 +6090,8 @@
     "use_cases": [
       "Explore topic-specific workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991288+00:00",
@@ -6678,31 +6128,6 @@
     "agentbay_url": "https://agentbay.io/?project=b923a400-aa87-5c07-b4ec-58f3182ddb9e#catalog",
     "github_stars": 321,
     "github_stars_checked_at": "2026-11-08T10:02:16.516Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "bb3e3c91-6686-55c9-8edf-b787dd600df8",
-    "name": "PyCodeAGI",
-    "description": "PyCodeAGI is listed as an agent or tool. Its catalogue topics include software engineering.",
-    "type": "Agent Or Tool",
-    "website_url": "https://github.com/chakkaradeep/pycodeagi",
-    "repository_url": "https://github.com/chakkaradeep/pycodeagi",
-    "categories": [
-      "Software Development"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Assist with implementation and code-maintenance tasks"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:04:47.106Z",
-    "agentbay_url": "https://agentbay.io/?project=bb3e3c91-6686-55c9-8edf-b787dd600df8#catalog",
-    "github_stars": 184,
-    "github_stars_checked_at": "2026-11-08T10:04:47.106Z",
     "recommended": false,
     "preferred_provider": ""
   },
@@ -6754,7 +6179,7 @@
       "Assist with implementation and code-maintenance tasks"
     ],
     "license": "MIT",
-    "license_scope": "",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:18:09.372606+00:00",
@@ -6853,33 +6278,6 @@
     "agentbay_url": "https://agentbay.io/?project=52c8d653-f9a5-520e-9b77-bcc2ad20ad2b#catalog",
     "github_stars": 6106,
     "github_stars_checked_at": "2026-11-08T10:06:45.509Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "5375c2e6-1068-5ebb-9505-5063ef38a70c",
-    "name": "Real-Time Threat Detection Agent",
-    "description": "Real-Time Threat Detection Agent is listed as an agent example. Its catalogue topics include security and privacy and specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/nvisosecurity/cyber-security-llm-agents",
-    "repository_url": "https://github.com/nvisosecurity/cyber-security-llm-agents",
-    "categories": [
-      "Security and privacy",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Assist with security-focused reviews",
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:17:50.055927+00:00",
-    "agentbay_url": "https://agentbay.io/?project=5375c2e6-1068-5ebb-9505-5063ef38a70c#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
   },
@@ -7111,8 +6509,8 @@
       "Organize document-oriented tasks",
       "Assist with security-focused reviews"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:10:06.739Z",
@@ -7268,35 +6666,6 @@
     "agentbay_url": "https://agentbay.io/?project=1e19602d-3f02-5831-9de3-339a8379f73c#catalog",
     "github_stars": 103,
     "github_stars_checked_at": "2026-11-08T10:01:24.503Z",
-    "recommended": false,
-    "preferred_provider": "Salesforce"
-  },
-  {
-    "id": "95d7c18d-701e-570d-b4c0-c3591a052cf9",
-    "name": "Salesforce CRMArena",
-    "description": "Salesforce CRMArena is listed as a project. Its catalogue topics include evaluation workflows.",
-    "type": "Project",
-    "website_url": "https://github.com/SalesforceAIResearch/CRMArena",
-    "repository_url": "https://github.com/SalesforceAIResearch/CRMArena",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "Salesforce",
-      "CRM",
-      "Research benchmark"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:01:24.396Z",
-    "agentbay_url": "https://agentbay.io/?project=95d7c18d-701e-570d-b4c0-c3591a052cf9#catalog",
-    "github_stars": 157,
-    "github_stars_checked_at": "2026-11-08T10:01:24.396Z",
     "recommended": false,
     "preferred_provider": "Salesforce"
   },
@@ -7509,33 +6878,6 @@
     "agentbay_url": "https://agentbay.io/?project=93fedc5c-2a29-5f33-8396-5c482e4648cc#catalog",
     "github_stars": 312,
     "github_stars_checked_at": "2026-11-08T10:07:05.717Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "ff18466b-defc-547f-8c6f-40615f6de40c",
-    "name": "Self-Driving Delivery Agent",
-    "description": "Self-Driving Delivery Agent is listed as an agent example. Its catalogue topics include information research and specialized workflows.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/sled-group/drivlme",
-    "repository_url": "https://github.com/sled-group/drivlme",
-    "categories": [
-      "Research and search",
-      "🏭 Industry Use Cases"
-    ],
-    "tags": [],
-    "use_cases": [
-      "Assist with information-discovery tasks",
-      "Explore topic-specific workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:18:41.686556+00:00",
-    "agentbay_url": "https://agentbay.io/?project=ff18466b-defc-547f-8c6f-40615f6de40c#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": ""
   },
@@ -7962,8 +7304,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Organize document-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-31T03:21:08.978600+00:00",
@@ -8233,8 +7575,8 @@
     "use_cases": [
       "Explore agent-building workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-11-08T10:08:34.698Z",
@@ -8325,8 +7667,8 @@
       "Explore agent-building workflows",
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:19:05.700514+00:00",
@@ -8385,8 +7727,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Organize document-oriented tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:19:09.965585+00:00",
@@ -8474,8 +7816,8 @@
     "use_cases": [
       "Explore agent-building workflows"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "Apache-2.0",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-23T16:51:21.896263+00:00",
@@ -8513,36 +7855,6 @@
     "agentbay_url": "https://agentbay.io/?project=35ff0336-792e-569d-8bef-df260142223b#catalog",
     "github_stars": 5871,
     "github_stars_checked_at": "2026-10-31T03:21:08.978600+00:00",
-    "recommended": false,
-    "preferred_provider": "Vercel"
-  },
-  {
-    "id": "906208dc-6b11-5036-a68e-fbbb896ce464",
-    "name": "Vercel Remote Agent Browser",
-    "description": "Vercel Remote Agent Browser is listed as a tool. Its catalogue topics include browser workflows and execution environments.",
-    "type": "Tool",
-    "website_url": "https://remote-agent-browser.dev",
-    "repository_url": "https://github.com/vercel-labs/remote-agent-browser",
-    "categories": [
-      "Browser automation",
-      "Sandboxes"
-    ],
-    "tags": [
-      "Vercel",
-      "TypeScript"
-    ],
-    "use_cases": [
-      "Explore browser-oriented automation",
-      "Explore isolated execution workflows"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-23T16:52:14.212243+00:00",
-    "agentbay_url": "https://agentbay.io/?project=906208dc-6b11-5036-a68e-fbbb896ce464#catalog",
-    "github_stars": null,
-    "github_stars_checked_at": null,
     "recommended": false,
     "preferred_provider": "Vercel"
   },
@@ -8768,8 +8080,8 @@
       "Explore agent-building workflows",
       "Assist with implementation and code-maintenance tasks"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "MIT",
+    "license_scope": "repository",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:19:17.533997+00:00",
@@ -8937,8 +8249,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -8965,8 +8277,8 @@
       "Explore game or simulation workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -8975,34 +8287,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "f30c4463-9868-59d0-800b-58d83fadb5b8",
-    "name": "⚖️ Legal Document Analysis Agent",
-    "description": "⚖️ Legal Document Analysis Agent is listed as an agent example. Its catalogue topics include document and knowledge workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/legal_consultant.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=f30c4463-9868-59d0-800b-58d83fadb5b8#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "a46f5a4e-d7d3-5bcb-8e42-6438d7746982",
@@ -9021,8 +8305,8 @@
       "Assist with information-discovery tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9031,146 +8315,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "1e694c84-d2fd-56a1-9f4f-00abf7bd7d53",
-    "name": "🍳 Recipe Creator",
-    "description": "🍳 Recipe Creator is listed as an agent example. Its catalogue topics include everyday tasks and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/recipe_creator.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Life service"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore workflows for everyday tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=1e694c84-d2fd-56a1-9f4f-00abf7bd7d53#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "6522d920-fde4-5fb5-8d5f-1b8e6de429ca",
-    "name": "🎓 Research Scholar Agent",
-    "description": "🎓 Research Scholar Agent is listed as an agent example. Its catalogue topics include information research and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent_exa.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Research and search"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Assist with information-discovery tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=6522d920-fde4-5fb5-8d5f-1b8e6de429ca#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "a1b174b1-19ac-584e-9894-5b1421fbdfbc",
-    "name": "🎥 YouTube Agent",
-    "description": "🎥 YouTube Agent is listed as an agent example. Its catalogue topics include video workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/youtube_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Video creation"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Work with video-oriented tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=a1b174b1-19ac-584e-9894-5b1421fbdfbc#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "1444ef52-9fc8-57da-9ae2-cd6a5d2006e3",
-    "name": "🎨 Multimodal Agent with DALLE and GPT-4V",
-    "description": "🎨 Multimodal Agent with DALLE and GPT-4V is listed as an agent example. Its catalogue topics include image workflows and AutoGen-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_dalle_and_gpt4v.ipynb",
-    "repository_url": "https://github.com/microsoft/autogen",
-    "categories": [
-      "Image generation"
-    ],
-    "tags": [
-      "AutoGen"
-    ],
-    "use_cases": [
-      "Work with image-oriented tasks",
-      "Explore agent patterns associated with AutoGen"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
-    "agentbay_url": "https://agentbay.io/?project=1444ef52-9fc8-57da-9ae2-cd6a5d2006e3#catalog",
-    "github_stars": 61508,
-    "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
-    "recommended": false,
-    "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "6333f7be-bfad-50b5-95d7-06709cae24fe",
-    "name": "🎬 Movie Recommendation Agent",
-    "description": "🎬 Movie Recommendation Agent is listed as an agent example. Its catalogue topics include everyday tasks and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/movie_recommedation.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Life service"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore workflows for everyday tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=6333f7be-bfad-50b5-95d7-06709cae24fe#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "bda4f2d1-c8cf-5340-927b-322135bfef1b",
@@ -9189,8 +8333,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9199,34 +8343,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "2f5e775c-a262-57bb-8d76-d011a9fb41f9",
-    "name": "🏠 MCP Airbnb Agent",
-    "description": "🏠 MCP Airbnb Agent is listed as an agent example. Its catalogue topics include everyday tasks and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/airbnb_mcp.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Life service"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore workflows for everyday tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=2f5e775c-a262-57bb-8d76-d011a9fb41f9#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "dd920c4b-3570-54ca-a73e-25696dce4185",
@@ -9245,40 +8361,12 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
     "agentbay_url": "https://agentbay.io/?project=dd920c4b-3570-54ca-a73e-25696dce4185#catalog",
-    "github_stars": 61508,
-    "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
-    "recommended": false,
-    "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "1cc1fde1-030f-5eb8-ad49-2c3200696f3e",
-    "name": "📊 AgentEval: Multi-Agent Assessment System",
-    "description": "📊 AgentEval: Multi-Agent Assessment System is listed as an agent example. Its catalogue topics include evaluation workflows and AutoGen-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/microsoft/autogen/blob/0.2/notebook/agenteval_cq_math.ipynb",
-    "repository_url": "https://github.com/microsoft/autogen",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "AutoGen"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work",
-      "Explore agent patterns associated with AutoGen"
-    ],
-    "license": "",
-    "license_scope": "",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
-    "agentbay_url": "https://agentbay.io/?project=1cc1fde1-030f-5eb8-ad49-2c3200696f3e#catalog",
     "github_stars": 61508,
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
@@ -9303,8 +8391,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9313,34 +8401,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "8b12bda0-9947-504b-97ce-4965817a608f",
-    "name": "📊 Finance Agent (Thinking)",
-    "description": "📊 Finance Agent (Thinking) is listed as an agent example. Its catalogue topics include financial workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/thinking_finance_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Finance"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore finance-related tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=8b12bda0-9947-504b-97ce-4965817a608f#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "34f3264d-9e86-5937-8cdb-bdad5477977b",
@@ -9359,8 +8419,8 @@
       "Explore and organize analytical work",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9387,8 +8447,8 @@
       "Work with operational monitoring tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9415,8 +8475,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9425,34 +8485,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "c72ff77d-98f2-5c4c-ae09-c587b4f9a117",
-    "name": "📚 Book Recommendation Agent",
-    "description": "📚 Book Recommendation Agent is listed as an agent example. Its catalogue topics include everyday tasks and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/book_recommendation.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Life service"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore workflows for everyday tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=c72ff77d-98f2-5c4c-ae09-c587b4f9a117#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "f101c518-9917-583e-b538-3ff5a28b53ca",
@@ -9471,8 +8503,8 @@
       "Organize document-oriented tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9481,62 +8513,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "a0bc7041-63a5-5a85-ba23-cdc066cec236",
-    "name": "📚 Study Partner",
-    "description": "📚 Study Partner is listed as an agent example. Its catalogue topics include learning workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/study_partner.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Education"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize learning-related tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=a0bc7041-63a5-5a85-ba23-cdc066cec236#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "b07919e1-1572-5281-94fc-a39e79290496",
-    "name": "🔁 Extraction with Retries",
-    "description": "🔁 Extraction with Retries is listed as an agent example. Its catalogue topics include data analysis and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/extraction/retries.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Data analysis"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Explore and organize analytical work",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=b07919e1-1572-5281-94fc-a39e79290496#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "b1005c79-a170-55c7-99a9-e991d4cea571",
@@ -9555,8 +8531,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9583,8 +8559,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9611,8 +8587,8 @@
       "Support audio-oriented tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9621,34 +8597,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "1d37be27-463b-53ce-9bd7-da42188d5d1f",
-    "name": "🔍 Media Trend Analysis Agent",
-    "description": "🔍 Media Trend Analysis Agent is listed as an agent example. Its catalogue topics include social-media workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/media_trend_analysis_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Social media"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize social-media tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=1d37be27-463b-53ce-9bd7-da42188d5d1f#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "b749780e-d9b4-5e1c-ac3f-ed3eb2e80c7b",
@@ -9667,8 +8615,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9695,8 +8643,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9723,8 +8671,8 @@
       "Work with image-oriented tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9751,8 +8699,8 @@
       "Work with image-oriented tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9761,118 +8709,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "14632e10-aed2-5a3f-8e27-7aa6e238a8e4",
-    "name": "🛍️ Shopping Partner Agent",
-    "description": "🛍️ Shopping Partner Agent is listed as an agent example. Its catalogue topics include everyday tasks and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/shopping_partner.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Life service"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore workflows for everyday tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=14632e10-aed2-5a3f-8e27-7aa6e238a8e4#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "4b3a9889-4d0a-5a51-830d-ac6f24b21312",
-    "name": "🤔 DeepKnowledge",
-    "description": "🤔 DeepKnowledge is listed as an agent example. Its catalogue topics include document and knowledge workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/deep_knowledge.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=4b3a9889-4d0a-5a51-830d-ac6f24b21312#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "98c42589-7fd3-5699-b8a9-7bba79485f8d",
-    "name": "🤖 Agentic RAG",
-    "description": "🤖 Agentic RAG is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_agentic_rag.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=98c42589-7fd3-5699-b8a9-7bba79485f8d#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "5a50ac03-6d1a-59cf-8aed-941932e4942a",
-    "name": "🤖 Agno Assist Agent",
-    "description": "🤖 Agno Assist Agent is listed as an agent example. Its catalogue topics include customer-support workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_assist.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Customer support"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize customer-support tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=5a50ac03-6d1a-59cf-8aed-941932e4942a#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "af8029bb-534c-5dd6-81b5-32882c1d57e7",
@@ -9891,8 +8727,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -9901,90 +8737,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "fd24d074-509a-55ee-8dee-8d2fbbbb0101",
-    "name": "🤖 Chatbot Simulation Evaluation",
-    "description": "🤖 Chatbot Simulation Evaluation is listed as an agent example. Its catalogue topics include evaluation workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=fd24d074-509a-55ee-8dee-8d2fbbbb0101#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "e6593992-1c22-5345-b62a-86c824c0ec93",
-    "name": "🤖 Readme Generator Agent",
-    "description": "🤖 Readme Generator Agent is listed as an agent example. Its catalogue topics include software engineering and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/readme_generator.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Software development"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Assist with implementation and code-maintenance tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=e6593992-1c22-5345-b62a-86c824c0ec93#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "339f0e88-e8b0-5fde-8d06-6eff7362bc29",
-    "name": "🤖 Support Agent",
-    "description": "🤖 Support Agent is listed as an agent example. Its catalogue topics include customer-support workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_support_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Customer support"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Organize customer-support tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=339f0e88-e8b0-5fde-8d06-6eff7362bc29#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "59258d3e-f6b8-51b5-b4fc-316a8e982b56",
@@ -10003,8 +8755,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10013,34 +8765,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "cf073e0e-adfc-560d-b985-309e1efd11a5",
-    "name": "🤝 Multi-Agent Collaboration",
-    "description": "🤝 Multi-Agent Collaboration is listed as an agent example. Its catalogue topics include agent development and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/multi-agent-collaboration.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Agent development"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=cf073e0e-adfc-560d-b985-309e1efd11a5#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "c78922ab-0f84-562a-8d2f-19ca289d5ef5",
@@ -10059,8 +8783,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10087,8 +8811,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10117,8 +8841,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10127,118 +8851,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "fdba6367-34de-5eef-8594-d75f3e2a0aed",
-    "name": "🧑‍💼 Customer Support Agent",
-    "description": "🧑‍💼 Customer Support Agent is listed as an agent example. Its catalogue topics include customer-support workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/customer-support/customer-support.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Customer support"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize customer-support tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=fdba6367-34de-5eef-8594-d75f3e2a0aed#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "c03efd1b-b4fe-55c2-8d10-f7c397107e71",
-    "name": "🧠 Adaptive RAG",
-    "description": "🧠 Adaptive RAG is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=c03efd1b-b4fe-55c2-8d10-f7c397107e71#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "aef7f513-3a56-5ef0-abc9-0f4ade0683ce",
-    "name": "🧠 Adaptive RAG (Local)",
-    "description": "🧠 Adaptive RAG (Local) is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag_local.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=aef7f513-3a56-5ef0-abc9-0f4ade0683ce#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "0cc536d0-1889-50ff-804a-a62ae70fb549",
-    "name": "🧠 Code Assistant with LangGraph",
-    "description": "🧠 Code Assistant with LangGraph is listed as an agent example. Its catalogue topics include software engineering and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/code_assistant/langgraph_code_assistant.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Software development"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Assist with implementation and code-maintenance tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=0cc536d0-1889-50ff-804a-a62ae70fb549#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "4ecd81cc-bc08-5987-b4a9-f193e9406ff0",
@@ -10257,8 +8869,8 @@
       "Assist with implementation and code-maintenance tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10267,314 +8879,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "2463831d-7b22-5ac6-80fc-94e35b1973a8",
-    "name": "🧠 Corrective RAG (CRAG)",
-    "description": "🧠 Corrective RAG (CRAG) is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_crag.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=2463831d-7b22-5ac6-80fc-94e35b1973a8#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "9f7fd395-a8ff-5ba0-82c0-cd8c1ec20224",
-    "name": "🧠 Financial Reasoning Agent",
-    "description": "🧠 Financial Reasoning Agent is listed as an agent example. Its catalogue topics include financial workflows and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/reasoning_finance_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Finance"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Explore finance-related tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=9f7fd395-a8ff-5ba0-82c0-cd8c1ec20224#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "7fc96bc6-b186-53b0-ac50-b74b8ad8b06f",
-    "name": "🧠 Hierarchical Agent Teams",
-    "description": "🧠 Hierarchical Agent Teams is listed as an agent example. Its catalogue topics include agent development and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/hierarchical_agent_teams.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Agent development"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=7fc96bc6-b186-53b0-ac50-b74b8ad8b06f#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "ad13de0d-cbfd-519d-a465-6dd5711eb5b3",
-    "name": "🧠 Information Gathering via Prompting",
-    "description": "🧠 Information Gathering via Prompting is listed as an agent example. Its catalogue topics include information research and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbots/information-gather-prompting.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Research and search"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Assist with information-discovery tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=ad13de0d-cbfd-519d-a465-6dd5711eb5b3#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "8c8c57c3-8645-588a-b147-00227ef6ae9d",
-    "name": "🧠 Multi-Agent Workflow (Supervisor)",
-    "description": "🧠 Multi-Agent Workflow (Supervisor) is listed as an agent example. Its catalogue topics include agent development and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Agent development"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Explore agent-building workflows",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=8c8c57c3-8645-588a-b147-00227ef6ae9d#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "48805eae-cdad-5bff-954b-792cfc8ce42c",
-    "name": "🧠 Plan-and-Execute Agent",
-    "description": "🧠 Plan-and-Execute Agent is listed as an agent example. Its catalogue topics include project planning and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/plan-and-execute/plan-and-execute.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Planning and project management"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Support project-coordination tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=48805eae-cdad-5bff-954b-792cfc8ce42c#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "c32988d7-d032-541b-b10d-5b815ff7d266",
-    "name": "🧠 Reflection Agent",
-    "description": "🧠 Reflection Agent is listed as an agent example. Its catalogue topics include evaluation workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflection/reflection.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=c32988d7-d032-541b-b10d-5b815ff7d266#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "1bc5c6d0-0df8-5740-bd5d-db297657306f",
-    "name": "🧠 Reflexion Agent",
-    "description": "🧠 Reflexion Agent is listed as an agent example. Its catalogue topics include evaluation workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflexion/reflexion.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Testing and evaluation"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize evaluation-related work",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=1bc5c6d0-0df8-5740-bd5d-db297657306f#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "dfaa1083-9884-5a51-ae49-c54d302e4bbd",
-    "name": "🧠 Research Agent",
-    "description": "🧠 Research Agent is listed as an agent example. Its catalogue topics include information research and Agno-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent.py",
-    "repository_url": "https://github.com/agno-agi/agno",
-    "categories": [
-      "Research and search"
-    ],
-    "tags": [
-      "Agno"
-    ],
-    "use_cases": [
-      "Assist with information-discovery tasks",
-      "Explore agent patterns associated with Agno"
-    ],
-    "license": "Apache-2.0",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:02:02.218Z",
-    "agentbay_url": "https://agentbay.io/?project=dfaa1083-9884-5a51-ae49-c54d302e4bbd#catalog",
-    "github_stars": 43102,
-    "github_stars_checked_at": "2026-11-08T10:02:02.218Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "8a0b21d8-58ce-5931-9563-d49ae9bdefae",
-    "name": "🧠 Self-RAG",
-    "description": "🧠 Self-RAG is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=8a0b21d8-58ce-5931-9563-d49ae9bdefae#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
-  },
-  {
-    "id": "39bbbb76-306b-5fa5-b22c-8d93ddc9b59f",
-    "name": "🧠 Self-RAG (Local)",
-    "description": "🧠 Self-RAG (Local) is listed as an agent example. Its catalogue topics include document and knowledge workflows and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag_local.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Documents and knowledge"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Organize document-oriented tasks",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=39bbbb76-306b-5fa5-b22c-8d93ddc9b59f#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "562f65bc-c2c7-5eeb-9c2f-e69b43809f52",
@@ -10593,8 +8897,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10621,8 +8925,8 @@
       "Support project-coordination tasks",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",
@@ -10631,34 +8935,6 @@
     "github_stars_checked_at": "2026-10-21T14:37:40.642Z",
     "recommended": false,
     "preferred_provider": "Microsoft"
-  },
-  {
-    "id": "8a1b1bf4-98e1-543b-a414-b1d76ae88561",
-    "name": "🧠 SQL Agent",
-    "description": "🧠 SQL Agent is listed as an agent example. Its catalogue topics include data analysis and LangGraph-related agent work.",
-    "type": "Agent Example",
-    "website_url": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/sql-agent.ipynb",
-    "repository_url": "https://github.com/langchain-ai/langgraph",
-    "categories": [
-      "Data analysis"
-    ],
-    "tags": [
-      "LangGraph"
-    ],
-    "use_cases": [
-      "Explore and organize analytical work",
-      "Explore agent patterns associated with LangGraph"
-    ],
-    "license": "MIT",
-    "license_scope": "repository",
-    "listing_scope": "direct_list",
-    "repository_archived": false,
-    "repository_status_checked_at": "2026-11-08T10:10:24.679Z",
-    "agentbay_url": "https://agentbay.io/?project=8a1b1bf4-98e1-543b-a414-b1d76ae88561#catalog",
-    "github_stars": 44642,
-    "github_stars_checked_at": "2026-11-08T10:10:24.679Z",
-    "recommended": false,
-    "preferred_provider": ""
   },
   {
     "id": "cdc8ccf4-ea34-5178-ad5a-f7e2acfb4d4f",
@@ -10677,8 +8953,8 @@
       "Explore agent-building workflows",
       "Explore agent patterns associated with AutoGen"
     ],
-    "license": "",
-    "license_scope": "",
+    "license": "CC-BY-4.0",
+    "license_scope": "Repository default at the reviewed revision: NVIDIA CC BY 4.0 text reviewed against the standard operative clauses; differences are paragraph labels and the CC0 notice for the licence text.",
     "listing_scope": "direct_list",
     "repository_archived": false,
     "repository_status_checked_at": "2026-10-22T02:17:29.991259+00:00",

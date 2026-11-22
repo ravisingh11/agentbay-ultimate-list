@@ -224,6 +224,68 @@ class MaintenanceTests(unittest.TestCase):
             self.assertIn('Companion Google Apps Script code uses MIT', entry['license_scope'])
             self.assertIn('Attribution', entry['license_scope'])
 
+    def test_catalogue_license_review_covers_the_base_and_binds_retained_terms(self):
+        root = SCRIPT.parent.parent
+        audit = catalog.read_json(root/'data/catalogue-license-review-2026-11-22.json')
+        decisions = audit['decisions']
+        current = {r['id']: r for r in catalog.read_json(root/'catalog.json')}
+        policy = catalog.read_json(root/'data/curation.json')
+        excluded = {r['id'] for r in policy['exclusions']}
+        self.assertEqual(len(decisions), 22949)
+        self.assertEqual(len({r['id'] for r in decisions}), len(decisions))
+        retained = {r['id'] for r in decisions if r['decision'] == 'retain'}
+        self.assertEqual(retained - excluded, set(current) & {r['id'] for r in decisions})
+        self.assertEqual(len(retained), audit['counts']['retained'])
+        self.assertEqual(sum(r['decision'] == 'exclude' for r in decisions), audit['counts']['excluded'])
+        for entry in decisions:
+            with self.subTest(id=entry['id']):
+                if entry['decision'] == 'exclude':
+                    self.assertIn(entry['id'], excluded)
+                    self.assertNotIn(entry['id'], current)
+                    continue
+                self.assertTrue(entry['license'])
+                self.assertRegex(entry['commit'], r'^[a-f0-9]{40}$')
+                self.assertTrue(entry['grants'])
+                for grant in entry['grants']:
+                    self.assertRegex(grant['blob'], r'^[a-f0-9]{40}$')
+                    self.assertIn('/blob/'+entry['commit']+'/', grant['url'])
+
+    def test_license_withdrawals_and_restricted_terms_survive_upstream_update(self):
+        root = SCRIPT.parent.parent
+        policy = catalog.read_json(root/'data/curation.json')
+        audit = catalog.read_json(root/'data/catalogue-license-review-2026-11-22.json')
+        withdrawn = next(r['id'] for r in audit['decisions'] if r['decision'] == 'exclude')
+        current = catalog.read_json(root/'catalog.json')
+        restricted = next(r for r in current if 'Snowflake-Skills-Service-Only' in r['license'])
+        incoming = [{**r, 'license': 'MIT', 'license_scope': 'repository'}
+                    if r['id'] == restricted['id'] else r for r in current]
+        incoming.append(row(withdrawn))
+        applied = {r['id']: r for r in catalog.apply_curation(incoming, policy)}
+        self.assertNotIn(withdrawn, applied)
+        self.assertEqual(applied[restricted['id']]['license'], restricted['license'])
+        self.assertEqual(applied[restricted['id']]['license_scope'], restricted['license_scope'])
+        self.assertIn('prohibited', restricted['license_scope'])
+
+    def test_historical_source_absence_still_requires_an_explicit_exclusion(self):
+        disabled = catalog.read_json(SCRIPT.parent.parent/'data/disabled-skills.json')['skills']
+        exact = next(r for r in disabled if r.get('replacement', {}).get('kind') == 'exact')
+        with tempfile.TemporaryDirectory() as directory:
+            root = pathlib.Path(directory)
+            (root/'data').mkdir()
+            (root/catalog.CURATION).write_bytes(catalog.json_bytes(curation()))
+            (root/catalog.POLICY).write_bytes(catalog.json_bytes(catalog.PREFERRED_PROVIDERS))
+            (root/'data/disabled-skills.json').write_bytes(catalog.json_bytes({'skills': [exact]}))
+            with self.assertRaisesRegex(ValueError, 'Exact replacement missing'):
+                catalog.build_outputs([], {}, {}, root)
+            src = exact['replacement']
+            url = 'https://github.com/'+src['repository']+'/blob/'+src['commit']+'/'+src['path']
+            exclusion = {'id': 'withdrawn', 'reason': 'Published skill terms could not be verified.',
+                         'evidence': [{'url': url, 'checked_at': '2026-11-22', 'note': 'Licence scope review.'}]}
+            (root/catalog.CURATION).write_bytes(catalog.json_bytes(curation(exclusions=[exclusion])))
+            output, _ = catalog.build_outputs([], {}, {}, root)
+            self.assertIn('Catalogue exclusion', output['skills/disabled.md'].decode())
+            self.assertIn('Identical skill at original source', output['skills/disabled.md'].decode())
+
     def test_write_refuses_symlink_before_changing_outputs(self):
         with tempfile.TemporaryDirectory() as directory:
             root = pathlib.Path(directory)
@@ -237,6 +299,7 @@ class MaintenanceTests(unittest.TestCase):
         root = SCRIPT.parent.parent
         disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
         skills = catalog.read_json(root/'skills/catalog.json')
+        excluded_sources = catalog.excluded_source_reasons(root)
         restored = [r for r in disabled if r.get('replacement', {}).get('kind') == 'exact']
         related = [r for r in disabled if r.get('replacement', {}).get('kind') == 'related']
         self.assertEqual(len(restored), 7)
@@ -245,7 +308,8 @@ class MaintenanceTests(unittest.TestCase):
             source = entry['replacement']
             self.assertEqual(entry['old_blob'], source['blob'])
             url = 'https://github.com/'+source['repository']+'/blob/'+source['commit']+'/'+source['path']
-            self.assertEqual(sum(row['website_url'] == url for row in skills), 1)
+            expected = 0 if (source['repository'].casefold(), source['path']) in excluded_sources else 1
+            self.assertEqual(sum(row['website_url'] == url for row in skills), expected)
         for entry in related:
             self.assertNotEqual(entry['old_blob'], entry['replacement']['blob'])
             self.assertIn('Proprietary', entry['replacement']['license_notice'])
@@ -260,6 +324,7 @@ class MaintenanceTests(unittest.TestCase):
         root = SCRIPT.parent.parent
         disabled = catalog.read_json(root/'data/disabled-skills.json')['skills']
         skills = catalog.read_json(root/'skills/catalog.json')
+        excluded_sources = catalog.excluded_source_reasons(root)
         reviews = [row['review'] for row in disabled if row.get('review')]
         self.assertEqual(len(reviews), 269)
         counts = {status: sum(r['status'] == status for r in reviews)
@@ -269,7 +334,7 @@ class MaintenanceTests(unittest.TestCase):
         for review in reviews:
             if review['status'] == 'available':
                 source = review['source']
-                expected = 0 if review.get('license_notice') else 1
+                expected = 0 if review.get('license_notice') or (source['repository'].casefold(), source['path']) in excluded_sources else 1
                 self.assertEqual(keys.count((source['repository'].casefold(), source['path'])), expected)
             if review['status'] == 'invalid':
                 source = review['source']
